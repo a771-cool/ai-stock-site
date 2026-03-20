@@ -1,5 +1,5 @@
 ﻿window.STOCK_AI_DATA = {
-    "generatedAt":  "2026-03-20 21:55:05 +08:00",
+    "generatedAt":  "2026-03-20 22:42:54 +08:00",
     "sourceCsv":  "D:\\twstock_full_system\\V18\\data\\dashboard_data.csv",
     "marketMode":  "NEUTRAL",
     "marketHeat":  -0.0043,
