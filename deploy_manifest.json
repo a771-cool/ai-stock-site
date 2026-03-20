@@ -1,0 +1,11 @@
+﻿{
+    "generatedAt":  "2026-03-20 09:26:16 +08:00",
+    "siteTitle":  "AI Stock Hosted Site",
+    "homepage":  "index.html",
+    "v18Page":  "v18_dashboard.html",
+    "dataFiles":  [
+                      "data/dashboard_data.js",
+                      "data/backtest_data.js",
+                      "data/intraday_overlay.js"
+                  ]
+}
