@@ -985,17 +985,21 @@ function renderBacktest() {
                     </div>
                 </summary>
                 <div class="stock-fold-body">
-                    <div class="stock-subtitle">選進日期 ${item.pickDate} | ${item.code} | ${item.ticker}</div>
+                    <div class="stock-subtitle">選進日期 ${item.pickDate} | ${item.ticker}</div>
                     <div class="price-strip">
-                        <div class="price-box"><span>進場價格</span><strong>${formatNumber(item.entryPrice)}</strong></div>
+                        <div class="price-box"><span>目前報酬</span><strong class="${returnClass(item.retLatest)}">${formatPercent(item.retLatest)}</strong></div>
                         <div class="price-box"><span>5日報酬</span><strong class="${returnClass(item.ret5d)}">${formatPercent(item.ret5d)}</strong></div>
                         <div class="price-box"><span>20日報酬</span><strong class="${returnClass(item.ret20d)}">${formatPercent(item.ret20d)}</strong></div>
                     </div>
                     <div class="meta-grid">
-                        <div class="meta-chip"><span>20日最高</span><strong>${formatNumber(item.maxHigh20d)}</strong></div>
-                        <div class="meta-chip"><span>20日最低</span><strong>${formatNumber(item.minLow20d)}</strong></div>
+                        <div class="meta-chip"><span>進場價格</span><strong>${formatNumber(item.entryPrice)}</strong></div>
                         <div class="meta-chip"><span>目標價</span><strong>${formatNumber(item.target)}</strong></div>
                         <div class="meta-chip"><span>支撐價</span><strong>${formatNumber(item.support)}</strong></div>
+                        <div class="meta-chip"><span>20日最高</span><strong>${formatNumber(item.maxHigh20d)}</strong></div>
+                    </div>
+                    <div class="history-grid">
+                        <div class="meta-chip"><span>20日最低</span><strong>${formatNumber(item.minLow20d)}</strong></div>
+                        <div class="meta-chip"><span>代碼</span><strong>${item.code}</strong></div>
                     </div>
                     <div class="outcome-row">${getOutcomePills(item)}</div>
                 </div>
@@ -1049,6 +1053,7 @@ document.getElementById("searchInput").addEventListener("input", event => {
 </script>
 </body>
 </html>
+
 
 
 
