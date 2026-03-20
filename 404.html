@@ -1,0 +1,1029 @@
+﻿<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AI 選股工具</title>
+<style>
+:root {
+    --bg: #f4efe6;
+    --panel: rgba(255, 252, 246, 0.88);
+    --ink: #182028;
+    --muted: #5b6670;
+    --line: rgba(24, 32, 40, 0.1);
+    --accent: #0f766e;
+    --accent-soft: rgba(15, 118, 110, 0.12);
+    --buy: #0f766e;
+    --watch: #b7791f;
+    --safe: #b91c1c;
+    --shadow: 0 24px 60px rgba(24, 32, 40, 0.12);
+}
+
+* { box-sizing: border-box; }
+html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+}
+body {
+    margin: 0;
+    min-height: 100svh;
+    overflow-x: hidden;
+    font-family: "Noto Sans TC", "Microsoft JhengHei", "PingFang TC", sans-serif;
+    color: var(--ink);
+    background:
+        radial-gradient(circle at top left, rgba(250, 204, 21, 0.22), transparent 28%),
+        radial-gradient(circle at top right, rgba(15, 118, 110, 0.2), transparent 26%),
+        linear-gradient(180deg, #fcf7ee 0%, #f2ece2 100%);
+}
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    background-image:
+        linear-gradient(rgba(24, 32, 40, 0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(24, 32, 40, 0.03) 1px, transparent 1px);
+    background-size: 22px 22px;
+    mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), transparent);
+}
+.shell {
+    position: relative;
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 20px 16px 40px;
+    width: 100%;
+}
+.hero {
+    padding: 24px;
+    border-radius: 28px;
+    background: linear-gradient(135deg, rgba(255, 250, 241, 0.95), rgba(247, 240, 228, 0.92));
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+}
+.hero::after {
+    content: "";
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    right: -70px;
+    top: -40px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(15, 118, 110, 0.18), transparent 70%);
+}
+.eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 12px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+}
+h1 {
+    margin: 16px 0 8px;
+    font-size: clamp(30px, 7vw, 52px);
+    line-height: 1.05;
+}
+.hero-copy {
+    margin: 0;
+    max-width: 720px;
+    color: var(--muted);
+    font-size: 15px;
+    line-height: 1.7;
+}
+.action-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 12px;
+    margin-top: 18px;
+}
+.action-btn {
+    border: 0;
+    border-radius: 999px;
+    padding: 12px 18px;
+    background: var(--accent);
+    color: #fffaf1;
+    font-size: 14px;
+    font-weight: 800;
+}
+.action-btn[disabled] { opacity: 0.6; }
+.action-status {
+    color: var(--muted);
+    font-size: 13px;
+}
+.summary-grid, .top-grid, .stock-grid, .compare-grid {
+    display: grid;
+    gap: 14px;
+}
+.summary-grid {
+    margin-top: 20px;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.summary-card, .top-card, .stock-card, .toolbar, .empty {
+    background: var(--panel);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.75);
+    box-shadow: var(--shadow);
+}
+.summary-card {
+    padding: 16px;
+    border-radius: 20px;
+}
+.summary-label {
+    color: var(--muted);
+    font-size: 12px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+.summary-value {
+    margin-top: 8px;
+    font-size: 24px;
+    font-weight: 800;
+}
+.section { margin-top: 22px; }
+.section-head {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+.section-title {
+    margin: 0;
+    font-size: 22px;
+}
+.section-note {
+    color: var(--muted);
+    font-size: 13px;
+}
+.top-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.top-card, .stock-card, .compare-card {
+    border-radius: 24px;
+    padding: 18px;
+}
+.top-card {
+    position: relative;
+    overflow: hidden;
+}
+.top-card.buy {
+    background: linear-gradient(180deg, rgba(15, 118, 110, 0.12), rgba(255, 252, 246, 0.88));
+}
+.top-card.watch {
+    background: linear-gradient(180deg, rgba(183, 121, 31, 0.14), rgba(255, 252, 246, 0.88));
+}
+.top-card.safe {
+    background: linear-gradient(180deg, rgba(185, 28, 28, 0.12), rgba(255, 252, 246, 0.88));
+}
+.top-card::before {
+    content: "";
+    position: absolute;
+    right: 16px;
+    top: 16px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--safe);
+    box-shadow: 0 0 0 6px rgba(185, 28, 28, 0.12);
+}
+.top-card.buy::before {
+    background: var(--buy);
+    box-shadow: 0 0 0 6px rgba(15, 118, 110, 0.12);
+}
+.top-card.watch::before {
+    background: var(--watch);
+    box-shadow: 0 0 0 6px rgba(183, 121, 31, 0.12);
+}
+.top-card.safe::before {
+    background: var(--safe);
+    box-shadow: 0 0 0 6px rgba(185, 28, 28, 0.12);
+}
+.rank-badge {
+    display: inline-flex;
+    width: 34px;
+    height: 34px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: rgba(24, 32, 40, 0.92);
+    color: #fffaf1;
+    font-weight: 800;
+}
+.stock-title {
+    margin-top: 12px;
+    font-size: 22px;
+    font-weight: 800;
+}
+.stock-subtitle {
+    margin-top: 4px;
+    color: var(--muted);
+    font-size: 14px;
+}
+.price-strip, .meta-grid {
+    display: grid;
+    gap: 10px;
+    margin-top: 16px;
+}
+.price-strip { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.meta-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.price-box, .meta-chip {
+    padding: 12px;
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid var(--line);
+}
+.price-box span, .meta-chip span {
+    display: block;
+    color: var(--muted);
+    font-size: 12px;
+}
+.price-box strong, .meta-chip strong {
+    display: block;
+    margin-top: 6px;
+    font-size: 18px;
+}
+.toolbar {
+    position: sticky;
+    top: 12px;
+    z-index: 10;
+    padding: 14px;
+    border-radius: 22px;
+}
+.search {
+    width: 100%;
+    border: 1px solid var(--line);
+    border-radius: 16px;
+    padding: 14px 16px;
+    font-size: 16px;
+    background: rgba(255, 255, 255, 0.82);
+    color: var(--ink);
+}
+.filter-row {
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+    padding-top: 12px;
+}
+.filter-btn {
+    border: 0;
+    border-radius: 999px;
+    padding: 10px 14px;
+    white-space: nowrap;
+    background: rgba(24, 32, 40, 0.08);
+    color: var(--ink);
+    font-size: 14px;
+    font-weight: 700;
+}
+.filter-btn.active {
+    background: var(--ink);
+    color: #fffaf1;
+}
+.stock-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.stock-card[data-signal="強力買入"] { border-top: 6px solid var(--buy); }
+.stock-card[data-signal="觀察"] { border-top: 6px solid var(--watch); }
+.stock-card[data-signal="保守"] { border-top: 6px solid var(--safe); }
+.card-head {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    align-items: start;
+}
+.signal-pill {
+    padding: 8px 12px;
+    border-radius: 999px;
+    font-size: 13px;
+    font-weight: 800;
+    color: #fff;
+}
+.signal-pill.buy { background: var(--buy); }
+.signal-pill.watch { background: var(--watch); }
+.signal-pill.safe { background: var(--safe); }
+.stock-card {
+    padding: 0;
+    overflow: hidden;
+}
+.stock-card > :not(.stock-fold) {
+    padding: 18px;
+}
+.stock-fold {
+    border-radius: inherit;
+}
+.stock-fold summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    list-style: none;
+    padding: 18px;
+    cursor: pointer;
+}
+.stock-fold summary::-webkit-details-marker { display: none; }
+.stock-fold summary:focus {
+    outline: none;
+}
+.stock-fold summary::after {
+    content: "展開";
+    flex: 0 0 auto;
+    padding: 7px 12px;
+    border-radius: 999px;
+    background: rgba(24, 32, 40, 0.08);
+    color: var(--muted);
+    font-size: 12px;
+    font-weight: 800;
+}
+.stock-fold[open] summary::after { content: "收合"; }
+.stock-fold-body {
+    padding: 0 18px 18px;
+}
+.stock-fold-title {
+    font-size: 22px;
+    font-weight: 800;
+}
+.stock-fold-subtitle {
+    margin-top: 4px;
+    color: var(--muted);
+    font-size: 14px;
+}
+.stock-fold-price {
+    text-align: right;
+}
+.stock-fold-price span {
+    display: block;
+    color: var(--muted);
+    font-size: 12px;
+}
+.stock-fold-price strong {
+    display: block;
+    margin-top: 4px;
+    font-size: 20px;
+}
+.signal-line {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+.signal-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--safe);
+    box-shadow: 0 0 0 4px rgba(185, 28, 28, 0.12);
+}
+.signal-dot.buy {
+    background: var(--buy);
+    box-shadow: 0 0 0 4px rgba(15, 118, 110, 0.12);
+}
+.signal-dot.watch {
+    background: var(--watch);
+    box-shadow: 0 0 0 4px rgba(183, 121, 31, 0.12);
+}
+.signal-dot.safe {
+    background: var(--safe);
+    box-shadow: 0 0 0 4px rgba(185, 28, 28, 0.12);
+}
+.outcome-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 14px;
+}
+.outcome-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 12px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 800;
+    background: rgba(24, 32, 40, 0.08);
+    color: var(--ink);
+}
+.outcome-pill.hit {
+    background: rgba(15, 118, 110, 0.14);
+    color: var(--buy);
+}
+.outcome-pill.break {
+    background: rgba(185, 28, 28, 0.14);
+    color: var(--safe);
+}
+.outcome-pill.wait {
+    background: rgba(183, 121, 31, 0.14);
+    color: var(--watch);
+}
+.ret-up { color: var(--buy); }
+.ret-down { color: var(--safe); }
+.ret-flat { color: var(--muted); }
+.tiny-note {
+    margin-top: 12px;
+    color: var(--muted);
+    font-size: 12px;
+    line-height: 1.6;
+}
+.compare-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.compare-card {
+    background: var(--panel);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.75);
+    box-shadow: var(--shadow);
+}
+.compare-card h3 {
+    margin: 0 0 14px;
+    font-size: 18px;
+}
+.compare-list {
+    display: grid;
+    gap: 10px;
+}
+.compare-row {
+    display: grid;
+    gap: 10px;
+    padding: 12px;
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid var(--line);
+}
+.compare-label {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    font-weight: 800;
+}
+.compare-mini {
+    display: grid;
+    gap: 8px;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.compare-mini div {
+    color: var(--muted);
+    font-size: 12px;
+}
+.compare-mini strong {
+    display: block;
+    margin-top: 4px;
+    color: var(--ink);
+    font-size: 16px;
+}
+.metric-bar {
+    width: 100%;
+    height: 8px;
+    overflow: hidden;
+    border-radius: 999px;
+    background: rgba(24, 32, 40, 0.08);
+}
+.metric-fill {
+    height: 100%;
+    border-radius: inherit;
+    background: var(--buy);
+}
+.metric-fill.watch {
+    background: var(--watch);
+}
+.metric-fill.safe {
+    background: var(--safe);
+}
+.empty {
+    display: none;
+    margin-top: 14px;
+    padding: 20px;
+    border-radius: 20px;
+    color: var(--muted);
+    text-align: center;
+}
+@media (max-width: 860px) {
+    .top-grid, .stock-grid, .compare-grid { grid-template-columns: 1fr; }
+}
+@media (max-width: 768px) {
+    body {
+        background: linear-gradient(180deg, #fcf7ee 0%, #f2ece2 100%);
+    }
+    body::before {
+        display: none;
+    }
+    .summary-card,
+    .top-card,
+    .stock-card,
+    .toolbar,
+    .empty,
+    .compare-card {
+        backdrop-filter: none;
+        -webkit-backdrop-filter: none;
+        box-shadow: 0 10px 24px rgba(24, 32, 40, 0.08);
+    }
+    .hero::after {
+        display: none;
+    }
+}
+@media (max-width: 640px) {
+    .shell { padding: 14px 12px 32px; }
+    .hero, .summary-card, .top-card, .stock-card, .toolbar { border-radius: 20px; }
+    .summary-grid, .meta-grid, .price-strip { grid-template-columns: 1fr; }
+    .summary-value { font-size: 22px; }
+    .toolbar {
+        position: static;
+    }
+    .stock-fold summary {
+        align-items: flex-start;
+    }
+    .stock-fold summary::after {
+        margin-top: 2px;
+    }
+    .section-head {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+}
+</style>
+</head>
+<body>
+<main class="shell">
+    <section class="hero">
+        <div class="eyebrow">AI 選股營運頁</div>
+        <h1>手機可看的 AI 選股工具</h1>
+        <p class="hero-copy">整合 V18 收盤選股、盤中快速刷新、回測摘要與手機端查看。盤中更新只覆蓋候選股即時價格，不改變每日正式模型基底。</p>
+        <div class="action-row">
+            <button id="refreshButton" class="action-btn" type="button">盤中快速更新</button>
+            <div id="refreshStatus" class="action-status">待機中</div>
+        </div>
+        <div class="summary-grid" id="summaryGrid"></div>
+    </section>
+
+    <section class="section">
+        <div class="section-head">
+            <h2 class="section-title">Top 3 候選</h2>
+            <div class="section-note" id="generatedAt"></div>
+        </div>
+        <div class="top-grid" id="topGrid"></div>
+    </section>
+
+    <section class="section">
+        <div class="toolbar">
+            <input id="searchInput" class="search" type="search" placeholder="搜尋股票代號或名稱">
+            <div class="filter-row" id="filterRow"></div>
+        </div>
+        <div class="section-head">
+            <h2 class="section-title">全部候選股</h2>
+            <div class="section-note" id="resultCount"></div>
+        </div>
+        <div class="stock-grid" id="stockGrid"></div>
+        <div class="empty" id="emptyState">目前沒有符合條件的股票，請調整搜尋或篩選條件。</div>
+    </section>
+
+    <section class="section">
+        <div class="section-head">
+            <h2 class="section-title">回測摘要</h2>
+            <div class="section-note" id="backtestRange"></div>
+        </div>
+        <div class="summary-grid" id="backtestSummaryGrid"></div>
+        <div class="toolbar" style="margin-top:14px;">
+            <div class="filter-row" id="backtestFilterRow"></div>
+        </div>
+        <div class="section-head">
+            <h2 class="section-title">回測分組統計</h2>
+            <div class="section-note">依 pool 與訊號比較績效</div>
+        </div>
+        <div class="compare-grid">
+            <article class="compare-card">
+                <h3>依訊號比較</h3>
+                <div class="compare-list" id="backtestSignalCompare"></div>
+            </article>
+            <article class="compare-card">
+                <h3>依 Pool 比較</h3>
+                <div class="compare-list" id="backtestPoolCompare"></div>
+            </article>
+        </div>
+        <div class="section-head">
+            <h2 class="section-title">最近回測紀錄</h2>
+            <div class="section-note" id="backtestGeneratedAt"></div>
+        </div>
+        <div class="stock-grid" id="backtestGrid"></div>
+        <div class="empty" id="backtestEmpty">目前沒有可顯示的回測資料。</div>
+    </section>
+</main>
+
+<script src="./data/dashboard_data.js"></script>
+<script src="./data/backtest_data.js"></script>
+<script src="./data/intraday_overlay.js"></script>
+<script>
+const data = window.STOCK_AI_DATA || { generatedAt: "", marketMode: "", marketHeat: null, summary: {}, topPicks: [], stocks: [] };
+const backtest = window.STOCK_AI_BACKTEST || { generatedAt: "", summary: {}, recentRecords: [] };
+const intraday = window.STOCK_AI_INTRADAY || { generatedAt: "", count: 0, byCode: {} };
+
+const filters = [
+    { key: "all", label: "全部" },
+    { key: "strong_buy", label: "強力買入" },
+    { key: "watch", label: "觀察" },
+    { key: "conservative", label: "保守" }
+];
+const backtestFilters = [
+    { key: "all", label: "全部回測" },
+    { key: "strong_buy", label: "強力買入" },
+    { key: "watch", label: "觀察" },
+    { key: "conservative", label: "保守" }
+];
+
+let activeFilter = "all";
+let activeBacktestFilter = "all";
+let keyword = "";
+const hasHttpOrigin = window.location.protocol === "http:" || window.location.protocol === "https:";
+let apiEnabled = false;
+
+function formatNumber(value, digits = 2) {
+    if (value === null || value === undefined || Number.isNaN(Number(value))) return "--";
+    return Number(value).toFixed(digits).replace(/\.00$/, "").replace(/(\.\d*[1-9])0$/, "$1");
+}
+
+function formatPercent(value) {
+    if (value === null || value === undefined || Number.isNaN(Number(value))) return "--";
+    return `${Number(value).toFixed(2).replace(/\.00$/, "").replace(/(\.\d*[1-9])0$/, "$1")}%`;
+}
+
+function signalClass(signalKey) {
+    if (signalKey === "strong_buy") return "buy";
+    if (signalKey === "watch") return "watch";
+    return "safe";
+}
+
+function signalLabel(signalKey) {
+    if (signalKey === "strong_buy") return "強力買入";
+    if (signalKey === "watch") return "觀察";
+    return "保守";
+}
+
+function returnClass(value) {
+    const number = Number(value);
+    if (Number.isNaN(number)) return "ret-flat";
+    if (number > 0) return "ret-up";
+    if (number < 0) return "ret-down";
+    return "ret-flat";
+}
+
+function getOutcomePills(item) {
+    const pills = [];
+    if (item.targetHit20d === true) pills.push('<span class="outcome-pill hit">已達標</span>');
+    else if (item.targetHit20d === false) pills.push('<span class="outcome-pill wait">未達標</span>');
+    if (item.supportBreak20d === true) pills.push('<span class="outcome-pill break">跌破支撐</span>');
+    else if (item.supportBreak20d === false) pills.push('<span class="outcome-pill hit">未破支撐</span>');
+    return pills.join("");
+}
+
+function clampPercent(value) {
+    const number = Number(value);
+    if (Number.isNaN(number)) return 0;
+    return Math.max(0, Math.min(100, Math.abs(number)));
+}
+
+function metricTone(value, inverse = false) {
+    const number = Number(value);
+    if (Number.isNaN(number)) return "watch";
+    if (inverse) {
+        if (number <= 20) return "buy";
+        if (number <= 40) return "watch";
+        return "safe";
+    }
+    if (number >= 60) return "buy";
+    if (number >= 35) return "watch";
+    return "safe";
+}
+
+function applyIntradayOverlay() {
+    const byCode = intraday?.byCode || {};
+    const overlayStock = stock => {
+        const code = (stock?.code || "").trim();
+        const overlay = byCode[code];
+        if (!overlay) return stock;
+        return {
+            ...stock,
+            latestPrice: overlay.latestPrice ?? stock.latestPrice,
+            targetPrice: overlay.targetPrice ?? stock.targetPrice,
+            supportPrice: overlay.supportPrice ?? stock.supportPrice,
+            potentialPct: overlay.potentialPct ?? stock.potentialPct,
+            rr: overlay.rr ?? stock.rr,
+            distanceToSupportPct: overlay.distanceToSupportPct ?? stock.distanceToSupportPct,
+            intradayUpdated: true
+        };
+    };
+    data.topPicks = (data.topPicks || []).map(overlayStock);
+    data.stocks = (data.stocks || []).map(overlayStock);
+}
+
+function renderSummary() {
+    const cards = [
+        { label: "市場模式", value: data.marketMode || "--" },
+        { label: "市場熱度", value: formatNumber(data.marketHeat, 4) },
+        { label: "強力買入", value: data.summary?.strongBuyCount ?? 0 },
+        { label: "候選總數", value: data.summary?.totalCount ?? 0 }
+    ];
+    document.getElementById("summaryGrid").innerHTML = cards.map(card => `
+        <article class="summary-card">
+            <div class="summary-label">${card.label}</div>
+            <div class="summary-value">${card.value}</div>
+        </article>
+    `).join("");
+
+    const intradayNote = intraday?.generatedAt ? ` | 盤中更新: ${intraday.generatedAt}` : "";
+    document.getElementById("generatedAt").textContent = data.generatedAt ? `資料時間: ${data.generatedAt}${intradayNote}` : intradayNote.replace(" | ", "");
+}
+
+function renderTopPicks() {
+    document.getElementById("topGrid").innerHTML = (data.topPicks || []).map((stock, index) => `
+        <article class="top-card ${signalClass(stock.signalKey)}">
+            <div class="rank-badge">${index + 1}</div>
+            <div class="stock-title">${stock.code} ${stock.name}</div>
+            <div class="stock-subtitle">
+                <span class="signal-line">
+                    <span class="signal-dot ${signalClass(stock.signalKey)}"></span>
+                    <span>${signalLabel(stock.signalKey)}</span>
+                </span>
+                | RR ${formatNumber(stock.rr)} | Top ${formatNumber(stock.topScore, 0)}
+            </div>
+            <div class="price-strip">
+                <div class="price-box"><span>最新價格</span><strong>${formatNumber(stock.latestPrice)}</strong></div>
+                <div class="price-box"><span>支撐價格</span><strong>${formatNumber(stock.supportPrice)}</strong></div>
+                <div class="price-box"><span>預測可達價格</span><strong>${formatNumber(stock.targetPrice)}</strong></div>
+            </div>
+            <div class="outcome-row">
+                <span class="outcome-pill ${signalClass(stock.signalKey) === "safe" ? "break" : signalClass(stock.signalKey) === "watch" ? "wait" : "hit"}">潛在空間 ${formatPercent(stock.potentialPct)}</span>
+                <span class="outcome-pill ${stock.rr >= 3 ? "hit" : stock.rr >= 2 ? "wait" : "break"}">風報比 ${formatNumber(stock.rr)}</span>
+            </div>
+        </article>
+    `).join("");
+}
+
+function renderFilters() {
+    const filterRow = document.getElementById("filterRow");
+    filterRow.innerHTML = filters.map(filter => `
+        <button class="filter-btn ${activeFilter === filter.key ? "active" : ""}" data-filter="${filter.key}">${filter.label}</button>
+    `).join("");
+    filterRow.querySelectorAll(".filter-btn").forEach(button => {
+        button.addEventListener("click", () => {
+            activeFilter = button.dataset.filter;
+            renderFilters();
+            renderStocks();
+        });
+    });
+}
+
+function getVisibleStocks() {
+    return (data.stocks || []).filter(stock => {
+        const matchesFilter = activeFilter === "all" || stock.signalKey === activeFilter;
+        const haystack = `${stock.code} ${stock.name}`.toLowerCase();
+        const matchesKeyword = !keyword || haystack.includes(keyword);
+        return matchesFilter && matchesKeyword;
+    });
+}
+
+function renderStocks() {
+    const visibleStocks = getVisibleStocks();
+    document.getElementById("resultCount").textContent = `顯示 ${visibleStocks.length} / ${data.summary?.totalCount ?? visibleStocks.length} 檔`;
+    document.getElementById("stockGrid").innerHTML = visibleStocks.map(stock => `
+        <article class="stock-card" data-signal="${signalLabel(stock.signalKey)}">
+            <details class="stock-fold">
+                <summary>
+                    <div>
+                        <div class="stock-fold-title">${stock.code} ${stock.name}</div>
+                        <div class="stock-fold-subtitle">
+                            <span class="signal-line">
+                                <span class="signal-dot ${signalClass(stock.signalKey)}"></span>
+                                <span>${signalLabel(stock.signalKey)}</span>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="stock-fold-price">
+                        <span>最新價</span>
+                        <strong>${formatNumber(stock.latestPrice)}</strong>
+                    </div>
+                </summary>
+                <div class="stock-fold-body">
+                    <div class="stock-subtitle">Top ${formatNumber(stock.topScore, 0)} | Rank ${formatNumber(stock.rankScore, 0)} | 建議部位 ${formatNumber(stock.positionPct, 0)}%</div>
+                    <div class="price-strip">
+                        <div class="price-box"><span>最新價格</span><strong>${formatNumber(stock.latestPrice)}</strong></div>
+                        <div class="price-box"><span>支撐價格</span><strong>${formatNumber(stock.supportPrice)}</strong></div>
+                        <div class="price-box"><span>預測可達價格</span><strong>${formatNumber(stock.targetPrice)}</strong></div>
+                    </div>
+                    <div class="meta-grid">
+                        <div class="meta-chip"><span>潛在空間</span><strong>${formatPercent(stock.potentialPct)}</strong></div>
+                        <div class="meta-chip"><span>風報比 RR</span><strong>${formatNumber(stock.rr)}</strong></div>
+                        <div class="meta-chip"><span>距支撐幅度</span><strong>${formatPercent(stock.distanceToSupportPct)}</strong></div>
+                        <div class="meta-chip"><span>市場模式</span><strong>${stock.marketMode || "--"}</strong></div>
+                    </div>
+                    <div class="tiny-note">AI 分數 ${formatNumber(stock.aiScore)} | Pred5D ${formatNumber(stock.pred5dScore)} | 籌碼趨勢 ${formatNumber(stock.chipTrendScore)}${stock.intradayUpdated ? " | 已套用盤中即時價" : ""}</div>
+                </div>
+            </details>
+        </article>
+    `).join("");
+    document.getElementById("emptyState").style.display = visibleStocks.length ? "none" : "block";
+}
+
+function renderBacktestFilters() {
+    const row = document.getElementById("backtestFilterRow");
+    row.innerHTML = backtestFilters.map(filter => `
+        <button class="filter-btn ${activeBacktestFilter === filter.key ? "active" : ""}" data-backtest-filter="${filter.key}">${filter.label}</button>
+    `).join("");
+    row.querySelectorAll(".filter-btn").forEach(button => {
+        button.addEventListener("click", () => {
+            activeBacktestFilter = button.dataset.backtestFilter;
+            renderBacktestFilters();
+            renderBacktest();
+        });
+    });
+}
+
+function getVisibleBacktestRows() {
+    return (backtest.recentRecords || []).filter(item => activeBacktestFilter === "all" || item.signalKey === activeBacktestFilter);
+}
+
+function renderCompareRows(containerId, rows, emptyText) {
+    const container = document.getElementById(containerId);
+    if (!rows.length) {
+        container.innerHTML = `<div class="tiny-note">${emptyText}</div>`;
+        return;
+    }
+    container.innerHTML = rows.map(item => `
+        <div class="compare-row">
+            <div class="compare-label">
+                <span>${item.label}</span>
+                <span>${item.totalPicks ?? 0} 筆</span>
+            </div>
+            <div class="compare-mini">
+                <div>5日平均報酬<strong class="${returnClass(item.avgRet5d)}">${formatPercent(item.avgRet5d)}</strong></div>
+                <div>20日平均報酬<strong class="${returnClass(item.avgRet20d)}">${formatPercent(item.avgRet20d)}</strong></div>
+                <div>
+                    目標命中率
+                    <strong>${formatPercent(item.targetHitRate20d)}</strong>
+                    <div class="metric-bar"><div class="metric-fill ${metricTone(item.targetHitRate20d)}" style="width:${clampPercent(item.targetHitRate20d)}%"></div></div>
+                </div>
+                <div>
+                    跌破支撐率
+                    <strong>${formatPercent(item.supportBreakRate20d)}</strong>
+                    <div class="metric-bar"><div class="metric-fill ${metricTone(item.supportBreakRate20d, true)}" style="width:${clampPercent(item.supportBreakRate20d)}%"></div></div>
+                </div>
+            </div>
+        </div>
+    `).join("");
+}
+
+async function updateRefreshStatus() {
+    const statusEl = document.getElementById("refreshStatus");
+    if (!apiEnabled) {
+        statusEl.textContent = hasHttpOrigin ? "靜態網站查看模式" : "iCloud 靜態查看模式";
+        return;
+    }
+    try {
+        const response = await fetch("/api/status", { cache: "no-store" });
+        const payload = await response.json();
+        if (payload.running) statusEl.textContent = `更新中 (${payload.mode || "intraday"})`;
+        else if (payload.lastResult === "success") statusEl.textContent = `上次成功: ${payload.lastFinish || "--"}`;
+        else if (payload.lastResult === "error") statusEl.textContent = `上次失敗: ${payload.lastMessage || "unknown"}`;
+        else statusEl.textContent = "待機中";
+    } catch {
+        statusEl.textContent = "狀態讀取失敗";
+    }
+}
+
+async function runIntradayUpdate() {
+    const button = document.getElementById("refreshButton");
+    const statusEl = document.getElementById("refreshStatus");
+    if (!apiEnabled) {
+        statusEl.textContent = "此版本僅供查看，盤中更新請改用本機伺服器版";
+        return;
+    }
+    button.disabled = true;
+    statusEl.textContent = "更新中...";
+    try {
+        const response = await fetch("/api/update", { method: "POST" });
+        const payload = await response.json();
+        if (!response.ok) throw new Error(payload.lastMessage || "Update failed");
+        statusEl.textContent = "更新完成，重新載入中...";
+        window.location.reload();
+    } catch (error) {
+        statusEl.textContent = error.message || "更新失敗";
+    } finally {
+        button.disabled = false;
+    }
+}
+
+function renderBacktest() {
+    const summary = backtest.summary || {};
+    const cards = [
+        { label: "回測筆數", value: summary.totalPicks ?? 0 },
+        { label: "5日平均報酬", value: formatPercent(summary.avgRet5d) },
+        { label: "20日平均報酬", value: formatPercent(summary.avgRet20d) },
+        { label: "5日勝率", value: formatPercent(summary.winRate5d) },
+        { label: "20日勝率", value: formatPercent(summary.winRate20d) },
+        { label: "20日目標命中率", value: formatPercent(summary.targetHitRate20d) },
+        { label: "20日跌破支撐率", value: formatPercent(summary.supportBreakRate20d) },
+        { label: "目前平均報酬", value: formatPercent(summary.avgRetLatest) }
+    ];
+    document.getElementById("backtestSummaryGrid").innerHTML = cards.map(card => `
+        <article class="summary-card">
+            <div class="summary-label">${card.label}</div>
+            <div class="summary-value">${card.value}</div>
+        </article>
+    `).join("");
+    document.getElementById("backtestRange").textContent = summary.dateFrom && summary.dateTo ? `${summary.dateFrom} 至 ${summary.dateTo}` : "";
+    document.getElementById("backtestGeneratedAt").textContent = backtest.generatedAt ? `回測時間: ${backtest.generatedAt}` : "";
+
+    renderCompareRows(
+        "backtestSignalCompare",
+        (backtest.summaryBySignal || []).map(item => ({ ...item, label: item.signalLabel || signalLabel(item.signalKey || "conservative") })),
+        "尚未產生依訊號分組的回測統計。"
+    );
+    renderCompareRows(
+        "backtestPoolCompare",
+        (backtest.summaryByPool || []).map(item => ({ ...item, label: item.pool || "未分類" })),
+        "尚未產生依 pool 分組的回測統計。"
+    );
+
+    const rows = getVisibleBacktestRows();
+    document.getElementById("backtestGrid").innerHTML = rows.map(item => `
+        <article class="stock-card">
+            <details class="stock-fold">
+                <summary>
+                    <div>
+                        <div class="stock-fold-title">${item.code} ${item.name}</div>
+                        <div class="stock-fold-subtitle">
+                            <span class="signal-line">
+                                <span class="signal-dot ${signalClass(item.signalKey || "conservative")}"></span>
+                                <span>${item.signalLabel || signalLabel(item.signalKey || "conservative")}</span>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="stock-fold-price">
+                        <span>目前報酬</span>
+                        <strong class="${returnClass(item.retLatest)}">${formatPercent(item.retLatest)}</strong>
+                    </div>
+                </summary>
+                <div class="stock-fold-body">
+                    <div class="stock-subtitle">選進日期 ${item.pickDate} | ${item.code} | ${item.ticker}</div>
+                    <div class="price-strip">
+                        <div class="price-box"><span>進場價格</span><strong>${formatNumber(item.entryPrice)}</strong></div>
+                        <div class="price-box"><span>5日報酬</span><strong class="${returnClass(item.ret5d)}">${formatPercent(item.ret5d)}</strong></div>
+                        <div class="price-box"><span>20日報酬</span><strong class="${returnClass(item.ret20d)}">${formatPercent(item.ret20d)}</strong></div>
+                    </div>
+                    <div class="meta-grid">
+                        <div class="meta-chip"><span>20日最高</span><strong>${formatNumber(item.maxHigh20d)}</strong></div>
+                        <div class="meta-chip"><span>20日最低</span><strong>${formatNumber(item.minLow20d)}</strong></div>
+                        <div class="meta-chip"><span>目標價</span><strong>${formatNumber(item.target)}</strong></div>
+                        <div class="meta-chip"><span>支撐價</span><strong>${formatNumber(item.support)}</strong></div>
+                    </div>
+                    <div class="outcome-row">${getOutcomePills(item)}</div>
+                </div>
+            </details>
+        </article>
+    `).join("");
+    document.getElementById("backtestEmpty").style.display = rows.length ? "none" : "block";
+}
+
+async function initRefreshUi() {
+    const button = document.getElementById("refreshButton");
+    const statusEl = document.getElementById("refreshStatus");
+
+    if (!hasHttpOrigin) {
+        button.style.display = "none";
+        statusEl.textContent = "iCloud 靜態查看模式";
+        return;
+    }
+
+    try {
+        const response = await fetch("./api/status", { cache: "no-store" });
+        if (!response.ok) {
+            throw new Error("api unavailable");
+        }
+        await response.json();
+        apiEnabled = true;
+    } catch {
+        button.style.display = "none";
+        statusEl.textContent = "靜態網站查看模式";
+        return;
+    }
+
+    button.addEventListener("click", runIntradayUpdate);
+    await updateRefreshStatus();
+}
+
+document.getElementById("searchInput").addEventListener("input", event => {
+    keyword = event.target.value.trim().toLowerCase();
+    renderStocks();
+});
+(async () => {
+    await initRefreshUi();
+    applyIntradayOverlay();
+    renderSummary();
+    renderTopPicks();
+    renderFilters();
+    renderStocks();
+    renderBacktestFilters();
+    renderBacktest();
+})();
+</script>
+</body>
+</html>
+

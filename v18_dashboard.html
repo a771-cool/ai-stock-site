@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AI選股 V21</title>
+<style>
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "PingFang TC", "Microsoft JhengHei", Arial, sans-serif;
+    background: #0f0f0f;
+    color: white;
+    margin: 0;
+    padding: 16px;
+}
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+h1 {
+    margin: 0 0 8px 0;
+    font-size: 30px;
+}
+.sub {
+    color: #9a9a9a;
+    font-size: 14px;
+    margin-bottom: 18px;
+}
+.section-title {
+    font-size: 22px;
+    font-weight: 800;
+    margin: 22px 0 12px 0;
+}
+.top-card {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: linear-gradient(135deg, #1e1e1e, #141414);
+    border: 1px solid #2e2e2e;
+    border-radius: 18px;
+    padding: 14px;
+    margin-bottom: 12px;
+}
+.top-rank {
+    font-size: 28px;
+    width: 44px;
+    text-align: center;
+}
+.top-main {
+    flex: 1;
+}
+.top-stock {
+    font-size: 22px;
+    font-weight: 800;
+    margin-bottom: 6px;
+}
+.top-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    color: #d9d9d9;
+    font-size: 15px;
+}
+.badge {
+    display: inline-block;
+    background: #171f2c;
+    color: #8cc8ff;
+    border: 1px solid #274264;
+    border-radius: 12px;
+    padding: 6px 10px;
+    font-size: 13px;
+    margin-right: 8px;
+}
+.card {
+    background: #151515;
+    border-radius: 18px;
+    padding: 14px;
+    margin-bottom: 14px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+}
+.card.green {
+    border-left: 6px solid #12d18e;
+}
+.card.yellow {
+    border-left: 6px solid #f5c542;
+}
+.card.red {
+    border-left: 6px solid #ff5a5a;
+}
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+.stock {
+    font-size: 24px;
+    font-weight: 800;
+}
+.signal {
+    font-size: 14px;
+    font-weight: 800;
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+}
+.item {
+    background: #101010;
+    border-radius: 12px;
+    padding: 10px 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    font-size: 16px;
+}
+.item span {
+    color: #b9b9b9;
+}
+.potential {
+    color: #ff6b6b;
+}
+.rr {
+    color: #3dff9f;
+}
+.score {
+    color: #8cc8ff;
+}
+.empty {
+    color: #888;
+    background: #141414;
+    border-radius: 14px;
+    padding: 12px;
+}
+@media (max-width: 640px) {
+    body {
+        padding: 14px;
+    }
+    h1 {
+        font-size: 26px;
+    }
+    .section-title {
+        font-size: 20px;
+    }
+    .stock {
+        font-size: 22px;
+    }
+    .grid {
+        grid-template-columns: 1fr;
+    }
+    .item {
+        font-size: 17px;
+    }
+    .card-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .top-stock {
+        font-size: 20px;
+    }
+}
+</style>
+</head>
+<body>
+<div class="container">
+    <h1>AI選股 V21</h1>
+    <div class="sub">市場模式：NEUTRAL　市場溫度：-0.0043</div>
+
+    <div class="section-title">🔥 AI 今日 Top 3</div>
+    
+    <div class="top-card">
+        <div class="top-rank">1️⃣</div>
+        <div class="top-main">
+            <div class="top-stock">6226 光鼎</div>
+            <div class="top-meta">
+                <span>Rank分數 356</span>
+                <span>Top分數 318</span>
+                <span>RR 1.78</span>
+                <span>潛力 5.4%</span>
+                <span>建議部位 8%</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="top-card">
+        <div class="top-rank">2️⃣</div>
+        <div class="top-main">
+            <div class="top-stock">2399 映泰</div>
+            <div class="top-meta">
+                <span>Rank分數 355</span>
+                <span>Top分數 325</span>
+                <span>RR 3.69</span>
+                <span>潛力 11.1%</span>
+                <span>建議部位 15%</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="top-card">
+        <div class="top-rank">3️⃣</div>
+        <div class="top-main">
+            <div class="top-stock">4906 正文</div>
+            <div class="top-meta">
+                <span>Rank分數 333</span>
+                <span>Top分數 325</span>
+                <span>RR 5.78</span>
+                <span>潛力 17.3%</span>
+                <span>建議部位 15%</span>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="section-title">🟢 強力買入</div>
+    
+    <div class="card green">
+        <div class="card-header">
+            <div class="stock">2399 映泰</div>
+            <div class="signal">🟢 強力買入</div>
+        </div>
+
+        <div class="grid">
+            <div class="item"><span>現價</span><strong>37.2</strong></div>
+            <div class="item"><span>支撐</span><strong>36.08</strong></div>
+            <div class="item"><span>AI目標</span><strong>41.33</strong></div>
+            <div class="item"><span>潛力</span><strong class="potential">11.1%</strong></div>
+            <div class="item"><span>RR</span><strong class="rr">3.69</strong></div>
+            <div class="item"><span>Top分數</span><strong class="score">325</strong></div>
+            <div class="item"><span>建議部位</span><strong>15%</strong></div>
+            <div class="item"><span>市場模式</span><strong>NEUTRAL</strong></div>
+        </div>
+    </div>
+
+    <div class="card green">
+        <div class="card-header">
+            <div class="stock">4906 正文</div>
+            <div class="signal">🟢 強力買入</div>
+        </div>
+
+        <div class="grid">
+            <div class="item"><span>現價</span><strong>34.75</strong></div>
+            <div class="item"><span>支撐</span><strong>33.71</strong></div>
+            <div class="item"><span>AI目標</span><strong>40.76</strong></div>
+            <div class="item"><span>潛力</span><strong class="potential">17.3%</strong></div>
+            <div class="item"><span>RR</span><strong class="rr">5.78</strong></div>
+            <div class="item"><span>Top分數</span><strong class="score">325</strong></div>
+            <div class="item"><span>建議部位</span><strong>15%</strong></div>
+            <div class="item"><span>市場模式</span><strong>NEUTRAL</strong></div>
+        </div>
+    </div>
+
+    <div class="card green">
+        <div class="card-header">
+            <div class="stock">4967 十銓</div>
+            <div class="signal">🟢 強力買入</div>
+        </div>
+
+        <div class="grid">
+            <div class="item"><span>現價</span><strong>261.5</strong></div>
+            <div class="item"><span>支撐</span><strong>253.66</strong></div>
+            <div class="item"><span>AI目標</span><strong>293.72</strong></div>
+            <div class="item"><span>潛力</span><strong class="potential">12.3%</strong></div>
+            <div class="item"><span>RR</span><strong class="rr">4.11</strong></div>
+            <div class="item"><span>Top分數</span><strong class="score">325</strong></div>
+            <div class="item"><span>建議部位</span><strong>15%</strong></div>
+            <div class="item"><span>市場模式</span><strong>NEUTRAL</strong></div>
+        </div>
+    </div>
+
+    <div class="card green">
+        <div class="card-header">
+            <div class="stock">6672 騰輝電子-KY</div>
+            <div class="signal">🟢 強力買入</div>
+        </div>
+
+        <div class="grid">
+            <div class="item"><span>現價</span><strong>123</strong></div>
+            <div class="item"><span>支撐</span><strong>119.31</strong></div>
+            <div class="item"><span>AI目標</span><strong>136.69</strong></div>
+            <div class="item"><span>潛力</span><strong class="potential">11.1%</strong></div>
+            <div class="item"><span>RR</span><strong class="rr">3.71</strong></div>
+            <div class="item"><span>Top分數</span><strong class="score">316</strong></div>
+            <div class="item"><span>建議部位</span><strong>15%</strong></div>
+            <div class="item"><span>市場模式</span><strong>NEUTRAL</strong></div>
+        </div>
+    </div>
+
+    <div class="card green">
+        <div class="card-header">
+            <div class="stock">2369 菱生</div>
+            <div class="signal">🟢 強力買入</div>
+        </div>
+
+        <div class="grid">
+            <div class="item"><span>現價</span><strong>35.75</strong></div>
+            <div class="item"><span>支撐</span><strong>34.68</strong></div>
+            <div class="item"><span>AI目標</span><strong>40.02</strong></div>
+            <div class="item"><span>潛力</span><strong class="potential">11.9%</strong></div>
+            <div class="item"><span>RR</span><strong class="rr">3.99</strong></div>
+            <div class="item"><span>Top分數</span><strong class="score">316</strong></div>
+            <div class="item"><span>建議部位</span><strong>15%</strong></div>
+            <div class="item"><span>市場模式</span><strong>NEUTRAL</strong></div>
+        </div>
+    </div>
+
+    <div class="card green">
+        <div class="card-header">
+            <div class="stock">1809 中釉</div>
+            <div class="signal">🟢 強力買入</div>
+        </div>
+
+        <div class="grid">
+            <div class="item"><span>現價</span><strong>32.45</strong></div>
+            <div class="item"><span>支撐</span><strong>31.48</strong></div>
+            <div class="item"><span>AI目標</span><strong>35.18</strong></div>
+            <div class="item"><span>潛力</span><strong class="potential">8.4%</strong></div>
+            <div class="item"><span>RR</span><strong class="rr">2.81</strong></div>
+            <div class="item"><span>Top分數</span><strong class="score">316</strong></div>
+            <div class="item"><span>建議部位</span><strong>15%</strong></div>
+            <div class="item"><span>市場模式</span><strong>NEUTRAL</strong></div>
+        </div>
+    </div>
+
+    <div class="card green">
+        <div class="card-header">
+            <div class="stock">2495 普安</div>
+            <div class="signal">🟢 強力買入</div>
+        </div>
+
+        <div class="grid">
+            <div class="item"><span>現價</span><strong>39.3</strong></div>
+            <div class="item"><span>支撐</span><strong>38.12</strong></div>
+            <div class="item"><span>AI目標</span><strong>43.92</strong></div>
+            <div class="item"><span>潛力</span><strong class="potential">11.8%</strong></div>
+            <div class="item"><span>RR</span><strong class="rr">3.92</strong></div>
+            <div class="item"><span>Top分數</span><strong class="score">316</strong></div>
+            <div class="item"><span>建議部位</span><strong>15%</strong></div>
+            <div class="item"><span>市場模式</span><strong>NEUTRAL</strong></div>
+        </div>
+    </div>
+
+    <div class="card green">
+        <div class="card-header">
+            <div class="stock">6438 迅得</div>
+            <div class="signal">🟢 強力買入</div>
+        </div>
+
+        <div class="grid">
+            <div class="item"><span>現價</span><strong>173</strong></div>
+            <div class="item"><span>支撐</span><strong>167.81</strong></div>
+            <div class="item"><span>AI目標</span><strong>194.88</strong></div>
+            <div class="item"><span>潛力</span><strong class="potential">12.7%</strong></div>
+            <div class="item"><span>RR</span><strong class="rr">4.22</strong></div>
+            <div class="item"><span>Top分數</span><strong class="score">329</strong></div>
+            <div class="item"><span>建議部位</span><strong>15%</strong></div>
+            <div class="item"><span>市場模式</span><strong>NEUTRAL</strong></div>
+        </div>
+    </div>
+
+
+    <div class="section-title">🟡 觀察</div>
+    
+    <div class="card yellow">
+        <div class="card-header">
+            <div class="stock">6226 光鼎</div>
+            <div class="signal">🟡 觀察</div>
+        </div>
+
+        <div class="grid">
+            <div class="item"><span>現價</span><strong>14.85</strong></div>
+            <div class="item"><span>支撐</span><strong>14.4</strong></div>
+            <div class="item"><span>AI目標</span><strong>15.65</strong></div>
+            <div class="item"><span>潛力</span><strong class="potential">5.4%</strong></div>
+            <div class="item"><span>RR</span><strong class="rr">1.78</strong></div>
+            <div class="item"><span>Top分數</span><strong class="score">318</strong></div>
+            <div class="item"><span>建議部位</span><strong>8%</strong></div>
+            <div class="item"><span>市場模式</span><strong>NEUTRAL</strong></div>
+        </div>
+    </div>
+
+    <div class="card yellow">
+        <div class="card-header">
+            <div class="stock">1305 華夏</div>
+            <div class="signal">🟡 觀察</div>
+        </div>
+
+        <div class="grid">
+            <div class="item"><span>現價</span><strong>16.8</strong></div>
+            <div class="item"><span>支撐</span><strong>16.3</strong></div>
+            <div class="item"><span>AI目標</span><strong>18.14</strong></div>
+            <div class="item"><span>潛力</span><strong class="potential">8.0%</strong></div>
+            <div class="item"><span>RR</span><strong class="rr">2.68</strong></div>
+            <div class="item"><span>Top分數</span><strong class="score">369</strong></div>
+            <div class="item"><span>建議部位</span><strong>8%</strong></div>
+            <div class="item"><span>市場模式</span><strong>NEUTRAL</strong></div>
+        </div>
+    </div>
+
+
+    <div class="section-title">🔴 保守</div>
+    <div class="empty">目前沒有這個分類標的</div>
+</div>
+</body>
+</html>
