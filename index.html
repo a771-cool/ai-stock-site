@@ -284,6 +284,7 @@ h1 {
     color: #fffaf1;
 }
 .stock-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.history-grid { display: grid; gap: 10px; margin-top: 16px; grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .stock-card[data-signal="強力買入"] { border-top: 6px solid var(--buy); }
 .stock-card[data-signal="觀察"] { border-top: 6px solid var(--watch); }
 .stock-card[data-signal="保守"] { border-top: 6px solid var(--safe); }
@@ -498,7 +499,8 @@ h1 {
     text-align: center;
 }
 @media (max-width: 860px) {
-    .top-grid, .stock-grid, .compare-grid { grid-template-columns: 1fr; }
+    .top-grid { grid-template-columns: 1fr; }
+    .compare-grid { grid-template-columns: 1fr; }
 }
 @media (max-width: 768px) {
     body {
@@ -525,15 +527,17 @@ h1 {
     .shell { padding: 14px 12px 32px; }
     .hero, .summary-card, .top-card, .stock-card, .toolbar { border-radius: 20px; }
     .summary-grid, .meta-grid, .price-strip { grid-template-columns: 1fr; }
+    .stock-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+    .history-grid { grid-template-columns: 1fr; gap: 8px; }
+    .stock-fold summary { padding: 14px; gap: 10px; align-items: flex-start; }
+    .stock-fold-body { padding: 0 14px 14px; }
+    .stock-fold-title { font-size: 18px; line-height: 1.2; }
+    .stock-fold-subtitle { font-size: 12px; }
+    .stock-fold-price strong { font-size: 17px; }
+    .stock-fold summary::after { margin-top: 2px; padding: 6px 10px; }
     .summary-value { font-size: 22px; }
     .toolbar {
         position: static;
-    }
-    .stock-fold summary {
-        align-items: flex-start;
-    }
-    .stock-fold summary::after {
-        margin-top: 2px;
     }
     .section-head {
         align-items: flex-start;
@@ -824,6 +828,12 @@ function renderStocks() {
                         <div class="meta-chip"><span>距支撐幅度</span><strong>${formatPercent(stock.distanceToSupportPct)}</strong></div>
                         <div class="meta-chip"><span>市場模式</span><strong>${stock.marketMode || "--"}</strong></div>
                     </div>
+                    <div class="history-grid">
+                        <div class="meta-chip"><span>20日低</span><strong>${formatNumber(stock.low20d)}</strong></div>
+                        <div class="meta-chip"><span>60日低</span><strong>${formatNumber(stock.low60d)}</strong></div>
+                        <div class="meta-chip"><span>250日低</span><strong>${formatNumber(stock.low250d)}</strong></div>
+                        <div class="meta-chip"><span>近2年低</span><strong>${formatNumber(stock.low2y)}</strong></div>
+                    </div>
                     <div class="tiny-note">AI 分數 ${formatNumber(stock.aiScore)} | Pred5D ${formatNumber(stock.pred5dScore)} | 籌碼趨勢 ${formatNumber(stock.chipTrendScore)}${stock.intradayUpdated ? " | 已套用盤中即時價" : ""}</div>
                 </div>
             </details>
@@ -1036,4 +1046,6 @@ document.getElementById("searchInput").addEventListener("input", event => {
 </script>
 </body>
 </html>
+
+
 

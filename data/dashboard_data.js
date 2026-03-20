@@ -1,6 +1,7 @@
 ﻿window.STOCK_AI_DATA = {
-    "generatedAt":  "2026-03-20 22:47:06 +08:00",
+    "generatedAt":  "2026-03-20 23:52:15 +08:00",
     "sourceCsv":  "D:\\twstock_full_system\\V18\\data\\dashboard_data.csv",
+    "priceHistoryCsv":  "D:\\twstock_full_system\\V18\\data\\tw_price_history.csv",
     "marketMode":  "NEUTRAL",
     "marketHeat":  -0.0043,
     "summary":  {
@@ -32,7 +33,11 @@
                          "ticker":  "2399.TW",
                          "theme":  "",
                          "priceAtPick":  37.2,
-                         "distanceToSupportPct":  3.01
+                         "distanceToSupportPct":  3.01,
+                         "low20d":  21,
+                         "low60d":  21,
+                         "low250d":  15.65,
+                         "low2y":  15.65
                      },
                      {
                          "code":  "4906",
@@ -56,7 +61,11 @@
                          "ticker":  "4906.TW",
                          "theme":  "",
                          "priceAtPick":  34.75,
-                         "distanceToSupportPct":  2.99
+                         "distanceToSupportPct":  2.99,
+                         "low20d":  25.05,
+                         "low60d":  25.05,
+                         "low250d":  22.1,
+                         "low2y":  22.1
                      },
                      {
                          "code":  "4967",
@@ -80,7 +89,11 @@
                          "ticker":  "4967.TW",
                          "theme":  "",
                          "priceAtPick":  261.5,
-                         "distanceToSupportPct":  3
+                         "distanceToSupportPct":  3,
+                         "low20d":  170.5,
+                         "low60d":  130,
+                         "low250d":  60.9,
+                         "low2y":  60.9
                      }
                  ],
     "stocks":  [
@@ -106,7 +119,11 @@
                        "ticker":  "2399.TW",
                        "theme":  "",
                        "priceAtPick":  37.2,
-                       "distanceToSupportPct":  3.01
+                       "distanceToSupportPct":  3.01,
+                       "low20d":  21,
+                       "low60d":  21,
+                       "low250d":  15.65,
+                       "low2y":  15.65
                    },
                    {
                        "code":  "4906",
@@ -130,7 +147,11 @@
                        "ticker":  "4906.TW",
                        "theme":  "",
                        "priceAtPick":  34.75,
-                       "distanceToSupportPct":  2.99
+                       "distanceToSupportPct":  2.99,
+                       "low20d":  25.05,
+                       "low60d":  25.05,
+                       "low250d":  22.1,
+                       "low2y":  22.1
                    },
                    {
                        "code":  "4967",
@@ -154,7 +175,11 @@
                        "ticker":  "4967.TW",
                        "theme":  "",
                        "priceAtPick":  261.5,
-                       "distanceToSupportPct":  3
+                       "distanceToSupportPct":  3,
+                       "low20d":  170.5,
+                       "low60d":  130,
+                       "low250d":  60.9,
+                       "low2y":  60.9
                    },
                    {
                        "code":  "6672",
@@ -178,7 +203,11 @@
                        "ticker":  "6672.TW",
                        "theme":  "",
                        "priceAtPick":  123,
-                       "distanceToSupportPct":  3
+                       "distanceToSupportPct":  3,
+                       "low20d":  89.6,
+                       "low60d":  84.7,
+                       "low250d":  55.4,
+                       "low2y":  55.4
                    },
                    {
                        "code":  "2369",
@@ -202,7 +231,11 @@
                        "ticker":  "2369.TW",
                        "theme":  "",
                        "priceAtPick":  35.75,
-                       "distanceToSupportPct":  2.99
+                       "distanceToSupportPct":  2.99,
+                       "low20d":  24.5,
+                       "low60d":  22.2,
+                       "low250d":  11.35,
+                       "low2y":  11.35
                    },
                    {
                        "code":  "1809",
@@ -226,7 +259,11 @@
                        "ticker":  "1809.TW",
                        "theme":  "",
                        "priceAtPick":  32.45,
-                       "distanceToSupportPct":  2.99
+                       "distanceToSupportPct":  2.99,
+                       "low20d":  22.9,
+                       "low60d":  17.15,
+                       "low250d":  12.9,
+                       "low2y":  12.9
                    },
                    {
                        "code":  "2495",
@@ -250,7 +287,11 @@
                        "ticker":  "2495.TW",
                        "theme":  "",
                        "priceAtPick":  39.3,
-                       "distanceToSupportPct":  3
+                       "distanceToSupportPct":  3,
+                       "low20d":  28.25,
+                       "low60d":  27.7,
+                       "low250d":  20,
+                       "low2y":  20
                    },
                    {
                        "code":  "6438",
@@ -274,7 +315,11 @@
                        "ticker":  "6438.TW",
                        "theme":  "",
                        "priceAtPick":  173,
-                       "distanceToSupportPct":  3
+                       "distanceToSupportPct":  3,
+                       "low20d":  136.5,
+                       "low60d":  134,
+                       "low250d":  116.5,
+                       "low2y":  97.5
                    },
                    {
                        "code":  "6226",
@@ -298,7 +343,11 @@
                        "ticker":  "6226.TW",
                        "theme":  "",
                        "priceAtPick":  14.85,
-                       "distanceToSupportPct":  3.03
+                       "distanceToSupportPct":  3.03,
+                       "low20d":  8.09,
+                       "low60d":  6.66,
+                       "low250d":  5.68,
+                       "low2y":  5.68
                    },
                    {
                        "code":  "1305",
@@ -322,7 +371,11 @@
                        "ticker":  "1305.TW",
                        "theme":  "",
                        "priceAtPick":  16.8,
-                       "distanceToSupportPct":  2.98
+                       "distanceToSupportPct":  2.98,
+                       "low20d":  11.65,
+                       "low60d":  10.55,
+                       "low250d":  9.41,
+                       "low2y":  9.41
                    }
                ]
 };
