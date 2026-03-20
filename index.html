@@ -608,9 +608,19 @@ h1 {
     </section>
 </main>
 
-<script src="./data/dashboard_data.js"></script>
-<script src="./data/backtest_data.js"></script>
-<script src="./data/intraday_overlay.js"></script>
+<script>
+(function () {
+    const assetVersion = Date.now().toString();
+    const assets = [
+        "dashboard_data.js",
+        "backtest_data.js",
+        "intraday_overlay.js"
+    ];
+    for (const asset of assets) {
+        document.write('<script src="./data/' + asset + '?v=' + assetVersion + '"><' + '/script>');
+    }
+})();
+</script>
 <script>
 const data = window.STOCK_AI_DATA || { generatedAt: "", marketMode: "", marketHeat: null, summary: {}, topPicks: [], stocks: [] };
 const backtest = window.STOCK_AI_BACKTEST || { generatedAt: "", summary: {}, recentRecords: [] };
@@ -1026,3 +1036,4 @@ document.getElementById("searchInput").addEventListener("input", event => {
 </script>
 </body>
 </html>
+
