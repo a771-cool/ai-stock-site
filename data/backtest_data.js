@@ -1,5 +1,5 @@
 ﻿window.STOCK_AI_BACKTEST = {
-    "generatedAt":  "2026-03-22 16:03:57 +08:00",
+    "generatedAt":  "2026-03-22 16:20:35 +08:00",
     "recommendationCsv":  "D:\\twstock_full_system\\V18\\history\\history_ai_recommendations.csv",
     "priceHistoryCsv":  "D:\\twstock_full_system\\V18\\data\\tw_price_history.csv",
     "summary":  {
