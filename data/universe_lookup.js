@@ -1,5 +1,5 @@
 ﻿window.STOCK_AI_UNIVERSE = {
-    "generatedAt":  "2026-03-22 15:52:24 +08:00",
+    "generatedAt":  "2026-03-22 16:03:14 +08:00",
     "totalCount":  2099,
     "stocks":  [
                    {
@@ -3934,12 +3934,12 @@
                        "ticker":  "9105.TW",
                        "market":  "TWSE",
                        "sector":  "",
-                       "pool":  "LowPrice",
+                       "pool":  "MAIN",
                        "latestPrice":  5.68,
-                       "ret5d":  0.0018,
-                       "ret20d":  -0.0405,
-                       "volRatio":  0.62,
-                       "inCandidates":  true
+                       "ret5d":  null,
+                       "ret20d":  null,
+                       "volRatio":  null,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "9911",
@@ -4974,12 +4974,12 @@
                        "ticker":  "6962.TW",
                        "market":  "TWSE",
                        "sector":  "",
-                       "pool":  "Stock",
+                       "pool":  "MAIN",
                        "latestPrice":  31.15,
-                       "ret5d":  0.0383,
-                       "ret20d":  -0.1407,
-                       "volRatio":  0.71,
-                       "inCandidates":  true
+                       "ret5d":  null,
+                       "ret20d":  null,
+                       "volRatio":  null,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "6988",
@@ -13827,12 +13827,12 @@
                        "ticker":  "2023.TW",
                        "market":  "TWSE",
                        "sector":  "",
-                       "pool":  "LowPrice",
+                       "pool":  "MAIN",
                        "latestPrice":  14.55,
-                       "ret5d":  0,
-                       "ret20d":  -0.0169,
-                       "volRatio":  1.11,
-                       "inCandidates":  true
+                       "ret5d":  null,
+                       "ret20d":  null,
+                       "volRatio":  null,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "2027",
@@ -13892,12 +13892,12 @@
                        "ticker":  "1905.TW",
                        "market":  "TWSE",
                        "sector":  "",
-                       "pool":  "MAIN",
+                       "pool":  "LowPrice",
                        "latestPrice":  11.7,
-                       "ret5d":  null,
-                       "ret20d":  null,
-                       "volRatio":  null,
-                       "inCandidates":  false
+                       "ret5d":  0.0174,
+                       "ret20d":  -0.025,
+                       "volRatio":  0.98,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "1904",
@@ -14607,12 +14607,12 @@
                        "ticker":  "1608.TW",
                        "market":  "TWSE",
                        "sector":  "",
-                       "pool":  "MAIN",
+                       "pool":  "Stock",
                        "latestPrice":  33.25,
-                       "ret5d":  null,
-                       "ret20d":  null,
-                       "volRatio":  null,
-                       "inCandidates":  false
+                       "ret5d":  0.0137,
+                       "ret20d":  -0.0221,
+                       "volRatio":  0.72,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "1702",
@@ -15426,12 +15426,12 @@
                        "ticker":  "2421.TW",
                        "market":  "TWSE",
                        "sector":  "",
-                       "pool":  "Stock",
+                       "pool":  "MAIN",
                        "latestPrice":  143.5,
-                       "ret5d":  -0.0069,
-                       "ret20d":  -0.0205,
-                       "volRatio":  0.74,
-                       "inCandidates":  true
+                       "ret5d":  null,
+                       "ret20d":  null,
+                       "volRatio":  null,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "2425",
@@ -16713,12 +16713,12 @@
                        "ticker":  "2371.TW",
                        "market":  "TWSE",
                        "sector":  "",
-                       "pool":  "MAIN",
+                       "pool":  "Stock",
                        "latestPrice":  30.8,
-                       "ret5d":  null,
-                       "ret20d":  null,
-                       "volRatio":  null,
-                       "inCandidates":  false
+                       "ret5d":  -0.0314,
+                       "ret20d":  -0.1596,
+                       "volRatio":  1.06,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "2375",
@@ -25189,12 +25189,12 @@
                        "ticker":  "2630.TW",
                        "market":  "TWSE",
                        "sector":  "",
-                       "pool":  "MAIN",
+                       "pool":  "Stock",
                        "latestPrice":  49.05,
-                       "ret5d":  null,
-                       "ret20d":  null,
-                       "volRatio":  null,
-                       "inCandidates":  false
+                       "ret5d":  -0.0101,
+                       "ret20d":  0.0093,
+                       "volRatio":  0.67,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "2636",
