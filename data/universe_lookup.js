@@ -1,5 +1,5 @@
 ﻿window.STOCK_AI_UNIVERSE = {
-    "generatedAt":  "2026-03-22 22:35:12 +08:00",
+    "generatedAt":  "2026-03-23 21:14:55 +08:00",
     "totalCount":  2099,
     "stocks":  [
                    {
@@ -884,7 +884,7 @@
                        "ret5d":  0.043,
                        "ret20d":  0.043,
                        "volRatio":  0.59,
-                       "inCandidates":  false
+                       "inCandidates":  true
                    },
                    {
                        "code":  "3236",
@@ -988,7 +988,7 @@
                        "ret5d":  0.0149,
                        "ret20d":  -0.0073,
                        "volRatio":  0.83,
-                       "inCandidates":  false
+                       "inCandidates":  true
                    },
                    {
                        "code":  "3276",
@@ -3415,10 +3415,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  107.5,
-                       "ret5d":  -0.0315,
-                       "ret20d":  0.1918,
-                       "volRatio":  1.27,
+                       "latestPrice":  104,
+                       "ret5d":  -0.0756,
+                       "ret20d":  0.1607,
+                       "volRatio":  0.61,
                        "inCandidates":  true
                    },
                    {
@@ -3428,10 +3428,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  50.9,
-                       "ret5d":  0,
-                       "ret20d":  -0.1628,
-                       "volRatio":  0.38,
+                       "latestPrice":  49.9,
+                       "ret5d":  -0.0311,
+                       "ret20d":  -0.1977,
+                       "volRatio":  0.84,
                        "inCandidates":  false
                    },
                    {
@@ -3441,10 +3441,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  77.4,
-                       "ret5d":  0.0091,
-                       "ret20d":  0.0306,
-                       "volRatio":  1.06,
+                       "latestPrice":  75.6,
+                       "ret5d":  -0.0182,
+                       "ret20d":  -0.0169,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -3454,10 +3454,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  188,
-                       "ret5d":  0.0836,
-                       "ret20d":  0.6068,
-                       "volRatio":  0.28,
+                       "latestPrice":  169.5,
+                       "ret5d":  -0.1102,
+                       "ret20d":  0.4364,
+                       "volRatio":  0.08,
                        "inCandidates":  false
                    },
                    {
@@ -3467,10 +3467,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  33.05,
-                       "ret5d":  -0.0164,
-                       "ret20d":  -0.0557,
-                       "volRatio":  1.14,
+                       "latestPrice":  32.6,
+                       "ret5d":  -0.0181,
+                       "ret20d":  -0.1019,
+                       "volRatio":  0.39,
                        "inCandidates":  false
                    },
                    {
@@ -3480,10 +3480,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  912,
-                       "ret5d":  0.0201,
-                       "ret20d":  -0.0722,
-                       "volRatio":  0.88,
+                       "latestPrice":  893,
+                       "ret5d":  0.0056,
+                       "ret20d":  -0.0841,
+                       "volRatio":  0.56,
                        "inCandidates":  false
                    },
                    {
@@ -3493,10 +3493,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  37.5,
-                       "ret5d":  -0.0053,
-                       "ret20d":  -0.0506,
-                       "volRatio":  0.45,
+                       "latestPrice":  37,
+                       "ret5d":  -0.0225,
+                       "ret20d":  -0.0645,
+                       "volRatio":  1.22,
                        "inCandidates":  false
                    },
                    {
@@ -3506,10 +3506,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  26.85,
-                       "ret5d":  0.1907,
-                       "ret20d":  0.3227,
-                       "volRatio":  2.93,
+                       "latestPrice":  24.25,
+                       "ret5d":  0.0923,
+                       "ret20d":  0.1715,
+                       "volRatio":  3.1,
                        "inCandidates":  true
                    },
                    {
@@ -3519,10 +3519,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  7.05,
-                       "ret5d":  -0.0014,
-                       "ret20d":  -0.0499,
-                       "volRatio":  0.7,
+                       "latestPrice":  6.92,
+                       "ret5d":  -0.0156,
+                       "ret20d":  -0.0661,
+                       "volRatio":  2.11,
                        "inCandidates":  false
                    },
                    {
@@ -3532,10 +3532,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  29.15,
-                       "ret5d":  -0.0348,
-                       "ret20d":  -0.0933,
-                       "volRatio":  1.07,
+                       "latestPrice":  28.85,
+                       "ret5d":  -0.0556,
+                       "ret20d":  -0.1204,
+                       "volRatio":  0.76,
                        "inCandidates":  false
                    },
                    {
@@ -3545,10 +3545,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  54.1,
-                       "ret5d":  -0.1413,
-                       "ret20d":  -0.2125,
-                       "volRatio":  1.34,
+                       "latestPrice":  52,
+                       "ret5d":  -0.0957,
+                       "ret20d":  -0.233,
+                       "volRatio":  1.38,
                        "inCandidates":  false
                    },
                    {
@@ -3558,10 +3558,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  65,
-                       "ret5d":  -0.0714,
-                       "ret20d":  0.1424,
-                       "volRatio":  0.75,
+                       "latestPrice":  61.9,
+                       "ret5d":  -0.0977,
+                       "ret20d":  0.1034,
+                       "volRatio":  0.64,
                        "inCandidates":  true
                    },
                    {
@@ -3571,10 +3571,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  70.6,
-                       "ret5d":  -0.0395,
-                       "ret20d":  -0.1743,
-                       "volRatio":  0.87,
+                       "latestPrice":  69,
+                       "ret5d":  -0.0763,
+                       "ret20d":  -0.1844,
+                       "volRatio":  0.97,
                        "inCandidates":  false
                    },
                    {
@@ -3584,10 +3584,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  45.85,
-                       "ret5d":  0.0011,
-                       "ret20d":  0.0688,
-                       "volRatio":  0.48,
+                       "latestPrice":  46,
+                       "ret5d":  0,
+                       "ret20d":  0.0673,
+                       "volRatio":  1.23,
                        "inCandidates":  false
                    },
                    {
@@ -3597,10 +3597,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  12.25,
-                       "ret5d":  0.0124,
-                       "ret20d":  0.0041,
-                       "volRatio":  1.22,
+                       "latestPrice":  12.3,
+                       "ret5d":  0.0207,
+                       "ret20d":  -0.016,
+                       "volRatio":  2.32,
                        "inCandidates":  false
                    },
                    {
@@ -3610,10 +3610,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  19.35,
-                       "ret5d":  -0.0397,
-                       "ret20d":  -0.1801,
-                       "volRatio":  1.24,
+                       "latestPrice":  19,
+                       "ret5d":  -0.0524,
+                       "ret20d":  -0.1949,
+                       "volRatio":  0.73,
                        "inCandidates":  false
                    },
                    {
@@ -3623,10 +3623,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  85.3,
-                       "ret5d":  -0.0012,
-                       "ret20d":  -0.1444,
-                       "volRatio":  0.35,
+                       "latestPrice":  83,
+                       "ret5d":  -0.0405,
+                       "ret20d":  -0.242,
+                       "volRatio":  0.32,
                        "inCandidates":  false
                    },
                    {
@@ -3637,9 +3637,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  14.15,
-                       "ret5d":  -0.0567,
+                       "ret5d":  -0.0535,
                        "ret20d":  -0.0752,
-                       "volRatio":  1.7,
+                       "volRatio":  0.5,
                        "inCandidates":  false
                    },
                    {
@@ -3649,10 +3649,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  13.55,
-                       "ret5d":  0.0627,
-                       "ret20d":  0.1292,
-                       "volRatio":  0.86,
+                       "latestPrice":  13.1,
+                       "ret5d":  0.0275,
+                       "ret20d":  0.0917,
+                       "volRatio":  0.6,
                        "inCandidates":  true
                    },
                    {
@@ -3662,11 +3662,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  35.15,
-                       "ret5d":  0.013,
-                       "ret20d":  0.0188,
-                       "volRatio":  2.57,
-                       "inCandidates":  true
+                       "latestPrice":  33.3,
+                       "ret5d":  -0.0235,
+                       "ret20d":  -0.0292,
+                       "volRatio":  0.59,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "8070",
@@ -3675,10 +3675,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  43.3,
-                       "ret5d":  -0.0103,
-                       "ret20d":  0.007,
-                       "volRatio":  0.96,
+                       "latestPrice":  43.4,
+                       "ret5d":  -0.0069,
+                       "ret20d":  0.0117,
+                       "volRatio":  0.74,
                        "inCandidates":  true
                    },
                    {
@@ -3688,10 +3688,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  541,
-                       "ret5d":  0.0505,
-                       "ret20d":  0.3211,
-                       "volRatio":  1.65,
+                       "latestPrice":  534,
+                       "ret5d":  -0.0565,
+                       "ret20d":  0.2837,
+                       "volRatio":  1.31,
                        "inCandidates":  true
                    },
                    {
@@ -3701,10 +3701,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  236,
-                       "ret5d":  -0.0228,
-                       "ret20d":  0.0306,
-                       "volRatio":  0.74,
+                       "latestPrice":  232,
+                       "ret5d":  -0.0313,
+                       "ret20d":  -0.0373,
+                       "volRatio":  0.52,
                        "inCandidates":  false
                    },
                    {
@@ -3714,10 +3714,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  27.95,
-                       "ret5d":  0.0036,
-                       "ret20d":  -0.0791,
-                       "volRatio":  0.44,
+                       "latestPrice":  27.15,
+                       "ret5d":  -0.0269,
+                       "ret20d":  -0.092,
+                       "volRatio":  0.64,
                        "inCandidates":  false
                    },
                    {
@@ -3727,10 +3727,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  39.15,
-                       "ret5d":  0.051,
-                       "ret20d":  0.061,
-                       "volRatio":  1.49,
+                       "latestPrice":  38.1,
+                       "ret5d":  0.0214,
+                       "ret20d":  0.0325,
+                       "volRatio":  0.67,
                        "inCandidates":  false
                    },
                    {
@@ -3740,11 +3740,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  62.5,
-                       "ret5d":  0.0331,
-                       "ret20d":  0.1792,
-                       "volRatio":  0.52,
-                       "inCandidates":  true
+                       "latestPrice":  58.3,
+                       "ret5d":  -0.0582,
+                       "ret20d":  0.0918,
+                       "volRatio":  0.23,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "8201",
@@ -3753,10 +3753,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  13.4,
-                       "ret5d":  -0.0147,
-                       "ret20d":  -0.0394,
-                       "volRatio":  1.05,
+                       "latestPrice":  13.1,
+                       "ret5d":  -0.0296,
+                       "ret20d":  -0.0609,
+                       "volRatio":  0.6,
                        "inCandidates":  false
                    },
                    {
@@ -3766,10 +3766,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  28.2,
-                       "ret5d":  -0.007,
-                       "ret20d":  -0.0754,
-                       "volRatio":  0.9,
+                       "latestPrice":  27.65,
+                       "ret5d":  -0.0264,
+                       "ret20d":  -0.0814,
+                       "volRatio":  0.81,
                        "inCandidates":  false
                    },
                    {
@@ -3779,10 +3779,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  88.3,
-                       "ret5d":  0.0149,
-                       "ret20d":  0.2419,
-                       "volRatio":  1.61,
+                       "latestPrice":  81.8,
+                       "ret5d":  -0.0532,
+                       "ret20d":  0.1314,
+                       "volRatio":  0.53,
                        "inCandidates":  true
                    },
                    {
@@ -3792,10 +3792,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  63.2,
-                       "ret5d":  0.188,
-                       "ret20d":  0.0803,
-                       "volRatio":  3.36,
+                       "latestPrice":  57.6,
+                       "ret5d":  0.0397,
+                       "ret20d":  -0.0604,
+                       "volRatio":  0.98,
                        "inCandidates":  true
                    },
                    {
@@ -3805,11 +3805,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  66.4,
-                       "ret5d":  0.0506,
-                       "ret20d":  0.0153,
-                       "volRatio":  1.08,
-                       "inCandidates":  true
+                       "latestPrice":  61.8,
+                       "ret5d":  -0.0536,
+                       "ret20d":  -0.1082,
+                       "volRatio":  0.7,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "8114",
@@ -3818,10 +3818,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  183,
-                       "ret5d":  0.0427,
-                       "ret20d":  0.0671,
-                       "volRatio":  1.12,
+                       "latestPrice":  177.5,
+                       "ret5d":  0.0114,
+                       "ret20d":  0.026,
+                       "volRatio":  0.73,
                        "inCandidates":  false
                    },
                    {
@@ -3831,10 +3831,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  11.8,
-                       "ret5d":  0,
-                       "ret20d":  0.0216,
-                       "volRatio":  0.95,
+                       "latestPrice":  11.75,
+                       "ret5d":  -0.0042,
+                       "ret20d":  0.0129,
+                       "volRatio":  0.72,
                        "inCandidates":  false
                    },
                    {
@@ -3844,10 +3844,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  80.8,
-                       "ret5d":  -0.0583,
-                       "ret20d":  -0.1404,
-                       "volRatio":  1.05,
+                       "latestPrice":  80.3,
+                       "ret5d":  -0.0463,
+                       "ret20d":  -0.131,
+                       "volRatio":  1.03,
                        "inCandidates":  false
                    },
                    {
@@ -3857,10 +3857,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  10.9,
-                       "ret5d":  0.1835,
-                       "ret20d":  0.4418,
-                       "volRatio":  1.86,
+                       "latestPrice":  10.95,
+                       "ret5d":  0.1863,
+                       "ret20d":  0.4351,
+                       "volRatio":  2.04,
                        "inCandidates":  true
                    },
                    {
@@ -3870,10 +3870,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  28.6,
-                       "ret5d":  -0.0305,
-                       "ret20d":  -0.0744,
-                       "volRatio":  1.43,
+                       "latestPrice":  28.35,
+                       "ret5d":  -0.0274,
+                       "ret20d":  -0.081,
+                       "volRatio":  0.76,
                        "inCandidates":  false
                    },
                    {
@@ -3883,10 +3883,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  14.55,
-                       "ret5d":  -0.0169,
-                       "ret20d":  -0.1235,
-                       "volRatio":  0.75,
+                       "latestPrice":  14.45,
+                       "ret5d":  -0.0236,
+                       "ret20d":  -0.145,
+                       "volRatio":  0.78,
                        "inCandidates":  false
                    },
                    {
@@ -3896,10 +3896,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  5.28,
-                       "ret5d":  0.0313,
-                       "ret20d":  0.0292,
-                       "volRatio":  1.47,
+                       "latestPrice":  5.16,
+                       "ret5d":  0.0118,
+                       "ret20d":  0.0019,
+                       "volRatio":  1.15,
                        "inCandidates":  false
                    },
                    {
@@ -3909,10 +3909,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  911,
-                       "ret5d":  0.0133,
-                       "ret20d":  -0.0215,
-                       "volRatio":  2.29,
+                       "latestPrice":  820,
+                       "ret5d":  -0.1135,
+                       "ret20d":  -0.0949,
+                       "volRatio":  1.39,
                        "inCandidates":  true
                    },
                    {
@@ -3922,10 +3922,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  3.13,
-                       "ret5d":  -0.0095,
-                       "ret20d":  -0.0126,
-                       "volRatio":  1.28,
+                       "latestPrice":  3.15,
+                       "ret5d":  0.0328,
+                       "ret20d":  0.0096,
+                       "volRatio":  0.42,
                        "inCandidates":  false
                    },
                    {
@@ -3935,10 +3935,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  5.68,
-                       "ret5d":  0.0018,
-                       "ret20d":  -0.0405,
-                       "volRatio":  0.62,
+                       "latestPrice":  5.54,
+                       "ret5d":  -0.0264,
+                       "ret20d":  -0.0594,
+                       "volRatio":  0.58,
                        "inCandidates":  false
                    },
                    {
@@ -3948,10 +3948,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  90.8,
-                       "ret5d":  -0.0163,
-                       "ret20d":  0.0657,
-                       "volRatio":  0.63,
+                       "latestPrice":  90.1,
+                       "ret5d":  -0.0207,
+                       "ret20d":  0.0538,
+                       "volRatio":  0.67,
                        "inCandidates":  false
                    },
                    {
@@ -3961,10 +3961,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  81.3,
-                       "ret5d":  -0.0298,
-                       "ret20d":  -0.1211,
-                       "volRatio":  0.32,
+                       "latestPrice":  79.2,
+                       "ret5d":  -0.0515,
+                       "ret20d":  -0.1419,
+                       "volRatio":  0.33,
                        "inCandidates":  false
                    },
                    {
@@ -3974,10 +3974,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  68.1,
-                       "ret5d":  -0.0159,
-                       "ret20d":  -0.1745,
-                       "volRatio":  0.51,
+                       "latestPrice":  68.5,
+                       "ret5d":  -0.027,
+                       "ret20d":  -0.1657,
+                       "volRatio":  0.66,
                        "inCandidates":  false
                    },
                    {
@@ -3988,9 +3988,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  12.6,
-                       "ret5d":  0.0328,
+                       "ret5d":  0.012,
                        "ret20d":  0.05,
-                       "volRatio":  0.45,
+                       "volRatio":  0.38,
                        "inCandidates":  false
                    },
                    {
@@ -4000,10 +4000,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  39.95,
-                       "ret5d":  -0.042,
-                       "ret20d":  -0.1122,
-                       "volRatio":  2.04,
+                       "latestPrice":  40.25,
+                       "ret5d":  -0.0473,
+                       "ret20d":  -0.0935,
+                       "volRatio":  0.64,
                        "inCandidates":  false
                    },
                    {
@@ -4013,10 +4013,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  21,
-                       "ret5d":  -0.03,
-                       "ret20d":  0.037,
-                       "volRatio":  0.2,
+                       "latestPrice":  20.8,
+                       "ret5d":  -0.0415,
+                       "ret20d":  0.0272,
+                       "volRatio":  0.49,
                        "inCandidates":  false
                    },
                    {
@@ -4025,12 +4025,12 @@
                        "ticker":  "9908.TW",
                        "market":  "TWSE",
                        "sector":  "",
-                       "pool":  "Stock",
-                       "latestPrice":  30.1,
-                       "ret5d":  -0.0099,
-                       "ret20d":  0.005,
-                       "volRatio":  0.36,
-                       "inCandidates":  false
+                       "pool":  "LowPrice",
+                       "latestPrice":  29.95,
+                       "ret5d":  -0.0164,
+                       "ret20d":  0.0017,
+                       "volRatio":  0.7,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "9907",
@@ -4039,11 +4039,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  17.9,
-                       "ret5d":  -0.011,
-                       "ret20d":  0.0085,
-                       "volRatio":  1.15,
-                       "inCandidates":  true
+                       "latestPrice":  17.85,
+                       "ret5d":  -0.0138,
+                       "ret20d":  -0.0246,
+                       "volRatio":  0.76,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "8467",
@@ -4052,10 +4052,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  153.5,
-                       "ret5d":  0,
-                       "ret20d":  -0.1023,
-                       "volRatio":  0.47,
+                       "latestPrice":  154.5,
+                       "ret5d":  -0.0064,
+                       "ret20d":  -0.0938,
+                       "volRatio":  0.62,
                        "inCandidates":  false
                    },
                    {
@@ -4065,10 +4065,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  18.95,
-                       "ret5d":  -0.0181,
-                       "ret20d":  -0.1425,
-                       "volRatio":  0.81,
+                       "latestPrice":  18.2,
+                       "ret5d":  -0.0496,
+                       "ret20d":  -0.1857,
+                       "volRatio":  1.8,
                        "inCandidates":  false
                    },
                    {
@@ -4078,10 +4078,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  19.55,
-                       "ret5d":  0.0289,
-                       "ret20d":  0.0511,
-                       "volRatio":  0.54,
+                       "latestPrice":  19.95,
+                       "ret5d":  0.0418,
+                       "ret20d":  0.0872,
+                       "volRatio":  1.35,
                        "inCandidates":  false
                    },
                    {
@@ -4091,10 +4091,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  39.75,
-                       "ret5d":  0.053,
-                       "ret20d":  0.0743,
-                       "volRatio":  1.73,
+                       "latestPrice":  39.4,
+                       "ret5d":  0.0274,
+                       "ret20d":  0.0899,
+                       "volRatio":  1.53,
                        "inCandidates":  false
                    },
                    {
@@ -4104,10 +4104,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  143,
-                       "ret5d":  -0.0172,
-                       "ret20d":  0.0106,
-                       "volRatio":  1.74,
+                       "latestPrice":  141.5,
+                       "ret5d":  -0.0535,
+                       "ret20d":  -0.0035,
+                       "volRatio":  1.11,
                        "inCandidates":  false
                    },
                    {
@@ -4117,10 +4117,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  178,
-                       "ret5d":  0.0201,
-                       "ret20d":  -0.0532,
-                       "volRatio":  1.1,
+                       "latestPrice":  173.5,
+                       "ret5d":  -0.0142,
+                       "ret20d":  -0.0868,
+                       "volRatio":  0.74,
                        "inCandidates":  false
                    },
                    {
@@ -4130,10 +4130,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  384,
-                       "ret5d":  -0.0052,
-                       "ret20d":  -0.0922,
-                       "volRatio":  0.41,
+                       "latestPrice":  378.5,
+                       "ret5d":  -0.0561,
+                       "ret20d":  -0.0537,
+                       "volRatio":  0.26,
                        "inCandidates":  false
                    },
                    {
@@ -4143,10 +4143,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  24,
-                       "ret5d":  -0.1209,
-                       "ret20d":  -0.1061,
-                       "volRatio":  0.63,
+                       "latestPrice":  22.95,
+                       "ret5d":  -0.0783,
+                       "ret20d":  -0.1516,
+                       "volRatio":  2.52,
                        "inCandidates":  false
                    },
                    {
@@ -4156,10 +4156,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  269.5,
-                       "ret5d":  -0.0288,
-                       "ret20d":  -0.0544,
-                       "volRatio":  0.72,
+                       "latestPrice":  252,
+                       "ret5d":  -0.0935,
+                       "ret20d":  -0.0903,
+                       "volRatio":  0.69,
                        "inCandidates":  false
                    },
                    {
@@ -4169,10 +4169,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  9.76,
+                       "latestPrice":  9.74,
                        "ret5d":  0.0021,
-                       "ret20d":  -0.0171,
-                       "volRatio":  0,
+                       "ret20d":  -0.026,
+                       "volRatio":  3.71,
                        "inCandidates":  false
                    },
                    {
@@ -4182,10 +4182,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  18.7,
-                       "ret5d":  -0.0053,
-                       "ret20d":  -0.065,
-                       "volRatio":  0.93,
+                       "latestPrice":  18.45,
+                       "ret5d":  -0.0465,
+                       "ret20d":  -0.0775,
+                       "volRatio":  0.83,
                        "inCandidates":  false
                    },
                    {
@@ -4195,10 +4195,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  46.1,
-                       "ret5d":  0,
-                       "ret20d":  0.0586,
-                       "volRatio":  0.78,
+                       "latestPrice":  45.8,
+                       "ret5d":  -0.0317,
+                       "ret20d":  0.0066,
+                       "volRatio":  0.82,
                        "inCandidates":  true
                    },
                    {
@@ -4208,10 +4208,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  41.9,
-                       "ret5d":  0.0048,
-                       "ret20d":  0.0036,
-                       "volRatio":  0.45,
+                       "latestPrice":  41.5,
+                       "ret5d":  -0.0036,
+                       "ret20d":  -0.0166,
+                       "volRatio":  1.13,
                        "inCandidates":  false
                    },
                    {
@@ -4221,10 +4221,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  163,
-                       "ret5d":  -0.0031,
-                       "ret20d":  -0.1044,
-                       "volRatio":  0.56,
+                       "latestPrice":  161,
+                       "ret5d":  -0.0153,
+                       "ret20d":  -0.0501,
+                       "volRatio":  0.86,
                        "inCandidates":  false
                    },
                    {
@@ -4234,10 +4234,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  79.9,
-                       "ret5d":  -0.0099,
-                       "ret20d":  -0.0184,
-                       "volRatio":  0.31,
+                       "latestPrice":  79.1,
+                       "ret5d":  -0.0025,
+                       "ret20d":  -0.0424,
+                       "volRatio":  0.16,
                        "inCandidates":  false
                    },
                    {
@@ -4247,10 +4247,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  47.45,
-                       "ret5d":  -0.0297,
-                       "ret20d":  -0.0125,
-                       "volRatio":  0.45,
+                       "latestPrice":  46.05,
+                       "ret5d":  -0.0326,
+                       "ret20d":  -0.0808,
+                       "volRatio":  0.91,
                        "inCandidates":  false
                    },
                    {
@@ -4260,10 +4260,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  78,
-                       "ret5d":  0.0263,
-                       "ret20d":  -0.0545,
-                       "volRatio":  0.76,
+                       "latestPrice":  73.6,
+                       "ret5d":  -0.0187,
+                       "ret20d":  -0.1068,
+                       "volRatio":  0.78,
                        "inCandidates":  false
                    },
                    {
@@ -4275,8 +4275,8 @@
                        "pool":  "Stock",
                        "latestPrice":  52,
                        "ret5d":  0.0176,
-                       "ret20d":  -0.0353,
-                       "volRatio":  0.68,
+                       "ret20d":  -0.0424,
+                       "volRatio":  0.9,
                        "inCandidates":  false
                    },
                    {
@@ -4286,10 +4286,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  47,
-                       "ret5d":  -0.0447,
-                       "ret20d":  -0.0428,
-                       "volRatio":  0.76,
+                       "latestPrice":  46,
+                       "ret5d":  -0.0545,
+                       "ret20d":  -0.0909,
+                       "volRatio":  1.54,
                        "inCandidates":  false
                    },
                    {
@@ -4299,7 +4299,7 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "MAIN",
-                       "latestPrice":  80,
+                       "latestPrice":  77.8,
                        "ret5d":  null,
                        "ret20d":  null,
                        "volRatio":  null,
@@ -4312,10 +4312,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  129,
-                       "ret5d":  -0.0301,
-                       "ret20d":  -0.048,
-                       "volRatio":  0.6,
+                       "latestPrice":  125,
+                       "ret5d":  -0.0272,
+                       "ret20d":  -0.0637,
+                       "volRatio":  0.51,
                        "inCandidates":  false
                    },
                    {
@@ -4325,7 +4325,7 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "MAIN",
-                       "latestPrice":  73.2,
+                       "latestPrice":  72.2,
                        "ret5d":  null,
                        "ret20d":  null,
                        "volRatio":  null,
@@ -4338,10 +4338,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  101.5,
-                       "ret5d":  -0.1612,
-                       "ret20d":  -0.3211,
-                       "volRatio":  1.62,
+                       "latestPrice":  94.5,
+                       "ret5d":  -0.2317,
+                       "ret20d":  -0.4094,
+                       "volRatio":  1.93,
                        "inCandidates":  false
                    },
                    {
@@ -4351,10 +4351,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  78,
-                       "ret5d":  0.0428,
-                       "ret20d":  0.3708,
-                       "volRatio":  0.4,
+                       "latestPrice":  74.3,
+                       "ret5d":  -0.0093,
+                       "ret20d":  0.1888,
+                       "volRatio":  1.08,
                        "inCandidates":  false
                    },
                    {
@@ -4364,10 +4364,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  81.5,
-                       "ret5d":  -0.0501,
-                       "ret20d":  -0.1141,
-                       "volRatio":  1.26,
+                       "latestPrice":  78.7,
+                       "ret5d":  -0.0933,
+                       "ret20d":  -0.1556,
+                       "volRatio":  0.91,
                        "inCandidates":  false
                    },
                    {
@@ -4377,10 +4377,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  39.8,
-                       "ret5d":  -0.005,
-                       "ret20d":  -0.0829,
-                       "volRatio":  0.47,
+                       "latestPrice":  39.5,
+                       "ret5d":  -0.0137,
+                       "ret20d":  -0.0888,
+                       "volRatio":  1.46,
                        "inCandidates":  false
                    },
                    {
@@ -4390,10 +4390,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  79.2,
-                       "ret5d":  -0.0088,
-                       "ret20d":  0.0286,
-                       "volRatio":  0.55,
+                       "latestPrice":  78.7,
+                       "ret5d":  -0.0163,
+                       "ret20d":  0.0168,
+                       "volRatio":  0.51,
                        "inCandidates":  false
                    },
                    {
@@ -4403,10 +4403,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  162,
-                       "ret5d":  -0.0182,
-                       "ret20d":  -0.1,
-                       "volRatio":  0.47,
+                       "latestPrice":  164,
+                       "ret5d":  0,
+                       "ret20d":  -0.0575,
+                       "volRatio":  1.22,
                        "inCandidates":  false
                    },
                    {
@@ -4416,10 +4416,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  165.5,
-                       "ret5d":  0,
-                       "ret20d":  -0.065,
-                       "volRatio":  2.14,
+                       "latestPrice":  167,
+                       "ret5d":  0.0091,
+                       "ret20d":  -0.0234,
+                       "volRatio":  1.18,
                        "inCandidates":  false
                    },
                    {
@@ -4429,10 +4429,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  267,
-                       "ret5d":  -0.0309,
-                       "ret20d":  0.1946,
-                       "volRatio":  0.99,
+                       "latestPrice":  256.5,
+                       "ret5d":  -0.0339,
+                       "ret20d":  0.1659,
+                       "volRatio":  0.84,
                        "inCandidates":  false
                    },
                    {
@@ -4442,10 +4442,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  34.3,
-                       "ret5d":  0.0103,
-                       "ret20d":  -0.0512,
-                       "volRatio":  0.34,
+                       "latestPrice":  34.15,
+                       "ret5d":  0.0015,
+                       "ret20d":  -0.054,
+                       "volRatio":  0.73,
                        "inCandidates":  false
                    },
                    {
@@ -4455,10 +4455,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  569,
-                       "ret5d":  -0.0087,
-                       "ret20d":  -0.173,
-                       "volRatio":  0.83,
+                       "latestPrice":  545,
+                       "ret5d":  -0.0354,
+                       "ret20d":  -0.1962,
+                       "volRatio":  0.81,
                        "inCandidates":  false
                    },
                    {
@@ -4468,10 +4468,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  826,
-                       "ret5d":  0.0509,
-                       "ret20d":  0.2384,
-                       "volRatio":  1.76,
+                       "latestPrice":  789,
+                       "ret5d":  -0.0138,
+                       "ret20d":  0.1654,
+                       "volRatio":  0.8,
                        "inCandidates":  true
                    },
                    {
@@ -4481,10 +4481,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  99,
-                       "ret5d":  -0.005,
-                       "ret20d":  -0.1278,
-                       "volRatio":  1.94,
+                       "latestPrice":  94.4,
+                       "ret5d":  -0.0436,
+                       "ret20d":  -0.1259,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -4494,10 +4494,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  97.3,
-                       "ret5d":  -0.0599,
-                       "ret20d":  -0.0821,
-                       "volRatio":  0.48,
+                       "latestPrice":  91.5,
+                       "ret5d":  -0.1073,
+                       "ret20d":  -0.1117,
+                       "volRatio":  0.84,
                        "inCandidates":  false
                    },
                    {
@@ -4507,10 +4507,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  42.6,
-                       "ret5d":  -0.0459,
-                       "ret20d":  -0.118,
-                       "volRatio":  0.07,
+                       "latestPrice":  41.8,
+                       "ret5d":  -0.0346,
+                       "ret20d":  -0.1521,
+                       "volRatio":  1.83,
                        "inCandidates":  false
                    },
                    {
@@ -4520,10 +4520,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  23.95,
-                       "ret5d":  -0.0382,
-                       "ret20d":  -0.1567,
-                       "volRatio":  0.85,
+                       "latestPrice":  23.65,
+                       "ret5d":  -0.0578,
+                       "ret20d":  -0.1538,
+                       "volRatio":  0.72,
                        "inCandidates":  false
                    },
                    {
@@ -4533,10 +4533,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  156,
-                       "ret5d":  -0.0957,
-                       "ret20d":  1.1879,
-                       "volRatio":  2.16,
+                       "latestPrice":  140.5,
+                       "ret5d":  -0.1022,
+                       "ret20d":  0.7921,
+                       "volRatio":  1.53,
                        "inCandidates":  true
                    },
                    {
@@ -4546,11 +4546,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  143.5,
-                       "ret5d":  0,
-                       "ret20d":  0.2318,
-                       "volRatio":  2.09,
-                       "inCandidates":  false
+                       "latestPrice":  141.5,
+                       "ret5d":  0.018,
+                       "ret20d":  0.2043,
+                       "volRatio":  1.3,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "6863",
@@ -4559,10 +4559,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  90.1,
-                       "ret5d":  0.0022,
-                       "ret20d":  -0.1846,
-                       "volRatio":  0.46,
+                       "latestPrice":  89.9,
+                       "ret5d":  0,
+                       "ret20d":  -0.2009,
+                       "volRatio":  0.53,
                        "inCandidates":  false
                    },
                    {
@@ -4572,11 +4572,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  194,
-                       "ret5d":  0,
-                       "ret20d":  0.1149,
-                       "volRatio":  0.52,
-                       "inCandidates":  true
+                       "latestPrice":  184,
+                       "ret5d":  -0.1111,
+                       "ret20d":  0.0824,
+                       "volRatio":  0.4,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "6914",
@@ -4585,10 +4585,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  150,
-                       "ret5d":  0.0067,
-                       "ret20d":  0.0345,
-                       "volRatio":  0.8,
+                       "latestPrice":  149,
+                       "ret5d":  -0.0033,
+                       "ret20d":  0.0567,
+                       "volRatio":  0.48,
                        "inCandidates":  false
                    },
                    {
@@ -4598,11 +4598,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  45.85,
-                       "ret5d":  0.0865,
-                       "ret20d":  0.1238,
-                       "volRatio":  0.84,
-                       "inCandidates":  true
+                       "latestPrice":  42.75,
+                       "ret5d":  -0.0787,
+                       "ret20d":  0.0648,
+                       "volRatio":  0.53,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "6918",
@@ -4611,10 +4611,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  83.8,
-                       "ret5d":  -0.0083,
-                       "ret20d":  0.0048,
-                       "volRatio":  0.69,
+                       "latestPrice":  84.6,
+                       "ret5d":  -0.0128,
+                       "ret20d":  0.0205,
+                       "volRatio":  1.39,
                        "inCandidates":  false
                    },
                    {
@@ -4624,10 +4624,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  17.85,
-                       "ret5d":  -0.0165,
-                       "ret20d":  -0.0138,
-                       "volRatio":  0.41,
+                       "latestPrice":  17.65,
+                       "ret5d":  -0.0275,
+                       "ret20d":  -0.014,
+                       "volRatio":  0.42,
                        "inCandidates":  false
                    },
                    {
@@ -4637,10 +4637,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  14.1,
-                       "ret5d":  -0.0537,
-                       "ret20d":  -0.1242,
-                       "volRatio":  0.71,
+                       "latestPrice":  13.85,
+                       "ret5d":  -0.0348,
+                       "ret20d":  -0.1371,
+                       "volRatio":  1.06,
                        "inCandidates":  false
                    },
                    {
@@ -4650,10 +4650,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  172.5,
-                       "ret5d":  0.0615,
-                       "ret20d":  -0.1746,
-                       "volRatio":  1.24,
+                       "latestPrice":  181.5,
+                       "ret5d":  0.0552,
+                       "ret20d":  -0.0879,
+                       "volRatio":  2.03,
                        "inCandidates":  false
                    },
                    {
@@ -4663,10 +4663,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  68.7,
-                       "ret5d":  -0.0283,
-                       "ret20d":  -0.0186,
-                       "volRatio":  0.62,
+                       "latestPrice":  66.8,
+                       "ret5d":  -0.0605,
+                       "ret20d":  -0.0786,
+                       "volRatio":  0.94,
                        "inCandidates":  false
                    },
                    {
@@ -4676,10 +4676,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  76.8,
-                       "ret5d":  -0.0141,
-                       "ret20d":  -0.0217,
-                       "volRatio":  0.46,
+                       "latestPrice":  76.6,
+                       "ret5d":  -0.0167,
+                       "ret20d":  -0.0292,
+                       "volRatio":  0.96,
                        "inCandidates":  false
                    },
                    {
@@ -4689,10 +4689,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  17.6,
-                       "ret5d":  0.0086,
-                       "ret20d":  0.1466,
-                       "volRatio":  0.64,
+                       "latestPrice":  17.15,
+                       "ret5d":  -0.0058,
+                       "ret20d":  0.0786,
+                       "volRatio":  0.46,
                        "inCandidates":  false
                    },
                    {
@@ -4702,10 +4702,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  150.5,
-                       "ret5d":  -0.0033,
-                       "ret20d":  -0.1275,
-                       "volRatio":  0.72,
+                       "latestPrice":  143,
+                       "ret5d":  -0.0592,
+                       "ret20d":  -0.1333,
+                       "volRatio":  0.89,
                        "inCandidates":  false
                    },
                    {
@@ -4715,10 +4715,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  136.5,
-                       "ret5d":  -0.0586,
-                       "ret20d":  -0.087,
-                       "volRatio":  0.7,
+                       "latestPrice":  128.5,
+                       "ret5d":  -0.1045,
+                       "ret20d":  -0.171,
+                       "volRatio":  1.39,
                        "inCandidates":  false
                    },
                    {
@@ -4728,10 +4728,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  435,
-                       "ret5d":  0.0875,
-                       "ret20d":  0.2168,
-                       "volRatio":  2.6,
+                       "latestPrice":  403.5,
+                       "ret5d":  -0.0206,
+                       "ret20d":  0.1645,
+                       "volRatio":  1.15,
                        "inCandidates":  false
                    },
                    {
@@ -4741,10 +4741,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  67.5,
-                       "ret5d":  0.0305,
-                       "ret20d":  -0.0274,
-                       "volRatio":  0.51,
+                       "latestPrice":  66,
+                       "ret5d":  -0.0179,
+                       "ret20d":  -0.0435,
+                       "volRatio":  0.84,
                        "inCandidates":  false
                    },
                    {
@@ -4754,10 +4754,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  227.5,
-                       "ret5d":  -0.0109,
-                       "ret20d":  -0.1284,
-                       "volRatio":  0.59,
+                       "latestPrice":  223.5,
+                       "ret5d":  -0.0154,
+                       "ret20d":  -0.1518,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -4767,10 +4767,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  1340,
-                       "ret5d":  0.0152,
-                       "ret20d":  0.1652,
-                       "volRatio":  1.87,
+                       "latestPrice":  1300,
+                       "ret5d":  -0.0299,
+                       "ret20d":  0.0569,
+                       "volRatio":  0.62,
                        "inCandidates":  false
                    },
                    {
@@ -4780,10 +4780,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  19.1,
-                       "ret5d":  -0.0255,
-                       "ret20d":  -0.2172,
-                       "volRatio":  0.61,
+                       "latestPrice":  18.05,
+                       "ret5d":  -0.0648,
+                       "ret20d":  -0.2541,
+                       "volRatio":  1.19,
                        "inCandidates":  false
                    },
                    {
@@ -4793,11 +4793,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  4105,
-                       "ret5d":  0.0392,
-                       "ret20d":  0.0263,
-                       "volRatio":  1.33,
-                       "inCandidates":  true
+                       "latestPrice":  3950,
+                       "ret5d":  -0.0307,
+                       "ret20d":  -0.0909,
+                       "volRatio":  0.48,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "8028",
@@ -4806,10 +4806,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  185,
-                       "ret5d":  -0.0212,
-                       "ret20d":  0.1012,
-                       "volRatio":  0.91,
+                       "latestPrice":  182,
+                       "ret5d":  -0.0215,
+                       "ret20d":  0.0898,
+                       "volRatio":  1.39,
                        "inCandidates":  true
                    },
                    {
@@ -4819,10 +4819,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  264.5,
-                       "ret5d":  0.0862,
-                       "ret20d":  0.3529,
-                       "volRatio":  2.27,
+                       "latestPrice":  238.5,
+                       "ret5d":  0.0106,
+                       "ret20d":  0.1749,
+                       "volRatio":  0.73,
                        "inCandidates":  true
                    },
                    {
@@ -4832,11 +4832,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  117.5,
-                       "ret5d":  -0.082,
-                       "ret20d":  0.4174,
-                       "volRatio":  0.85,
-                       "inCandidates":  true
+                       "latestPrice":  109.5,
+                       "ret5d":  -0.1061,
+                       "ret20d":  0.3535,
+                       "volRatio":  0.38,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "8033",
@@ -4846,9 +4846,9 @@
                        "sector":  "",
                        "pool":  "Stock",
                        "latestPrice":  152,
-                       "ret5d":  0.0742,
-                       "ret20d":  0.0896,
-                       "volRatio":  1.35,
+                       "ret5d":  0.0629,
+                       "ret20d":  0.027,
+                       "volRatio":  2.15,
                        "inCandidates":  true
                    },
                    {
@@ -4858,7 +4858,7 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "MAIN",
-                       "latestPrice":  81,
+                       "latestPrice":  80.7,
                        "ret5d":  null,
                        "ret20d":  null,
                        "volRatio":  null,
@@ -4871,10 +4871,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  410.5,
-                       "ret5d":  -0.0226,
-                       "ret20d":  -0.0796,
-                       "volRatio":  1.97,
+                       "latestPrice":  395.5,
+                       "ret5d":  -0.0412,
+                       "ret20d":  -0.1647,
+                       "volRatio":  0.42,
                        "inCandidates":  false
                    },
                    {
@@ -4884,10 +4884,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  201,
-                       "ret5d":  0,
-                       "ret20d":  0.0579,
-                       "volRatio":  2.01,
+                       "latestPrice":  195.5,
+                       "ret5d":  -0.0322,
+                       "ret20d":  0.0289,
+                       "volRatio":  0.49,
                        "inCandidates":  false
                    },
                    {
@@ -4897,10 +4897,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  20.5,
-                       "ret5d":  0.0049,
-                       "ret20d":  0.0174,
-                       "volRatio":  0.54,
+                       "latestPrice":  20.05,
+                       "ret5d":  -0.005,
+                       "ret20d":  -0.022,
+                       "volRatio":  0.69,
                        "inCandidates":  false
                    },
                    {
@@ -4910,10 +4910,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  320,
-                       "ret5d":  -0.0031,
-                       "ret20d":  0.2075,
-                       "volRatio":  1.35,
+                       "latestPrice":  324.5,
+                       "ret5d":  0.0468,
+                       "ret20d":  0.1843,
+                       "volRatio":  1.16,
                        "inCandidates":  false
                    },
                    {
@@ -4923,10 +4923,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  77.2,
-                       "ret5d":  -0.071,
-                       "ret20d":  -0.146,
-                       "volRatio":  0.31,
+                       "latestPrice":  73,
+                       "ret5d":  -0.1098,
+                       "ret20d":  -0.1098,
+                       "volRatio":  0.73,
                        "inCandidates":  false
                    },
                    {
@@ -4936,10 +4936,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  35.4,
-                       "ret5d":  -0.0139,
-                       "ret20d":  -0.1094,
-                       "volRatio":  0.52,
+                       "latestPrice":  34.7,
+                       "ret5d":  -0.0266,
+                       "ret20d":  -0.1259,
+                       "volRatio":  0.79,
                        "inCandidates":  false
                    },
                    {
@@ -4949,10 +4949,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  116,
-                       "ret5d":  -0.0128,
-                       "ret20d":  -0.0373,
-                       "volRatio":  0.4,
+                       "latestPrice":  114.5,
+                       "ret5d":  -0.0338,
+                       "ret20d":  -0.0537,
+                       "volRatio":  1.91,
                        "inCandidates":  false
                    },
                    {
@@ -4962,10 +4962,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  83.1,
-                       "ret5d":  0.0073,
-                       "ret20d":  0.0012,
-                       "volRatio":  0.45,
+                       "latestPrice":  83.2,
+                       "ret5d":  -0.006,
+                       "ret20d":  -0.0083,
+                       "volRatio":  0.48,
                        "inCandidates":  false
                    },
                    {
@@ -4975,9 +4975,9 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  31.15,
-                       "ret5d":  0.0383,
-                       "ret20d":  -0.1407,
+                       "latestPrice":  30.5,
+                       "ret5d":  -0.0409,
+                       "ret20d":  -0.1551,
                        "volRatio":  0.71,
                        "inCandidates":  false
                    },
@@ -4989,9 +4989,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  14.3,
-                       "ret5d":  -0.0921,
-                       "ret20d":  -0.2474,
-                       "volRatio":  0.88,
+                       "ret5d":  -0.0069,
+                       "ret20d":  -0.2099,
+                       "volRatio":  0.8,
                        "inCandidates":  false
                    },
                    {
@@ -5001,10 +5001,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  28.1,
-                       "ret5d":  0.0036,
-                       "ret20d":  -0.095,
-                       "volRatio":  1.27,
+                       "latestPrice":  28.15,
+                       "ret5d":  -0.0035,
+                       "ret20d":  -0.1162,
+                       "volRatio":  1.49,
                        "inCandidates":  false
                    },
                    {
@@ -5014,10 +5014,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  83,
-                       "ret5d":  -0.0095,
-                       "ret20d":  -0.0685,
-                       "volRatio":  0.35,
+                       "latestPrice":  82.9,
+                       "ret5d":  -0.0012,
+                       "ret20d":  -0.0969,
+                       "volRatio":  0.12,
                        "inCandidates":  false
                    },
                    {
@@ -5028,9 +5028,9 @@
                        "sector":  "",
                        "pool":  "Stock",
                        "latestPrice":  36.4,
-                       "ret5d":  0.0028,
-                       "ret20d":  -0.0408,
-                       "volRatio":  0.63,
+                       "ret5d":  0.0055,
+                       "ret20d":  -0.0421,
+                       "volRatio":  0.45,
                        "inCandidates":  false
                    },
                    {
@@ -5040,10 +5040,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  422.5,
-                       "ret5d":  0.0819,
-                       "ret20d":  -0.0343,
-                       "volRatio":  0.88,
+                       "latestPrice":  399,
+                       "ret5d":  0.0364,
+                       "ret20d":  -0.0556,
+                       "volRatio":  0.85,
                        "inCandidates":  false
                    },
                    {
@@ -5053,10 +5053,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  192,
-                       "ret5d":  -0.0588,
-                       "ret20d":  0.3196,
-                       "volRatio":  1.05,
+                       "latestPrice":  185,
+                       "ret5d":  -0.0585,
+                       "ret20d":  0.1562,
+                       "volRatio":  0.38,
                        "inCandidates":  false
                    },
                    {
@@ -5066,10 +5066,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  48.2,
-                       "ret5d":  -0.0379,
-                       "ret20d":  0.0147,
-                       "volRatio":  0.26,
+                       "latestPrice":  47.85,
+                       "ret5d":  -0.0618,
+                       "ret20d":  0.001,
+                       "volRatio":  0.53,
                        "inCandidates":  false
                    },
                    {
@@ -5079,10 +5079,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  262.5,
-                       "ret5d":  0.3291,
-                       "ret20d":  0.1564,
-                       "volRatio":  3.21,
+                       "latestPrice":  288.5,
+                       "ret5d":  0.4212,
+                       "ret20d":  0.2225,
+                       "volRatio":  3.89,
                        "inCandidates":  false
                    },
                    {
@@ -5092,10 +5092,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  143,
-                       "ret5d":  -0.0138,
-                       "ret20d":  0.402,
-                       "volRatio":  0.38,
+                       "latestPrice":  151.5,
+                       "ret5d":  0.0632,
+                       "ret20d":  0.478,
+                       "volRatio":  1.37,
                        "inCandidates":  false
                    },
                    {
@@ -5105,10 +5105,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  323.5,
-                       "ret5d":  -0.0401,
-                       "ret20d":  -0.2477,
-                       "volRatio":  0.93,
+                       "latestPrice":  326.5,
+                       "ret5d":  -0.0369,
+                       "ret20d":  -0.2389,
+                       "volRatio":  1.14,
                        "inCandidates":  false
                    },
                    {
@@ -5681,7 +5681,7 @@
                        "ret5d":  0.0187,
                        "ret20d":  -0.0714,
                        "volRatio":  1.6,
-                       "inCandidates":  false
+                       "inCandidates":  true
                    },
                    {
                        "code":  "3158",
@@ -5976,10 +5976,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  58.9,
-                       "ret5d":  0.012,
-                       "ret20d":  -0.0117,
-                       "volRatio":  1,
+                       "latestPrice":  58.2,
+                       "ret5d":  0.0034,
+                       "ret20d":  -0.0235,
+                       "volRatio":  0.72,
                        "inCandidates":  false
                    },
                    {
@@ -5989,10 +5989,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  115.5,
-                       "ret5d":  -0.0086,
-                       "ret20d":  -0.0415,
-                       "volRatio":  0.48,
+                       "latestPrice":  114,
+                       "ret5d":  -0.013,
+                       "ret20d":  -0.0339,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -6002,11 +6002,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  25.95,
-                       "ret5d":  -0.0699,
-                       "ret20d":  -0.1082,
-                       "volRatio":  1.55,
-                       "inCandidates":  false
+                       "latestPrice":  24.95,
+                       "ret5d":  -0.0655,
+                       "ret20d":  -0.1441,
+                       "volRatio":  1.66,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "9944",
@@ -6015,10 +6015,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  16.3,
-                       "ret5d":  -0.0121,
-                       "ret20d":  -0.0269,
-                       "volRatio":  1.16,
+                       "latestPrice":  16.2,
+                       "ret5d":  -0.0152,
+                       "ret20d":  -0.0386,
+                       "volRatio":  0.93,
                        "inCandidates":  false
                    },
                    {
@@ -6028,10 +6028,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  117,
-                       "ret5d":  -0.029,
-                       "ret20d":  -0.0168,
-                       "volRatio":  1.23,
+                       "latestPrice":  115,
+                       "ret5d":  -0.065,
+                       "ret20d":  -0.0456,
+                       "volRatio":  1.08,
                        "inCandidates":  false
                    },
                    {
@@ -6041,10 +6041,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  47.75,
-                       "ret5d":  -0.0195,
-                       "ret20d":  -0.0782,
-                       "volRatio":  1.13,
+                       "latestPrice":  46.9,
+                       "ret5d":  -0.037,
+                       "ret20d":  -0.1015,
+                       "volRatio":  1.46,
                        "inCandidates":  false
                    },
                    {
@@ -6054,10 +6054,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  79,
-                       "ret5d":  0.0436,
-                       "ret20d":  0.03,
-                       "volRatio":  2.6,
+                       "latestPrice":  77.9,
+                       "ret5d":  0.0143,
+                       "ret20d":  0.0196,
+                       "volRatio":  2.23,
                        "inCandidates":  true
                    },
                    {
@@ -6067,10 +6067,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  20.2,
-                       "ret5d":  0.0025,
-                       "ret20d":  -0.0734,
-                       "volRatio":  0.93,
+                       "latestPrice":  20,
+                       "ret5d":  -0.0099,
+                       "ret20d":  -0.095,
+                       "volRatio":  0.87,
                        "inCandidates":  false
                    },
                    {
@@ -6110,7 +6110,7 @@
                        "ret5d":  -0.0108,
                        "ret20d":  -0.0047,
                        "volRatio":  0.81,
-                       "inCandidates":  false
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00886",
@@ -6132,10 +6132,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  33.3,
-                       "ret5d":  -0.0526,
-                       "ret20d":  -0.003,
-                       "volRatio":  0.33,
+                       "latestPrice":  31.05,
+                       "ret5d":  -0.1103,
+                       "ret20d":  -0.0461,
+                       "volRatio":  0.66,
                        "inCandidates":  false
                    },
                    {
@@ -6145,10 +6145,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  18.45,
-                       "ret5d":  0.0193,
-                       "ret20d":  0.1284,
-                       "volRatio":  1.07,
+                       "latestPrice":  18.5,
+                       "ret5d":  0.0027,
+                       "ret20d":  0.1111,
+                       "volRatio":  0.85,
                        "inCandidates":  false
                    },
                    {
@@ -6171,11 +6171,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  127,
-                       "ret5d":  -0.0039,
-                       "ret20d":  0,
-                       "volRatio":  0.76,
-                       "inCandidates":  false
+                       "latestPrice":  121,
+                       "ret5d":  -0.0656,
+                       "ret20d":  -0.0397,
+                       "volRatio":  1.54,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "9925",
@@ -6184,10 +6184,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  40.8,
-                       "ret5d":  0.0025,
-                       "ret20d":  -0.0085,
-                       "volRatio":  0.62,
+                       "latestPrice":  40.6,
+                       "ret5d":  -0.0037,
+                       "ret20d":  -0.011,
+                       "volRatio":  1.18,
                        "inCandidates":  false
                    },
                    {
@@ -6198,9 +6198,9 @@
                        "sector":  "",
                        "pool":  "Stock",
                        "latestPrice":  45.15,
-                       "ret5d":  0.0011,
-                       "ret20d":  -0.0554,
-                       "volRatio":  0.63,
+                       "ret5d":  -0.0022,
+                       "ret20d":  -0.0515,
+                       "volRatio":  0.9,
                        "inCandidates":  false
                    },
                    {
@@ -6210,10 +6210,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  67.7,
-                       "ret5d":  0.0135,
-                       "ret20d":  -0.0203,
-                       "volRatio":  1.17,
+                       "latestPrice":  67.1,
+                       "ret5d":  -0.0161,
+                       "ret20d":  -0.0359,
+                       "volRatio":  1.11,
                        "inCandidates":  false
                    },
                    {
@@ -6223,10 +6223,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  49.95,
-                       "ret5d":  -0.0148,
-                       "ret20d":  0.0101,
-                       "volRatio":  0.77,
+                       "latestPrice":  50.1,
+                       "ret5d":  -0.0079,
+                       "ret20d":  0.007,
+                       "volRatio":  0.96,
                        "inCandidates":  false
                    },
                    {
@@ -6236,10 +6236,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  46.7,
-                       "ret5d":  -0.022,
-                       "ret20d":  0.1748,
-                       "volRatio":  2.37,
+                       "latestPrice":  51.3,
+                       "ret5d":  0.0938,
+                       "ret20d":  0.2825,
+                       "volRatio":  1.18,
                        "inCandidates":  true
                    },
                    {
@@ -6249,10 +6249,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  113.5,
-                       "ret5d":  0.0044,
-                       "ret20d":  0.0708,
-                       "volRatio":  1.09,
+                       "latestPrice":  111.5,
+                       "ret5d":  -0.0304,
+                       "ret20d":  0.0569,
+                       "volRatio":  0.53,
                        "inCandidates":  false
                    },
                    {
@@ -6262,10 +6262,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  71,
-                       "ret5d":  0,
-                       "ret20d":  -0.183,
-                       "volRatio":  1.05,
+                       "latestPrice":  73.2,
+                       "ret5d":  -0.0214,
+                       "ret20d":  -0.1644,
+                       "volRatio":  0.93,
                        "inCandidates":  false
                    },
                    {
@@ -6275,10 +6275,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  15.4,
-                       "ret5d":  -0.0128,
-                       "ret20d":  -0.0778,
-                       "volRatio":  0.73,
+                       "latestPrice":  16.2,
+                       "ret5d":  0.0519,
+                       "ret20d":  -0.0357,
+                       "volRatio":  3.91,
                        "inCandidates":  false
                    },
                    {
@@ -6288,10 +6288,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  9.6,
-                       "ret5d":  0.001,
-                       "ret20d":  -0.0361,
-                       "volRatio":  0.86,
+                       "latestPrice":  9.47,
+                       "ret5d":  -0.0021,
+                       "ret20d":  -0.0492,
+                       "volRatio":  0.69,
                        "inCandidates":  false
                    },
                    {
@@ -6301,10 +6301,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  34.25,
-                       "ret5d":  0.0118,
-                       "ret20d":  0.1066,
-                       "volRatio":  0.93,
+                       "latestPrice":  34.65,
+                       "ret5d":  0.0087,
+                       "ret20d":  0.1177,
+                       "volRatio":  1.39,
                        "inCandidates":  true
                    },
                    {
@@ -6314,10 +6314,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  56.7,
-                       "ret5d":  -0.0035,
+                       "latestPrice":  56.6,
+                       "ret5d":  -0.007,
                        "ret20d":  -0.0105,
-                       "volRatio":  0.22,
+                       "volRatio":  0.69,
                        "inCandidates":  false
                    },
                    {
@@ -6327,10 +6327,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  19.7,
-                       "ret5d":  0.0077,
-                       "ret20d":  0.0234,
-                       "volRatio":  0.49,
+                       "latestPrice":  19.65,
+                       "ret5d":  -0.0076,
+                       "ret20d":  0.0077,
+                       "volRatio":  0.65,
                        "inCandidates":  false
                    },
                    {
@@ -6340,10 +6340,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  15,
-                       "ret5d":  0.4851,
-                       "ret20d":  0.4151,
-                       "volRatio":  4.73,
+                       "latestPrice":  13.9,
+                       "ret5d":  0.343,
+                       "ret20d":  0.3301,
+                       "volRatio":  1.3,
                        "inCandidates":  false
                    },
                    {
@@ -6355,8 +6355,8 @@
                        "pool":  "Other",
                        "latestPrice":  17.9,
                        "ret5d":  0,
-                       "ret20d":  -0.0219,
-                       "volRatio":  0.33,
+                       "ret20d":  -0.0138,
+                       "volRatio":  1.15,
                        "inCandidates":  false
                    },
                    {
@@ -6366,10 +6366,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  39.2,
-                       "ret5d":  -0.02,
-                       "ret20d":  0.1496,
-                       "volRatio":  3.3,
+                       "latestPrice":  43.1,
+                       "ret5d":  0.108,
+                       "ret20d":  0.2602,
+                       "volRatio":  1.86,
                        "inCandidates":  false
                    },
                    {
@@ -6379,10 +6379,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  70,
-                       "ret5d":  0,
-                       "ret20d":  0.013,
-                       "volRatio":  0.9,
+                       "latestPrice":  69.2,
+                       "ret5d":  -0.0114,
+                       "ret20d":  -0.0128,
+                       "volRatio":  1.58,
                        "inCandidates":  false
                    },
                    {
@@ -6613,7 +6613,7 @@
                        "market":  "TPEX",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  9.46,
+                       "latestPrice":  9.27,
                        "ret5d":  null,
                        "ret20d":  null,
                        "volRatio":  null,
@@ -7536,7 +7536,7 @@
                        "market":  "TPEX",
                        "sector":  "",
                        "pool":  "MAIN",
-                       "latestPrice":  164.5,
+                       "latestPrice":  148.5,
                        "ret5d":  null,
                        "ret20d":  null,
                        "volRatio":  null,
@@ -9399,7 +9399,7 @@
                        "ret5d":  0.0444,
                        "ret20d":  0.0199,
                        "volRatio":  0.89,
-                       "inCandidates":  false
+                       "inCandidates":  true
                    },
                    {
                        "code":  "8040",
@@ -9438,7 +9438,7 @@
                        "ret5d":  0.0339,
                        "ret20d":  0.0532,
                        "volRatio":  0.65,
-                       "inCandidates":  false
+                       "inCandidates":  true
                    },
                    {
                        "code":  "8032",
@@ -10019,7 +10019,7 @@
                        "market":  "TPEX",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  275,
+                       "latestPrice":  265,
                        "ret5d":  0.335,
                        "ret20d":  0.285,
                        "volRatio":  3.84,
@@ -11501,7 +11501,7 @@
                        "market":  "TPEX",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  427,
+                       "latestPrice":  385,
                        "ret5d":  0.2881,
                        "ret20d":  0.6298,
                        "volRatio":  7.07,
@@ -13646,10 +13646,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  26,
-                       "ret5d":  0.0236,
-                       "ret20d":  -0.037,
-                       "volRatio":  0.44,
+                       "latestPrice":  25.85,
+                       "ret5d":  0.0177,
+                       "ret20d":  -0.0479,
+                       "volRatio":  0.56,
                        "inCandidates":  false
                    },
                    {
@@ -13659,10 +13659,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  10.85,
-                       "ret5d":  0.1326,
-                       "ret20d":  0.2514,
-                       "volRatio":  4.2,
+                       "latestPrice":  10.3,
+                       "ret5d":  0.0865,
+                       "ret20d":  0.1638,
+                       "volRatio":  1.85,
                        "inCandidates":  true
                    },
                    {
@@ -13672,9 +13672,9 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  68.8,
-                       "ret5d":  0.0253,
-                       "ret20d":  0.0424,
+                       "latestPrice":  67.3,
+                       "ret5d":  -0.0088,
+                       "ret20d":  0,
                        "volRatio":  0.87,
                        "inCandidates":  false
                    },
@@ -13685,10 +13685,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  9.82,
-                       "ret5d":  0.0851,
-                       "ret20d":  0.1459,
-                       "volRatio":  5.34,
+                       "latestPrice":  9.26,
+                       "ret5d":  0.0535,
+                       "ret20d":  0.0289,
+                       "volRatio":  2.69,
                        "inCandidates":  false
                    },
                    {
@@ -13698,10 +13698,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  24.2,
-                       "ret5d":  0.0168,
-                       "ret20d":  0.0104,
-                       "volRatio":  2.21,
+                       "latestPrice":  24.3,
+                       "ret5d":  0.0083,
+                       "ret20d":  -0.0021,
+                       "volRatio":  1.41,
                        "inCandidates":  false
                    },
                    {
@@ -13711,10 +13711,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  16.45,
-                       "ret5d":  0.093,
-                       "ret20d":  -0.0208,
-                       "volRatio":  1.54,
+                       "latestPrice":  16.15,
+                       "ret5d":  0.0767,
+                       "ret20d":  -0.0528,
+                       "volRatio":  0.77,
                        "inCandidates":  false
                    },
                    {
@@ -13724,10 +13724,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  25.45,
-                       "ret5d":  0.0517,
-                       "ret20d":  0.1516,
-                       "volRatio":  2.36,
+                       "latestPrice":  24.8,
+                       "ret5d":  0.0312,
+                       "ret20d":  0.1022,
+                       "volRatio":  1.07,
                        "inCandidates":  true
                    },
                    {
@@ -13737,10 +13737,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  19.6,
-                       "ret5d":  0.1297,
-                       "ret20d":  0.0829,
-                       "volRatio":  3.01,
+                       "latestPrice":  18.15,
+                       "ret5d":  0.0461,
+                       "ret20d":  0,
+                       "volRatio":  4.94,
                        "inCandidates":  true
                    },
                    {
@@ -13750,10 +13750,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  44.45,
-                       "ret5d":  0.0125,
-                       "ret20d":  0.0737,
-                       "volRatio":  2.49,
+                       "latestPrice":  44,
+                       "ret5d":  0,
+                       "ret20d":  0.0526,
+                       "volRatio":  2.87,
                        "inCandidates":  false
                    },
                    {
@@ -13763,10 +13763,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  20.7,
-                       "ret5d":  0.0172,
-                       "ret20d":  -0.035,
-                       "volRatio":  2.08,
+                       "latestPrice":  20.4,
+                       "ret5d":  -0.0024,
+                       "ret20d":  -0.0664,
+                       "volRatio":  0.92,
                        "inCandidates":  false
                    },
                    {
@@ -13776,10 +13776,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  19.25,
-                       "ret5d":  0.1127,
-                       "ret20d":  0.049,
-                       "volRatio":  8.76,
+                       "latestPrice":  19.05,
+                       "ret5d":  0.1012,
+                       "ret20d":  0.0133,
+                       "volRatio":  4.46,
                        "inCandidates":  false
                    },
                    {
@@ -13789,10 +13789,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  40.25,
-                       "ret5d":  0.0281,
-                       "ret20d":  0.0164,
-                       "volRatio":  2.99,
+                       "latestPrice":  40.65,
+                       "ret5d":  0.0396,
+                       "ret20d":  0.0163,
+                       "volRatio":  1.51,
                        "inCandidates":  true
                    },
                    {
@@ -13802,10 +13802,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  16.55,
-                       "ret5d":  0.0782,
-                       "ret20d":  0.0091,
-                       "volRatio":  5.47,
+                       "latestPrice":  16,
+                       "ret5d":  0.0458,
+                       "ret20d":  -0.0303,
+                       "volRatio":  2.86,
                        "inCandidates":  false
                    },
                    {
@@ -13815,10 +13815,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  15.5,
-                       "ret5d":  0.0508,
-                       "ret20d":  -0.052,
-                       "volRatio":  1.32,
+                       "latestPrice":  14.75,
+                       "ret5d":  0.0137,
+                       "ret20d":  -0.1006,
+                       "volRatio":  0.81,
                        "inCandidates":  false
                    },
                    {
@@ -13828,10 +13828,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  14.55,
-                       "ret5d":  0,
-                       "ret20d":  -0.0169,
-                       "volRatio":  1.11,
+                       "latestPrice":  14.5,
+                       "ret5d":  0.0035,
+                       "ret20d":  -0.0301,
+                       "volRatio":  0.92,
                        "inCandidates":  false
                    },
                    {
@@ -13841,10 +13841,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  37.5,
-                       "ret5d":  0.026,
-                       "ret20d":  0.0135,
-                       "volRatio":  2.26,
+                       "latestPrice":  36.6,
+                       "ret5d":  0.0055,
+                       "ret20d":  -0.0201,
+                       "volRatio":  1.33,
                        "inCandidates":  true
                    },
                    {
@@ -13854,10 +13854,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  11.6,
-                       "ret5d":  0.0943,
-                       "ret20d":  -0.0453,
-                       "volRatio":  3.14,
+                       "latestPrice":  12.75,
+                       "ret5d":  0.1972,
+                       "ret20d":  0.0494,
+                       "volRatio":  6.2,
                        "inCandidates":  false
                    },
                    {
@@ -13867,10 +13867,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  49.35,
-                       "ret5d":  -0.012,
-                       "ret20d":  -0.1027,
-                       "volRatio":  0.54,
+                       "latestPrice":  48.65,
+                       "ret5d":  -0.0201,
+                       "ret20d":  -0.1203,
+                       "volRatio":  1.02,
                        "inCandidates":  false
                    },
                    {
@@ -13880,10 +13880,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  38.75,
-                       "ret5d":  0.0026,
-                       "ret20d":  0,
-                       "volRatio":  0.47,
+                       "latestPrice":  38.65,
+                       "ret5d":  -0.0013,
+                       "ret20d":  -0.0051,
+                       "volRatio":  0.75,
                        "inCandidates":  false
                    },
                    {
@@ -13893,11 +13893,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  11.7,
-                       "ret5d":  0.0174,
-                       "ret20d":  -0.025,
-                       "volRatio":  0.98,
-                       "inCandidates":  false
+                       "latestPrice":  12.5,
+                       "ret5d":  0.0823,
+                       "ret20d":  0.046,
+                       "volRatio":  4.46,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "1904",
@@ -13906,10 +13906,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  17.55,
-                       "ret5d":  0.0145,
-                       "ret20d":  -0.0436,
-                       "volRatio":  1.38,
+                       "latestPrice":  18.35,
+                       "ret5d":  0.0456,
+                       "ret20d":  -0.0134,
+                       "volRatio":  2.75,
                        "inCandidates":  false
                    },
                    {
@@ -13919,10 +13919,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  30.7,
-                       "ret5d":  -0.0223,
-                       "ret20d":  -0.0254,
-                       "volRatio":  0.97,
+                       "latestPrice":  30.35,
+                       "ret5d":  -0.0241,
+                       "ret20d":  -0.0441,
+                       "volRatio":  0.7,
                        "inCandidates":  false
                    },
                    {
@@ -13932,10 +13932,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  8.61,
-                       "ret5d":  -0.0012,
-                       "ret20d":  -0.0205,
-                       "volRatio":  0.66,
+                       "latestPrice":  8.52,
+                       "ret5d":  -0.0058,
+                       "ret20d":  -0.0405,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -13945,10 +13945,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  17.9,
-                       "ret5d":  0.0113,
-                       "ret20d":  -0.0245,
-                       "volRatio":  0.56,
+                       "latestPrice":  17.65,
+                       "ret5d":  0.0028,
+                       "ret20d":  -0.0587,
+                       "volRatio":  0.44,
                        "inCandidates":  false
                    },
                    {
@@ -13957,11 +13957,11 @@
                        "ticker":  "1809.TW",
                        "market":  "TWSE",
                        "sector":  "",
-                       "pool":  "Stock",
-                       "latestPrice":  32.45,
-                       "ret5d":  0.2481,
-                       "ret20d":  0.3987,
-                       "volRatio":  4.81,
+                       "pool":  "LowPrice",
+                       "latestPrice":  29.25,
+                       "ret5d":  0.1607,
+                       "ret20d":  0.2447,
+                       "volRatio":  0.91,
                        "inCandidates":  true
                    },
                    {
@@ -13971,10 +13971,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  8.63,
-                       "ret5d":  0.0966,
-                       "ret20d":  0.0563,
-                       "volRatio":  6.01,
+                       "latestPrice":  8.83,
+                       "ret5d":  0.1191,
+                       "ret20d":  0.0677,
+                       "volRatio":  5.17,
                        "inCandidates":  false
                    },
                    {
@@ -13984,10 +13984,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  70.5,
-                       "ret5d":  -0.0927,
-                       "ret20d":  -0.014,
-                       "volRatio":  2.7,
+                       "latestPrice":  71.2,
+                       "ret5d":  -0.0668,
+                       "ret20d":  -0.0111,
+                       "volRatio":  1.44,
                        "inCandidates":  true
                    },
                    {
@@ -13997,10 +13997,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  41.85,
-                       "ret5d":  -0.0141,
-                       "ret20d":  -0.0478,
-                       "volRatio":  0.82,
+                       "latestPrice":  40.45,
+                       "ret5d":  -0.038,
+                       "ret20d":  -0.0951,
+                       "volRatio":  0.81,
                        "inCandidates":  false
                    },
                    {
@@ -14010,10 +14010,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  27.85,
-                       "ret5d":  -0.0089,
-                       "ret20d":  -0.0527,
-                       "volRatio":  0.22,
+                       "latestPrice":  27.55,
+                       "ret5d":  -0.0161,
+                       "ret20d":  -0.0755,
+                       "volRatio":  0.56,
                        "inCandidates":  false
                    },
                    {
@@ -14023,10 +14023,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  24,
-                       "ret5d":  0.0042,
-                       "ret20d":  -0.0769,
-                       "volRatio":  0.66,
+                       "latestPrice":  24.5,
+                       "ret5d":  0.0124,
+                       "ret20d":  -0.0541,
+                       "volRatio":  2.53,
                        "inCandidates":  false
                    },
                    {
@@ -14036,10 +14036,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  11.2,
-                       "ret5d":  -0.0044,
-                       "ret20d":  -0.0386,
-                       "volRatio":  1.29,
+                       "latestPrice":  11,
+                       "ret5d":  -0.0135,
+                       "ret20d":  -0.0795,
+                       "volRatio":  1.93,
                        "inCandidates":  false
                    },
                    {
@@ -14049,10 +14049,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  19.45,
-                       "ret5d":  0.0183,
-                       "ret20d":  -0.0512,
-                       "volRatio":  1.81,
+                       "latestPrice":  19.05,
+                       "ret5d":  -0.0052,
+                       "ret20d":  -0.0885,
+                       "volRatio":  1.39,
                        "inCandidates":  true
                    },
                    {
@@ -14062,10 +14062,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  9.2,
-                       "ret5d":  -0.0043,
-                       "ret20d":  -0.0754,
-                       "volRatio":  0.58,
+                       "latestPrice":  9.24,
+                       "ret5d":  0.0043,
+                       "ret20d":  -0.0704,
+                       "volRatio":  1.77,
                        "inCandidates":  false
                    },
                    {
@@ -14075,10 +14075,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  16.9,
-                       "ret5d":  0.1155,
-                       "ret20d":  0.0305,
-                       "volRatio":  4.83,
+                       "latestPrice":  16.4,
+                       "ret5d":  0.0825,
+                       "ret20d":  -0.018,
+                       "volRatio":  7.48,
                        "inCandidates":  false
                    },
                    {
@@ -14088,10 +14088,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  496,
-                       "ret5d":  0.0154,
-                       "ret20d":  -0.0694,
-                       "volRatio":  1.22,
+                       "latestPrice":  481,
+                       "ret5d":  0,
+                       "ret20d":  -0.1239,
+                       "volRatio":  0.79,
                        "inCandidates":  false
                    },
                    {
@@ -14101,10 +14101,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  58.2,
-                       "ret5d":  0.0034,
-                       "ret20d":  -0.0332,
-                       "volRatio":  1.64,
+                       "latestPrice":  58.1,
+                       "ret5d":  -0.0051,
+                       "ret20d":  -0.0444,
+                       "volRatio":  1.12,
                        "inCandidates":  false
                    },
                    {
@@ -14114,10 +14114,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  100.5,
-                       "ret5d":  -0.0243,
-                       "ret20d":  -0.0337,
-                       "volRatio":  0.91,
+                       "latestPrice":  101,
+                       "ret5d":  -0.0194,
+                       "ret20d":  0.005,
+                       "volRatio":  1.52,
                        "inCandidates":  false
                    },
                    {
@@ -14127,10 +14127,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  21.6,
-                       "ret5d":  0.0047,
-                       "ret20d":  -0.0526,
-                       "volRatio":  0.56,
+                       "latestPrice":  20.7,
+                       "ret5d":  -0.0633,
+                       "ret20d":  -0.1191,
+                       "volRatio":  0.65,
                        "inCandidates":  false
                    },
                    {
@@ -14140,10 +14140,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  21.35,
-                       "ret5d":  -0.0511,
-                       "ret20d":  -0.1196,
-                       "volRatio":  1.09,
+                       "latestPrice":  21.15,
+                       "ret5d":  -0.0117,
+                       "ret20d":  -0.135,
+                       "volRatio":  0.49,
                        "inCandidates":  false
                    },
                    {
@@ -14153,10 +14153,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  88.8,
-                       "ret5d":  -0.0011,
-                       "ret20d":  -0.0067,
-                       "volRatio":  0.23,
+                       "latestPrice":  88.3,
+                       "ret5d":  -0.0023,
+                       "ret20d":  -0.0134,
+                       "volRatio":  1.06,
                        "inCandidates":  false
                    },
                    {
@@ -14166,10 +14166,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  54.9,
-                       "ret5d":  -0.0335,
-                       "ret20d":  -0.0351,
-                       "volRatio":  2.51,
+                       "latestPrice":  54.6,
+                       "ret5d":  -0.0336,
+                       "ret20d":  -0.0793,
+                       "volRatio":  0.66,
                        "inCandidates":  false
                    },
                    {
@@ -14179,10 +14179,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  28,
-                       "ret5d":  0.0054,
-                       "ret20d":  -0.0894,
-                       "volRatio":  0.94,
+                       "latestPrice":  27.2,
+                       "ret5d":  -0.0181,
+                       "ret20d":  -0.1126,
+                       "volRatio":  0.64,
                        "inCandidates":  false
                    },
                    {
@@ -14192,10 +14192,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  22.7,
-                       "ret5d":  -0.0658,
-                       "ret20d":  -0.1805,
-                       "volRatio":  1.37,
+                       "latestPrice":  22.1,
+                       "ret5d":  -0.0412,
+                       "ret20d":  -0.186,
+                       "volRatio":  1.14,
                        "inCandidates":  false
                    },
                    {
@@ -14205,10 +14205,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  108,
-                       "ret5d":  -0.0442,
-                       "ret20d":  -0.0442,
-                       "volRatio":  0.62,
+                       "latestPrice":  104,
+                       "ret5d":  -0.0673,
+                       "ret20d":  -0.0756,
+                       "volRatio":  3.41,
                        "inCandidates":  false
                    },
                    {
@@ -14218,10 +14218,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  19.5,
-                       "ret5d":  0.25,
-                       "ret20d":  0.6738,
-                       "volRatio":  0.87,
+                       "latestPrice":  19,
+                       "ret5d":  0.1079,
+                       "ret20d":  0.6034,
+                       "volRatio":  0.74,
                        "inCandidates":  false
                    },
                    {
@@ -14231,10 +14231,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  31.85,
-                       "ret5d":  0.1021,
-                       "ret20d":  0.0546,
-                       "volRatio":  3.28,
+                       "latestPrice":  30.9,
+                       "ret5d":  0.0528,
+                       "ret20d":  0.0369,
+                       "volRatio":  1.45,
                        "inCandidates":  false
                    },
                    {
@@ -14244,10 +14244,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  88,
-                       "ret5d":  -0.02,
-                       "ret20d":  -0.0737,
-                       "volRatio":  1.17,
+                       "latestPrice":  87.4,
+                       "ret5d":  -0.0289,
+                       "ret20d":  -0.0712,
+                       "volRatio":  1.36,
                        "inCandidates":  false
                    },
                    {
@@ -14257,10 +14257,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  49.95,
-                       "ret5d":  -0.0089,
-                       "ret20d":  -0.054,
-                       "volRatio":  0.43,
+                       "latestPrice":  49.85,
+                       "ret5d":  -0.003,
+                       "ret20d":  -0.0734,
+                       "volRatio":  0.49,
                        "inCandidates":  false
                    },
                    {
@@ -14270,10 +14270,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  235,
-                       "ret5d":  0.0375,
-                       "ret20d":  0.0538,
-                       "volRatio":  1.12,
+                       "latestPrice":  226,
+                       "ret5d":  -0.03,
+                       "ret20d":  0.0135,
+                       "volRatio":  0.7,
                        "inCandidates":  true
                    },
                    {
@@ -14283,10 +14283,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  82.2,
-                       "ret5d":  0.0012,
-                       "ret20d":  -0.0887,
-                       "volRatio":  0.63,
+                       "latestPrice":  90.4,
+                       "ret5d":  0.1188,
+                       "ret20d":  -0.0044,
+                       "volRatio":  2.1,
                        "inCandidates":  false
                    },
                    {
@@ -14296,10 +14296,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  20.2,
-                       "ret5d":  -0.0025,
-                       "ret20d":  -0.0648,
-                       "volRatio":  0.92,
+                       "latestPrice":  19.95,
+                       "ret5d":  -0.0172,
+                       "ret20d":  -0.0567,
+                       "volRatio":  0.78,
                        "inCandidates":  false
                    },
                    {
@@ -14309,10 +14309,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  3405,
-                       "ret5d":  0.0119,
-                       "ret20d":  0.1601,
-                       "volRatio":  1.5,
+                       "latestPrice":  3400,
+                       "ret5d":  0.0241,
+                       "ret20d":  0.1221,
+                       "volRatio":  1.05,
                        "inCandidates":  false
                    },
                    {
@@ -14322,10 +14322,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  35.35,
-                       "ret5d":  0.1082,
-                       "ret20d":  0.0086,
-                       "volRatio":  2.75,
+                       "latestPrice":  34.6,
+                       "ret5d":  0.0932,
+                       "ret20d":  -0.0156,
+                       "volRatio":  0.8,
                        "inCandidates":  true
                    },
                    {
@@ -14335,10 +14335,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  18.85,
-                       "ret5d":  -0.0157,
-                       "ret20d":  0.0162,
-                       "volRatio":  1.88,
+                       "latestPrice":  18.25,
+                       "ret5d":  -0.0369,
+                       "ret20d":  -0.0241,
+                       "volRatio":  1.09,
                        "inCandidates":  false
                    },
                    {
@@ -14348,10 +14348,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  20.5,
-                       "ret5d":  0.025,
-                       "ret20d":  -0.0238,
-                       "volRatio":  1.89,
+                       "latestPrice":  20.1,
+                       "ret5d":  0.0025,
+                       "ret20d":  -0.0496,
+                       "volRatio":  1.01,
                        "inCandidates":  false
                    },
                    {
@@ -14361,10 +14361,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  15.6,
-                       "ret5d":  -0.037,
-                       "ret20d":  -0.04,
-                       "volRatio":  3.13,
+                       "latestPrice":  15.35,
+                       "ret5d":  -0.0525,
+                       "ret20d":  -0.0612,
+                       "volRatio":  1.11,
                        "inCandidates":  false
                    },
                    {
@@ -14374,10 +14374,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  223.5,
-                       "ret5d":  -0.0629,
-                       "ret20d":  -0.0449,
-                       "volRatio":  0.57,
+                       "latestPrice":  221,
+                       "ret5d":  -0.0515,
+                       "ret20d":  -0.0474,
+                       "volRatio":  0.43,
                        "inCandidates":  false
                    },
                    {
@@ -14387,10 +14387,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  16.25,
-                       "ret5d":  0.1054,
-                       "ret20d":  0.0656,
-                       "volRatio":  4.95,
+                       "latestPrice":  15.5,
+                       "ret5d":  0.0544,
+                       "ret20d":  -0.0064,
+                       "volRatio":  6.45,
                        "inCandidates":  false
                    },
                    {
@@ -14400,10 +14400,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  25.15,
-                       "ret5d":  0.006,
-                       "ret20d":  0.002,
-                       "volRatio":  0.45,
+                       "latestPrice":  25.05,
+                       "ret5d":  0.002,
+                       "ret20d":  -0.0079,
+                       "volRatio":  1.13,
                        "inCandidates":  false
                    },
                    {
@@ -14413,10 +14413,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  17.85,
-                       "ret5d":  -0.0219,
-                       "ret20d":  -0.0916,
-                       "volRatio":  1.9,
+                       "latestPrice":  17.65,
+                       "ret5d":  -0.0302,
+                       "ret20d":  -0.1086,
+                       "volRatio":  1.13,
                        "inCandidates":  false
                    },
                    {
@@ -14427,9 +14427,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  15.15,
-                       "ret5d":  0.0033,
-                       "ret20d":  0.0236,
-                       "volRatio":  0.82,
+                       "ret5d":  0.0066,
+                       "ret20d":  0.0134,
+                       "volRatio":  0.66,
                        "inCandidates":  false
                    },
                    {
@@ -14439,10 +14439,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  25.35,
-                       "ret5d":  -0.0193,
-                       "ret20d":  0.0497,
-                       "volRatio":  2.74,
+                       "latestPrice":  25.8,
+                       "ret5d":  0.0157,
+                       "ret20d":  0.075,
+                       "volRatio":  1.6,
                        "inCandidates":  false
                    },
                    {
@@ -14452,10 +14452,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  20.65,
-                       "ret5d":  -0.0484,
-                       "ret20d":  0.2747,
-                       "volRatio":  0.88,
+                       "latestPrice":  19.95,
+                       "ret5d":  -0.0362,
+                       "ret20d":  0.2277,
+                       "volRatio":  0.71,
                        "inCandidates":  true
                    },
                    {
@@ -14465,10 +14465,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  19.15,
-                       "ret5d":  0.0241,
-                       "ret20d":  -0.0129,
-                       "volRatio":  0.65,
+                       "latestPrice":  18.95,
+                       "ret5d":  -0.0104,
+                       "ret20d":  -0.0405,
+                       "volRatio":  0.36,
                        "inCandidates":  false
                    },
                    {
@@ -14477,11 +14477,11 @@
                        "ticker":  "2105.TW",
                        "market":  "TWSE",
                        "sector":  "",
-                       "pool":  "Stock",
-                       "latestPrice":  30.3,
-                       "ret5d":  0.0306,
-                       "ret20d":  0.0017,
-                       "volRatio":  0.43,
+                       "pool":  "LowPrice",
+                       "latestPrice":  29.7,
+                       "ret5d":  -0.0116,
+                       "ret20d":  -0.0373,
+                       "volRatio":  0.32,
                        "inCandidates":  false
                    },
                    {
@@ -14491,11 +14491,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  12.65,
-                       "ret5d":  0.0202,
-                       "ret20d":  0.1448,
-                       "volRatio":  0.88,
-                       "inCandidates":  true
+                       "latestPrice":  12.15,
+                       "ret5d":  -0.0082,
+                       "ret20d":  0.08,
+                       "volRatio":  0.49,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "1805",
@@ -14504,10 +14504,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  11.7,
-                       "ret5d":  0.1415,
-                       "ret20d":  -0.0127,
-                       "volRatio":  7.65,
+                       "latestPrice":  12,
+                       "ret5d":  0.165,
+                       "ret20d":  0.0213,
+                       "volRatio":  6.21,
                        "inCandidates":  false
                    },
                    {
@@ -14517,10 +14517,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  35.6,
-                       "ret5d":  0.0425,
-                       "ret20d":  -0.0014,
-                       "volRatio":  0.54,
+                       "latestPrice":  35,
+                       "ret5d":  -0.0251,
+                       "ret20d":  -0.0196,
+                       "volRatio":  0.79,
                        "inCandidates":  false
                    },
                    {
@@ -14530,10 +14530,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  13.5,
-                       "ret5d":  0.0189,
-                       "ret20d":  0.0345,
-                       "volRatio":  0.9,
+                       "latestPrice":  13.35,
+                       "ret5d":  0.0191,
+                       "ret20d":  0.0152,
+                       "volRatio":  0.85,
                        "inCandidates":  false
                    },
                    {
@@ -14543,10 +14543,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  46.35,
-                       "ret5d":  0.0087,
-                       "ret20d":  -0.0273,
-                       "volRatio":  0.3,
+                       "latestPrice":  45.4,
+                       "ret5d":  -0.013,
+                       "ret20d":  -0.0512,
+                       "volRatio":  0.54,
                        "inCandidates":  false
                    },
                    {
@@ -14556,10 +14556,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  32.1,
-                       "ret5d":  -0.0047,
-                       "ret20d":  -0.0503,
-                       "volRatio":  1.04,
+                       "latestPrice":  31.75,
+                       "ret5d":  -0.0124,
+                       "ret20d":  -0.0703,
+                       "volRatio":  0.77,
                        "inCandidates":  false
                    },
                    {
@@ -14569,10 +14569,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  31.85,
-                       "ret5d":  -0.0062,
-                       "ret20d":  -0.0781,
-                       "volRatio":  0.77,
+                       "latestPrice":  30.15,
+                       "ret5d":  -0.0836,
+                       "ret20d":  -0.1311,
+                       "volRatio":  0.81,
                        "inCandidates":  false
                    },
                    {
@@ -14582,10 +14582,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  25.05,
-                       "ret5d":  0.002,
-                       "ret20d":  0.0503,
-                       "volRatio":  0.63,
+                       "latestPrice":  24.85,
+                       "ret5d":  -0.006,
+                       "ret20d":  0.0311,
+                       "volRatio":  0.79,
                        "inCandidates":  false
                    },
                    {
@@ -14595,10 +14595,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  33.8,
-                       "ret5d":  -0.0598,
-                       "ret20d":  -0.1117,
-                       "volRatio":  0.96,
+                       "latestPrice":  32.9,
+                       "ret5d":  -0.0797,
+                       "ret20d":  -0.1586,
+                       "volRatio":  0.79,
                        "inCandidates":  false
                    },
                    {
@@ -14608,10 +14608,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  33.25,
-                       "ret5d":  0.0137,
-                       "ret20d":  -0.0221,
-                       "volRatio":  0.72,
+                       "latestPrice":  31.95,
+                       "ret5d":  -0.0448,
+                       "ret20d":  -0.0753,
+                       "volRatio":  0.75,
                        "inCandidates":  false
                    },
                    {
@@ -14621,10 +14621,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  35.6,
-                       "ret5d":  0,
-                       "ret20d":  -0.0469,
-                       "volRatio":  0.85,
+                       "latestPrice":  35.15,
+                       "ret5d":  -0.0154,
+                       "ret20d":  -0.0589,
+                       "volRatio":  0.68,
                        "inCandidates":  false
                    },
                    {
@@ -14635,9 +14635,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  10.15,
-                       "ret5d":  -0.024,
-                       "ret20d":  -0.0514,
-                       "volRatio":  0.52,
+                       "ret5d":  -0.0379,
+                       "ret20d":  -0.0645,
+                       "volRatio":  1.4,
                        "inCandidates":  false
                    },
                    {
@@ -14647,10 +14647,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  44.75,
-                       "ret5d":  0.1387,
-                       "ret20d":  0.2786,
-                       "volRatio":  1.79,
+                       "latestPrice":  42.6,
+                       "ret5d":  -0.0139,
+                       "ret20d":  0.2119,
+                       "volRatio":  2.03,
                        "inCandidates":  true
                    },
                    {
@@ -14660,10 +14660,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  119.5,
-                       "ret5d":  0,
-                       "ret20d":  -0.0245,
-                       "volRatio":  0.85,
+                       "latestPrice":  119,
+                       "ret5d":  -0.0042,
+                       "ret20d":  -0.0246,
+                       "volRatio":  0.74,
                        "inCandidates":  false
                    },
                    {
@@ -14673,10 +14673,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  14.9,
-                       "ret5d":  -0.01,
-                       "ret20d":  -0.0802,
-                       "volRatio":  1,
+                       "latestPrice":  14.45,
+                       "ret5d":  -0.0302,
+                       "ret20d":  -0.0997,
+                       "volRatio":  1.22,
                        "inCandidates":  false
                    },
                    {
@@ -14686,10 +14686,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  23.95,
-                       "ret5d":  -0.0608,
-                       "ret20d":  -0.1522,
-                       "volRatio":  0.97,
+                       "latestPrice":  23.9,
+                       "ret5d":  -0.0363,
+                       "ret20d":  -0.1555,
+                       "volRatio":  0.79,
                        "inCandidates":  false
                    },
                    {
@@ -14712,10 +14712,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  40.8,
-                       "ret5d":  -0.0157,
-                       "ret20d":  -0.1062,
-                       "volRatio":  0.79,
+                       "latestPrice":  39.9,
+                       "ret5d":  -0.0339,
+                       "ret20d":  -0.1084,
+                       "volRatio":  0.62,
                        "inCandidates":  false
                    },
                    {
@@ -14725,10 +14725,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  474,
-                       "ret5d":  0.0304,
-                       "ret20d":  0.1408,
-                       "volRatio":  0.62,
+                       "latestPrice":  442,
+                       "ret5d":  -0.0254,
+                       "ret20d":  0.04,
+                       "volRatio":  1.25,
                        "inCandidates":  true
                    },
                    {
@@ -14738,10 +14738,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  93.2,
-                       "ret5d":  -0.0085,
-                       "ret20d":  -0.0251,
-                       "volRatio":  1.4,
+                       "latestPrice":  92.2,
+                       "ret5d":  -0.0212,
+                       "ret20d":  -0.0305,
+                       "volRatio":  0.72,
                        "inCandidates":  false
                    },
                    {
@@ -14751,10 +14751,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  22.6,
-                       "ret5d":  0.0203,
-                       "ret20d":  -0.0238,
-                       "volRatio":  0.64,
+                       "latestPrice":  22.7,
+                       "ret5d":  0.0157,
+                       "ret20d":  0.0022,
+                       "volRatio":  0.9,
                        "inCandidates":  false
                    },
                    {
@@ -14764,10 +14764,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  40.25,
-                       "ret5d":  -0.0111,
-                       "ret20d":  -0.1381,
-                       "volRatio":  0.96,
+                       "latestPrice":  40,
+                       "ret5d":  -0.0244,
+                       "ret20d":  -0.1257,
+                       "volRatio":  1.16,
                        "inCandidates":  false
                    },
                    {
@@ -14777,10 +14777,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  17,
-                       "ret5d":  -0.0145,
-                       "ret20d":  -0.0529,
-                       "volRatio":  0.26,
+                       "latestPrice":  16.55,
+                       "ret5d":  -0.0178,
+                       "ret20d":  -0.0806,
+                       "volRatio":  1.25,
                        "inCandidates":  false
                    },
                    {
@@ -14790,10 +14790,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  16.85,
-                       "ret5d":  -0.0453,
-                       "ret20d":  -0.3642,
-                       "volRatio":  0.44,
+                       "latestPrice":  16.2,
+                       "ret5d":  -0.0743,
+                       "ret20d":  -0.3647,
+                       "volRatio":  0.42,
                        "inCandidates":  false
                    },
                    {
@@ -14803,10 +14803,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  25.3,
-                       "ret5d":  0.012,
-                       "ret20d":  0.0222,
-                       "volRatio":  0.66,
+                       "latestPrice":  25.15,
+                       "ret5d":  0.0121,
+                       "ret20d":  -0.0098,
+                       "volRatio":  0.65,
                        "inCandidates":  false
                    },
                    {
@@ -14816,10 +14816,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  22.15,
-                       "ret5d":  -0.0199,
-                       "ret20d":  -0.0713,
-                       "volRatio":  0.87,
+                       "latestPrice":  21.9,
+                       "ret5d":  -0.0179,
+                       "ret20d":  -0.0759,
+                       "volRatio":  0.64,
                        "inCandidates":  false
                    },
                    {
@@ -14829,10 +14829,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  80.3,
-                       "ret5d":  0.0622,
-                       "ret20d":  0.0216,
-                       "volRatio":  1.17,
+                       "latestPrice":  83.8,
+                       "ret5d":  0.0744,
+                       "ret20d":  0.0841,
+                       "volRatio":  6.14,
                        "inCandidates":  false
                    },
                    {
@@ -14842,10 +14842,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  981,
-                       "ret5d":  -0.0382,
-                       "ret20d":  -0.2024,
-                       "volRatio":  0.69,
+                       "latestPrice":  963,
+                       "ret5d":  -0.0512,
+                       "ret20d":  -0.1975,
+                       "volRatio":  0.3,
                        "inCandidates":  false
                    },
                    {
@@ -14855,10 +14855,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  33.85,
-                       "ret5d":  -0.0174,
-                       "ret20d":  -0.108,
-                       "volRatio":  0.38,
+                       "latestPrice":  33.15,
+                       "ret5d":  -0.0321,
+                       "ret20d":  -0.1253,
+                       "volRatio":  0.44,
                        "inCandidates":  false
                    },
                    {
@@ -14868,10 +14868,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  19.9,
-                       "ret5d":  0.0051,
-                       "ret20d":  -0.0075,
-                       "volRatio":  0.52,
+                       "latestPrice":  19.75,
+                       "ret5d":  -0.0295,
+                       "ret20d":  0.0025,
+                       "volRatio":  0.56,
                        "inCandidates":  false
                    },
                    {
@@ -14881,10 +14881,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  44.95,
-                       "ret5d":  0.0429,
-                       "ret20d":  -0.0635,
-                       "volRatio":  0.89,
+                       "latestPrice":  43.65,
+                       "ret5d":  0.0259,
+                       "ret20d":  -0.0849,
+                       "volRatio":  1.26,
                        "inCandidates":  false
                    },
                    {
@@ -14894,11 +14894,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  88.2,
-                       "ret5d":  -0.0233,
-                       "ret20d":  0.2971,
-                       "volRatio":  0.61,
-                       "inCandidates":  true
+                       "latestPrice":  84.8,
+                       "ret5d":  -0.0208,
+                       "ret20d":  0.238,
+                       "volRatio":  0.38,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "1589",
@@ -14908,9 +14908,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  7.71,
-                       "ret5d":  -0.0338,
-                       "ret20d":  -0.5226,
-                       "volRatio":  0.65,
+                       "ret5d":  -0.1209,
+                       "ret20d":  -0.5341,
+                       "volRatio":  0.8,
                        "inCandidates":  false
                    },
                    {
@@ -14920,10 +14920,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  35.5,
-                       "ret5d":  -0.0533,
-                       "ret20d":  -0.2215,
-                       "volRatio":  0.76,
+                       "latestPrice":  34.4,
+                       "ret5d":  -0.0802,
+                       "ret20d":  -0.2594,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -14934,9 +14934,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  18.2,
-                       "ret5d":  0.0643,
+                       "ret5d":  -0.0055,
                        "ret20d":  0.0931,
-                       "volRatio":  1.59,
+                       "volRatio":  0.89,
                        "inCandidates":  false
                    },
                    {
@@ -14946,10 +14946,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  31.5,
-                       "ret5d":  -0.0032,
+                       "latestPrice":  31.45,
+                       "ret5d":  -0.0047,
                        "ret20d":  0.0016,
-                       "volRatio":  1.6,
+                       "volRatio":  0.94,
                        "inCandidates":  false
                    },
                    {
@@ -14959,10 +14959,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  123,
-                       "ret5d":  -0.0502,
-                       "ret20d":  -0.1151,
-                       "volRatio":  1.04,
+                       "latestPrice":  125.5,
+                       "ret5d":  -0.042,
+                       "ret20d":  -0.0906,
+                       "volRatio":  0.73,
                        "inCandidates":  false
                    },
                    {
@@ -14972,10 +14972,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  62,
-                       "ret5d":  0.0403,
-                       "ret20d":  -0.0048,
-                       "volRatio":  1.03,
+                       "latestPrice":  64,
+                       "ret5d":  0.0738,
+                       "ret20d":  0.039,
+                       "volRatio":  2.37,
                        "inCandidates":  false
                    },
                    {
@@ -14985,10 +14985,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  36.25,
-                       "ret5d":  -0.0082,
-                       "ret20d":  -0.0176,
-                       "volRatio":  0.79,
+                       "latestPrice":  36.05,
+                       "ret5d":  -0.0096,
+                       "ret20d":  -0.0257,
+                       "volRatio":  0.91,
                        "inCandidates":  false
                    },
                    {
@@ -14998,10 +14998,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  29.1,
-                       "ret5d":  0,
-                       "ret20d":  -0.0475,
-                       "volRatio":  1.16,
+                       "latestPrice":  28.8,
+                       "ret5d":  -0.012,
+                       "ret20d":  -0.0619,
+                       "volRatio":  0.65,
                        "inCandidates":  false
                    },
                    {
@@ -15011,10 +15011,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  26,
-                       "ret5d":  -0.0133,
-                       "ret20d":  -0.0545,
-                       "volRatio":  0.89,
+                       "latestPrice":  26.35,
+                       "ret5d":  -0.0019,
+                       "ret20d":  -0.047,
+                       "volRatio":  2.32,
                        "inCandidates":  false
                    },
                    {
@@ -15024,11 +15024,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  28.95,
-                       "ret5d":  0.2189,
-                       "ret20d":  0.7335,
-                       "volRatio":  0.61,
-                       "inCandidates":  true
+                       "latestPrice":  27.05,
+                       "ret5d":  0.0364,
+                       "ret20d":  0.6595,
+                       "volRatio":  0.31,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "1734",
@@ -15037,10 +15037,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  31,
-                       "ret5d":  0.0049,
-                       "ret20d":  0.0114,
-                       "volRatio":  0.77,
+                       "latestPrice":  30.95,
+                       "ret5d":  0.0016,
+                       "ret20d":  0.0131,
+                       "volRatio":  0.76,
                        "inCandidates":  false
                    },
                    {
@@ -15050,10 +15050,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  21.25,
-                       "ret5d":  0.0241,
-                       "ret20d":  -0.0319,
-                       "volRatio":  0.99,
+                       "latestPrice":  20.8,
+                       "ret5d":  -0.0393,
+                       "ret20d":  -0.0393,
+                       "volRatio":  0.51,
                        "inCandidates":  false
                    },
                    {
@@ -15063,10 +15063,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  64.2,
-                       "ret5d":  -0.0228,
-                       "ret20d":  -0.1108,
-                       "volRatio":  0.71,
+                       "latestPrice":  64,
+                       "ret5d":  -0.0214,
+                       "ret20d":  -0.1061,
+                       "volRatio":  0.89,
                        "inCandidates":  false
                    },
                    {
@@ -15076,10 +15076,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  57.6,
-                       "ret5d":  -0.0017,
-                       "ret20d":  0.3458,
-                       "volRatio":  0.91,
+                       "latestPrice":  51.9,
+                       "ret5d":  -0.1588,
+                       "ret20d":  0.1031,
+                       "volRatio":  0.8,
                        "inCandidates":  true
                    },
                    {
@@ -15089,10 +15089,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  214,
-                       "ret5d":  -0.097,
-                       "ret20d":  -0.3405,
-                       "volRatio":  1.48,
+                       "latestPrice":  205.5,
+                       "ret5d":  -0.1161,
+                       "ret20d":  -0.2974,
+                       "volRatio":  0.7,
                        "inCandidates":  false
                    },
                    {
@@ -15102,11 +15102,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  150,
-                       "ret5d":  -0.0033,
-                       "ret20d":  0.0453,
-                       "volRatio":  0.57,
-                       "inCandidates":  true
+                       "latestPrice":  142,
+                       "ret5d":  -0.0405,
+                       "ret20d":  -0.0274,
+                       "volRatio":  0.74,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "1762",
@@ -15115,10 +15115,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  29.05,
-                       "ret5d":  0.0157,
-                       "ret20d":  0.1282,
-                       "volRatio":  0.43,
+                       "latestPrice":  28.7,
+                       "ret5d":  -0.0171,
+                       "ret20d":  0.0669,
+                       "volRatio":  0.47,
                        "inCandidates":  false
                    },
                    {
@@ -15128,10 +15128,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  44.35,
-                       "ret5d":  0.0242,
-                       "ret20d":  0.008,
-                       "volRatio":  0.81,
+                       "latestPrice":  43.75,
+                       "ret5d":  0.0139,
+                       "ret20d":  -0.0124,
+                       "volRatio":  0.47,
                        "inCandidates":  false
                    },
                    {
@@ -15154,10 +15154,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  66.7,
-                       "ret5d":  0.0309,
-                       "ret20d":  0.204,
-                       "volRatio":  2.62,
+                       "latestPrice":  62,
+                       "ret5d":  -0.0252,
+                       "ret20d":  0.0915,
+                       "volRatio":  1.15,
                        "inCandidates":  true
                    },
                    {
@@ -15167,10 +15167,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  9.68,
-                       "ret5d":  0.0488,
-                       "ret20d":  0.0649,
-                       "volRatio":  0.97,
+                       "latestPrice":  9.48,
+                       "ret5d":  0.0107,
+                       "ret20d":  0.0249,
+                       "volRatio":  0.66,
                        "inCandidates":  true
                    },
                    {
@@ -15180,10 +15180,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  62.3,
-                       "ret5d":  -0.0095,
-                       "ret20d":  0.0247,
-                       "volRatio":  0.61,
+                       "latestPrice":  61.9,
+                       "ret5d":  -0.019,
+                       "ret20d":  0.0198,
+                       "volRatio":  0.41,
                        "inCandidates":  false
                    },
                    {
@@ -15193,10 +15193,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  7.71,
-                       "ret5d":  0.028,
-                       "ret20d":  0.0983,
-                       "volRatio":  2.55,
+                       "latestPrice":  7.66,
+                       "ret5d":  0.0379,
+                       "ret20d":  0.0804,
+                       "volRatio":  1.39,
                        "inCandidates":  true
                    },
                    {
@@ -15206,11 +15206,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  41.8,
-                       "ret5d":  0.2941,
-                       "ret20d":  0.8214,
-                       "volRatio":  0.59,
-                       "inCandidates":  true
+                       "latestPrice":  38.45,
+                       "ret5d":  0.0831,
+                       "ret20d":  0.6717,
+                       "volRatio":  0.25,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "1710",
@@ -15219,10 +15219,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  15.35,
-                       "ret5d":  0.0887,
-                       "ret20d":  0.2231,
-                       "volRatio":  6.37,
+                       "latestPrice":  15.7,
+                       "ret5d":  0.1544,
+                       "ret20d":  0.246,
+                       "volRatio":  3.65,
                        "inCandidates":  true
                    },
                    {
@@ -15232,10 +15232,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  47.6,
-                       "ret5d":  0.0149,
-                       "ret20d":  0.0021,
-                       "volRatio":  1.05,
+                       "latestPrice":  48.05,
+                       "ret5d":  0.0148,
+                       "ret20d":  0.0126,
+                       "volRatio":  0.75,
                        "inCandidates":  false
                    },
                    {
@@ -15245,10 +15245,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  44.55,
-                       "ret5d":  -0.0347,
-                       "ret20d":  -0.0368,
-                       "volRatio":  0.86,
+                       "latestPrice":  44,
+                       "ret5d":  -0.0507,
+                       "ret20d":  -0.0372,
+                       "volRatio":  0.64,
                        "inCandidates":  true
                    },
                    {
@@ -15258,11 +15258,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  53.4,
-                       "ret5d":  -0.1217,
-                       "ret20d":  0.3185,
-                       "volRatio":  0.69,
-                       "inCandidates":  true
+                       "latestPrice":  52.1,
+                       "ret5d":  -0.0579,
+                       "ret20d":  0.2361,
+                       "volRatio":  0.42,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "1726",
@@ -15271,10 +15271,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  75.4,
-                       "ret5d":  0.0027,
-                       "ret20d":  -0.0105,
-                       "volRatio":  0.55,
+                       "latestPrice":  75.3,
+                       "ret5d":  -0.0026,
+                       "ret20d":  -0.0157,
+                       "volRatio":  1.14,
                        "inCandidates":  false
                    },
                    {
@@ -15284,10 +15284,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  21.85,
-                       "ret5d":  -0.0023,
-                       "ret20d":  0,
-                       "volRatio":  0.8,
+                       "latestPrice":  21.75,
+                       "ret5d":  -0.0046,
+                       "ret20d":  -0.0091,
+                       "volRatio":  1.03,
                        "inCandidates":  false
                    },
                    {
@@ -15297,10 +15297,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  52.8,
-                       "ret5d":  -0.0038,
-                       "ret20d":  -0.0056,
-                       "volRatio":  0.28,
+                       "latestPrice":  52.5,
+                       "ret5d":  -0.0094,
+                       "ret20d":  -0.0132,
+                       "volRatio":  0.76,
                        "inCandidates":  false
                    },
                    {
@@ -15310,10 +15310,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  47.05,
-                       "ret5d":  -0.0095,
-                       "ret20d":  0.0173,
-                       "volRatio":  2.01,
+                       "latestPrice":  45.55,
+                       "ret5d":  -0.053,
+                       "ret20d":  -0.0183,
+                       "volRatio":  1.36,
                        "inCandidates":  true
                    },
                    {
@@ -15323,10 +15323,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  19,
-                       "ret5d":  0.0026,
-                       "ret20d":  0.0983,
-                       "volRatio":  1.1,
+                       "latestPrice":  18.05,
+                       "ret5d":  -0.1322,
+                       "ret20d":  0.0649,
+                       "volRatio":  0.57,
                        "inCandidates":  true
                    },
                    {
@@ -15336,10 +15336,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  33.1,
-                       "ret5d":  0.122,
-                       "ret20d":  0.2169,
-                       "volRatio":  3.89,
+                       "latestPrice":  32,
+                       "ret5d":  -0.0139,
+                       "ret20d":  0.1874,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -15349,10 +15349,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  74,
-                       "ret5d":  -0.0276,
-                       "ret20d":  0.0364,
-                       "volRatio":  1.4,
+                       "latestPrice":  75.7,
+                       "ret5d":  -0.0143,
+                       "ret20d":  0.0485,
+                       "volRatio":  2.12,
                        "inCandidates":  false
                    },
                    {
@@ -15362,10 +15362,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  23.8,
-                       "ret5d":  -0.0266,
-                       "ret20d":  -0.1019,
-                       "volRatio":  0.7,
+                       "latestPrice":  23.5,
+                       "ret5d":  -0.0249,
+                       "ret20d":  -0.1264,
+                       "volRatio":  0.58,
                        "inCandidates":  false
                    },
                    {
@@ -15375,10 +15375,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  35,
-                       "ret5d":  0.034,
-                       "ret20d":  0.9074,
-                       "volRatio":  0.27,
+                       "latestPrice":  33.5,
+                       "ret5d":  -0.0276,
+                       "ret20d":  0.7962,
+                       "volRatio":  0.19,
                        "inCandidates":  false
                    },
                    {
@@ -15388,10 +15388,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  47.6,
-                       "ret5d":  -0.0537,
-                       "ret20d":  -0.1545,
-                       "volRatio":  0.63,
+                       "latestPrice":  45.8,
+                       "ret5d":  -0.0949,
+                       "ret20d":  -0.1763,
+                       "volRatio":  0.73,
                        "inCandidates":  false
                    },
                    {
@@ -15401,10 +15401,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  161,
-                       "ret5d":  0.0063,
-                       "ret20d":  -0.064,
-                       "volRatio":  0.42,
+                       "latestPrice":  154.5,
+                       "ret5d":  -0.0344,
+                       "ret20d":  -0.1095,
+                       "volRatio":  0.63,
                        "inCandidates":  false
                    },
                    {
@@ -15414,10 +15414,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  49.1,
-                       "ret5d":  0.0304,
-                       "ret20d":  0.0984,
-                       "volRatio":  0.8,
+                       "latestPrice":  48.8,
+                       "ret5d":  0.0041,
+                       "ret20d":  0.0361,
+                       "volRatio":  0.89,
                        "inCandidates":  false
                    },
                    {
@@ -15427,10 +15427,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  143.5,
-                       "ret5d":  -0.0069,
-                       "ret20d":  -0.0205,
-                       "volRatio":  0.74,
+                       "latestPrice":  133,
+                       "ret5d":  -0.089,
+                       "ret20d":  -0.0796,
+                       "volRatio":  0.77,
                        "inCandidates":  false
                    },
                    {
@@ -15439,11 +15439,11 @@
                        "ticker":  "2425.TW",
                        "market":  "TWSE",
                        "sector":  "",
-                       "pool":  "Stock",
-                       "latestPrice":  30.65,
-                       "ret5d":  0,
-                       "ret20d":  0.0754,
-                       "volRatio":  0.96,
+                       "pool":  "Other",
+                       "latestPrice":  29.3,
+                       "ret5d":  -0.0564,
+                       "ret20d":  0.0772,
+                       "volRatio":  0.88,
                        "inCandidates":  false
                    },
                    {
@@ -15453,10 +15453,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  27.3,
-                       "ret5d":  -0.0945,
-                       "ret20d":  -0.1548,
-                       "volRatio":  2.11,
+                       "latestPrice":  25.5,
+                       "ret5d":  -0.1356,
+                       "ret20d":  -0.2249,
+                       "volRatio":  1.49,
                        "inCandidates":  false
                    },
                    {
@@ -15466,10 +15466,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  65.8,
-                       "ret5d":  0.0822,
-                       "ret20d":  0.1345,
-                       "volRatio":  1.06,
+                       "latestPrice":  64.8,
+                       "ret5d":  0.0286,
+                       "ret20d":  0.0909,
+                       "volRatio":  1.36,
                        "inCandidates":  true
                    },
                    {
@@ -15479,10 +15479,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  29.35,
-                       "ret5d":  -0.0084,
-                       "ret20d":  -0.0134,
-                       "volRatio":  0.46,
+                       "latestPrice":  29,
+                       "ret5d":  -0.0119,
+                       "ret20d":  -0.0268,
+                       "volRatio":  0.94,
                        "inCandidates":  false
                    },
                    {
@@ -15492,10 +15492,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  85.5,
-                       "ret5d":  0.0094,
-                       "ret20d":  -0.145,
-                       "volRatio":  0.87,
+                       "latestPrice":  83.3,
+                       "ret5d":  -0.0095,
+                       "ret20d":  -0.1645,
+                       "volRatio":  0.39,
                        "inCandidates":  false
                    },
                    {
@@ -15505,10 +15505,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  23,
-                       "ret5d":  0.1165,
-                       "ret20d":  0.1084,
-                       "volRatio":  1.62,
+                       "latestPrice":  21.85,
+                       "ret5d":  0.0685,
+                       "ret20d":  -0.0417,
+                       "volRatio":  0.91,
                        "inCandidates":  false
                    },
                    {
@@ -15518,10 +15518,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  12.95,
-                       "ret5d":  0.036,
-                       "ret20d":  -0.1309,
-                       "volRatio":  0.46,
+                       "latestPrice":  12.2,
+                       "ret5d":  -0.0469,
+                       "ret20d":  -0.1974,
+                       "volRatio":  0.35,
                        "inCandidates":  false
                    },
                    {
@@ -15531,10 +15531,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  22.25,
-                       "ret5d":  -0.022,
-                       "ret20d":  -0.0133,
-                       "volRatio":  0.83,
+                       "latestPrice":  22,
+                       "ret5d":  -0.0351,
+                       "ret20d":  -0.0308,
+                       "volRatio":  1.67,
                        "inCandidates":  false
                    },
                    {
@@ -15544,10 +15544,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  46.1,
-                       "ret5d":  -0.0043,
-                       "ret20d":  -0.0118,
-                       "volRatio":  0.97,
+                       "latestPrice":  45.6,
+                       "ret5d":  -0.0098,
+                       "ret20d":  -0.0256,
+                       "volRatio":  1.94,
                        "inCandidates":  false
                    },
                    {
@@ -15557,10 +15557,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  28.3,
-                       "ret5d":  0,
-                       "ret20d":  0.1622,
-                       "volRatio":  0.8,
+                       "latestPrice":  27.05,
+                       "ret5d":  -0.0235,
+                       "ret20d":  0.1132,
+                       "volRatio":  0.98,
                        "inCandidates":  false
                    },
                    {
@@ -15569,12 +15569,12 @@
                        "ticker":  "2405.TW",
                        "market":  "TWSE",
                        "sector":  "",
-                       "pool":  "Other",
-                       "latestPrice":  16.55,
-                       "ret5d":  0.122,
-                       "ret20d":  0.0541,
-                       "volRatio":  5.22,
-                       "inCandidates":  false
+                       "pool":  "LowPrice",
+                       "latestPrice":  15.35,
+                       "ret5d":  0.0233,
+                       "ret20d":  -0.016,
+                       "volRatio":  1.72,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "2404",
@@ -15583,11 +15583,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  930,
-                       "ret5d":  -0.0792,
-                       "ret20d":  0.0242,
-                       "volRatio":  1.61,
-                       "inCandidates":  true
+                       "latestPrice":  915,
+                       "ret5d":  -0.0508,
+                       "ret20d":  -0.0087,
+                       "volRatio":  0.78,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "2408",
@@ -15596,11 +15596,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  234,
-                       "ret5d":  -0.0168,
-                       "ret20d":  -0.1365,
-                       "volRatio":  1.7,
-                       "inCandidates":  true
+                       "latestPrice":  223,
+                       "ret5d":  -0.1472,
+                       "ret20d":  -0.1978,
+                       "volRatio":  0.85,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "2406",
@@ -15609,10 +15609,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  37.05,
-                       "ret5d":  0.0913,
-                       "ret20d":  0.3232,
-                       "volRatio":  0.98,
+                       "latestPrice":  35.75,
+                       "ret5d":  0.0273,
+                       "ret20d":  0.2098,
+                       "volRatio":  0.73,
                        "inCandidates":  true
                    },
                    {
@@ -15622,10 +15622,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  37.2,
-                       "ret5d":  0.4171,
-                       "ret20d":  0.6909,
-                       "volRatio":  4.89,
+                       "latestPrice":  34.3,
+                       "ret5d":  0.2634,
+                       "ret20d":  0.5806,
+                       "volRatio":  0.82,
                        "inCandidates":  true
                    },
                    {
@@ -15635,10 +15635,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  54.7,
-                       "ret5d":  -0.0055,
-                       "ret20d":  -0.0944,
-                       "volRatio":  0.77,
+                       "latestPrice":  53.5,
+                       "ret5d":  -0.0395,
+                       "ret20d":  -0.1157,
+                       "volRatio":  0.92,
                        "inCandidates":  false
                    },
                    {
@@ -15648,10 +15648,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  51,
-                       "ret5d":  -0.0058,
-                       "ret20d":  -0.0377,
-                       "volRatio":  0.71,
+                       "latestPrice":  49.6,
+                       "ret5d":  -0.0236,
+                       "ret20d":  -0.0642,
+                       "volRatio":  0.35,
                        "inCandidates":  false
                    },
                    {
@@ -15661,11 +15661,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  21.2,
-                       "ret5d":  0.0144,
-                       "ret20d":  0,
-                       "volRatio":  1.13,
-                       "inCandidates":  true
+                       "latestPrice":  20.5,
+                       "ret5d":  0,
+                       "ret20d":  -0.0465,
+                       "volRatio":  0.69,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "2417",
@@ -15674,10 +15674,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  35.55,
-                       "ret5d":  0.0216,
-                       "ret20d":  -0.0431,
-                       "volRatio":  0.62,
+                       "latestPrice":  34.8,
+                       "ret5d":  -0.0252,
+                       "ret20d":  -0.0531,
+                       "volRatio":  0.39,
                        "inCandidates":  false
                    },
                    {
@@ -15686,11 +15686,11 @@
                        "ticker":  "2415.TW",
                        "market":  "TWSE",
                        "sector":  "",
-                       "pool":  "Other",
-                       "latestPrice":  29.7,
-                       "ret5d":  0.0664,
-                       "ret20d":  0.0879,
-                       "volRatio":  1.64,
+                       "pool":  "Stock",
+                       "latestPrice":  30.2,
+                       "ret5d":  0.0653,
+                       "ret20d":  0.0786,
+                       "volRatio":  2.66,
                        "inCandidates":  false
                    },
                    {
@@ -15700,10 +15700,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  52.7,
-                       "ret5d":  0.0354,
-                       "ret20d":  0.0436,
-                       "volRatio":  1.06,
+                       "latestPrice":  52,
+                       "ret5d":  0.0196,
+                       "ret20d":  0.0196,
+                       "volRatio":  0.8,
                        "inCandidates":  false
                    },
                    {
@@ -15712,11 +15712,11 @@
                        "ticker":  "2419.TW",
                        "market":  "TWSE",
                        "sector":  "",
-                       "pool":  "Stock",
-                       "latestPrice":  30.95,
-                       "ret5d":  0.0545,
-                       "ret20d":  0.1214,
-                       "volRatio":  1.13,
+                       "pool":  "LowPrice",
+                       "latestPrice":  29.3,
+                       "ret5d":  0.0103,
+                       "ret20d":  0.054,
+                       "volRatio":  0.65,
                        "inCandidates":  true
                    },
                    {
@@ -15727,9 +15727,9 @@
                        "sector":  "",
                        "pool":  "Stock",
                        "latestPrice":  134,
-                       "ret5d":  -0.0147,
-                       "ret20d":  0.0113,
-                       "volRatio":  1.59,
+                       "ret5d":  -0.0183,
+                       "ret20d":  0.0075,
+                       "volRatio":  1.09,
                        "inCandidates":  true
                    },
                    {
@@ -15739,10 +15739,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  15.6,
-                       "ret5d":  -0.0574,
-                       "ret20d":  0.0576,
-                       "volRatio":  0.33,
+                       "latestPrice":  14.85,
+                       "ret5d":  -0.0541,
+                       "ret20d":  -0.0805,
+                       "volRatio":  0.34,
                        "inCandidates":  false
                    },
                    {
@@ -15752,10 +15752,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  43.95,
-                       "ret5d":  -0.0068,
-                       "ret20d":  0.0502,
-                       "volRatio":  0.5,
+                       "latestPrice":  43.2,
+                       "ret5d":  -0.0159,
+                       "ret20d":  0.0335,
+                       "volRatio":  0.69,
                        "inCandidates":  false
                    },
                    {
@@ -15765,10 +15765,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  56.9,
-                       "ret5d":  0.2303,
-                       "ret20d":  0.3036,
-                       "volRatio":  0.64,
+                       "latestPrice":  54.5,
+                       "ret5d":  0.0728,
+                       "ret20d":  0.3133,
+                       "volRatio":  0.52,
                        "inCandidates":  true
                    },
                    {
@@ -15779,9 +15779,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  14.6,
-                       "ret5d":  0.0069,
-                       "ret20d":  -0.0267,
-                       "volRatio":  0.59,
+                       "ret5d":  0.0139,
+                       "ret20d":  -0.0458,
+                       "volRatio":  1.04,
                        "inCandidates":  false
                    },
                    {
@@ -15791,10 +15791,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  129,
-                       "ret5d":  0.1781,
-                       "ret20d":  0.1889,
-                       "volRatio":  1.45,
+                       "latestPrice":  125.5,
+                       "ret5d":  0.0502,
+                       "ret20d":  0.1567,
+                       "volRatio":  0.99,
                        "inCandidates":  true
                    },
                    {
@@ -15804,10 +15804,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  53.6,
-                       "ret5d":  0.0249,
-                       "ret20d":  0.0428,
-                       "volRatio":  1.05,
+                       "latestPrice":  52.4,
+                       "ret5d":  -0.0095,
+                       "ret20d":  0.0335,
+                       "volRatio":  0.65,
                        "inCandidates":  false
                    },
                    {
@@ -15817,10 +15817,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  84,
-                       "ret5d":  0.0207,
-                       "ret20d":  0.0219,
-                       "volRatio":  1.55,
+                       "latestPrice":  82.9,
+                       "ret5d":  0.0324,
+                       "ret20d":  0,
+                       "volRatio":  0.69,
                        "inCandidates":  true
                    },
                    {
@@ -15830,10 +15830,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  186,
-                       "ret5d":  0.0027,
-                       "ret20d":  -0.0388,
-                       "volRatio":  1.82,
+                       "latestPrice":  182.5,
+                       "ret5d":  -0.0267,
+                       "ret20d":  -0.0519,
+                       "volRatio":  0.97,
                        "inCandidates":  false
                    },
                    {
@@ -15843,10 +15843,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  52.2,
-                       "ret5d":  0.2042,
-                       "ret20d":  -0.0526,
-                       "volRatio":  0.7,
+                       "latestPrice":  48.65,
+                       "ret5d":  0.134,
+                       "ret20d":  -0.0751,
+                       "volRatio":  0.45,
                        "inCandidates":  false
                    },
                    {
@@ -15856,10 +15856,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  62.8,
-                       "ret5d":  0.146,
-                       "ret20d":  0.2077,
-                       "volRatio":  2.66,
+                       "latestPrice":  56.6,
+                       "ret5d":  -0.0105,
+                       "ret20d":  0.0948,
+                       "volRatio":  0.72,
                        "inCandidates":  false
                    },
                    {
@@ -15869,10 +15869,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  40,
-                       "ret5d":  0.039,
-                       "ret20d":  0.0959,
-                       "volRatio":  0.95,
+                       "latestPrice":  37.85,
+                       "ret5d":  -0.0039,
+                       "ret20d":  0.0692,
+                       "volRatio":  0.54,
                        "inCandidates":  true
                    },
                    {
@@ -15882,10 +15882,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  367.5,
-                       "ret5d":  0.011,
-                       "ret20d":  0.3486,
-                       "volRatio":  0.85,
+                       "latestPrice":  355.5,
+                       "ret5d":  -0.0608,
+                       "ret20d":  0.3022,
+                       "volRatio":  0.81,
                        "inCandidates":  true
                    },
                    {
@@ -15895,10 +15895,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  21.15,
-                       "ret5d":  -0.014,
-                       "ret20d":  0.0522,
-                       "volRatio":  0.46,
+                       "latestPrice":  20.7,
+                       "ret5d":  -0.0166,
+                       "ret20d":  0.0197,
+                       "volRatio":  0.2,
                        "inCandidates":  false
                    },
                    {
@@ -15908,10 +15908,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  16,
-                       "ret5d":  -0.0123,
-                       "ret20d":  -0.0909,
-                       "volRatio":  0.91,
+                       "latestPrice":  15.65,
+                       "ret5d":  -0.0219,
+                       "ret20d":  -0.1208,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -15921,10 +15921,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  73.9,
-                       "ret5d":  0.1919,
-                       "ret20d":  0.9628,
-                       "volRatio":  0.21,
+                       "latestPrice":  78,
+                       "ret5d":  0.1437,
+                       "ret20d":  1.1196,
+                       "volRatio":  0.16,
                        "inCandidates":  false
                    },
                    {
@@ -15934,10 +15934,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  28.3,
-                       "ret5d":  0.052,
-                       "ret20d":  0.076,
-                       "volRatio":  0.81,
+                       "latestPrice":  26.75,
+                       "ret5d":  0.0056,
+                       "ret20d":  0.0133,
+                       "volRatio":  0.54,
                        "inCandidates":  true
                    },
                    {
@@ -15947,10 +15947,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  68.3,
-                       "ret5d":  0.0074,
-                       "ret20d":  0.1756,
-                       "volRatio":  0.94,
+                       "latestPrice":  64,
+                       "ret5d":  -0.0588,
+                       "ret20d":  0.0738,
+                       "volRatio":  0.6,
                        "inCandidates":  true
                    },
                    {
@@ -15960,10 +15960,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  24.5,
-                       "ret5d":  0,
-                       "ret20d":  0.0359,
-                       "volRatio":  0.46,
+                       "latestPrice":  24.1,
+                       "ret5d":  -0.0082,
+                       "ret20d":  0,
+                       "volRatio":  0.57,
                        "inCandidates":  false
                    },
                    {
@@ -15973,11 +15973,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  94.8,
-                       "ret5d":  -0.0217,
-                       "ret20d":  0.0773,
-                       "volRatio":  1.11,
-                       "inCandidates":  true
+                       "latestPrice":  92,
+                       "ret5d":  -0.0754,
+                       "ret20d":  0.0926,
+                       "volRatio":  0.46,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "2480",
@@ -15986,10 +15986,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  142,
-                       "ret5d":  0,
-                       "ret20d":  0.0179,
-                       "volRatio":  0.43,
+                       "latestPrice":  139.5,
+                       "ret5d":  -0.0279,
+                       "ret20d":  -0.0279,
+                       "volRatio":  1.21,
                        "inCandidates":  false
                    },
                    {
@@ -15999,11 +15999,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  302,
-                       "ret5d":  0.2797,
-                       "ret20d":  0.4178,
-                       "volRatio":  2.45,
-                       "inCandidates":  true
+                       "latestPrice":  272,
+                       "ret5d":  0.0482,
+                       "ret20d":  0.242,
+                       "volRatio":  0.42,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "2450",
@@ -16012,10 +16012,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  29.35,
-                       "ret5d":  0.0069,
-                       "ret20d":  0.0173,
-                       "volRatio":  0.42,
+                       "latestPrice":  28.9,
+                       "ret5d":  -0.0203,
+                       "ret20d":  0,
+                       "volRatio":  0.92,
                        "inCandidates":  false
                    },
                    {
@@ -16025,11 +16025,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  1700,
-                       "ret5d":  -0.0116,
-                       "ret20d":  -0.0786,
-                       "volRatio":  1.01,
-                       "inCandidates":  true
+                       "latestPrice":  1625,
+                       "ret5d":  -0.0497,
+                       "ret20d":  -0.124,
+                       "volRatio":  0.9,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "2453",
@@ -16038,10 +16038,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  55,
-                       "ret5d":  -0.0214,
-                       "ret20d":  0.0456,
-                       "volRatio":  0.88,
+                       "latestPrice":  54,
+                       "ret5d":  -0.0305,
+                       "ret20d":  0.0345,
+                       "volRatio":  0.75,
                        "inCandidates":  false
                    },
                    {
@@ -16051,11 +16051,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  20.7,
-                       "ret5d":  0.0508,
-                       "ret20d":  0,
-                       "volRatio":  1.28,
-                       "inCandidates":  true
+                       "latestPrice":  20.35,
+                       "ret5d":  -0.0145,
+                       "ret20d":  -0.0169,
+                       "volRatio":  0.7,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "2441",
@@ -16064,10 +16064,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  95.2,
-                       "ret5d":  0.12,
-                       "ret20d":  0.083,
-                       "volRatio":  3.11,
+                       "latestPrice":  90.8,
+                       "ret5d":  0.0771,
+                       "ret20d":  0.0248,
+                       "volRatio":  1.18,
                        "inCandidates":  true
                    },
                    {
@@ -16077,10 +16077,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  308,
-                       "ret5d":  0.0423,
-                       "ret20d":  0.0199,
-                       "volRatio":  2.3,
+                       "latestPrice":  286,
+                       "ret5d":  -0.0069,
+                       "ret20d":  -0.0877,
+                       "volRatio":  1.09,
                        "inCandidates":  true
                    },
                    {
@@ -16090,10 +16090,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  14.05,
-                       "ret5d":  0.0644,
-                       "ret20d":  0.1285,
-                       "volRatio":  0.79,
+                       "latestPrice":  13.6,
+                       "ret5d":  0.0543,
+                       "ret20d":  0.0924,
+                       "volRatio":  0.76,
                        "inCandidates":  false
                    },
                    {
@@ -16104,9 +16104,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  16.75,
-                       "ret5d":  0.0841,
-                       "ret20d":  0.0213,
-                       "volRatio":  1.02,
+                       "ret5d":  0.0806,
+                       "ret20d":  0.0182,
+                       "volRatio":  0.91,
                        "inCandidates":  false
                    },
                    {
@@ -16116,10 +16116,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  25.85,
-                       "ret5d":  0.0884,
-                       "ret20d":  0.034,
-                       "volRatio":  0.25,
+                       "latestPrice":  24.75,
+                       "ret5d":  0.0185,
+                       "ret20d":  -0.0607,
+                       "volRatio":  0.36,
                        "inCandidates":  false
                    },
                    {
@@ -16129,10 +16129,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  74.5,
-                       "ret5d":  0.0508,
-                       "ret20d":  0.0347,
-                       "volRatio":  0.74,
+                       "latestPrice":  72.5,
+                       "ret5d":  -0.0669,
+                       "ret20d":  0.0197,
+                       "volRatio":  0.54,
                        "inCandidates":  true
                    },
                    {
@@ -16142,10 +16142,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  22.65,
-                       "ret5d":  0.0203,
-                       "ret20d":  -0.0811,
-                       "volRatio":  0.7,
+                       "latestPrice":  22,
+                       "ret5d":  -0.0045,
+                       "ret20d":  -0.12,
+                       "volRatio":  0.64,
                        "inCandidates":  false
                    },
                    {
@@ -16155,10 +16155,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  27.5,
-                       "ret5d":  0.0036,
-                       "ret20d":  -0.0231,
-                       "volRatio":  0.68,
+                       "latestPrice":  26.4,
+                       "ret5d":  -0.0383,
+                       "ret20d":  -0.0622,
+                       "volRatio":  0.81,
                        "inCandidates":  false
                    },
                    {
@@ -16168,10 +16168,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  230,
-                       "ret5d":  -0.0316,
-                       "ret20d":  0.2105,
-                       "volRatio":  1.56,
+                       "latestPrice":  221.5,
+                       "ret5d":  -0.0328,
+                       "ret20d":  0.2306,
+                       "volRatio":  1.71,
                        "inCandidates":  true
                    },
                    {
@@ -16181,10 +16181,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  65.6,
-                       "ret5d":  0.0031,
-                       "ret20d":  -0.0061,
-                       "volRatio":  0.35,
+                       "latestPrice":  65.3,
+                       "ret5d":  -0.0091,
+                       "ret20d":  -0.0106,
+                       "volRatio":  0.71,
                        "inCandidates":  false
                    },
                    {
@@ -16194,10 +16194,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  136,
-                       "ret5d":  -0.049,
-                       "ret20d":  0.1286,
-                       "volRatio":  0.91,
+                       "latestPrice":  131,
+                       "ret5d":  -0.0709,
+                       "ret20d":  0.1008,
+                       "volRatio":  0.87,
                        "inCandidates":  true
                    },
                    {
@@ -16207,10 +16207,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  344,
-                       "ret5d":  0.0044,
-                       "ret20d":  0.1563,
-                       "volRatio":  0.8,
+                       "latestPrice":  330,
+                       "ret5d":  -0.0294,
+                       "ret20d":  0.082,
+                       "volRatio":  0.52,
                        "inCandidates":  true
                    },
                    {
@@ -16220,10 +16220,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  1840,
-                       "ret5d":  -0.0134,
-                       "ret20d":  -0.0213,
-                       "volRatio":  1.13,
+                       "latestPrice":  1810,
+                       "ret5d":  -0.019,
+                       "ret20d":  -0.0548,
+                       "volRatio":  0.95,
                        "inCandidates":  true
                    },
                    {
@@ -16233,10 +16233,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  62.1,
-                       "ret5d":  0.1806,
-                       "ret20d":  0.2297,
-                       "volRatio":  4.92,
+                       "latestPrice":  56.8,
+                       "ret5d":  0.0197,
+                       "ret20d":  0.1315,
+                       "volRatio":  1.33,
                        "inCandidates":  true
                    },
                    {
@@ -16246,10 +16246,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  15.35,
-                       "ret5d":  0.0166,
-                       "ret20d":  0.0099,
-                       "volRatio":  0.77,
+                       "latestPrice":  14.8,
+                       "ret5d":  -0.0166,
+                       "ret20d":  -0.0327,
+                       "volRatio":  0.93,
                        "inCandidates":  false
                    },
                    {
@@ -16259,9 +16259,9 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  23.5,
-                       "ret5d":  -0.0084,
-                       "ret20d":  -0.0693,
+                       "latestPrice":  22.4,
+                       "ret5d":  -0.0468,
+                       "ret20d":  -0.1164,
                        "volRatio":  0.44,
                        "inCandidates":  false
                    },
@@ -16272,10 +16272,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  33,
-                       "ret5d":  0.0248,
-                       "ret20d":  0.0784,
-                       "volRatio":  0.88,
+                       "latestPrice":  32.7,
+                       "ret5d":  0.0315,
+                       "ret20d":  0.0686,
+                       "volRatio":  0.85,
                        "inCandidates":  true
                    },
                    {
@@ -16285,10 +16285,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  13.1,
-                       "ret5d":  0.2476,
-                       "ret20d":  0.297,
-                       "volRatio":  2.79,
+                       "latestPrice":  11.95,
+                       "ret5d":  0.1546,
+                       "ret20d":  0.1546,
+                       "volRatio":  5.69,
                        "inCandidates":  true
                    },
                    {
@@ -16298,10 +16298,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  45.3,
-                       "ret5d":  -0.0174,
-                       "ret20d":  -0.0689,
-                       "volRatio":  0.65,
+                       "latestPrice":  44.65,
+                       "ret5d":  -0.024,
+                       "ret20d":  -0.0659,
+                       "volRatio":  0.57,
                        "inCandidates":  false
                    },
                    {
@@ -16311,11 +16311,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  271,
-                       "ret5d":  0.0504,
-                       "ret20d":  0.0669,
-                       "volRatio":  0.93,
-                       "inCandidates":  true
+                       "latestPrice":  253,
+                       "ret5d":  -0.0269,
+                       "ret20d":  -0.0117,
+                       "volRatio":  0.84,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "2345",
@@ -16324,10 +16324,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  1610,
-                       "ret5d":  0.1338,
-                       "ret20d":  0.1583,
-                       "volRatio":  1.07,
+                       "latestPrice":  1565,
+                       "ret5d":  0.1259,
+                       "ret20d":  0.0793,
+                       "volRatio":  0.64,
                        "inCandidates":  true
                    },
                    {
@@ -16337,10 +16337,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  110,
-                       "ret5d":  0.0092,
-                       "ret20d":  0.0628,
-                       "volRatio":  1.73,
+                       "latestPrice":  107.5,
+                       "ret5d":  -0.0812,
+                       "ret20d":  0.019,
+                       "volRatio":  0.77,
                        "inCandidates":  true
                    },
                    {
@@ -16350,10 +16350,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  81.9,
-                       "ret5d":  0.1391,
-                       "ret20d":  0.0935,
-                       "volRatio":  3.77,
+                       "latestPrice":  78.9,
+                       "ret5d":  -0.0013,
+                       "ret20d":  0.0648,
+                       "volRatio":  0.94,
                        "inCandidates":  false
                    },
                    {
@@ -16363,10 +16363,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  77.3,
-                       "ret5d":  0.1011,
-                       "ret20d":  0.1368,
-                       "volRatio":  1.07,
+                       "latestPrice":  77,
+                       "ret5d":  -0.0026,
+                       "ret20d":  0.1208,
+                       "volRatio":  0.67,
                        "inCandidates":  true
                    },
                    {
@@ -16376,10 +16376,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  50.6,
-                       "ret5d":  0.012,
-                       "ret20d":  0.4904,
-                       "volRatio":  2.04,
+                       "latestPrice":  46,
+                       "ret5d":  -0.0909,
+                       "ret20d":  0.367,
+                       "volRatio":  0.86,
                        "inCandidates":  true
                    },
                    {
@@ -16389,10 +16389,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  160,
-                       "ret5d":  0.4747,
-                       "ret20d":  0.7857,
-                       "volRatio":  0.42,
+                       "latestPrice":  148.5,
+                       "ret5d":  0.2479,
+                       "ret20d":  0.5076,
+                       "volRatio":  0.29,
                        "inCandidates":  false
                    },
                    {
@@ -16402,11 +16402,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  32.3,
-                       "ret5d":  0.0504,
-                       "ret20d":  0.0453,
-                       "volRatio":  0.78,
-                       "inCandidates":  true
+                       "latestPrice":  31,
+                       "ret5d":  -0.0462,
+                       "ret20d":  0.0164,
+                       "volRatio":  0.61,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "2340",
@@ -16415,10 +16415,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  28.85,
-                       "ret5d":  0.0626,
-                       "ret20d":  0.1776,
-                       "volRatio":  0.96,
+                       "latestPrice":  28.4,
+                       "ret5d":  -0.007,
+                       "ret20d":  0.1521,
+                       "volRatio":  0.81,
                        "inCandidates":  true
                    },
                    {
@@ -16428,10 +16428,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  160,
-                       "ret5d":  -0.0419,
-                       "ret20d":  -0.0986,
-                       "volRatio":  0.49,
+                       "latestPrice":  154,
+                       "ret5d":  -0.0667,
+                       "ret20d":  -0.1421,
+                       "volRatio":  0.39,
                        "inCandidates":  false
                    },
                    {
@@ -16441,10 +16441,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  30.9,
-                       "ret5d":  -0.0419,
-                       "ret20d":  -0.2097,
-                       "volRatio":  0.98,
+                       "latestPrice":  30.2,
+                       "ret5d":  -0.0533,
+                       "ret20d":  -0.2354,
+                       "volRatio":  0.77,
                        "inCandidates":  false
                    },
                    {
@@ -16454,10 +16454,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  57.8,
-                       "ret5d":  -0.0286,
-                       "ret20d":  -0.0737,
-                       "volRatio":  0.85,
+                       "latestPrice":  56.7,
+                       "ret5d":  -0.0628,
+                       "ret20d":  -0.0971,
+                       "volRatio":  0.68,
                        "inCandidates":  false
                    },
                    {
@@ -16467,10 +16467,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  18.85,
-                       "ret5d":  0.0189,
-                       "ret20d":  0.0189,
-                       "volRatio":  0.68,
+                       "latestPrice":  18.3,
+                       "ret5d":  -0.024,
+                       "ret20d":  0.0139,
+                       "volRatio":  0.75,
                        "inCandidates":  false
                    },
                    {
@@ -16480,10 +16480,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  49.8,
-                       "ret5d":  0.0215,
-                       "ret20d":  0.0652,
-                       "volRatio":  0.48,
+                       "latestPrice":  48.95,
+                       "ret5d":  -0.0181,
+                       "ret20d":  0.0156,
+                       "volRatio":  1.2,
                        "inCandidates":  false
                    },
                    {
@@ -16493,10 +16493,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  236,
-                       "ret5d":  -0.0367,
-                       "ret20d":  -0.1806,
-                       "volRatio":  0.38,
+                       "latestPrice":  232,
+                       "ret5d":  -0.0492,
+                       "ret20d":  -0.2027,
+                       "volRatio":  0.49,
                        "inCandidates":  false
                    },
                    {
@@ -16506,10 +16506,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  70.1,
-                       "ret5d":  0.0309,
-                       "ret20d":  0.1782,
-                       "volRatio":  0.24,
+                       "latestPrice":  70.2,
+                       "ret5d":  0.0174,
+                       "ret20d":  0.198,
+                       "volRatio":  0.61,
                        "inCandidates":  false
                    },
                    {
@@ -16519,10 +16519,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  63.7,
-                       "ret5d":  -0.0062,
-                       "ret20d":  -0.1041,
-                       "volRatio":  1.19,
+                       "latestPrice":  63.5,
+                       "ret5d":  -0.0231,
+                       "ret20d":  -0.0954,
+                       "volRatio":  0.38,
                        "inCandidates":  false
                    },
                    {
@@ -16532,10 +16532,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  113,
-                       "ret5d":  0.2363,
-                       "ret20d":  0.1759,
-                       "volRatio":  2.83,
+                       "latestPrice":  102,
+                       "ret5d":  0.0149,
+                       "ret20d":  0.0647,
+                       "volRatio":  0.97,
                        "inCandidates":  true
                    },
                    {
@@ -16545,10 +16545,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  18.95,
-                       "ret5d":  0.1313,
-                       "ret20d":  -0.0801,
-                       "volRatio":  0.81,
+                       "latestPrice":  18.25,
+                       "ret5d":  -0.0082,
+                       "ret20d":  -0.1098,
+                       "volRatio":  0.68,
                        "inCandidates":  false
                    },
                    {
@@ -16561,7 +16561,7 @@
                        "latestPrice":  14.65,
                        "ret5d":  -0.0168,
                        "ret20d":  -0.0957,
-                       "volRatio":  0.3,
+                       "volRatio":  0,
                        "inCandidates":  false
                    },
                    {
@@ -16571,10 +16571,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  203,
-                       "ret5d":  -0.0536,
-                       "ret20d":  -0.0814,
-                       "volRatio":  1.19,
+                       "latestPrice":  196,
+                       "ret5d":  -0.0947,
+                       "ret20d":  -0.1366,
+                       "volRatio":  1,
                        "inCandidates":  false
                    },
                    {
@@ -16584,10 +16584,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  1475,
-                       "ret5d":  0.065,
-                       "ret20d":  0.2447,
-                       "volRatio":  1.17,
+                       "latestPrice":  1410,
+                       "ret5d":  0.0368,
+                       "ret20d":  0.119,
+                       "volRatio":  1.04,
                        "inCandidates":  true
                    },
                    {
@@ -16597,10 +16597,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  14.85,
-                       "ret5d":  0.0313,
-                       "ret20d":  0.1739,
-                       "volRatio":  1.15,
+                       "latestPrice":  14,
+                       "ret5d":  -0.0572,
+                       "ret20d":  0.098,
+                       "volRatio":  0.7,
                        "inCandidates":  false
                    },
                    {
@@ -16610,10 +16610,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  222,
-                       "ret5d":  0.0496,
-                       "ret20d":  0.2131,
-                       "volRatio":  0.67,
+                       "latestPrice":  216,
+                       "ret5d":  -0.0226,
+                       "ret20d":  0.1582,
+                       "volRatio":  0.75,
                        "inCandidates":  true
                    },
                    {
@@ -16623,11 +16623,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  23.65,
-                       "ret5d":  0.0373,
-                       "ret20d":  -0.0187,
-                       "volRatio":  1.3,
-                       "inCandidates":  true
+                       "latestPrice":  22.75,
+                       "ret5d":  -0.0044,
+                       "ret20d":  -0.056,
+                       "volRatio":  0.5,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "2349",
@@ -16636,10 +16636,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  15.8,
-                       "ret5d":  0.2248,
-                       "ret20d":  0.2061,
-                       "volRatio":  2.56,
+                       "latestPrice":  14.25,
+                       "ret5d":  0.1133,
+                       "ret20d":  0.0755,
+                       "volRatio":  3.38,
                        "inCandidates":  true
                    },
                    {
@@ -16649,10 +16649,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  93.5,
-                       "ret5d":  0.0075,
-                       "ret20d":  0.0343,
-                       "volRatio":  0.83,
+                       "latestPrice":  91.2,
+                       "ret5d":  -0.0298,
+                       "ret20d":  0.0055,
+                       "volRatio":  0.93,
                        "inCandidates":  false
                    },
                    {
@@ -16662,10 +16662,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  248.5,
-                       "ret5d":  0.0665,
-                       "ret20d":  0.0971,
-                       "volRatio":  1.02,
+                       "latestPrice":  232.5,
+                       "ret5d":  -0.0169,
+                       "ret20d":  0.0131,
+                       "volRatio":  1.09,
                        "inCandidates":  true
                    },
                    {
@@ -16675,10 +16675,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  7,
-                       "ret5d":  0.25,
-                       "ret20d":  0.4493,
-                       "volRatio":  5.35,
+                       "latestPrice":  6.42,
+                       "ret5d":  0.2346,
+                       "ret20d":  0.3156,
+                       "volRatio":  0.71,
                        "inCandidates":  false
                    },
                    {
@@ -16688,11 +16688,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  479.5,
-                       "ret5d":  0.0202,
-                       "ret20d":  0.0021,
-                       "volRatio":  3.64,
-                       "inCandidates":  true
+                       "latestPrice":  469.5,
+                       "ret5d":  -0.0219,
+                       "ret20d":  -0.0137,
+                       "volRatio":  0.84,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "2373",
@@ -16701,10 +16701,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  55.9,
-                       "ret5d":  0.0108,
-                       "ret20d":  0.0182,
-                       "volRatio":  0.31,
+                       "latestPrice":  55.6,
+                       "ret5d":  0.0091,
+                       "ret20d":  0.0018,
+                       "volRatio":  0.56,
                        "inCandidates":  false
                    },
                    {
@@ -16714,10 +16714,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  30.8,
-                       "ret5d":  -0.0314,
-                       "ret20d":  -0.1596,
-                       "volRatio":  1.06,
+                       "latestPrice":  30.4,
+                       "ret5d":  -0.0303,
+                       "ret20d":  -0.1739,
+                       "volRatio":  0.84,
                        "inCandidates":  false
                    },
                    {
@@ -16727,10 +16727,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  80.8,
-                       "ret5d":  0.0037,
-                       "ret20d":  -0.0449,
-                       "volRatio":  0.54,
+                       "latestPrice":  77.5,
+                       "ret5d":  -0.0549,
+                       "ret20d":  -0.0914,
+                       "volRatio":  0.49,
                        "inCandidates":  false
                    },
                    {
@@ -16740,10 +16740,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  70.3,
-                       "ret5d":  -0.0042,
-                       "ret20d":  -0.0941,
-                       "volRatio":  0.62,
+                       "latestPrice":  69.8,
+                       "ret5d":  -0.0265,
+                       "ret20d":  -0.0994,
+                       "volRatio":  1.14,
                        "inCandidates":  false
                    },
                    {
@@ -16753,10 +16753,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  10.8,
-                       "ret5d":  0.1123,
-                       "ret20d":  0.0588,
-                       "volRatio":  2.35,
+                       "latestPrice":  10.7,
+                       "ret5d":  0.1146,
+                       "ret20d":  0.0439,
+                       "volRatio":  0.79,
                        "inCandidates":  false
                    },
                    {
@@ -16766,10 +16766,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  55.3,
-                       "ret5d":  0.1461,
-                       "ret20d":  0.0843,
-                       "volRatio":  2.55,
+                       "latestPrice":  56.1,
+                       "ret5d":  0.1333,
+                       "ret20d":  0.1402,
+                       "volRatio":  6.04,
                        "inCandidates":  true
                    },
                    {
@@ -16779,10 +16779,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  69.3,
-                       "ret5d":  0.0761,
-                       "ret20d":  0.1969,
-                       "volRatio":  2.93,
+                       "latestPrice":  67,
+                       "ret5d":  0.009,
+                       "ret20d":  0.1632,
+                       "volRatio":  0.88,
                        "inCandidates":  true
                    },
                    {
@@ -16792,10 +16792,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  36.7,
-                       "ret5d":  0.0295,
-                       "ret20d":  -0.0578,
-                       "volRatio":  0.63,
+                       "latestPrice":  36.25,
+                       "ret5d":  -0.0359,
+                       "ret20d":  -0.0535,
+                       "volRatio":  0.5,
                        "inCandidates":  false
                    },
                    {
@@ -16805,10 +16805,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  2810,
-                       "ret5d":  0.0388,
-                       "ret20d":  0.3349,
-                       "volRatio":  1.14,
+                       "latestPrice":  2795,
+                       "ret5d":  0.0812,
+                       "ret20d":  0.2733,
+                       "volRatio":  0.92,
                        "inCandidates":  true
                    },
                    {
@@ -16818,10 +16818,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  283.5,
-                       "ret5d":  -0.019,
-                       "ret20d":  -0.0053,
-                       "volRatio":  0.67,
+                       "latestPrice":  280,
+                       "ret5d":  -0.0311,
+                       "ret20d":  -0.021,
+                       "volRatio":  0.78,
                        "inCandidates":  true
                    },
                    {
@@ -16831,10 +16831,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  46.25,
-                       "ret5d":  0.062,
-                       "ret20d":  0.1874,
-                       "volRatio":  1.18,
+                       "latestPrice":  44.45,
+                       "ret5d":  0.0125,
+                       "ret20d":  0.1368,
+                       "volRatio":  1.13,
                        "inCandidates":  true
                    },
                    {
@@ -16844,10 +16844,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  124.5,
-                       "ret5d":  0.004,
-                       "ret20d":  0.0375,
-                       "volRatio":  2.74,
+                       "latestPrice":  121,
+                       "ret5d":  -0.0202,
+                       "ret20d":  0.0126,
+                       "volRatio":  0.93,
                        "inCandidates":  true
                    },
                    {
@@ -16857,10 +16857,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  42.8,
-                       "ret5d":  0.0035,
-                       "ret20d":  -0.0499,
-                       "volRatio":  0.86,
+                       "latestPrice":  41.95,
+                       "ret5d":  -0.0267,
+                       "ret20d":  -0.075,
+                       "volRatio":  0.64,
                        "inCandidates":  false
                    },
                    {
@@ -16870,10 +16870,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  45.5,
-                       "ret5d":  0.0757,
-                       "ret20d":  0.2381,
-                       "volRatio":  0.98,
+                       "latestPrice":  43.15,
+                       "ret5d":  -0.008,
+                       "ret20d":  0.1252,
+                       "volRatio":  0.58,
                        "inCandidates":  true
                    },
                    {
@@ -16883,10 +16883,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  114,
-                       "ret5d":  -0.0172,
-                       "ret20d":  -0.0916,
-                       "volRatio":  0.66,
+                       "latestPrice":  112,
+                       "ret5d":  -0.082,
+                       "ret20d":  -0.104,
+                       "volRatio":  0.69,
                        "inCandidates":  false
                    },
                    {
@@ -16896,10 +16896,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  582,
-                       "ret5d":  -0.0119,
-                       "ret20d":  0.1065,
-                       "volRatio":  0.94,
+                       "latestPrice":  563,
+                       "ret5d":  -0.0441,
+                       "ret20d":  0.0765,
+                       "volRatio":  1.01,
                        "inCandidates":  true
                    },
                    {
@@ -16909,10 +16909,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  24.3,
-                       "ret5d":  0.0062,
-                       "ret20d":  -0.0395,
-                       "volRatio":  0.71,
+                       "latestPrice":  23.7,
+                       "ret5d":  -0.0267,
+                       "ret20d":  -0.0651,
+                       "volRatio":  0.6,
                        "inCandidates":  false
                    },
                    {
@@ -16922,10 +16922,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  91.9,
-                       "ret5d":  0.0337,
-                       "ret20d":  0.0812,
-                       "volRatio":  1.13,
+                       "latestPrice":  95.3,
+                       "ret5d":  0.066,
+                       "ret20d":  0.1081,
+                       "volRatio":  1.59,
                        "inCandidates":  true
                    },
                    {
@@ -16935,10 +16935,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  53.1,
-                       "ret5d":  -0.0112,
-                       "ret20d":  -0.0829,
-                       "volRatio":  0.92,
+                       "latestPrice":  51.4,
+                       "ret5d":  -0.0655,
+                       "ret20d":  -0.1244,
+                       "volRatio":  0.76,
                        "inCandidates":  false
                    },
                    {
@@ -16948,10 +16948,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  27.8,
-                       "ret5d":  0.0165,
-                       "ret20d":  0.0277,
-                       "volRatio":  1.06,
+                       "latestPrice":  27,
+                       "ret5d":  -0.0055,
+                       "ret20d":  -0.0037,
+                       "volRatio":  0.78,
                        "inCandidates":  true
                    },
                    {
@@ -16961,10 +16961,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  73,
-                       "ret5d":  0.0055,
-                       "ret20d":  0.4147,
-                       "volRatio":  1.07,
+                       "latestPrice":  71.3,
+                       "ret5d":  -0.0365,
+                       "ret20d":  0.3581,
+                       "volRatio":  1.11,
                        "inCandidates":  true
                    },
                    {
@@ -16974,10 +16974,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  33.95,
-                       "ret5d":  -0.0244,
-                       "ret20d":  -0.0258,
-                       "volRatio":  0.53,
+                       "latestPrice":  33.2,
+                       "ret5d":  -0.0687,
+                       "ret20d":  -0.0582,
+                       "volRatio":  0.42,
                        "inCandidates":  false
                    },
                    {
@@ -16987,10 +16987,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  35.75,
-                       "ret5d":  0.2837,
-                       "ret20d":  0.4415,
-                       "volRatio":  4.73,
+                       "latestPrice":  34.05,
+                       "ret5d":  0.2032,
+                       "ret20d":  0.3485,
+                       "volRatio":  5.34,
                        "inCandidates":  true
                    },
                    {
@@ -17000,10 +17000,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  988,
-                       "ret5d":  0.0567,
-                       "ret20d":  0.1678,
-                       "volRatio":  2.48,
+                       "latestPrice":  962,
+                       "ret5d":  0.0583,
+                       "ret20d":  0.1604,
+                       "volRatio":  0.99,
                        "inCandidates":  true
                    },
                    {
@@ -17013,10 +17013,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  38.35,
-                       "ret5d":  -0.0242,
-                       "ret20d":  0,
-                       "volRatio":  0.6,
+                       "latestPrice":  37.9,
+                       "ret5d":  -0.013,
+                       "ret20d":  -0.0282,
+                       "volRatio":  0.7,
                        "inCandidates":  false
                    },
                    {
@@ -17026,10 +17026,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  1585,
-                       "ret5d":  0.0359,
-                       "ret20d":  0.524,
-                       "volRatio":  1.35,
+                       "latestPrice":  1520,
+                       "ret5d":  0.0483,
+                       "ret20d":  0.4476,
+                       "volRatio":  0.92,
                        "inCandidates":  true
                    },
                    {
@@ -17039,10 +17039,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  62.9,
-                       "ret5d":  0,
-                       "ret20d":  0.0228,
-                       "volRatio":  0.74,
+                       "latestPrice":  61,
+                       "ret5d":  -0.0528,
+                       "ret20d":  -0.0129,
+                       "volRatio":  0.83,
                        "inCandidates":  false
                    },
                    {
@@ -17052,11 +17052,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  50.6,
-                       "ret5d":  0,
-                       "ret20d":  -0.0699,
-                       "volRatio":  0.77,
-                       "inCandidates":  false
+                       "latestPrice":  49.1,
+                       "ret5d":  -0.0316,
+                       "ret20d":  -0.1073,
+                       "volRatio":  0.58,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00919",
@@ -17065,11 +17065,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  22.97,
-                       "ret5d":  -0.0288,
-                       "ret20d":  -0.0271,
-                       "volRatio":  0.63,
-                       "inCandidates":  false
+                       "latestPrice":  22.44,
+                       "ret5d":  -0.0615,
+                       "ret20d":  -0.054,
+                       "volRatio":  1.33,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00918",
@@ -17078,11 +17078,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  22.58,
-                       "ret5d":  -0.0221,
-                       "ret20d":  -0.0229,
-                       "volRatio":  0.64,
-                       "inCandidates":  false
+                       "latestPrice":  22.02,
+                       "ret5d":  -0.0557,
+                       "ret20d":  -0.0517,
+                       "volRatio":  1.61,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00921",
@@ -17091,10 +17091,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  18.81,
-                       "ret5d":  -0.0063,
-                       "ret20d":  0.0206,
-                       "volRatio":  0.23,
+                       "latestPrice":  18.39,
+                       "ret5d":  -0.0326,
+                       "ret20d":  -0.0097,
+                       "volRatio":  0.29,
                        "inCandidates":  false
                    },
                    {
@@ -17104,11 +17104,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  21.48,
-                       "ret5d":  0.0248,
-                       "ret20d":  0.0258,
-                       "volRatio":  0.32,
-                       "inCandidates":  false
+                       "latestPrice":  20.78,
+                       "ret5d":  -0.0053,
+                       "ret20d":  -0.0086,
+                       "volRatio":  0.68,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00915",
@@ -17117,11 +17117,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  23.25,
-                       "ret5d":  -0.0047,
-                       "ret20d":  -0.0317,
-                       "volRatio":  0.51,
-                       "inCandidates":  false
+                       "latestPrice":  22.89,
+                       "ret5d":  -0.0325,
+                       "ret20d":  -0.0518,
+                       "volRatio":  0.59,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00913",
@@ -17130,10 +17130,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  30.84,
-                       "ret5d":  0.0387,
-                       "ret20d":  0.0092,
-                       "volRatio":  0.36,
+                       "latestPrice":  29.88,
+                       "ret5d":  0.002,
+                       "ret20d":  -0.0321,
+                       "volRatio":  0.4,
                        "inCandidates":  false
                    },
                    {
@@ -17143,10 +17143,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  20.26,
-                       "ret5d":  0.0085,
-                       "ret20d":  -0.0824,
-                       "volRatio":  0.95,
+                       "latestPrice":  20.11,
+                       "ret5d":  -0.001,
+                       "ret20d":  -0.0796,
+                       "volRatio":  0.84,
                        "inCandidates":  false
                    },
                    {
@@ -17156,10 +17156,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  25.32,
-                       "ret5d":  -0.0167,
-                       "ret20d":  -0.0535,
-                       "volRatio":  0.28,
+                       "latestPrice":  24.93,
+                       "ret5d":  -0.0303,
+                       "ret20d":  -0.067,
+                       "volRatio":  0.63,
                        "inCandidates":  false
                    },
                    {
@@ -17169,11 +17169,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  19.83,
-                       "ret5d":  0.0138,
-                       "ret20d":  0.0275,
-                       "volRatio":  0.46,
-                       "inCandidates":  false
+                       "latestPrice":  19.22,
+                       "ret5d":  -0.0209,
+                       "ret20d":  -0.0031,
+                       "volRatio":  0.56,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00927",
@@ -17182,10 +17182,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  25.06,
-                       "ret5d":  0.0275,
-                       "ret20d":  0.0121,
-                       "volRatio":  0.55,
+                       "latestPrice":  24.2,
+                       "ret5d":  -0.0139,
+                       "ret20d":  -0.0254,
+                       "volRatio":  1.08,
                        "inCandidates":  true
                    },
                    {
@@ -17195,10 +17195,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  14.91,
-                       "ret5d":  0.0297,
-                       "ret20d":  0.0054,
-                       "volRatio":  0.48,
+                       "latestPrice":  14.5,
+                       "ret5d":  -0.0129,
+                       "ret20d":  -0.0223,
+                       "volRatio":  1.28,
                        "inCandidates":  false
                    },
                    {
@@ -17208,10 +17208,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  17.77,
-                       "ret5d":  0.0108,
-                       "ret20d":  -0.0171,
-                       "volRatio":  0.51,
+                       "latestPrice":  17.19,
+                       "ret5d":  -0.0294,
+                       "ret20d":  -0.0482,
+                       "volRatio":  0.84,
                        "inCandidates":  false
                    },
                    {
@@ -17221,10 +17221,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  28.93,
-                       "ret5d":  0.0045,
-                       "ret20d":  -0.0392,
-                       "volRatio":  0.18,
+                       "latestPrice":  28.29,
+                       "ret5d":  -0.0157,
+                       "ret20d":  -0.0794,
+                       "volRatio":  0.28,
                        "inCandidates":  false
                    },
                    {
@@ -17234,10 +17234,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  28.18,
-                       "ret5d":  -0.0739,
-                       "ret20d":  -0.0486,
-                       "volRatio":  0.37,
+                       "latestPrice":  27.49,
+                       "ret5d":  -0.1078,
+                       "ret20d":  -0.0885,
+                       "volRatio":  0.75,
                        "inCandidates":  false
                    },
                    {
@@ -17247,10 +17247,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  22.8,
-                       "ret5d":  -0.0215,
-                       "ret20d":  -0.0388,
-                       "volRatio":  0.36,
+                       "latestPrice":  22.47,
+                       "ret5d":  -0.0352,
+                       "ret20d":  -0.0491,
+                       "volRatio":  1.23,
                        "inCandidates":  false
                    },
                    {
@@ -17260,10 +17260,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  27.93,
-                       "ret5d":  -0.0124,
-                       "ret20d":  -0.0362,
-                       "volRatio":  0.65,
+                       "latestPrice":  27.37,
+                       "ret5d":  -0.0305,
+                       "ret20d":  -0.0513,
+                       "volRatio":  1.72,
                        "inCandidates":  false
                    },
                    {
@@ -17273,11 +17273,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  30.01,
-                       "ret5d":  0.0098,
-                       "ret20d":  0.0341,
-                       "volRatio":  0.26,
-                       "inCandidates":  false
+                       "latestPrice":  29.1,
+                       "ret5d":  -0.0189,
+                       "ret20d":  -0.0185,
+                       "volRatio":  0.83,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00900",
@@ -17286,10 +17286,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  14.35,
-                       "ret5d":  0.0106,
-                       "ret20d":  -0.0035,
-                       "volRatio":  0.61,
+                       "latestPrice":  14.03,
+                       "ret5d":  -0.0216,
+                       "ret20d":  -0.0291,
+                       "volRatio":  0.71,
                        "inCandidates":  true
                    },
                    {
@@ -17299,10 +17299,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  15.93,
-                       "ret5d":  -0.0124,
-                       "ret20d":  -0.0438,
-                       "volRatio":  0.17,
+                       "latestPrice":  15.52,
+                       "ret5d":  -0.0336,
+                       "ret20d":  -0.0634,
+                       "volRatio":  0.35,
                        "inCandidates":  false
                    },
                    {
@@ -17312,10 +17312,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  14.26,
-                       "ret5d":  -0.0145,
-                       "ret20d":  0.0049,
-                       "volRatio":  0.73,
+                       "latestPrice":  13.8,
+                       "ret5d":  -0.0309,
+                       "ret20d":  -0.0289,
+                       "volRatio":  0.56,
                        "inCandidates":  true
                    },
                    {
@@ -17325,10 +17325,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  9.72,
-                       "ret5d":  -0.0061,
-                       "ret20d":  0.0031,
-                       "volRatio":  0.84,
+                       "latestPrice":  9.48,
+                       "ret5d":  -0.0346,
+                       "ret20d":  -0.0135,
+                       "volRatio":  1.39,
                        "inCandidates":  true
                    },
                    {
@@ -17338,11 +17338,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  21.2,
-                       "ret5d":  -0.0253,
-                       "ret20d":  0.011,
-                       "volRatio":  0.37,
-                       "inCandidates":  false
+                       "latestPrice":  20.62,
+                       "ret5d":  -0.0563,
+                       "ret20d":  -0.0319,
+                       "volRatio":  0.57,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00899",
@@ -17351,10 +17351,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  23.99,
-                       "ret5d":  0.0287,
-                       "ret20d":  0.02,
-                       "volRatio":  0.86,
+                       "latestPrice":  23.42,
+                       "ret5d":  0.0013,
+                       "ret20d":  -0.0026,
+                       "volRatio":  1,
                        "inCandidates":  true
                    },
                    {
@@ -17364,11 +17364,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  7.93,
-                       "ret5d":  -0.0075,
-                       "ret20d":  -0.0282,
-                       "volRatio":  0.9,
-                       "inCandidates":  true
+                       "latestPrice":  7.75,
+                       "ret5d":  -0.0312,
+                       "ret20d":  -0.0444,
+                       "volRatio":  0.96,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "00910",
@@ -17377,10 +17377,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  57.25,
-                       "ret5d":  0.0178,
-                       "ret20d":  0.0178,
-                       "volRatio":  0.69,
+                       "latestPrice":  55.85,
+                       "ret5d":  -0.0053,
+                       "ret20d":  0.0127,
+                       "volRatio":  0.71,
                        "inCandidates":  true
                    },
                    {
@@ -17390,10 +17390,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  39.81,
-                       "ret5d":  0.0166,
-                       "ret20d":  0.0138,
-                       "volRatio":  0.36,
+                       "latestPrice":  38.37,
+                       "ret5d":  -0.0388,
+                       "ret20d":  -0.0134,
+                       "volRatio":  0.82,
                        "inCandidates":  false
                    },
                    {
@@ -17403,11 +17403,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  24.71,
-                       "ret5d":  0.011,
-                       "ret20d":  0.0309,
-                       "volRatio":  0.44,
-                       "inCandidates":  false
+                       "latestPrice":  24.22,
+                       "ret5d":  -0.0062,
+                       "ret20d":  -0.0102,
+                       "volRatio":  1.57,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00911",
@@ -17416,10 +17416,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  36.8,
-                       "ret5d":  0.0242,
-                       "ret20d":  -0.0246,
-                       "volRatio":  0.92,
+                       "latestPrice":  36.18,
+                       "ret5d":  0.0014,
+                       "ret20d":  -0.0406,
+                       "volRatio":  0.96,
                        "inCandidates":  true
                    },
                    {
@@ -17429,11 +17429,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  19.77,
-                       "ret5d":  0.0128,
-                       "ret20d":  0.0254,
-                       "volRatio":  0.37,
-                       "inCandidates":  false
+                       "latestPrice":  19.26,
+                       "ret5d":  -0.0123,
+                       "ret20d":  -0.0163,
+                       "volRatio":  0.93,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00904",
@@ -17442,10 +17442,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  29.66,
-                       "ret5d":  0.0396,
-                       "ret20d":  0.0574,
-                       "volRatio":  0.73,
+                       "latestPrice":  28.65,
+                       "ret5d":  -0.0017,
+                       "ret20d":  0.0049,
+                       "volRatio":  0.9,
                        "inCandidates":  true
                    },
                    {
@@ -17455,11 +17455,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  13.9,
-                       "ret5d":  0.0043,
-                       "ret20d":  -0.0327,
-                       "volRatio":  1.04,
-                       "inCandidates":  true
+                       "latestPrice":  13.55,
+                       "ret5d":  -0.0181,
+                       "ret20d":  -0.0655,
+                       "volRatio":  1.66,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "00907",
@@ -17468,10 +17468,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  14.86,
-                       "ret5d":  -0.008,
-                       "ret20d":  -0.0487,
-                       "volRatio":  1.03,
+                       "latestPrice":  14.62,
+                       "ret5d":  -0.0324,
+                       "ret20d":  -0.0652,
+                       "volRatio":  0.61,
                        "inCandidates":  false
                    },
                    {
@@ -17481,10 +17481,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  21.9,
-                       "ret5d":  0.0181,
-                       "ret20d":  0.0055,
-                       "volRatio":  0.54,
+                       "latestPrice":  21.24,
+                       "ret5d":  -0.0319,
+                       "ret20d":  -0.0257,
+                       "volRatio":  0.85,
                        "inCandidates":  true
                    },
                    {
@@ -17494,10 +17494,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  15.01,
-                       "ret5d":  -0.0144,
-                       "ret20d":  -0.0353,
-                       "volRatio":  0.59,
+                       "latestPrice":  14.76,
+                       "ret5d":  -0.0296,
+                       "ret20d":  -0.0471,
+                       "volRatio":  0.97,
                        "inCandidates":  false
                    },
                    {
@@ -17507,10 +17507,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  25.28,
-                       "ret5d":  -0.0232,
-                       "ret20d":  -0.0281,
-                       "volRatio":  1.18,
+                       "latestPrice":  24.37,
+                       "ret5d":  -0.0551,
+                       "ret20d":  -0.0663,
+                       "volRatio":  1.08,
                        "inCandidates":  true
                    },
                    {
@@ -17520,10 +17520,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  10.83,
-                       "ret5d":  -0.0073,
-                       "ret20d":  -0.0234,
-                       "volRatio":  0.48,
+                       "latestPrice":  10.63,
+                       "ret5d":  -0.0266,
+                       "ret20d":  -0.0389,
+                       "volRatio":  1.29,
                        "inCandidates":  false
                    },
                    {
@@ -17533,10 +17533,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  18.83,
-                       "ret5d":  -0.0053,
-                       "ret20d":  -0.0912,
-                       "volRatio":  0.1,
+                       "latestPrice":  18.29,
+                       "ret5d":  -0.0333,
+                       "ret20d":  -0.1324,
+                       "volRatio":  0.49,
                        "inCandidates":  false
                    },
                    {
@@ -17546,11 +17546,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  10.98,
-                       "ret5d":  -0.0018,
-                       "ret20d":  -0.0135,
-                       "volRatio":  0.48,
-                       "inCandidates":  false
+                       "latestPrice":  10.68,
+                       "ret5d":  -0.0291,
+                       "ret20d":  -0.0422,
+                       "volRatio":  1.9,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00961",
@@ -17559,10 +17559,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  10.14,
-                       "ret5d":  -0.0136,
-                       "ret20d":  0.015,
-                       "volRatio":  0.55,
+                       "latestPrice":  9.91,
+                       "ret5d":  -0.0453,
+                       "ret20d":  -0.0169,
+                       "volRatio":  1.02,
                        "inCandidates":  true
                    },
                    {
@@ -17572,10 +17572,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  14.03,
-                       "ret5d":  0.0167,
-                       "ret20d":  0.0669,
-                       "volRatio":  0.59,
+                       "latestPrice":  13.54,
+                       "ret5d":  -0.0238,
+                       "ret20d":  0.0196,
+                       "volRatio":  0.94,
                        "inCandidates":  true
                    },
                    {
@@ -17585,10 +17585,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  12.32,
-                       "ret5d":  -0.0024,
-                       "ret20d":  -0.0056,
-                       "volRatio":  0.79,
+                       "latestPrice":  12.05,
+                       "ret5d":  -0.0219,
+                       "ret20d":  -0.0274,
+                       "volRatio":  1.09,
                        "inCandidates":  true
                    },
                    {
@@ -17598,10 +17598,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  22.14,
-                       "ret5d":  -0.0014,
-                       "ret20d":  -0.0147,
-                       "volRatio":  0.12,
+                       "latestPrice":  21.61,
+                       "ret5d":  -0.02,
+                       "ret20d":  -0.0555,
+                       "volRatio":  0.64,
                        "inCandidates":  false
                    },
                    {
@@ -17611,11 +17611,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  15.11,
-                       "ret5d":  0.0127,
-                       "ret20d":  0.0656,
-                       "volRatio":  0.41,
-                       "inCandidates":  false
+                       "latestPrice":  14.71,
+                       "ret5d":  -0.02,
+                       "ret20d":  0.0374,
+                       "volRatio":  1.1,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "009810",
@@ -17624,10 +17624,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  18.14,
-                       "ret5d":  -0.0147,
-                       "ret20d":  -0.0427,
-                       "volRatio":  0.41,
+                       "latestPrice":  17.85,
+                       "ret5d":  -0.0299,
+                       "ret20d":  -0.0556,
+                       "volRatio":  0.74,
                        "inCandidates":  false
                    },
                    {
@@ -17637,11 +17637,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  12.26,
-                       "ret5d":  0.0016,
-                       "ret20d":  0.0099,
-                       "volRatio":  0.35,
-                       "inCandidates":  false
+                       "latestPrice":  12.01,
+                       "ret5d":  -0.0204,
+                       "ret20d":  -0.0252,
+                       "volRatio":  0.63,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "009802",
@@ -17650,11 +17650,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  12.87,
-                       "ret5d":  0.0008,
-                       "ret20d":  0.0166,
-                       "volRatio":  0.71,
-                       "inCandidates":  true
+                       "latestPrice":  12.4,
+                       "ret5d":  -0.0373,
+                       "ret20d":  -0.0402,
+                       "volRatio":  0.99,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "009801",
@@ -17663,10 +17663,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  10.4,
-                       "ret5d":  -0.0179,
-                       "ret20d":  -0.0361,
-                       "volRatio":  0.25,
+                       "latestPrice":  10.21,
+                       "ret5d":  -0.0295,
+                       "ret20d":  -0.0502,
+                       "volRatio":  0.57,
                        "inCandidates":  false
                    },
                    {
@@ -17676,11 +17676,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  16.92,
-                       "ret5d":  0.0065,
-                       "ret20d":  0.0199,
-                       "volRatio":  0.38,
-                       "inCandidates":  false
+                       "latestPrice":  16.47,
+                       "ret5d":  -0.0173,
+                       "ret20d":  -0.0254,
+                       "volRatio":  0.75,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "009803",
@@ -17689,11 +17689,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  15.57,
-                       "ret5d":  -0.007,
-                       "ret20d":  0.027,
-                       "volRatio":  0.44,
-                       "inCandidates":  false
+                       "latestPrice":  15.2,
+                       "ret5d":  -0.0212,
+                       "ret20d":  -0.0187,
+                       "volRatio":  0.82,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00941",
@@ -17702,10 +17702,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  21.76,
-                       "ret5d":  0.0121,
-                       "ret20d":  0.0112,
-                       "volRatio":  0.78,
+                       "latestPrice":  21.23,
+                       "ret5d":  -0.018,
+                       "ret20d":  -0.0266,
+                       "volRatio":  0.69,
                        "inCandidates":  true
                    },
                    {
@@ -17715,9 +17715,9 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  9.75,
-                       "ret5d":  0.0104,
-                       "ret20d":  0.0072,
+                       "latestPrice":  9.56,
+                       "ret5d":  -0.0165,
+                       "ret20d":  -0.0154,
                        "volRatio":  0.35,
                        "inCandidates":  false
                    },
@@ -17728,10 +17728,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  15.4,
-                       "ret5d":  0.0125,
-                       "ret20d":  0.0308,
-                       "volRatio":  0.9,
+                       "latestPrice":  15.16,
+                       "ret5d":  -0.0092,
+                       "ret20d":  0.0093,
+                       "volRatio":  1.86,
                        "inCandidates":  true
                    },
                    {
@@ -17741,10 +17741,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  15.29,
-                       "ret5d":  0.0227,
-                       "ret20d":  0.0317,
-                       "volRatio":  0.95,
+                       "latestPrice":  14.87,
+                       "ret5d":  -0.0139,
+                       "ret20d":  0.0047,
+                       "volRatio":  0.77,
                        "inCandidates":  true
                    },
                    {
@@ -17754,10 +17754,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  17.85,
-                       "ret5d":  0.0142,
-                       "ret20d":  0.0318,
-                       "volRatio":  0.21,
+                       "latestPrice":  17.49,
+                       "ret5d":  -0.0174,
+                       "ret20d":  0.0058,
+                       "volRatio":  0.35,
                        "inCandidates":  false
                    },
                    {
@@ -17767,10 +17767,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  38.13,
-                       "ret5d":  -0.0005,
-                       "ret20d":  0.0376,
-                       "volRatio":  0.74,
+                       "latestPrice":  36.98,
+                       "ret5d":  -0.0284,
+                       "ret20d":  -0.0086,
+                       "volRatio":  1.14,
                        "inCandidates":  true
                    },
                    {
@@ -17780,11 +17780,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  15.78,
-                       "ret5d":  0.009,
-                       "ret20d":  0.007,
-                       "volRatio":  0.37,
-                       "inCandidates":  false
+                       "latestPrice":  15.41,
+                       "ret5d":  -0.0228,
+                       "ret20d":  -0.0241,
+                       "volRatio":  0.64,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00938",
@@ -17793,11 +17793,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  18.45,
-                       "ret5d":  -0.0005,
-                       "ret20d":  -0.0284,
-                       "volRatio":  0.71,
-                       "inCandidates":  false
+                       "latestPrice":  18.21,
+                       "ret5d":  -0.0151,
+                       "ret20d":  -0.0521,
+                       "volRatio":  1.36,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00954",
@@ -17806,10 +17806,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  14.6,
-                       "ret5d":  0.0139,
-                       "ret20d":  -0.0794,
-                       "volRatio":  0.3,
+                       "latestPrice":  13.9,
+                       "ret5d":  -0.0427,
+                       "ret20d":  -0.1478,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -17819,9 +17819,9 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  13.36,
-                       "ret5d":  0.0381,
-                       "ret20d":  0.0731,
+                       "latestPrice":  12.83,
+                       "ret5d":  -0.0085,
+                       "ret20d":  0.0305,
                        "volRatio":  0.62,
                        "inCandidates":  true
                    },
@@ -17832,10 +17832,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  17.82,
-                       "ret5d":  0.0544,
-                       "ret20d":  0.1416,
-                       "volRatio":  1.89,
+                       "latestPrice":  17.04,
+                       "ret5d":  0.0095,
+                       "ret20d":  0.0937,
+                       "volRatio":  0.67,
                        "inCandidates":  true
                    },
                    {
@@ -17845,10 +17845,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  12.24,
-                       "ret5d":  0.0141,
-                       "ret20d":  -0.0664,
-                       "volRatio":  0.34,
+                       "latestPrice":  11.84,
+                       "ret5d":  -0.0207,
+                       "ret20d":  -0.1158,
+                       "volRatio":  0.96,
                        "inCandidates":  false
                    },
                    {
@@ -17858,10 +17858,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  25.32,
-                       "ret5d":  0.0793,
-                       "ret20d":  0.1081,
-                       "volRatio":  0.81,
+                       "latestPrice":  24.36,
+                       "ret5d":  0.012,
+                       "ret20d":  0.0473,
+                       "volRatio":  0.62,
                        "inCandidates":  true
                    },
                    {
@@ -17871,11 +17871,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  10.17,
-                       "ret5d":  0.017,
-                       "ret20d":  0.0069,
-                       "volRatio":  0.42,
-                       "inCandidates":  false
+                       "latestPrice":  9.95,
+                       "ret5d":  -0.0139,
+                       "ret20d":  -0.0109,
+                       "volRatio":  0.63,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00951",
@@ -17884,10 +17884,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  13.65,
-                       "ret5d":  0.0126,
-                       "ret20d":  -0.0789,
-                       "volRatio":  0.29,
+                       "latestPrice":  13.03,
+                       "ret5d":  -0.0412,
+                       "ret20d":  -0.145,
+                       "volRatio":  0.89,
                        "inCandidates":  false
                    },
                    {
@@ -17897,11 +17897,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  19.43,
-                       "ret5d":  0,
-                       "ret20d":  -0.0503,
-                       "volRatio":  0.19,
-                       "inCandidates":  false
+                       "latestPrice":  18.77,
+                       "ret5d":  -0.033,
+                       "ret20d":  -0.1011,
+                       "volRatio":  0.74,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00895",
@@ -17910,11 +17910,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  39.6,
-                       "ret5d":  -0.0144,
-                       "ret20d":  -0.0501,
-                       "volRatio":  0.62,
-                       "inCandidates":  false
+                       "latestPrice":  38.64,
+                       "ret5d":  -0.0347,
+                       "ret20d":  -0.0837,
+                       "volRatio":  0.53,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00660",
@@ -17923,10 +17923,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  41.55,
-                       "ret5d":  -0.0149,
-                       "ret20d":  -0.0646,
-                       "volRatio":  0.13,
+                       "latestPrice":  39.92,
+                       "ret5d":  -0.0536,
+                       "ret20d":  -0.096,
+                       "volRatio":  2.12,
                        "inCandidates":  false
                    },
                    {
@@ -17936,10 +17936,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  62.75,
-                       "ret5d":  -0.0071,
-                       "ret20d":  -0.0772,
-                       "volRatio":  1.37,
+                       "latestPrice":  60.7,
+                       "ret5d":  -0.0357,
+                       "ret20d":  -0.1203,
+                       "volRatio":  1.21,
                        "inCandidates":  true
                    },
                    {
@@ -17949,11 +17949,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  99.9,
-                       "ret5d":  -0.0089,
-                       "ret20d":  -0.0239,
-                       "volRatio":  0.69,
-                       "inCandidates":  false
+                       "latestPrice":  97.8,
+                       "ret5d":  -0.0322,
+                       "ret20d":  -0.0412,
+                       "volRatio":  2.92,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00661",
@@ -17962,11 +17962,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  69,
-                       "ret5d":  -0.0036,
-                       "ret20d":  -0.0751,
-                       "volRatio":  0.47,
-                       "inCandidates":  false
+                       "latestPrice":  66.45,
+                       "ret5d":  -0.0377,
+                       "ret20d":  -0.1193,
+                       "volRatio":  1.17,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00645",
@@ -17975,10 +17975,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  50.5,
-                       "ret5d":  -0.001,
-                       "ret20d":  -0.0657,
-                       "volRatio":  0.31,
+                       "latestPrice":  48.83,
+                       "ret5d":  -0.0283,
+                       "ret20d":  -0.1049,
+                       "volRatio":  0.75,
                        "inCandidates":  false
                    },
                    {
@@ -17988,11 +17988,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  18.09,
-                       "ret5d":  -0.0316,
-                       "ret20d":  0.0044,
-                       "volRatio":  0.6,
-                       "inCandidates":  true
+                       "latestPrice":  17.42,
+                       "ret5d":  -0.0639,
+                       "ret20d":  -0.0295,
+                       "volRatio":  0.92,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "00652",
@@ -18001,10 +18001,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  33.09,
-                       "ret5d":  -0.0122,
-                       "ret20d":  -0.1145,
-                       "volRatio":  0.59,
+                       "latestPrice":  31.98,
+                       "ret5d":  -0.0362,
+                       "ret20d":  -0.1422,
+                       "volRatio":  0.88,
                        "inCandidates":  false
                    },
                    {
@@ -18014,11 +18014,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  66.5,
-                       "ret5d":  -0.0089,
-                       "ret20d":  -0.0348,
-                       "volRatio":  0.54,
-                       "inCandidates":  false
+                       "latestPrice":  65.4,
+                       "ret5d":  -0.0275,
+                       "ret20d":  -0.0494,
+                       "volRatio":  1.32,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00701",
@@ -18027,11 +18027,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  28.68,
-                       "ret5d":  -0.0017,
-                       "ret20d":  -0.0222,
-                       "volRatio":  0.44,
-                       "inCandidates":  false
+                       "latestPrice":  28.38,
+                       "ret5d":  -0.0173,
+                       "ret20d":  -0.0402,
+                       "volRatio":  0.62,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00700",
@@ -18040,10 +18040,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  17.51,
-                       "ret5d":  -0.0102,
-                       "ret20d":  -0.0691,
-                       "volRatio":  0.57,
+                       "latestPrice":  17.01,
+                       "ret5d":  -0.0539,
+                       "ret20d":  -0.0971,
+                       "volRatio":  0.47,
                        "inCandidates":  false
                    },
                    {
@@ -18053,10 +18053,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  20.64,
-                       "ret5d":  -0.0101,
-                       "ret20d":  -0.0656,
-                       "volRatio":  0.05,
+                       "latestPrice":  19.74,
+                       "ret5d":  -0.0631,
+                       "ret20d":  -0.1056,
+                       "volRatio":  0.43,
                        "inCandidates":  false
                    },
                    {
@@ -18066,10 +18066,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  23.64,
-                       "ret5d":  -0.0113,
-                       "ret20d":  -0.0296,
-                       "volRatio":  1.55,
+                       "latestPrice":  23.44,
+                       "ret5d":  -0.0241,
+                       "ret20d":  -0.0401,
+                       "volRatio":  1.4,
                        "inCandidates":  true
                    },
                    {
@@ -18079,10 +18079,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  35.04,
-                       "ret5d":  -0.0143,
-                       "ret20d":  -0.0288,
-                       "volRatio":  0.8,
+                       "latestPrice":  34.36,
+                       "ret5d":  -0.0354,
+                       "ret20d":  -0.034,
+                       "volRatio":  0.33,
                        "inCandidates":  false
                    },
                    {
@@ -18092,10 +18092,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  53.85,
-                       "ret5d":  -0.0146,
-                       "ret20d":  -0.0675,
-                       "volRatio":  0.18,
+                       "latestPrice":  53.15,
+                       "ret5d":  -0.0292,
+                       "ret20d":  -0.0781,
+                       "volRatio":  0.4,
                        "inCandidates":  false
                    },
                    {
@@ -18105,11 +18105,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  66.75,
-                       "ret5d":  -0.0022,
-                       "ret20d":  0.0045,
-                       "volRatio":  0.4,
-                       "inCandidates":  false
+                       "latestPrice":  65.15,
+                       "ret5d":  -0.0232,
+                       "ret20d":  -0.0391,
+                       "volRatio":  1.02,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00690",
@@ -18118,11 +18118,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  53,
-                       "ret5d":  0.0183,
-                       "ret20d":  0.0144,
-                       "volRatio":  0.5,
-                       "inCandidates":  false
+                       "latestPrice":  51.7,
+                       "ret5d":  -0.001,
+                       "ret20d":  -0.0291,
+                       "volRatio":  0.81,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "0056",
@@ -18131,10 +18131,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  38.77,
-                       "ret5d":  0.007,
-                       "ret20d":  0.0112,
-                       "volRatio":  0.56,
+                       "latestPrice":  37.97,
+                       "ret5d":  -0.0216,
+                       "ret20d":  -0.0189,
+                       "volRatio":  1.64,
                        "inCandidates":  true
                    },
                    {
@@ -18144,11 +18144,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  32.36,
-                       "ret5d":  0.0003,
-                       "ret20d":  -0.0173,
-                       "volRatio":  0.29,
-                       "inCandidates":  false
+                       "latestPrice":  32,
+                       "ret5d":  -0.019,
+                       "ret20d":  -0.0405,
+                       "volRatio":  0.55,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "0061",
@@ -18157,10 +18157,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  23.37,
-                       "ret5d":  -0.0238,
-                       "ret20d":  -0.016,
-                       "volRatio":  1.01,
+                       "latestPrice":  22.75,
+                       "ret5d":  -0.0465,
+                       "ret20d":  -0.0401,
+                       "volRatio":  1.09,
                        "inCandidates":  true
                    },
                    {
@@ -18170,11 +18170,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  225.3,
-                       "ret5d":  0.0009,
-                       "ret20d":  0.0135,
-                       "volRatio":  0.26,
-                       "inCandidates":  false
+                       "latestPrice":  220.05,
+                       "ret5d":  -0.0194,
+                       "ret20d":  -0.0306,
+                       "volRatio":  3,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "0051",
@@ -18183,10 +18183,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  111.9,
-                       "ret5d":  0.0304,
-                       "ret20d":  0.0617,
-                       "volRatio":  1.1,
+                       "latestPrice":  108.55,
+                       "ret5d":  -0.0109,
+                       "ret20d":  0.0216,
+                       "volRatio":  1.22,
                        "inCandidates":  true
                    },
                    {
@@ -18196,11 +18196,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  75.9,
-                       "ret5d":  -0.0007,
-                       "ret20d":  0.0053,
-                       "volRatio":  0.41,
-                       "inCandidates":  false
+                       "latestPrice":  74.25,
+                       "ret5d":  -0.0179,
+                       "ret20d":  -0.0382,
+                       "volRatio":  1.27,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "0053",
@@ -18209,10 +18209,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  171.7,
-                       "ret5d":  0.0124,
-                       "ret20d":  0.0337,
-                       "volRatio":  1.12,
+                       "latestPrice":  165.85,
+                       "ret5d":  -0.0189,
+                       "ret20d":  -0.0189,
+                       "volRatio":  1.76,
                        "inCandidates":  true
                    },
                    {
@@ -18222,10 +18222,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  45.26,
-                       "ret5d":  -0.0009,
-                       "ret20d":  0.0069,
-                       "volRatio":  0.44,
+                       "latestPrice":  44.1,
+                       "ret5d":  -0.0237,
+                       "ret20d":  -0.0428,
+                       "volRatio":  1,
                        "inCandidates":  false
                    },
                    {
@@ -18235,11 +18235,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  176.2,
-                       "ret5d":  -0.0003,
-                       "ret20d":  0.008,
-                       "volRatio":  0.42,
-                       "inCandidates":  false
+                       "latestPrice":  172.25,
+                       "ret5d":  -0.0185,
+                       "ret20d":  -0.0358,
+                       "volRatio":  1.3,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "006207",
@@ -18248,10 +18248,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  31.52,
-                       "ret5d":  -0.0205,
-                       "ret20d":  -0.0128,
-                       "volRatio":  0.72,
+                       "latestPrice":  30.46,
+                       "ret5d":  -0.049,
+                       "ret20d":  -0.0397,
+                       "volRatio":  1.98,
                        "inCandidates":  true
                    },
                    {
@@ -18261,10 +18261,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  15.97,
-                       "ret5d":  -0.0006,
-                       "ret20d":  0.027,
-                       "volRatio":  1.96,
+                       "latestPrice":  15.46,
+                       "ret5d":  -0.0325,
+                       "ret20d":  0.0045,
+                       "volRatio":  1.02,
                        "inCandidates":  true
                    },
                    {
@@ -18274,11 +18274,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  27.06,
-                       "ret5d":  -0.0026,
-                       "ret20d":  0.0041,
-                       "volRatio":  0.66,
-                       "inCandidates":  true
+                       "latestPrice":  26.37,
+                       "ret5d":  -0.0291,
+                       "ret20d":  -0.0149,
+                       "volRatio":  0.67,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "006204",
@@ -18287,11 +18287,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  171.05,
-                       "ret5d":  0.0026,
-                       "ret20d":  0.0182,
-                       "volRatio":  1.16,
-                       "inCandidates":  true
+                       "latestPrice":  166.9,
+                       "ret5d":  -0.0274,
+                       "ret20d":  -0.024,
+                       "volRatio":  0.44,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "006203",
@@ -18300,10 +18300,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  137.9,
-                       "ret5d":  -0.0014,
-                       "ret20d":  0.011,
-                       "volRatio":  0.67,
+                       "latestPrice":  134.35,
+                       "ret5d":  -0.0218,
+                       "ret20d":  -0.0359,
+                       "volRatio":  0.93,
                        "inCandidates":  true
                    },
                    {
@@ -18313,10 +18313,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  36.66,
-                       "ret5d":  -0.0232,
-                       "ret20d":  -0.0448,
-                       "volRatio":  2.28,
+                       "latestPrice":  35.44,
+                       "ret5d":  -0.0509,
+                       "ret20d":  -0.0768,
+                       "volRatio":  0.68,
                        "inCandidates":  false
                    },
                    {
@@ -18326,11 +18326,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  39.81,
-                       "ret5d":  -0.0363,
-                       "ret20d":  -0.0354,
-                       "volRatio":  0.78,
-                       "inCandidates":  false
+                       "latestPrice":  38.58,
+                       "ret5d":  -0.0586,
+                       "ret20d":  -0.0659,
+                       "volRatio":  1.77,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00709",
@@ -18339,11 +18339,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  36.65,
-                       "ret5d":  -0.0227,
-                       "ret20d":  -0.0717,
-                       "volRatio":  0.27,
-                       "inCandidates":  false
+                       "latestPrice":  35.58,
+                       "ret5d":  -0.0497,
+                       "ret20d":  -0.0958,
+                       "volRatio":  1.22,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00861",
@@ -18352,11 +18352,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  65.4,
-                       "ret5d":  0.0211,
-                       "ret20d":  0.0332,
-                       "volRatio":  0.43,
-                       "inCandidates":  false
+                       "latestPrice":  63.95,
+                       "ret5d":  -0.007,
+                       "ret20d":  0.0024,
+                       "volRatio":  0.75,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00851",
@@ -18365,11 +18365,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  56.8,
-                       "ret5d":  0,
-                       "ret20d":  0.0116,
-                       "volRatio":  0.13,
-                       "inCandidates":  false
+                       "latestPrice":  55.3,
+                       "ret5d":  -0.0204,
+                       "ret20d":  -0.023,
+                       "volRatio":  1.64,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00876",
@@ -18378,11 +18378,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  63.25,
-                       "ret5d":  0.0243,
-                       "ret20d":  0.0235,
-                       "volRatio":  0.24,
-                       "inCandidates":  false
+                       "latestPrice":  60.95,
+                       "ret5d":  -0.0153,
+                       "ret20d":  -0.0153,
+                       "volRatio":  0.83,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00875",
@@ -18391,10 +18391,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  38.85,
-                       "ret5d":  0.0067,
-                       "ret20d":  0.067,
-                       "volRatio":  0.61,
+                       "latestPrice":  38.02,
+                       "ret5d":  -0.0219,
+                       "ret20d":  0.0218,
+                       "volRatio":  0.7,
                        "inCandidates":  true
                    },
                    {
@@ -18404,10 +18404,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  27.74,
-                       "ret5d":  -0.0523,
-                       "ret20d":  -0.0287,
-                       "volRatio":  1.81,
+                       "latestPrice":  26.81,
+                       "ret5d":  -0.0668,
+                       "ret20d":  -0.0659,
+                       "volRatio":  1.41,
                        "inCandidates":  true
                    },
                    {
@@ -18417,11 +18417,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  16.08,
-                       "ret5d":  -0.0092,
-                       "ret20d":  -0.0111,
-                       "volRatio":  0.78,
-                       "inCandidates":  false
+                       "latestPrice":  15.95,
+                       "ret5d":  -0.0185,
+                       "ret20d":  -0.016,
+                       "volRatio":  1.05,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00850",
@@ -18430,10 +18430,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  63.2,
-                       "ret5d":  0.0064,
-                       "ret20d":  0.0088,
-                       "volRatio":  0.53,
+                       "latestPrice":  61.6,
+                       "ret5d":  -0.0183,
+                       "ret20d":  -0.033,
+                       "volRatio":  0.97,
                        "inCandidates":  true
                    },
                    {
@@ -18443,10 +18443,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  55.6,
-                       "ret5d":  0.0192,
-                       "ret20d":  -0.0246,
-                       "volRatio":  0.69,
+                       "latestPrice":  54.1,
+                       "ret5d":  -0.0128,
+                       "ret20d":  -0.0475,
+                       "volRatio":  0.67,
                        "inCandidates":  false
                    },
                    {
@@ -18456,10 +18456,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  29.6,
-                       "ret5d":  0.0489,
-                       "ret20d":  0.1259,
-                       "volRatio":  1.23,
+                       "latestPrice":  28.83,
+                       "ret5d":  0.026,
+                       "ret20d":  0.0778,
+                       "volRatio":  1.33,
                        "inCandidates":  true
                    },
                    {
@@ -18469,11 +18469,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  24.57,
-                       "ret5d":  0.0259,
-                       "ret20d":  0.0066,
-                       "volRatio":  0.31,
-                       "inCandidates":  false
+                       "latestPrice":  23.93,
+                       "ret5d":  0.0017,
+                       "ret20d":  -0.0359,
+                       "volRatio":  0.64,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00894",
@@ -18482,10 +18482,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  34.66,
-                       "ret5d":  0.044,
-                       "ret20d":  0.0958,
-                       "volRatio":  0.55,
+                       "latestPrice":  33.6,
+                       "ret5d":  0.0148,
+                       "ret20d":  0.0412,
+                       "volRatio":  1.66,
                        "inCandidates":  true
                    },
                    {
@@ -18495,10 +18495,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  33.45,
-                       "ret5d":  -0.0042,
-                       "ret20d":  -0.0236,
-                       "volRatio":  1.05,
+                       "latestPrice":  32.63,
+                       "ret5d":  -0.0251,
+                       "ret20d":  -0.0605,
+                       "volRatio":  0.59,
                        "inCandidates":  true
                    },
                    {
@@ -18508,10 +18508,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  37.18,
-                       "ret5d":  0.0145,
-                       "ret20d":  0.0545,
-                       "volRatio":  0.51,
+                       "latestPrice":  36.24,
+                       "ret5d":  -0.0066,
+                       "ret20d":  0.0103,
+                       "volRatio":  0.82,
                        "inCandidates":  true
                    },
                    {
@@ -18521,11 +18521,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  22.47,
-                       "ret5d":  0.0076,
-                       "ret20d":  -0.0327,
-                       "volRatio":  0.51,
-                       "inCandidates":  false
+                       "latestPrice":  22.08,
+                       "ret5d":  -0.0156,
+                       "ret20d":  -0.0568,
+                       "volRatio":  1.04,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00885",
@@ -18534,10 +18534,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  17.2,
-                       "ret5d":  -0.0255,
-                       "ret20d":  -0.038,
-                       "volRatio":  0.57,
+                       "latestPrice":  16.58,
+                       "ret5d":  -0.052,
+                       "ret20d":  -0.084,
+                       "volRatio":  1.3,
                        "inCandidates":  false
                    },
                    {
@@ -18547,11 +18547,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  15.87,
-                       "ret5d":  -0.0228,
-                       "ret20d":  -0.0094,
-                       "volRatio":  0.46,
-                       "inCandidates":  false
+                       "latestPrice":  15.4,
+                       "ret5d":  -0.0482,
+                       "ret20d":  -0.0441,
+                       "volRatio":  1.38,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00730",
@@ -18560,10 +18560,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  23.05,
-                       "ret5d":  0.0101,
-                       "ret20d":  0.0186,
-                       "volRatio":  0.41,
+                       "latestPrice":  22.68,
+                       "ret5d":  -0.0061,
+                       "ret20d":  0.0013,
+                       "volRatio":  0.4,
                        "inCandidates":  false
                    },
                    {
@@ -18573,10 +18573,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  44.87,
-                       "ret5d":  0.0184,
-                       "ret20d":  0.0595,
-                       "volRatio":  0.75,
+                       "latestPrice":  44,
+                       "ret5d":  -0.0043,
+                       "ret20d":  0.0264,
+                       "volRatio":  1.24,
                        "inCandidates":  true
                    },
                    {
@@ -18586,10 +18586,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  57.05,
-                       "ret5d":  0.0289,
-                       "ret20d":  0.1556,
-                       "volRatio":  0.52,
+                       "latestPrice":  54.5,
+                       "ret5d":  -0.0154,
+                       "ret20d":  0.092,
+                       "volRatio":  0.69,
                        "inCandidates":  true
                    },
                    {
@@ -18599,11 +18599,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  70.85,
-                       "ret5d":  -0.0028,
-                       "ret20d":  -0.0228,
-                       "volRatio":  0.93,
-                       "inCandidates":  false
+                       "latestPrice":  69.55,
+                       "ret5d":  -0.0266,
+                       "ret20d":  -0.0486,
+                       "volRatio":  0.82,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00713",
@@ -18612,11 +18612,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  51.7,
-                       "ret5d":  -0.0067,
-                       "ret20d":  -0.0067,
-                       "volRatio":  0.62,
-                       "inCandidates":  false
+                       "latestPrice":  50.95,
+                       "ret5d":  -0.0286,
+                       "ret20d":  -0.0277,
+                       "volRatio":  0.77,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00712",
@@ -18625,10 +18625,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  8.71,
-                       "ret5d":  -0.0429,
-                       "ret20d":  -0.0655,
-                       "volRatio":  1.07,
+                       "latestPrice":  8.4,
+                       "ret5d":  -0.0667,
+                       "ret20d":  -0.0977,
+                       "volRatio":  2.66,
                        "inCandidates":  false
                    },
                    {
@@ -18638,10 +18638,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  14.9,
-                       "ret5d":  -0.0067,
-                       "ret20d":  -0.0197,
-                       "volRatio":  0.16,
+                       "latestPrice":  14.74,
+                       "ret5d":  -0.018,
+                       "ret20d":  -0.0303,
+                       "volRatio":  0.77,
                        "inCandidates":  false
                    },
                    {
@@ -18651,11 +18651,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  20.92,
-                       "ret5d":  -0.0038,
-                       "ret20d":  0.0106,
-                       "volRatio":  1.08,
-                       "inCandidates":  true
+                       "latestPrice":  20.23,
+                       "ret5d":  -0.0444,
+                       "ret20d":  -0.0344,
+                       "volRatio":  0.06,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "00757",
@@ -18664,10 +18664,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  109.25,
-                       "ret5d":  -0.0228,
-                       "ret20d":  -0.014,
-                       "volRatio":  0.41,
+                       "latestPrice":  106.65,
+                       "ret5d":  -0.0413,
+                       "ret20d":  -0.0322,
+                       "volRatio":  0.89,
                        "inCandidates":  false
                    },
                    {
@@ -18677,10 +18677,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  24.29,
-                       "ret5d":  -0.0257,
-                       "ret20d":  -0.0837,
-                       "volRatio":  0.43,
+                       "latestPrice":  23.53,
+                       "ret5d":  -0.0689,
+                       "ret20d":  -0.1134,
+                       "volRatio":  0.7,
                        "inCandidates":  false
                    },
                    {
@@ -18690,10 +18690,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  51.75,
-                       "ret5d":  0.0019,
-                       "ret20d":  -0.0245,
-                       "volRatio":  0.31,
+                       "latestPrice":  50.65,
+                       "ret5d":  -0.0175,
+                       "ret20d":  -0.0434,
+                       "volRatio":  1.03,
                        "inCandidates":  false
                    },
                    {
@@ -18703,11 +18703,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  83.8,
-                       "ret5d":  0.0151,
-                       "ret20d":  -0.01,
-                       "volRatio":  0.77,
-                       "inCandidates":  false
+                       "latestPrice":  80.95,
+                       "ret5d":  -0.0259,
+                       "ret20d":  -0.0346,
+                       "volRatio":  1.19,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00736",
@@ -18716,11 +18716,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  28.36,
-                       "ret5d":  -0.0112,
-                       "ret20d":  -0.0425,
-                       "volRatio":  1.95,
-                       "inCandidates":  true
+                       "latestPrice":  27.36,
+                       "ret5d":  -0.0444,
+                       "ret20d":  -0.0919,
+                       "volRatio":  0.89,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "00735",
@@ -18729,11 +18729,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  69.25,
-                       "ret5d":  0.0351,
-                       "ret20d":  0.0787,
-                       "volRatio":  0.42,
-                       "inCandidates":  false
+                       "latestPrice":  66.4,
+                       "ret5d":  -0.0126,
+                       "ret20d":  0.0223,
+                       "volRatio":  0.69,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00739",
@@ -18742,11 +18742,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  27.15,
-                       "ret5d":  -0.0255,
-                       "ret20d":  -0.0102,
-                       "volRatio":  0.34,
-                       "inCandidates":  false
+                       "latestPrice":  26.23,
+                       "ret5d":  -0.0551,
+                       "ret20d":  -0.0441,
+                       "volRatio":  1.56,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "00737",
@@ -18755,10 +18755,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  33.7,
-                       "ret5d":  0.0018,
-                       "ret20d":  -0.0491,
-                       "volRatio":  0.4,
+                       "latestPrice":  32.9,
+                       "ret5d":  -0.0214,
+                       "ret20d":  -0.0751,
+                       "volRatio":  1.21,
                        "inCandidates":  false
                    },
                    {
@@ -18768,10 +18768,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  9.22,
-                       "ret5d":  0.0406,
-                       "ret20d":  0.0873,
-                       "volRatio":  0.8,
+                       "latestPrice":  9.23,
+                       "ret5d":  0.0348,
+                       "ret20d":  0.0846,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -18781,10 +18781,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  12.9,
-                       "ret5d":  0,
-                       "ret20d":  -0.1195,
-                       "volRatio":  0.19,
+                       "latestPrice":  12.7,
+                       "ret5d":  -0.0078,
+                       "ret20d":  -0.1088,
+                       "volRatio":  0.86,
                        "inCandidates":  false
                    },
                    {
@@ -18794,10 +18794,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  16,
-                       "ret5d":  0.0159,
-                       "ret20d":  0.0667,
-                       "volRatio":  0.74,
+                       "latestPrice":  16.2,
+                       "ret5d":  0.0125,
+                       "ret20d":  0.0693,
+                       "volRatio":  1.54,
                        "inCandidates":  false
                    },
                    {
@@ -18807,10 +18807,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  14.45,
-                       "ret5d":  0.0664,
-                       "ret20d":  0.1031,
-                       "volRatio":  2.73,
+                       "latestPrice":  14.9,
+                       "ret5d":  0.0876,
+                       "ret20d":  0.1462,
+                       "volRatio":  5.63,
                        "inCandidates":  false
                    },
                    {
@@ -18820,10 +18820,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  17.95,
-                       "ret5d":  0.0084,
-                       "ret20d":  0.0228,
-                       "volRatio":  0.27,
+                       "latestPrice":  17.8,
+                       "ret5d":  -0.0028,
+                       "ret20d":  -0.0111,
+                       "volRatio":  0.75,
                        "inCandidates":  false
                    },
                    {
@@ -18832,12 +18832,12 @@
                        "ticker":  "1449.TW",
                        "market":  "TWSE",
                        "sector":  "",
-                       "pool":  "Other",
-                       "latestPrice":  13.5,
-                       "ret5d":  0.2558,
-                       "ret20d":  0.25,
-                       "volRatio":  8.1,
-                       "inCandidates":  false
+                       "pool":  "LowPrice",
+                       "latestPrice":  12.15,
+                       "ret5d":  0.1355,
+                       "ret20d":  0.125,
+                       "volRatio":  1.7,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "1453",
@@ -18846,10 +18846,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  12.4,
-                       "ret5d":  0.004,
-                       "ret20d":  -0.0746,
-                       "volRatio":  2.45,
+                       "latestPrice":  12.5,
+                       "ret5d":  0.0246,
+                       "ret20d":  -0.0672,
+                       "volRatio":  0.59,
                        "inCandidates":  false
                    },
                    {
@@ -18859,10 +18859,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  11.2,
-                       "ret5d":  0.009,
-                       "ret20d":  -0.0427,
-                       "volRatio":  0.8,
+                       "latestPrice":  11.15,
+                       "ret5d":  0.0045,
+                       "ret20d":  -0.047,
+                       "volRatio":  0.33,
                        "inCandidates":  false
                    },
                    {
@@ -18872,10 +18872,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  17.9,
-                       "ret5d":  -0.0056,
-                       "ret20d":  0.0113,
-                       "volRatio":  0.26,
+                       "latestPrice":  17.55,
+                       "ret5d":  -0.0384,
+                       "ret20d":  0.0086,
+                       "volRatio":  0.31,
                        "inCandidates":  false
                    },
                    {
@@ -18885,10 +18885,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  12.1,
-                       "ret5d":  -0.0163,
-                       "ret20d":  -0.0202,
-                       "volRatio":  2.17,
+                       "latestPrice":  11.9,
+                       "ret5d":  -0.0325,
+                       "ret20d":  -0.0364,
+                       "volRatio":  2.64,
                        "inCandidates":  false
                    },
                    {
@@ -18898,10 +18898,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  12,
-                       "ret5d":  -0.0164,
-                       "ret20d":  -0.0698,
-                       "volRatio":  0.73,
+                       "latestPrice":  11.7,
+                       "ret5d":  -0.0449,
+                       "ret20d":  -0.1,
+                       "volRatio":  0.82,
                        "inCandidates":  false
                    },
                    {
@@ -18911,10 +18911,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  7.1,
-                       "ret5d":  0.0014,
-                       "ret20d":  -0.0314,
-                       "volRatio":  0.74,
+                       "latestPrice":  7.02,
+                       "ret5d":  -0.0099,
+                       "ret20d":  -0.0475,
+                       "volRatio":  1.29,
                        "inCandidates":  false
                    },
                    {
@@ -18924,10 +18924,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  7.03,
-                       "ret5d":  0.0338,
-                       "ret20d":  0.0369,
-                       "volRatio":  0.93,
+                       "latestPrice":  7.1,
+                       "ret5d":  0.035,
+                       "ret20d":  0.0426,
+                       "volRatio":  1.45,
                        "inCandidates":  false
                    },
                    {
@@ -18937,10 +18937,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  11.7,
-                       "ret5d":  0.0043,
-                       "ret20d":  -0.0043,
-                       "volRatio":  0.38,
+                       "latestPrice":  11.65,
+                       "ret5d":  -0.0127,
+                       "ret20d":  -0.0169,
+                       "volRatio":  1.05,
                        "inCandidates":  false
                    },
                    {
@@ -18950,10 +18950,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  10.5,
-                       "ret5d":  -0.0187,
-                       "ret20d":  -0.0498,
-                       "volRatio":  1.26,
+                       "latestPrice":  10.35,
+                       "ret5d":  -0.0282,
+                       "ret20d":  -0.0717,
+                       "volRatio":  1.51,
                        "inCandidates":  false
                    },
                    {
@@ -18963,10 +18963,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  17.95,
+                       "latestPrice":  17.9,
                        "ret5d":  0,
-                       "ret20d":  -0.0055,
-                       "volRatio":  1.61,
+                       "ret20d":  -0.011,
+                       "volRatio":  1.25,
                        "inCandidates":  false
                    },
                    {
@@ -18976,10 +18976,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  30.65,
-                       "ret5d":  -0.0239,
-                       "ret20d":  -0.0481,
-                       "volRatio":  0.8,
+                       "latestPrice":  30.45,
+                       "ret5d":  -0.0272,
+                       "ret20d":  -0.0587,
+                       "volRatio":  0.86,
                        "inCandidates":  false
                    },
                    {
@@ -18989,10 +18989,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  56.4,
-                       "ret5d":  0.0444,
-                       "ret20d":  -0.007,
-                       "volRatio":  1.44,
+                       "latestPrice":  53.9,
+                       "ret5d":  -0.0164,
+                       "ret20d":  -0.0527,
+                       "volRatio":  1.08,
                        "inCandidates":  false
                    },
                    {
@@ -19002,10 +19002,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  28.05,
-                       "ret5d":  0.0219,
-                       "ret20d":  -0.0571,
-                       "volRatio":  0.3,
+                       "latestPrice":  27.9,
+                       "ret5d":  0.009,
+                       "ret20d":  -0.0684,
+                       "volRatio":  0.49,
                        "inCandidates":  false
                    },
                    {
@@ -19015,10 +19015,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  29.85,
-                       "ret5d":  0.0067,
-                       "ret20d":  -0.0371,
-                       "volRatio":  0.33,
+                       "latestPrice":  28.9,
+                       "ret5d":  -0.0269,
+                       "ret20d":  -0.1025,
+                       "volRatio":  0.61,
                        "inCandidates":  false
                    },
                    {
@@ -19029,9 +19029,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  18,
-                       "ret5d":  -0.0451,
+                       "ret5d":  -0.0191,
                        "ret20d":  -0.0601,
-                       "volRatio":  0.48,
+                       "volRatio":  0.66,
                        "inCandidates":  false
                    },
                    {
@@ -19042,9 +19042,9 @@
                        "sector":  "",
                        "pool":  "Stock",
                        "latestPrice":  40,
-                       "ret5d":  0.0025,
-                       "ret20d":  0.0485,
-                       "volRatio":  0.33,
+                       "ret5d":  0.0038,
+                       "ret20d":  0.0444,
+                       "volRatio":  0.42,
                        "inCandidates":  false
                    },
                    {
@@ -19054,10 +19054,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  18.55,
-                       "ret5d":  -0.0262,
-                       "ret20d":  -0.1392,
-                       "volRatio":  0.02,
+                       "latestPrice":  18.15,
+                       "ret5d":  -0.0447,
+                       "ret20d":  -0.1693,
+                       "volRatio":  0.17,
                        "inCandidates":  false
                    },
                    {
@@ -19067,10 +19067,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  16.4,
-                       "ret5d":  -0.003,
-                       "ret20d":  -0.0629,
-                       "volRatio":  0.77,
+                       "latestPrice":  16.55,
+                       "ret5d":  0,
+                       "ret20d":  -0.0597,
+                       "volRatio":  1.14,
                        "inCandidates":  false
                    },
                    {
@@ -19080,10 +19080,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  13,
+                       "latestPrice":  12.65,
                        "ret5d":  0,
-                       "ret20d":  -0.1419,
-                       "volRatio":  0.2,
+                       "ret20d":  -0.1732,
+                       "volRatio":  0.38,
                        "inCandidates":  false
                    },
                    {
@@ -19093,10 +19093,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  6.41,
-                       "ret5d":  0.063,
-                       "ret20d":  0.0256,
-                       "volRatio":  1.82,
+                       "latestPrice":  6.26,
+                       "ret5d":  0.0279,
+                       "ret20d":  -0.0048,
+                       "volRatio":  0.86,
                        "inCandidates":  false
                    },
                    {
@@ -19106,10 +19106,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  5.32,
-                       "ret5d":  -0.0221,
-                       "ret20d":  -0.0093,
-                       "volRatio":  6.98,
+                       "latestPrice":  5.14,
+                       "ret5d":  -0.0534,
+                       "ret20d":  -0.0375,
+                       "volRatio":  2.56,
                        "inCandidates":  false
                    },
                    {
@@ -19119,10 +19119,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  17.3,
-                       "ret5d":  0.0549,
-                       "ret20d":  0.0517,
-                       "volRatio":  0.84,
+                       "latestPrice":  16.9,
+                       "ret5d":  -0.0059,
+                       "ret20d":  0.04,
+                       "volRatio":  1.32,
                        "inCandidates":  false
                    },
                    {
@@ -19133,9 +19133,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  9.92,
-                       "ret5d":  -0.002,
-                       "ret20d":  -0.008,
-                       "volRatio":  1.61,
+                       "ret5d":  -0.001,
+                       "ret20d":  -0.007,
+                       "volRatio":  0.67,
                        "inCandidates":  false
                    },
                    {
@@ -19145,10 +19145,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  13.1,
-                       "ret5d":  0.0397,
-                       "ret20d":  -0.0113,
-                       "volRatio":  0.97,
+                       "latestPrice":  12.9,
+                       "ret5d":  -0.0153,
+                       "ret20d":  -0.0373,
+                       "volRatio":  0.78,
                        "inCandidates":  false
                    },
                    {
@@ -19158,10 +19158,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  24.45,
-                       "ret5d":  -0.0141,
-                       "ret20d":  -0.0808,
-                       "volRatio":  0.59,
+                       "latestPrice":  24.15,
+                       "ret5d":  -0.0183,
+                       "ret20d":  -0.1022,
+                       "volRatio":  0.22,
                        "inCandidates":  false
                    },
                    {
@@ -19171,10 +19171,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  28,
-                       "ret5d":  0.0238,
-                       "ret20d":  -0.0698,
-                       "volRatio":  2.09,
+                       "latestPrice":  26.8,
+                       "ret5d":  -0.0147,
+                       "ret20d":  -0.1111,
+                       "volRatio":  0.91,
                        "inCandidates":  false
                    },
                    {
@@ -19184,10 +19184,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  23.35,
-                       "ret5d":  0.0518,
-                       "ret20d":  0.0332,
-                       "volRatio":  0.09,
+                       "latestPrice":  22.6,
+                       "ret5d":  0.0635,
+                       "ret20d":  -0.0153,
+                       "volRatio":  0.29,
                        "inCandidates":  false
                    },
                    {
@@ -19197,10 +19197,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  17.85,
-                       "ret5d":  0.0259,
-                       "ret20d":  -0.1119,
-                       "volRatio":  2.74,
+                       "latestPrice":  17.7,
+                       "ret5d":  -0.0112,
+                       "ret20d":  -0.1216,
+                       "volRatio":  0.48,
                        "inCandidates":  false
                    },
                    {
@@ -19210,10 +19210,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  61.6,
-                       "ret5d":  -0.0065,
-                       "ret20d":  -0.0238,
-                       "volRatio":  0.36,
+                       "latestPrice":  60.8,
+                       "ret5d":  -0.013,
+                       "ret20d":  -0.0395,
+                       "volRatio":  0.41,
                        "inCandidates":  false
                    },
                    {
@@ -19223,10 +19223,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  22.6,
-                       "ret5d":  0.0089,
-                       "ret20d":  0.0343,
-                       "volRatio":  0.68,
+                       "latestPrice":  22.2,
+                       "ret5d":  -0.0089,
+                       "ret20d":  -0.0045,
+                       "volRatio":  0.59,
                        "inCandidates":  false
                    },
                    {
@@ -19236,10 +19236,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  32.4,
+                       "latestPrice":  32.1,
                        "ret5d":  -0.0031,
-                       "ret20d":  -0.054,
-                       "volRatio":  1.53,
+                       "ret20d":  -0.0614,
+                       "volRatio":  1.39,
                        "inCandidates":  false
                    },
                    {
@@ -19249,10 +19249,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  25.15,
-                       "ret5d":  0.004,
-                       "ret20d":  -0.0545,
-                       "volRatio":  0.86,
+                       "latestPrice":  25,
+                       "ret5d":  -0.004,
+                       "ret20d":  -0.0741,
+                       "volRatio":  0.94,
                        "inCandidates":  false
                    },
                    {
@@ -19262,11 +19262,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  916,
-                       "ret5d":  -0.0054,
-                       "ret20d":  -0.0518,
-                       "volRatio":  0.6,
-                       "inCandidates":  false
+                       "latestPrice":  890,
+                       "ret5d":  -0.0209,
+                       "ret20d":  -0.0796,
+                       "volRatio":  1.12,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "1524",
@@ -19275,10 +19275,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  28.7,
-                       "ret5d":  -0.0154,
-                       "ret20d":  -0.0772,
-                       "volRatio":  0.57,
+                       "latestPrice":  28.25,
+                       "ret5d":  -0.0292,
+                       "ret20d":  -0.0843,
+                       "volRatio":  0.56,
                        "inCandidates":  false
                    },
                    {
@@ -19288,10 +19288,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  33.65,
-                       "ret5d":  -0.0831,
-                       "ret20d":  -0.2953,
-                       "volRatio":  0.6,
+                       "latestPrice":  32.35,
+                       "ret5d":  -0.0704,
+                       "ret20d":  -0.2714,
+                       "volRatio":  0.96,
                        "inCandidates":  false
                    },
                    {
@@ -19301,10 +19301,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  52.9,
-                       "ret5d":  -0.0167,
-                       "ret20d":  0.1756,
-                       "volRatio":  0.71,
+                       "latestPrice":  53.2,
+                       "ret5d":  0.0192,
+                       "ret20d":  0.1343,
+                       "volRatio":  0.81,
                        "inCandidates":  false
                    },
                    {
@@ -19314,10 +19314,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  30.75,
-                       "ret5d":  0.0065,
-                       "ret20d":  0,
-                       "volRatio":  0.77,
+                       "latestPrice":  30.05,
+                       "ret5d":  -0.0275,
+                       "ret20d":  -0.0244,
+                       "volRatio":  0.79,
                        "inCandidates":  false
                    },
                    {
@@ -19327,10 +19327,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  123,
-                       "ret5d":  -0.016,
-                       "ret20d":  0.0041,
-                       "volRatio":  1.46,
+                       "latestPrice":  122.5,
+                       "ret5d":  -0.0121,
+                       "ret20d":  -0.0081,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -19340,10 +19340,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  50.7,
-                       "ret5d":  -0.0343,
-                       "ret20d":  -0.1689,
-                       "volRatio":  0.93,
+                       "latestPrice":  51.8,
+                       "ret5d":  -0.0152,
+                       "ret20d":  -0.1508,
+                       "volRatio":  0.74,
                        "inCandidates":  false
                    },
                    {
@@ -19353,10 +19353,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  26.25,
-                       "ret5d":  -0.0076,
-                       "ret20d":  -0.0901,
-                       "volRatio":  0.6,
+                       "latestPrice":  26,
+                       "ret5d":  -0.0152,
+                       "ret20d":  -0.1034,
+                       "volRatio":  0.87,
                        "inCandidates":  false
                    },
                    {
@@ -19366,11 +19366,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  26.55,
-                       "ret5d":  -0.0797,
-                       "ret20d":  0.1696,
-                       "volRatio":  0.51,
-                       "inCandidates":  true
+                       "latestPrice":  25.95,
+                       "ret5d":  -0.1021,
+                       "ret20d":  0.0401,
+                       "volRatio":  0.3,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "1532",
@@ -19379,10 +19379,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  22.8,
-                       "ret5d":  -0.0215,
-                       "ret20d":  -0.0598,
-                       "volRatio":  0.91,
+                       "latestPrice":  22.05,
+                       "ret5d":  -0.0455,
+                       "ret20d":  -0.0945,
+                       "volRatio":  1.21,
                        "inCandidates":  false
                    },
                    {
@@ -19392,10 +19392,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  12.9,
-                       "ret5d":  0.0574,
-                       "ret20d":  0.0403,
-                       "volRatio":  1.01,
+                       "latestPrice":  12.6,
+                       "ret5d":  -0.0195,
+                       "ret20d":  0.012,
+                       "volRatio":  1.09,
                        "inCandidates":  false
                    },
                    {
@@ -19405,10 +19405,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  367.5,
-                       "ret5d":  -0.0121,
-                       "ret20d":  -0.1434,
-                       "volRatio":  0.75,
+                       "latestPrice":  355.5,
+                       "ret5d":  -0.0379,
+                       "ret20d":  -0.1655,
+                       "volRatio":  0.52,
                        "inCandidates":  false
                    },
                    {
@@ -19418,10 +19418,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  28.55,
-                       "ret5d":  0.0178,
-                       "ret20d":  -0.0746,
-                       "volRatio":  0.6,
+                       "latestPrice":  28.1,
+                       "ret5d":  -0.0123,
+                       "ret20d":  -0.0817,
+                       "volRatio":  0.93,
                        "inCandidates":  false
                    },
                    {
@@ -19431,10 +19431,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  203,
-                       "ret5d":  0,
-                       "ret20d":  -0.0169,
-                       "volRatio":  0.43,
+                       "latestPrice":  191,
+                       "ret5d":  -0.045,
+                       "ret20d":  -0.0969,
+                       "volRatio":  1.06,
                        "inCandidates":  false
                    },
                    {
@@ -19444,10 +19444,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  285,
-                       "ret5d":  -0.0018,
-                       "ret20d":  -0.0895,
-                       "volRatio":  2.08,
+                       "latestPrice":  267,
+                       "ret5d":  -0.0887,
+                       "ret20d":  -0.1401,
+                       "volRatio":  1.15,
                        "inCandidates":  false
                    },
                    {
@@ -19457,10 +19457,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  96.2,
-                       "ret5d":  0.0537,
-                       "ret20d":  0.0618,
-                       "volRatio":  1.6,
+                       "latestPrice":  96.6,
+                       "ret5d":  0.05,
+                       "ret20d":  0.0686,
+                       "volRatio":  0.3,
                        "inCandidates":  false
                    },
                    {
@@ -19470,10 +19470,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  13.95,
-                       "ret5d":  0.0731,
-                       "ret20d":  0.1625,
-                       "volRatio":  1.82,
+                       "latestPrice":  13.8,
+                       "ret5d":  0.0036,
+                       "ret20d":  0.2778,
+                       "volRatio":  2.03,
                        "inCandidates":  true
                    },
                    {
@@ -19483,10 +19483,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  10.1,
-                       "ret5d":  0.011,
-                       "ret20d":  0,
-                       "volRatio":  1.25,
+                       "latestPrice":  9.97,
+                       "ret5d":  -0.008,
+                       "ret20d":  -0.0177,
+                       "volRatio":  0.67,
                        "inCandidates":  false
                    },
                    {
@@ -19496,10 +19496,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  23.95,
-                       "ret5d":  -0.0184,
-                       "ret20d":  -0.0362,
-                       "volRatio":  0.56,
+                       "latestPrice":  23.5,
+                       "ret5d":  -0.0467,
+                       "ret20d":  -0.0748,
+                       "volRatio":  0.91,
                        "inCandidates":  false
                    },
                    {
@@ -19509,10 +19509,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  24.95,
-                       "ret5d":  0.004,
-                       "ret20d":  -0.0404,
-                       "volRatio":  0.79,
+                       "latestPrice":  24,
+                       "ret5d":  -0.0476,
+                       "ret20d":  -0.0822,
+                       "volRatio":  1.51,
                        "inCandidates":  false
                    },
                    {
@@ -19522,11 +19522,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  115,
-                       "ret5d":  -0.0043,
-                       "ret20d":  -0.0574,
-                       "volRatio":  0.51,
-                       "inCandidates":  false
+                       "latestPrice":  111.5,
+                       "ret5d":  -0.0346,
+                       "ret20d":  -0.0861,
+                       "volRatio":  0.66,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "1517",
@@ -19535,10 +19535,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  11.4,
-                       "ret5d":  0.0179,
-                       "ret20d":  -0.0298,
-                       "volRatio":  0.66,
+                       "latestPrice":  11.6,
+                       "ret5d":  0.022,
+                       "ret20d":  -0.0169,
+                       "volRatio":  0.72,
                        "inCandidates":  false
                    },
                    {
@@ -19549,9 +19549,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  22.25,
-                       "ret5d":  -0.0491,
-                       "ret20d":  0.0045,
-                       "volRatio":  2.23,
+                       "ret5d":  -0.0111,
+                       "ret20d":  0.052,
+                       "volRatio":  0.31,
                        "inCandidates":  false
                    },
                    {
@@ -19561,10 +19561,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  11.45,
-                       "ret5d":  0,
-                       "ret20d":  -0.0214,
-                       "volRatio":  0.45,
+                       "latestPrice":  11.35,
+                       "ret5d":  0.0044,
+                       "ret20d":  -0.0299,
+                       "volRatio":  0.6,
                        "inCandidates":  false
                    },
                    {
@@ -19574,10 +19574,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  67.2,
-                       "ret5d":  -0.0386,
-                       "ret20d":  -0.1526,
-                       "volRatio":  0.88,
+                       "latestPrice":  64.8,
+                       "ret5d":  -0.0649,
+                       "ret20d":  -0.188,
+                       "volRatio":  0.71,
                        "inCandidates":  false
                    },
                    {
@@ -19587,10 +19587,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  157.5,
-                       "ret5d":  -0.0032,
-                       "ret20d":  -0.0337,
-                       "volRatio":  0.56,
+                       "latestPrice":  154,
+                       "ret5d":  -0.0284,
+                       "ret20d":  -0.0581,
+                       "volRatio":  0.66,
                        "inCandidates":  false
                    },
                    {
@@ -19600,10 +19600,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  7.7,
-                       "ret5d":  -0.0179,
-                       "ret20d":  -0.0494,
-                       "volRatio":  0.64,
+                       "latestPrice":  7.66,
+                       "ret5d":  -0.0437,
+                       "ret20d":  -0.0365,
+                       "volRatio":  0.49,
                        "inCandidates":  false
                    },
                    {
@@ -19613,10 +19613,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  60.3,
-                       "ret5d":  -0.0489,
-                       "ret20d":  -0.1398,
-                       "volRatio":  0.89,
+                       "latestPrice":  60.5,
+                       "ret5d":  -0.0033,
+                       "ret20d":  -0.155,
+                       "volRatio":  0.71,
                        "inCandidates":  false
                    },
                    {
@@ -19626,10 +19626,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  12.65,
-                       "ret5d":  -0.0156,
-                       "ret20d":  -0.0194,
-                       "volRatio":  0.93,
+                       "latestPrice":  12.4,
+                       "ret5d":  -0.0313,
+                       "ret20d":  -0.0498,
+                       "volRatio":  1.41,
                        "inCandidates":  false
                    },
                    {
@@ -19639,10 +19639,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  13.6,
-                       "ret5d":  0.0037,
-                       "ret20d":  0,
-                       "volRatio":  0.69,
+                       "latestPrice":  13.65,
+                       "ret5d":  0.0074,
+                       "ret20d":  0.0074,
+                       "volRatio":  2.09,
                        "inCandidates":  false
                    },
                    {
@@ -19652,10 +19652,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  30.75,
-                       "ret5d":  0.0371,
-                       "ret20d":  0.0603,
-                       "volRatio":  3.58,
+                       "latestPrice":  30.05,
+                       "ret5d":  -0.0083,
+                       "ret20d":  0.0204,
+                       "volRatio":  1.45,
                        "inCandidates":  true
                    },
                    {
@@ -19665,10 +19665,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  31.95,
-                       "ret5d":  -0.0184,
-                       "ret20d":  0.1132,
-                       "volRatio":  0.51,
+                       "latestPrice":  31.5,
+                       "ret5d":  0.0032,
+                       "ret20d":  0.0919,
+                       "volRatio":  0.66,
                        "inCandidates":  false
                    },
                    {
@@ -19678,10 +19678,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  70.2,
-                       "ret5d":  0.0029,
-                       "ret20d":  -0.0384,
-                       "volRatio":  1.25,
+                       "latestPrice":  69.5,
+                       "ret5d":  -0.0142,
+                       "ret20d":  -0.0531,
+                       "volRatio":  1,
                        "inCandidates":  false
                    },
                    {
@@ -19691,10 +19691,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  150,
-                       "ret5d":  -0.0228,
-                       "ret20d":  0.0067,
-                       "volRatio":  0.72,
+                       "latestPrice":  147.5,
+                       "ret5d":  -0.0328,
+                       "ret20d":  -0.0067,
+                       "volRatio":  0.57,
                        "inCandidates":  false
                    },
                    {
@@ -19704,10 +19704,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  19.05,
-                       "ret5d":  -0.0052,
-                       "ret20d":  0.0554,
-                       "volRatio":  0.58,
+                       "latestPrice":  19,
+                       "ret5d":  -0.0104,
+                       "ret20d":  0.044,
+                       "volRatio":  0.67,
                        "inCandidates":  false
                    },
                    {
@@ -19717,10 +19717,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  10.2,
+                       "latestPrice":  10.15,
                        "ret5d":  -0.0049,
-                       "ret20d":  -0.0332,
-                       "volRatio":  0.91,
+                       "ret20d":  -0.0379,
+                       "volRatio":  0.74,
                        "inCandidates":  false
                    },
                    {
@@ -19730,10 +19730,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  39.75,
-                       "ret5d":  0.092,
-                       "ret20d":  -0.0352,
-                       "volRatio":  1.47,
+                       "latestPrice":  38.4,
+                       "ret5d":  0.0682,
+                       "ret20d":  -0.0623,
+                       "volRatio":  2.14,
                        "inCandidates":  false
                    },
                    {
@@ -19743,10 +19743,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  36,
-                       "ret5d":  -0.0041,
-                       "ret20d":  -0.0244,
-                       "volRatio":  0.51,
+                       "latestPrice":  35.65,
+                       "ret5d":  -0.0125,
+                       "ret20d":  -0.0404,
+                       "volRatio":  0.78,
                        "inCandidates":  false
                    },
                    {
@@ -19756,10 +19756,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  154,
-                       "ret5d":  -0.0435,
-                       "ret20d":  -0.0065,
-                       "volRatio":  0.57,
+                       "latestPrice":  147,
+                       "ret5d":  -0.0547,
+                       "ret20d":  -0.0784,
+                       "volRatio":  1.13,
                        "inCandidates":  false
                    },
                    {
@@ -19769,10 +19769,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  27.1,
-                       "ret5d":  -0.0055,
-                       "ret20d":  0.0324,
-                       "volRatio":  0.86,
+                       "latestPrice":  26.85,
+                       "ret5d":  -0.0129,
+                       "ret20d":  0.0209,
+                       "volRatio":  0.38,
                        "inCandidates":  false
                    },
                    {
@@ -19782,10 +19782,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  89.8,
-                       "ret5d":  0.0056,
-                       "ret20d":  -0.0323,
-                       "volRatio":  0.51,
+                       "latestPrice":  89.6,
+                       "ret5d":  -0.0099,
+                       "ret20d":  -0.0417,
+                       "volRatio":  0.53,
                        "inCandidates":  false
                    },
                    {
@@ -19795,11 +19795,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  43.85,
-                       "ret5d":  0.0069,
-                       "ret20d":  -0.0299,
-                       "volRatio":  0.84,
-                       "inCandidates":  false
+                       "latestPrice":  44.05,
+                       "ret5d":  0,
+                       "ret20d":  -0.0287,
+                       "volRatio":  0.77,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "1233",
@@ -19807,11 +19807,11 @@
                        "ticker":  "1233.TW",
                        "market":  "TWSE",
                        "sector":  "",
-                       "pool":  "Stock",
-                       "latestPrice":  30.1,
-                       "ret5d":  -0.0368,
-                       "ret20d":  -0.0667,
-                       "volRatio":  0.62,
+                       "pool":  "Other",
+                       "latestPrice":  29.7,
+                       "ret5d":  -0.0373,
+                       "ret20d":  -0.0805,
+                       "volRatio":  0.97,
                        "inCandidates":  false
                    },
                    {
@@ -19822,9 +19822,9 @@
                        "sector":  "",
                        "pool":  "Stock",
                        "latestPrice":  149.5,
-                       "ret5d":  0,
-                       "ret20d":  0.0101,
-                       "volRatio":  0.67,
+                       "ret5d":  -0.0033,
+                       "ret20d":  0,
+                       "volRatio":  0.94,
                        "inCandidates":  false
                    },
                    {
@@ -19834,11 +19834,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  23.55,
-                       "ret5d":  -0.0427,
-                       "ret20d":  -0.0765,
-                       "volRatio":  1.76,
-                       "inCandidates":  true
+                       "latestPrice":  22.8,
+                       "ret5d":  -0.0732,
+                       "ret20d":  -0.1163,
+                       "volRatio":  1.12,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "009817",
@@ -19847,7 +19847,7 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  9.76,
+                       "latestPrice":  9.48,
                        "ret5d":  null,
                        "ret20d":  null,
                        "volRatio":  null,
@@ -19860,10 +19860,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  13.65,
-                       "ret5d":  0.0111,
-                       "ret20d":  -0.0215,
-                       "volRatio":  0.55,
+                       "latestPrice":  13.5,
+                       "ret5d":  0,
+                       "ret20d":  -0.0391,
+                       "volRatio":  1.08,
                        "inCandidates":  false
                    },
                    {
@@ -19873,10 +19873,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  34.8,
-                       "ret5d":  0,
-                       "ret20d":  -0.0169,
-                       "volRatio":  1.07,
+                       "latestPrice":  34.2,
+                       "ret5d":  -0.013,
+                       "ret20d":  -0.0407,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -19886,11 +19886,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  11.4,
-                       "ret5d":  0.0088,
-                       "ret20d":  -0.0679,
-                       "volRatio":  0.36,
-                       "inCandidates":  false
+                       "latestPrice":  10.97,
+                       "ret5d":  -0.0275,
+                       "ret20d":  -0.1196,
+                       "volRatio":  1.21,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "009811",
@@ -19899,10 +19899,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  11.16,
-                       "ret5d":  -0.0176,
-                       "ret20d":  -0.0453,
-                       "volRatio":  0.62,
+                       "latestPrice":  11.01,
+                       "ret5d":  -0.0274,
+                       "ret20d":  -0.0549,
+                       "volRatio":  1.15,
                        "inCandidates":  false
                    },
                    {
@@ -19912,7 +19912,7 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  10.78,
+                       "latestPrice":  10.51,
                        "ret5d":  null,
                        "ret20d":  null,
                        "volRatio":  null,
@@ -19925,10 +19925,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "ETF",
-                       "latestPrice":  10.02,
-                       "ret5d":  -0.0157,
-                       "ret20d":  -0.0411,
-                       "volRatio":  0.41,
+                       "latestPrice":  9.88,
+                       "ret5d":  -0.0237,
+                       "ret20d":  -0.0518,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -19938,10 +19938,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  38.55,
-                       "ret5d":  -0.0013,
-                       "ret20d":  -0.0241,
-                       "volRatio":  0.14,
+                       "latestPrice":  38.4,
+                       "ret5d":  -0.0026,
+                       "ret20d":  -0.0424,
+                       "volRatio":  0.4,
                        "inCandidates":  false
                    },
                    {
@@ -19951,10 +19951,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  13.65,
-                       "ret5d":  -0.0285,
-                       "ret20d":  -0.0586,
-                       "volRatio":  1.23,
+                       "latestPrice":  13.45,
+                       "ret5d":  -0.0358,
+                       "ret20d":  -0.0692,
+                       "volRatio":  1.48,
                        "inCandidates":  false
                    },
                    {
@@ -19964,10 +19964,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  9.98,
-                       "ret5d":  0.0184,
-                       "ret20d":  -0.0167,
-                       "volRatio":  0.57,
+                       "latestPrice":  9.97,
+                       "ret5d":  0.0173,
+                       "ret20d":  0.0194,
+                       "volRatio":  1.04,
                        "inCandidates":  false
                    },
                    {
@@ -19977,10 +19977,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  53.8,
-                       "ret5d":  0.017,
-                       "ret20d":  0.057,
-                       "volRatio":  0.88,
+                       "latestPrice":  54,
+                       "ret5d":  0.0056,
+                       "ret20d":  0.0506,
+                       "volRatio":  1.07,
                        "inCandidates":  true
                    },
                    {
@@ -19990,10 +19990,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  14.9,
-                       "ret5d":  -0.0197,
-                       "ret20d":  -0.0165,
-                       "volRatio":  0.68,
+                       "latestPrice":  14.8,
+                       "ret5d":  -0.0295,
+                       "ret20d":  -0.0231,
+                       "volRatio":  0.5,
                        "inCandidates":  false
                    },
                    {
@@ -20004,9 +20004,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  29.2,
-                       "ret5d":  -0.0267,
-                       "ret20d":  -0.0085,
-                       "volRatio":  0.5,
+                       "ret5d":  -0.0234,
+                       "ret20d":  -0.0102,
+                       "volRatio":  0.76,
                        "inCandidates":  false
                    },
                    {
@@ -20016,10 +20016,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  15.1,
-                       "ret5d":  -0.0473,
-                       "ret20d":  -0.0821,
-                       "volRatio":  1.59,
+                       "latestPrice":  14.9,
+                       "ret5d":  -0.0599,
+                       "ret20d":  -0.0915,
+                       "volRatio":  1.97,
                        "inCandidates":  false
                    },
                    {
@@ -20029,10 +20029,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  15.3,
-                       "ret5d":  -0.0033,
-                       "ret20d":  -0.0033,
-                       "volRatio":  1.22,
+                       "latestPrice":  15.15,
+                       "ret5d":  -0.0098,
+                       "ret20d":  -0.0194,
+                       "volRatio":  1.13,
                        "inCandidates":  false
                    },
                    {
@@ -20042,11 +20042,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  47.6,
-                       "ret5d":  0.0462,
-                       "ret20d":  0.0485,
-                       "volRatio":  0.89,
-                       "inCandidates":  true
+                       "latestPrice":  44.75,
+                       "ret5d":  -0.0448,
+                       "ret20d":  -0.0376,
+                       "volRatio":  0.95,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "1340",
@@ -20055,10 +20055,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  7,
-                       "ret5d":  -0.0541,
-                       "ret20d":  0.037,
-                       "volRatio":  0.43,
+                       "latestPrice":  6.9,
+                       "ret5d":  -0.0751,
+                       "ret20d":  -0.043,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -20068,10 +20068,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  41.35,
-                       "ret5d":  0.0024,
-                       "ret20d":  -0.0538,
-                       "volRatio":  0.79,
+                       "latestPrice":  41.05,
+                       "ret5d":  0.0086,
+                       "ret20d":  -0.0465,
+                       "volRatio":  1.15,
                        "inCandidates":  false
                    },
                    {
@@ -20081,10 +20081,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  86,
-                       "ret5d":  -0.0337,
-                       "ret20d":  -0.161,
-                       "volRatio":  0.52,
+                       "latestPrice":  84.8,
+                       "ret5d":  -0.0385,
+                       "ret20d":  -0.1562,
+                       "volRatio":  0.97,
                        "inCandidates":  false
                    },
                    {
@@ -20094,10 +20094,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  59.5,
-                       "ret5d":  0.0051,
-                       "ret20d":  -0.005,
-                       "volRatio":  0.35,
+                       "latestPrice":  58.5,
+                       "ret5d":  0,
+                       "ret20d":  -0.0347,
+                       "volRatio":  0.36,
                        "inCandidates":  false
                    },
                    {
@@ -20107,10 +20107,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  45.85,
-                       "ret5d":  0.0995,
-                       "ret20d":  0.1252,
-                       "volRatio":  0.87,
+                       "latestPrice":  43.1,
+                       "ret5d":  -0.0336,
+                       "ret20d":  0.0201,
+                       "volRatio":  0.59,
                        "inCandidates":  true
                    },
                    {
@@ -20120,10 +20120,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  27.25,
-                       "ret5d":  -0.0091,
-                       "ret20d":  -0.0809,
-                       "volRatio":  0.91,
+                       "latestPrice":  27.5,
+                       "ret5d":  0.0129,
+                       "ret20d":  -0.0909,
+                       "volRatio":  1.99,
                        "inCandidates":  false
                    },
                    {
@@ -20133,10 +20133,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  15.35,
-                       "ret5d":  0.0132,
-                       "ret20d":  -0.2047,
-                       "volRatio":  1.06,
+                       "latestPrice":  14.8,
+                       "ret5d":  -0.0231,
+                       "ret20d":  -0.2292,
+                       "volRatio":  1.01,
                        "inCandidates":  false
                    },
                    {
@@ -20146,10 +20146,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  6.25,
-                       "ret5d":  0.072,
-                       "ret20d":  0.186,
-                       "volRatio":  0.94,
+                       "latestPrice":  6.29,
+                       "ret5d":  0.0518,
+                       "ret20d":  0.2119,
+                       "volRatio":  1.26,
                        "inCandidates":  false
                    },
                    {
@@ -20159,10 +20159,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  11.7,
-                       "ret5d":  0,
-                       "ret20d":  0.0043,
-                       "volRatio":  0.59,
+                       "latestPrice":  11.5,
+                       "ret5d":  -0.0086,
+                       "ret20d":  -0.0213,
+                       "volRatio":  1.2,
                        "inCandidates":  false
                    },
                    {
@@ -20172,10 +20172,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  18.25,
-                       "ret5d":  -0.0806,
-                       "ret20d":  -0.0783,
-                       "volRatio":  0.62,
+                       "latestPrice":  17.75,
+                       "ret5d":  -0.1256,
+                       "ret20d":  -0.108,
+                       "volRatio":  0.43,
                        "inCandidates":  false
                    },
                    {
@@ -20185,10 +20185,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  18.65,
-                       "ret5d":  0.0081,
-                       "ret20d":  -0.0485,
-                       "volRatio":  1.04,
+                       "latestPrice":  18.9,
+                       "ret5d":  0,
+                       "ret20d":  -0.0406,
+                       "volRatio":  1.71,
                        "inCandidates":  false
                    },
                    {
@@ -20198,10 +20198,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  9,
-                       "ret5d":  0.0429,
-                       "ret20d":  0.0239,
-                       "volRatio":  1.18,
+                       "latestPrice":  9.14,
+                       "ret5d":  0.0579,
+                       "ret20d":  0.0375,
+                       "volRatio":  2.28,
                        "inCandidates":  false
                    },
                    {
@@ -20211,10 +20211,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  16.3,
-                       "ret5d":  -0.0091,
-                       "ret20d":  0.0759,
-                       "volRatio":  0.92,
+                       "latestPrice":  15.85,
+                       "ret5d":  0,
+                       "ret20d":  0.0359,
+                       "volRatio":  0.71,
                        "inCandidates":  true
                    },
                    {
@@ -20224,10 +20224,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  26.4,
-                       "ret5d":  -0.033,
-                       "ret20d":  -0.0571,
-                       "volRatio":  1.39,
+                       "latestPrice":  25.9,
+                       "ret5d":  -0.0513,
+                       "ret20d":  -0.088,
+                       "volRatio":  1.03,
                        "inCandidates":  false
                    },
                    {
@@ -20237,10 +20237,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  9.72,
-                       "ret5d":  0.0136,
-                       "ret20d":  -0.0328,
-                       "volRatio":  0.27,
+                       "latestPrice":  9.6,
+                       "ret5d":  -0.0021,
+                       "ret20d":  -0.0448,
+                       "volRatio":  1.26,
                        "inCandidates":  false
                    },
                    {
@@ -20250,10 +20250,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  31.05,
-                       "ret5d":  -0.0251,
-                       "ret20d":  -0.0786,
-                       "volRatio":  1.96,
+                       "latestPrice":  31,
+                       "ret5d":  -0.0127,
+                       "ret20d":  -0.076,
+                       "volRatio":  0.74,
                        "inCandidates":  false
                    },
                    {
@@ -20263,10 +20263,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  18.1,
-                       "ret5d":  0.183,
-                       "ret20d":  0.5274,
-                       "volRatio":  3.97,
+                       "latestPrice":  19.9,
+                       "ret5d":  0.2209,
+                       "ret20d":  0.6446,
+                       "volRatio":  0.82,
                        "inCandidates":  true
                    },
                    {
@@ -20276,10 +20276,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  16.5,
-                       "ret5d":  0.1037,
-                       "ret20d":  0.2406,
-                       "volRatio":  3.46,
+                       "latestPrice":  18.15,
+                       "ret5d":  0.198,
+                       "ret20d":  0.3545,
+                       "volRatio":  3.28,
                        "inCandidates":  true
                    },
                    {
@@ -20289,10 +20289,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  14.3,
-                       "ret5d":  0.0476,
-                       "ret20d":  0.1349,
-                       "volRatio":  2.11,
+                       "latestPrice":  14.25,
+                       "ret5d":  0.0401,
+                       "ret20d":  0.0878,
+                       "volRatio":  1.59,
                        "inCandidates":  true
                    },
                    {
@@ -20302,10 +20302,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  12.25,
-                       "ret5d":  0.0338,
-                       "ret20d":  0.3581,
-                       "volRatio":  1.88,
+                       "latestPrice":  11.6,
+                       "ret5d":  -0.0128,
+                       "ret20d":  0.2875,
+                       "volRatio":  2.67,
                        "inCandidates":  true
                    },
                    {
@@ -20315,10 +20315,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  15.05,
-                       "ret5d":  0.1712,
-                       "ret20d":  0.3202,
-                       "volRatio":  3.78,
+                       "latestPrice":  16.55,
+                       "ret5d":  0.2731,
+                       "ret20d":  0.4145,
+                       "volRatio":  2.97,
                        "inCandidates":  true
                    },
                    {
@@ -20328,11 +20328,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  78.4,
-                       "ret5d":  -0.0611,
-                       "ret20d":  0.0769,
-                       "volRatio":  0.72,
-                       "inCandidates":  true
+                       "latestPrice":  73.8,
+                       "ret5d":  -0.1726,
+                       "ret20d":  -0.0635,
+                       "volRatio":  0.67,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "1307",
@@ -20341,10 +20341,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  34.25,
-                       "ret5d":  0.027,
-                       "ret20d":  0.1193,
-                       "volRatio":  0.66,
+                       "latestPrice":  34.95,
+                       "ret5d":  0.019,
+                       "ret20d":  0.0591,
+                       "volRatio":  0.94,
                        "inCandidates":  true
                    },
                    {
@@ -20354,10 +20354,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  16.8,
-                       "ret5d":  0.2218,
-                       "ret20d":  0.4359,
-                       "volRatio":  3.6,
+                       "latestPrice":  18.45,
+                       "ret5d":  0.3467,
+                       "ret20d":  0.5504,
+                       "volRatio":  1.56,
                        "inCandidates":  true
                    },
                    {
@@ -20367,10 +20367,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  33.25,
-                       "ret5d":  0.0045,
-                       "ret20d":  0.0091,
-                       "volRatio":  0.49,
+                       "latestPrice":  32.8,
+                       "ret5d":  -0.0015,
+                       "ret20d":  -0.018,
+                       "volRatio":  1.07,
                        "inCandidates":  false
                    },
                    {
@@ -20380,10 +20380,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  83.1,
-                       "ret5d":  -0.0315,
-                       "ret20d":  -0.2048,
-                       "volRatio":  0.6,
+                       "latestPrice":  82,
+                       "ret5d":  -0.0353,
+                       "ret20d":  -0.2039,
+                       "volRatio":  0.43,
                        "inCandidates":  false
                    },
                    {
@@ -20393,10 +20393,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  10.55,
-                       "ret5d":  0.0144,
-                       "ret20d":  0.0048,
-                       "volRatio":  0.88,
+                       "latestPrice":  10.65,
+                       "ret5d":  0.029,
+                       "ret20d":  -0.0274,
+                       "volRatio":  3.19,
                        "inCandidates":  false
                    },
                    {
@@ -20406,10 +20406,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  19.1,
+                       "latestPrice":  19.15,
                        "ret5d":  0.0296,
-                       "ret20d":  0.0296,
-                       "volRatio":  0.5,
+                       "ret20d":  0.0213,
+                       "volRatio":  1.01,
                        "inCandidates":  false
                    },
                    {
@@ -20419,10 +20419,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  8.49,
-                       "ret5d":  -0.0286,
-                       "ret20d":  0.0788,
-                       "volRatio":  0.81,
+                       "latestPrice":  8.4,
+                       "ret5d":  -0.0334,
+                       "ret20d":  0.0606,
+                       "volRatio":  1.36,
                        "inCandidates":  true
                    },
                    {
@@ -20432,10 +20432,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  12.95,
-                       "ret5d":  0.0319,
-                       "ret20d":  0.2452,
-                       "volRatio":  0.82,
+                       "latestPrice":  13.05,
+                       "ret5d":  0.044,
+                       "ret20d":  0.237,
+                       "volRatio":  1.12,
                        "inCandidates":  true
                    },
                    {
@@ -20445,10 +20445,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  12.7,
-                       "ret5d":  -0.0078,
-                       "ret20d":  -0.0662,
-                       "volRatio":  1.02,
+                       "latestPrice":  12.3,
+                       "ret5d":  -0.0502,
+                       "ret20d":  -0.1151,
+                       "volRatio":  1.1,
                        "inCandidates":  false
                    },
                    {
@@ -20458,10 +20458,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  63.8,
-                       "ret5d":  0.0079,
-                       "ret20d":  -0.0093,
-                       "volRatio":  0.39,
+                       "latestPrice":  63.1,
+                       "ret5d":  -0.0063,
+                       "ret20d":  -0.0277,
+                       "volRatio":  0.67,
                        "inCandidates":  false
                    },
                    {
@@ -20471,10 +20471,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  155,
-                       "ret5d":  0.0197,
-                       "ret20d":  0.0616,
-                       "volRatio":  0.19,
+                       "latestPrice":  143,
+                       "ret5d":  -0.0338,
+                       "ret20d":  -0.0592,
+                       "volRatio":  0.16,
                        "inCandidates":  false
                    },
                    {
@@ -20484,10 +20484,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  1200,
-                       "ret5d":  -0.0204,
-                       "ret20d":  -0.0769,
-                       "volRatio":  0.89,
+                       "latestPrice":  1160,
+                       "ret5d":  -0.0413,
+                       "ret20d":  -0.0866,
+                       "volRatio":  0.7,
                        "inCandidates":  false
                    },
                    {
@@ -20497,10 +20497,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  45.55,
-                       "ret5d":  -0.0076,
-                       "ret20d":  -0.1688,
-                       "volRatio":  0.52,
+                       "latestPrice":  45.25,
+                       "ret5d":  0.0261,
+                       "ret20d":  -0.1145,
+                       "volRatio":  0.58,
                        "inCandidates":  false
                    },
                    {
@@ -20510,10 +20510,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  289,
-                       "ret5d":  0.0764,
-                       "ret20d":  0.1311,
-                       "volRatio":  2.27,
+                       "latestPrice":  278.5,
+                       "ret5d":  0.0529,
+                       "ret20d":  0.0965,
+                       "volRatio":  1.58,
                        "inCandidates":  true
                    },
                    {
@@ -20523,10 +20523,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  56.8,
-                       "ret5d":  0.0018,
-                       "ret20d":  -0.0422,
-                       "volRatio":  0.84,
+                       "latestPrice":  55.7,
+                       "ret5d":  -0.0107,
+                       "ret20d":  -0.0591,
+                       "volRatio":  1.36,
                        "inCandidates":  false
                    },
                    {
@@ -20536,11 +20536,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  378.5,
-                       "ret5d":  -0.0406,
-                       "ret20d":  -0.0066,
-                       "volRatio":  1.29,
-                       "inCandidates":  true
+                       "latestPrice":  355.5,
+                       "ret5d":  -0.1101,
+                       "ret20d":  -0.0849,
+                       "volRatio":  0.47,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "5225",
@@ -20550,9 +20550,9 @@
                        "sector":  "",
                        "pool":  "Stock",
                        "latestPrice":  92,
-                       "ret5d":  -0.0054,
-                       "ret20d":  -0.0564,
-                       "volRatio":  0.56,
+                       "ret5d":  -0.015,
+                       "ret20d":  -0.0612,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -20562,10 +20562,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  39.55,
-                       "ret5d":  0.0733,
-                       "ret20d":  0.0589,
-                       "volRatio":  4.55,
+                       "latestPrice":  36.95,
+                       "ret5d":  0.0151,
+                       "ret20d":  0.0027,
+                       "volRatio":  1.86,
                        "inCandidates":  false
                    },
                    {
@@ -20575,10 +20575,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  71,
-                       "ret5d":  -0.0274,
-                       "ret20d":  -0.1404,
-                       "volRatio":  0.83,
+                       "latestPrice":  69.5,
+                       "ret5d":  -0.044,
+                       "ret20d":  -0.1576,
+                       "volRatio":  0.47,
                        "inCandidates":  false
                    },
                    {
@@ -20588,10 +20588,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  326.5,
-                       "ret5d":  -0.0151,
-                       "ret20d":  0.0267,
-                       "volRatio":  0.79,
+                       "latestPrice":  321.5,
+                       "ret5d":  -0.0168,
+                       "ret20d":  0.0016,
+                       "volRatio":  0.5,
                        "inCandidates":  false
                    },
                    {
@@ -20601,10 +20601,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  79.1,
-                       "ret5d":  0.0141,
-                       "ret20d":  -0.04,
-                       "volRatio":  0.94,
+                       "latestPrice":  76.8,
+                       "ret5d":  -0.0254,
+                       "ret20d":  -0.0657,
+                       "volRatio":  0.72,
                        "inCandidates":  false
                    },
                    {
@@ -20614,10 +20614,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  42.8,
-                       "ret5d":  0.0338,
-                       "ret20d":  0.119,
-                       "volRatio":  0.66,
+                       "latestPrice":  41.1,
+                       "ret5d":  -0.012,
+                       "ret20d":  0.0593,
+                       "volRatio":  0.64,
                        "inCandidates":  true
                    },
                    {
@@ -20627,10 +20627,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  86,
-                       "ret5d":  -0.0183,
-                       "ret20d":  -0.0899,
-                       "volRatio":  0.49,
+                       "latestPrice":  82.1,
+                       "ret5d":  -0.0639,
+                       "ret20d":  -0.1367,
+                       "volRatio":  0.44,
                        "inCandidates":  false
                    },
                    {
@@ -20640,10 +20640,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  142,
-                       "ret5d":  0.0143,
-                       "ret20d":  -0.0438,
-                       "volRatio":  1.21,
+                       "latestPrice":  138,
+                       "ret5d":  0.0036,
+                       "ret20d":  -0.0861,
+                       "volRatio":  0.78,
                        "inCandidates":  false
                    },
                    {
@@ -20653,10 +20653,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  47.4,
-                       "ret5d":  -0.0094,
-                       "ret20d":  -0.0778,
-                       "volRatio":  0.69,
+                       "latestPrice":  46.4,
+                       "ret5d":  -0.0085,
+                       "ret20d":  -0.092,
+                       "volRatio":  0.61,
                        "inCandidates":  false
                    },
                    {
@@ -20666,10 +20666,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  87.7,
-                       "ret5d":  0.0023,
-                       "ret20d":  -0.0415,
-                       "volRatio":  0.83,
+                       "latestPrice":  88.7,
+                       "ret5d":  -0.0034,
+                       "ret20d":  -0.0663,
+                       "volRatio":  1.41,
                        "inCandidates":  false
                    },
                    {
@@ -20679,10 +20679,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  194,
-                       "ret5d":  0.0718,
-                       "ret20d":  0.0543,
-                       "volRatio":  1.03,
+                       "latestPrice":  193.5,
+                       "ret5d":  0.081,
+                       "ret20d":  0.0632,
+                       "volRatio":  1.04,
                        "inCandidates":  false
                    },
                    {
@@ -20692,10 +20692,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  261.5,
-                       "ret5d":  0.3274,
-                       "ret20d":  0.301,
-                       "volRatio":  3.39,
+                       "latestPrice":  256,
+                       "ret5d":  0.2278,
+                       "ret20d":  0.2832,
+                       "volRatio":  1.95,
                        "inCandidates":  true
                    },
                    {
@@ -20705,10 +20705,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  145,
-                       "ret5d":  0.0035,
-                       "ret20d":  -0.0136,
-                       "volRatio":  2.82,
+                       "latestPrice":  141,
+                       "ret5d":  -0.007,
+                       "ret20d":  -0.014,
+                       "volRatio":  0.9,
                        "inCandidates":  false
                    },
                    {
@@ -20718,10 +20718,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  29.65,
-                       "ret5d":  0.0224,
-                       "ret20d":  -0.0389,
-                       "volRatio":  0.81,
+                       "latestPrice":  29,
+                       "ret5d":  -0.0186,
+                       "ret20d":  -0.0397,
+                       "volRatio":  0.95,
                        "inCandidates":  false
                    },
                    {
@@ -20731,11 +20731,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  113,
-                       "ret5d":  0.0865,
-                       "ret20d":  -0.0622,
-                       "volRatio":  2.73,
-                       "inCandidates":  true
+                       "latestPrice":  105.5,
+                       "ret5d":  0.0144,
+                       "ret20d":  -0.1097,
+                       "volRatio":  0.97,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "4956",
@@ -20744,10 +20744,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  34,
-                       "ret5d":  0.0897,
-                       "ret20d":  0.4021,
-                       "volRatio":  2.9,
+                       "latestPrice":  34.6,
+                       "ret5d":  0.0663,
+                       "ret20d":  0.4268,
+                       "volRatio":  1.68,
                        "inCandidates":  true
                    },
                    {
@@ -20757,10 +20757,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  43.3,
-                       "ret5d":  -0.0226,
-                       "ret20d":  0.0678,
-                       "volRatio":  0.27,
+                       "latestPrice":  41,
+                       "ret5d":  -0.0734,
+                       "ret20d":  0.0037,
+                       "volRatio":  0.24,
                        "inCandidates":  false
                    },
                    {
@@ -20770,11 +20770,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  25.2,
-                       "ret5d":  0.0839,
-                       "ret20d":  0.8667,
-                       "volRatio":  0.73,
-                       "inCandidates":  true
+                       "latestPrice":  24.4,
+                       "ret5d":  -0.045,
+                       "ret20d":  0.8277,
+                       "volRatio":  0.31,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "4958",
@@ -20783,10 +20783,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  209.5,
-                       "ret5d":  0.1114,
-                       "ret20d":  0.1639,
-                       "volRatio":  1.22,
+                       "latestPrice":  201,
+                       "ret5d":  0.0229,
+                       "ret20d":  0.1292,
+                       "volRatio":  0.8,
                        "inCandidates":  true
                    },
                    {
@@ -20796,10 +20796,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  63.3,
-                       "ret5d":  -0.0094,
-                       "ret20d":  -0.1649,
-                       "volRatio":  0.32,
+                       "latestPrice":  62.5,
+                       "ret5d":  -0.0385,
+                       "ret20d":  -0.1798,
+                       "volRatio":  0.44,
                        "inCandidates":  false
                    },
                    {
@@ -20810,9 +20810,9 @@
                        "sector":  "",
                        "pool":  "Stock",
                        "latestPrice":  56.6,
-                       "ret5d":  0.031,
-                       "ret20d":  -0.039,
-                       "volRatio":  0.25,
+                       "ret5d":  0.0162,
+                       "ret20d":  -0.0439,
+                       "volRatio":  0.55,
                        "inCandidates":  false
                    },
                    {
@@ -20822,10 +20822,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  135.5,
-                       "ret5d":  0.015,
-                       "ret20d":  0.0423,
-                       "volRatio":  0.74,
+                       "latestPrice":  132,
+                       "ret5d":  -0.0222,
+                       "ret20d":  -0.0112,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -20835,10 +20835,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  38.1,
-                       "ret5d":  0.027,
-                       "ret20d":  0.0187,
-                       "volRatio":  0.42,
+                       "latestPrice":  37.85,
+                       "ret5d":  0.0216,
+                       "ret20d":  -0.0013,
+                       "volRatio":  0.17,
                        "inCandidates":  false
                    },
                    {
@@ -20848,11 +20848,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  74.4,
-                       "ret5d":  0.0479,
-                       "ret20d":  0.6298,
-                       "volRatio":  1.16,
-                       "inCandidates":  true
+                       "latestPrice":  68.6,
+                       "ret5d":  0.0178,
+                       "ret20d":  0.3665,
+                       "volRatio":  0.41,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "4977",
@@ -20861,10 +20861,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  200.5,
-                       "ret5d":  0.0722,
-                       "ret20d":  0.4424,
-                       "volRatio":  1.66,
+                       "latestPrice":  185,
+                       "ret5d":  -0.0054,
+                       "ret20d":  0.4741,
+                       "volRatio":  0.82,
                        "inCandidates":  true
                    },
                    {
@@ -20874,10 +20874,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  22.2,
-                       "ret5d":  -0.0133,
-                       "ret20d":  -0.0431,
-                       "volRatio":  1.02,
+                       "latestPrice":  21.95,
+                       "ret5d":  -0.0068,
+                       "ret20d":  -0.0539,
+                       "volRatio":  1.08,
                        "inCandidates":  false
                    },
                    {
@@ -20887,10 +20887,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  91.6,
-                       "ret5d":  -0.0557,
-                       "ret20d":  -0.0975,
-                       "volRatio":  0.47,
+                       "latestPrice":  89.5,
+                       "ret5d":  -0.0716,
+                       "ret20d":  -0.1225,
+                       "volRatio":  1.33,
                        "inCandidates":  false
                    },
                    {
@@ -20900,10 +20900,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  40.25,
-                       "ret5d":  -0.0123,
-                       "ret20d":  0.0509,
-                       "volRatio":  1.16,
+                       "latestPrice":  39.25,
+                       "ret5d":  -0.0285,
+                       "ret20d":  0.0384,
+                       "volRatio":  0.98,
                        "inCandidates":  false
                    },
                    {
@@ -20913,10 +20913,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  48,
-                       "ret5d":  0.0042,
-                       "ret20d":  0.0847,
-                       "volRatio":  1.89,
+                       "latestPrice":  45.55,
+                       "ret5d":  -0.0309,
+                       "ret20d":  0.04,
+                       "volRatio":  0.59,
                        "inCandidates":  true
                    },
                    {
@@ -20926,10 +20926,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  16.95,
-                       "ret5d":  0.0762,
-                       "ret20d":  0.2021,
-                       "volRatio":  0.86,
+                       "latestPrice":  16.55,
+                       "ret5d":  0.0475,
+                       "ret20d":  0.1533,
+                       "volRatio":  0.5,
                        "inCandidates":  false
                    },
                    {
@@ -20939,11 +20939,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  8.89,
-                       "ret5d":  0,
-                       "ret20d":  0.0868,
-                       "volRatio":  0.46,
-                       "inCandidates":  false
+                       "latestPrice":  8.51,
+                       "ret5d":  -0.0023,
+                       "ret20d":  0.0024,
+                       "volRatio":  0.56,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "6115",
@@ -20952,10 +20952,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  47.1,
-                       "ret5d":  0.0107,
-                       "ret20d":  -0.0021,
-                       "volRatio":  0.83,
+                       "latestPrice":  46.55,
+                       "ret5d":  -0.0032,
+                       "ret20d":  -0.0148,
+                       "volRatio":  0.82,
                        "inCandidates":  false
                    },
                    {
@@ -20966,9 +20966,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  5.93,
-                       "ret5d":  0.0034,
-                       "ret20d":  0.0017,
-                       "volRatio":  1.18,
+                       "ret5d":  -0.0067,
+                       "ret20d":  0.0051,
+                       "volRatio":  0.75,
                        "inCandidates":  false
                    },
                    {
@@ -20978,10 +20978,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  46.9,
-                       "ret5d":  -0.0506,
-                       "ret20d":  -0.0946,
-                       "volRatio":  0.93,
+                       "latestPrice":  47.95,
+                       "ret5d":  -0.0194,
+                       "ret20d":  -0.0779,
+                       "volRatio":  0.43,
                        "inCandidates":  false
                    },
                    {
@@ -20991,10 +20991,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  55.4,
-                       "ret5d":  -0.0107,
-                       "ret20d":  0.0492,
-                       "volRatio":  0.58,
+                       "latestPrice":  54.9,
+                       "ret5d":  -0.0054,
+                       "ret20d":  0.0497,
+                       "volRatio":  0.98,
                        "inCandidates":  false
                    },
                    {
@@ -21004,10 +21004,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  27.85,
-                       "ret5d":  0.0018,
-                       "ret20d":  -0.033,
-                       "volRatio":  0.63,
+                       "latestPrice":  27.2,
+                       "ret5d":  -0.0163,
+                       "ret20d":  -0.0717,
+                       "volRatio":  0.92,
                        "inCandidates":  false
                    },
                    {
@@ -21017,10 +21017,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  593,
-                       "ret5d":  0.1317,
-                       "ret20d":  0.1317,
-                       "volRatio":  1.71,
+                       "latestPrice":  598,
+                       "ret5d":  0.0491,
+                       "ret20d":  0.1522,
+                       "volRatio":  1.11,
                        "inCandidates":  true
                    },
                    {
@@ -21030,10 +21030,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  24.05,
-                       "ret5d":  0.0126,
-                       "ret20d":  -0.0021,
-                       "volRatio":  0.49,
+                       "latestPrice":  23.95,
+                       "ret5d":  0,
+                       "ret20d":  -0.0062,
+                       "volRatio":  0.79,
                        "inCandidates":  false
                    },
                    {
@@ -21043,10 +21043,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  10.3,
-                       "ret5d":  0.0564,
-                       "ret20d":  0.0707,
-                       "volRatio":  2.49,
+                       "latestPrice":  9.85,
+                       "ret5d":  0.0303,
+                       "ret20d":  0.0282,
+                       "volRatio":  1.47,
                        "inCandidates":  false
                    },
                    {
@@ -21056,11 +21056,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  25.95,
-                       "ret5d":  0.2975,
-                       "ret20d":  1.4366,
-                       "volRatio":  0.7,
-                       "inCandidates":  true
+                       "latestPrice":  23.4,
+                       "ret5d":  0.0636,
+                       "ret20d":  1.1869,
+                       "volRatio":  0.41,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "6120",
@@ -21069,10 +21069,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  13.95,
-                       "ret5d":  0.0608,
-                       "ret20d":  0.1296,
-                       "volRatio":  2.97,
+                       "latestPrice":  13.25,
+                       "ret5d":  0.0271,
+                       "ret20d":  0.0516,
+                       "volRatio":  1.3,
                        "inCandidates":  true
                    },
                    {
@@ -21082,10 +21082,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  74.5,
-                       "ret5d":  0.042,
-                       "ret20d":  -0.0093,
-                       "volRatio":  1.28,
+                       "latestPrice":  71.5,
+                       "ret5d":  0.007,
+                       "ret20d":  -0.0403,
+                       "volRatio":  0.98,
                        "inCandidates":  false
                    },
                    {
@@ -21095,10 +21095,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  24.3,
-                       "ret5d":  0.0083,
-                       "ret20d":  0.034,
-                       "volRatio":  0.42,
+                       "latestPrice":  23.1,
+                       "ret5d":  -0.0253,
+                       "ret20d":  0.0087,
+                       "volRatio":  0.3,
                        "inCandidates":  false
                    },
                    {
@@ -21108,10 +21108,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  22,
-                       "ret5d":  -0.0393,
-                       "ret20d":  -0.0698,
-                       "volRatio":  1.67,
+                       "latestPrice":  21.4,
+                       "ret5d":  -0.0614,
+                       "ret20d":  -0.1474,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -21121,10 +21121,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  8.97,
-                       "ret5d":  0.0034,
-                       "ret20d":  -0.0033,
-                       "volRatio":  0.83,
+                       "latestPrice":  8.96,
+                       "ret5d":  -0.0099,
+                       "ret20d":  -0.0055,
+                       "volRatio":  0.82,
                        "inCandidates":  false
                    },
                    {
@@ -21134,10 +21134,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  25.9,
-                       "ret5d":  0.055,
-                       "ret20d":  -0.0077,
-                       "volRatio":  1.18,
+                       "latestPrice":  25.15,
+                       "ret5d":  0.0307,
+                       "ret20d":  -0.0364,
+                       "volRatio":  0.83,
                        "inCandidates":  false
                    },
                    {
@@ -21147,10 +21147,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  77,
-                       "ret5d":  0.0226,
-                       "ret20d":  -0.0052,
-                       "volRatio":  1.28,
+                       "latestPrice":  76.1,
+                       "ret5d":  0.0106,
+                       "ret20d":  -0.0091,
+                       "volRatio":  0.59,
                        "inCandidates":  false
                    },
                    {
@@ -21160,10 +21160,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  14.45,
-                       "ret5d":  0.014,
-                       "ret20d":  0.0212,
-                       "volRatio":  0.97,
+                       "latestPrice":  14.35,
+                       "ret5d":  0,
+                       "ret20d":  0.0035,
+                       "volRatio":  1.56,
                        "inCandidates":  false
                    },
                    {
@@ -21173,10 +21173,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  34.2,
-                       "ret5d":  0.0088,
-                       "ret20d":  0.1213,
-                       "volRatio":  1.23,
+                       "latestPrice":  33.8,
+                       "ret5d":  -0.0088,
+                       "ret20d":  0.0956,
+                       "volRatio":  0.58,
                        "inCandidates":  false
                    },
                    {
@@ -21186,10 +21186,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  38.3,
-                       "ret5d":  0.0728,
-                       "ret20d":  0.1571,
-                       "volRatio":  2.37,
+                       "latestPrice":  37.65,
+                       "ret5d":  0.0107,
+                       "ret20d":  0.1531,
+                       "volRatio":  0.97,
                        "inCandidates":  false
                    },
                    {
@@ -21199,10 +21199,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  71,
-                       "ret5d":  0.0613,
-                       "ret20d":  0.0597,
-                       "volRatio":  2.14,
+                       "latestPrice":  68.6,
+                       "ret5d":  0.0073,
+                       "ret20d":  0.0133,
+                       "volRatio":  0.89,
                        "inCandidates":  false
                    },
                    {
@@ -21212,10 +21212,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  13.75,
-                       "ret5d":  -0.0709,
-                       "ret20d":  -0.3142,
-                       "volRatio":  0.29,
+                       "latestPrice":  12.4,
+                       "ret5d":  -0.1143,
+                       "ret20d":  -0.3951,
+                       "volRatio":  0.68,
                        "inCandidates":  false
                    },
                    {
@@ -21225,10 +21225,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  106.5,
-                       "ret5d":  0.0441,
-                       "ret20d":  0.0095,
-                       "volRatio":  0.75,
+                       "latestPrice":  104.5,
+                       "ret5d":  -0.0095,
+                       "ret20d":  -0.0234,
+                       "volRatio":  0.58,
                        "inCandidates":  true
                    },
                    {
@@ -21238,10 +21238,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  52.1,
-                       "ret5d":  0.0196,
-                       "ret20d":  0.0236,
-                       "volRatio":  1.07,
+                       "latestPrice":  50.9,
+                       "ret5d":  -0.0174,
+                       "ret20d":  0.0079,
+                       "volRatio":  0.91,
                        "inCandidates":  false
                    },
                    {
@@ -21251,10 +21251,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  22.95,
-                       "ret5d":  -0.0022,
-                       "ret20d":  -0.0397,
-                       "volRatio":  0.91,
+                       "latestPrice":  22.55,
+                       "ret5d":  -0.0217,
+                       "ret20d":  -0.0565,
+                       "volRatio":  1.22,
                        "inCandidates":  false
                    },
                    {
@@ -21264,10 +21264,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  39.05,
-                       "ret5d":  -0.0114,
-                       "ret20d":  -0.0358,
-                       "volRatio":  0.82,
+                       "latestPrice":  39.1,
+                       "ret5d":  -0.0013,
+                       "ret20d":  -0.0262,
+                       "volRatio":  0.71,
                        "inCandidates":  false
                    },
                    {
@@ -21277,10 +21277,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  16.65,
-                       "ret5d":  -0.032,
-                       "ret20d":  -0.25,
-                       "volRatio":  0.92,
+                       "latestPrice":  16.45,
+                       "ret5d":  -0.0324,
+                       "ret20d":  -0.264,
+                       "volRatio":  0.91,
                        "inCandidates":  false
                    },
                    {
@@ -21290,10 +21290,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  29.95,
-                       "ret5d":  -0.0148,
-                       "ret20d":  -0.0244,
-                       "volRatio":  0.6,
+                       "latestPrice":  29.8,
+                       "ret5d":  -0.01,
+                       "ret20d":  -0.0479,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -21303,10 +21303,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  17,
-                       "ret5d":  0.0272,
-                       "ret20d":  -0.0423,
-                       "volRatio":  0.46,
+                       "latestPrice":  16.65,
+                       "ret5d":  -0.0206,
+                       "ret20d":  -0.062,
+                       "volRatio":  0.4,
                        "inCandidates":  false
                    },
                    {
@@ -21316,10 +21316,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  47,
-                       "ret5d":  -0.0457,
-                       "ret20d":  -0.0389,
-                       "volRatio":  0.51,
+                       "latestPrice":  46.15,
+                       "ret5d":  -0.0553,
+                       "ret20d":  -0.0582,
+                       "volRatio":  0.45,
                        "inCandidates":  false
                    },
                    {
@@ -21329,10 +21329,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  66,
-                       "ret5d":  -0.0351,
-                       "ret20d":  0.4831,
-                       "volRatio":  1.32,
+                       "latestPrice":  63.3,
+                       "ret5d":  -0.0467,
+                       "ret20d":  0.4403,
+                       "volRatio":  0.7,
                        "inCandidates":  true
                    },
                    {
@@ -21342,10 +21342,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  33,
-                       "ret5d":  0.0248,
-                       "ret20d":  -0.0105,
-                       "volRatio":  1.85,
+                       "latestPrice":  31.8,
+                       "ret5d":  0.0127,
+                       "ret20d":  -0.0479,
+                       "volRatio":  1,
                        "inCandidates":  false
                    },
                    {
@@ -21355,10 +21355,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  44.3,
-                       "ret5d":  -0.0885,
-                       "ret20d":  -0.0504,
-                       "volRatio":  0.37,
+                       "latestPrice":  43.7,
+                       "ret5d":  -0.1136,
+                       "ret20d":  -0.0867,
+                       "volRatio":  0.42,
                        "inCandidates":  false
                    },
                    {
@@ -21368,10 +21368,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  21.35,
-                       "ret5d":  -0.0758,
-                       "ret20d":  -0.0797,
-                       "volRatio":  1.05,
+                       "latestPrice":  20.95,
+                       "ret5d":  -0.0024,
+                       "ret20d":  -0.1066,
+                       "volRatio":  0.81,
                        "inCandidates":  false
                    },
                    {
@@ -21381,10 +21381,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  127.5,
-                       "ret5d":  0.0494,
-                       "ret20d":  0.0324,
-                       "volRatio":  0.88,
+                       "latestPrice":  131,
+                       "ret5d":  0.1197,
+                       "ret20d":  0.0738,
+                       "volRatio":  1.3,
                        "inCandidates":  false
                    },
                    {
@@ -21394,11 +21394,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  32.1,
-                       "ret5d":  -0.0489,
-                       "ret20d":  -0.0446,
-                       "volRatio":  0.34,
-                       "inCandidates":  false
+                       "latestPrice":  34,
+                       "ret5d":  0.0104,
+                       "ret20d":  0.0445,
+                       "volRatio":  3.59,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "4441",
@@ -21407,10 +21407,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  206,
-                       "ret5d":  0.0098,
-                       "ret20d":  -0.1505,
-                       "volRatio":  0.51,
+                       "latestPrice":  204,
+                       "ret5d":  -0.0263,
+                       "ret20d":  -0.1824,
+                       "volRatio":  0.3,
                        "inCandidates":  false
                    },
                    {
@@ -21420,10 +21420,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  152,
-                       "ret5d":  -0.044,
-                       "ret20d":  -0.038,
-                       "volRatio":  0.71,
+                       "latestPrice":  150,
+                       "ret5d":  -0.0506,
+                       "ret20d":  -0.0909,
+                       "volRatio":  0.76,
                        "inCandidates":  false
                    },
                    {
@@ -21433,10 +21433,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  26.5,
-                       "ret5d":  0.0134,
-                       "ret20d":  0.0392,
-                       "volRatio":  1.2,
+                       "latestPrice":  26.6,
+                       "ret5d":  0.0076,
+                       "ret20d":  0.0431,
+                       "volRatio":  1.59,
                        "inCandidates":  false
                    },
                    {
@@ -21446,10 +21446,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  60.8,
-                       "ret5d":  0.1075,
-                       "ret20d":  0.0483,
-                       "volRatio":  0.82,
+                       "latestPrice":  62,
+                       "ret5d":  0.1252,
+                       "ret20d":  0.0653,
+                       "volRatio":  2.33,
                        "inCandidates":  false
                    },
                    {
@@ -21459,11 +21459,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  20.2,
-                       "ret5d":  0.0075,
-                       "ret20d":  0.2024,
-                       "volRatio":  0.52,
-                       "inCandidates":  true
+                       "latestPrice":  19.75,
+                       "ret5d":  -0.0749,
+                       "ret20d":  0.2006,
+                       "volRatio":  0.38,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "4571",
@@ -21472,10 +21472,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  162.5,
-                       "ret5d":  -0.0091,
-                       "ret20d":  -0.0634,
-                       "volRatio":  0.49,
+                       "latestPrice":  159.5,
+                       "ret5d":  -0.042,
+                       "ret20d":  -0.0727,
+                       "volRatio":  0.56,
                        "inCandidates":  false
                    },
                    {
@@ -21485,10 +21485,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  152,
-                       "ret5d":  0.0819,
-                       "ret20d":  0.0592,
-                       "volRatio":  2.8,
+                       "latestPrice":  149,
+                       "ret5d":  0.0719,
+                       "ret20d":  0.0171,
+                       "volRatio":  1.39,
                        "inCandidates":  false
                    },
                    {
@@ -21498,10 +21498,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  60.8,
-                       "ret5d":  -0.0033,
-                       "ret20d":  -0.0898,
-                       "volRatio":  0.8,
+                       "latestPrice":  60.6,
+                       "ret5d":  -0.0226,
+                       "ret20d":  -0.1062,
+                       "volRatio":  0.88,
                        "inCandidates":  false
                    },
                    {
@@ -21511,10 +21511,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  36.65,
-                       "ret5d":  0.0456,
-                       "ret20d":  -0.0443,
-                       "volRatio":  1.22,
+                       "latestPrice":  36.5,
+                       "ret5d":  0.0489,
+                       "ret20d":  -0.0445,
+                       "volRatio":  1.23,
                        "inCandidates":  false
                    },
                    {
@@ -21524,10 +21524,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  32.6,
-                       "ret5d":  -0.0076,
-                       "ret20d":  -0.0944,
-                       "volRatio":  1.01,
+                       "latestPrice":  31.8,
+                       "ret5d":  -0.0606,
+                       "ret20d":  -0.13,
+                       "volRatio":  0.68,
                        "inCandidates":  false
                    },
                    {
@@ -21537,10 +21537,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  32.7,
-                       "ret5d":  -0.0076,
-                       "ret20d":  0.0155,
-                       "volRatio":  1.12,
+                       "latestPrice":  32.25,
+                       "ret5d":  -0.0183,
+                       "ret20d":  -0.0227,
+                       "volRatio":  1.49,
                        "inCandidates":  false
                    },
                    {
@@ -21550,10 +21550,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  18.15,
-                       "ret5d":  0.0371,
-                       "ret20d":  -0.0055,
-                       "volRatio":  0.88,
+                       "latestPrice":  18.35,
+                       "ret5d":  0.0486,
+                       "ret20d":  0.0166,
+                       "volRatio":  1.34,
                        "inCandidates":  false
                    },
                    {
@@ -21563,10 +21563,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  108.5,
-                       "ret5d":  0.014,
-                       "ret20d":  -0.0091,
-                       "volRatio":  0.62,
+                       "latestPrice":  106.5,
+                       "ret5d":  -0.0047,
+                       "ret20d":  -0.0318,
+                       "volRatio":  0.37,
                        "inCandidates":  false
                    },
                    {
@@ -21576,10 +21576,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  13.45,
-                       "ret5d":  0.0075,
-                       "ret20d":  -0.0495,
-                       "volRatio":  0.85,
+                       "latestPrice":  13.2,
+                       "ret5d":  -0.0112,
+                       "ret20d":  -0.0671,
+                       "volRatio":  1.23,
                        "inCandidates":  false
                    },
                    {
@@ -21589,10 +21589,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  40.85,
-                       "ret5d":  0.0251,
-                       "ret20d":  0.1192,
-                       "volRatio":  0.77,
+                       "latestPrice":  42.8,
+                       "ret5d":  -0.015,
+                       "ret20d":  0.1726,
+                       "volRatio":  2.23,
                        "inCandidates":  false
                    },
                    {
@@ -21602,10 +21602,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  13.4,
-                       "ret5d":  -0.0037,
-                       "ret20d":  -0.0563,
-                       "volRatio":  0.7,
+                       "latestPrice":  13.05,
+                       "ret5d":  -0.0261,
+                       "ret20d":  -0.1031,
+                       "volRatio":  0.92,
                        "inCandidates":  false
                    },
                    {
@@ -21615,10 +21615,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  22.4,
-                       "ret5d":  0,
-                       "ret20d":  -0.0303,
-                       "volRatio":  0.59,
+                       "latestPrice":  22.25,
+                       "ret5d":  0.0023,
+                       "ret20d":  -0.0368,
+                       "volRatio":  2.01,
                        "inCandidates":  false
                    },
                    {
@@ -21628,10 +21628,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  23.15,
-                       "ret5d":  0,
-                       "ret20d":  -0.0832,
-                       "volRatio":  0.95,
+                       "latestPrice":  23,
+                       "ret5d":  -0.0129,
+                       "ret20d":  -0.0927,
+                       "volRatio":  1.04,
                        "inCandidates":  false
                    },
                    {
@@ -21641,10 +21641,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  52.3,
-                       "ret5d":  -0.0333,
-                       "ret20d":  -0.0151,
-                       "volRatio":  0.48,
+                       "latestPrice":  51.8,
+                       "ret5d":  -0.0547,
+                       "ret20d":  -0.0038,
+                       "volRatio":  0.71,
                        "inCandidates":  false
                    },
                    {
@@ -21654,10 +21654,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  57.8,
-                       "ret5d":  -0.0187,
-                       "ret20d":  -0.1437,
-                       "volRatio":  0.25,
+                       "latestPrice":  57,
+                       "ret5d":  -0.0388,
+                       "ret20d":  -0.1691,
+                       "volRatio":  0.51,
                        "inCandidates":  false
                    },
                    {
@@ -21667,10 +21667,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  9.04,
-                       "ret5d":  -0.0033,
-                       "ret20d":  -0.0153,
-                       "volRatio":  2.15,
+                       "latestPrice":  9.01,
+                       "ret5d":  -0.0099,
+                       "ret20d":  -0.0217,
+                       "volRatio":  1.21,
                        "inCandidates":  false
                    },
                    {
@@ -21680,10 +21680,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  17.3,
-                       "ret5d":  -0.0416,
-                       "ret20d":  0.0117,
-                       "volRatio":  0.73,
+                       "latestPrice":  17.05,
+                       "ret5d":  -0.058,
+                       "ret20d":  -0.0173,
+                       "volRatio":  0.32,
                        "inCandidates":  false
                    },
                    {
@@ -21693,10 +21693,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  85,
-                       "ret5d":  -0.0116,
-                       "ret20d":  -0.1707,
-                       "volRatio":  0.06,
+                       "latestPrice":  82,
+                       "ret5d":  -0.0454,
+                       "ret20d":  -0.1961,
+                       "volRatio":  2.14,
                        "inCandidates":  false
                    },
                    {
@@ -21706,10 +21706,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  28.2,
-                       "ret5d":  -0.0123,
-                       "ret20d":  -0.0293,
-                       "volRatio":  0.74,
+                       "latestPrice":  27.8,
+                       "ret5d":  -0.0246,
+                       "ret20d":  -0.0397,
+                       "volRatio":  2.02,
                        "inCandidates":  false
                    },
                    {
@@ -21719,10 +21719,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  30.85,
-                       "ret5d":  -0.0016,
-                       "ret20d":  -0.0652,
-                       "volRatio":  0.98,
+                       "latestPrice":  30.8,
+                       "ret5d":  0,
+                       "ret20d":  -0.0792,
+                       "volRatio":  1,
                        "inCandidates":  false
                    },
                    {
@@ -21732,10 +21732,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  11.75,
-                       "ret5d":  0.0307,
-                       "ret20d":  0.1576,
-                       "volRatio":  1.12,
+                       "latestPrice":  11.55,
+                       "ret5d":  0.0452,
+                       "ret20d":  0.1324,
+                       "volRatio":  1.77,
                        "inCandidates":  false
                    },
                    {
@@ -21745,10 +21745,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  13.4,
-                       "ret5d":  0.0113,
-                       "ret20d":  0.0075,
-                       "volRatio":  1.13,
+                       "latestPrice":  13.35,
+                       "ret5d":  -0.0074,
+                       "ret20d":  -0.0111,
+                       "volRatio":  1.89,
                        "inCandidates":  false
                    },
                    {
@@ -21759,9 +21759,9 @@
                        "sector":  "",
                        "pool":  "Stock",
                        "latestPrice":  143,
-                       "ret5d":  -0.0069,
-                       "ret20d":  -0.0172,
-                       "volRatio":  0.91,
+                       "ret5d":  -0.0138,
+                       "ret20d":  -0.0272,
+                       "volRatio":  0.19,
                        "inCandidates":  false
                    },
                    {
@@ -21771,10 +21771,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  90.9,
-                       "ret5d":  0.0389,
-                       "ret20d":  0.0271,
-                       "volRatio":  0.85,
+                       "latestPrice":  88.4,
+                       "ret5d":  -0.0275,
+                       "ret20d":  0.0068,
+                       "volRatio":  0.4,
                        "inCandidates":  false
                    },
                    {
@@ -21784,10 +21784,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  34.75,
-                       "ret5d":  0.3289,
-                       "ret20d":  0.3443,
-                       "volRatio":  3.88,
+                       "latestPrice":  31.3,
+                       "ret5d":  0.0887,
+                       "ret20d":  0.2179,
+                       "volRatio":  1.83,
                        "inCandidates":  true
                    },
                    {
@@ -21797,10 +21797,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  61.5,
-                       "ret5d":  0.0132,
-                       "ret20d":  -0.0284,
-                       "volRatio":  1.14,
+                       "latestPrice":  61.3,
+                       "ret5d":  0.0268,
+                       "ret20d":  0.0183,
+                       "volRatio":  1.23,
                        "inCandidates":  true
                    },
                    {
@@ -21810,10 +21810,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  73.4,
-                       "ret5d":  0.0194,
-                       "ret20d":  -0.0916,
-                       "volRatio":  0.96,
+                       "latestPrice":  72.1,
+                       "ret5d":  -0.0123,
+                       "ret20d":  -0.1132,
+                       "volRatio":  0.74,
                        "inCandidates":  false
                    },
                    {
@@ -21823,10 +21823,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  196,
-                       "ret5d":  0.12,
-                       "ret20d":  0.0919,
-                       "volRatio":  3.22,
+                       "latestPrice":  196.5,
+                       "ret5d":  0.0978,
+                       "ret20d":  0.1039,
+                       "volRatio":  1.37,
                        "inCandidates":  false
                    },
                    {
@@ -21836,10 +21836,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  226.5,
-                       "ret5d":  -0.1238,
-                       "ret20d":  -0.0717,
-                       "volRatio":  0.69,
+                       "latestPrice":  216.5,
+                       "ret5d":  -0.1657,
+                       "ret20d":  -0.0903,
+                       "volRatio":  1.16,
                        "inCandidates":  false
                    },
                    {
@@ -21849,10 +21849,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  94.1,
-                       "ret5d":  0.0251,
-                       "ret20d":  0.0228,
-                       "volRatio":  1,
+                       "latestPrice":  93.1,
+                       "ret5d":  -0.0043,
+                       "ret20d":  0.0131,
+                       "volRatio":  0.7,
                        "inCandidates":  true
                    },
                    {
@@ -21862,10 +21862,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  16.05,
-                       "ret5d":  -0.0302,
-                       "ret20d":  -0.0958,
-                       "volRatio":  0.79,
+                       "latestPrice":  15.95,
+                       "ret5d":  -0.0031,
+                       "ret20d":  -0.0963,
+                       "volRatio":  0.65,
                        "inCandidates":  false
                    },
                    {
@@ -21875,11 +21875,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  77,
-                       "ret5d":  0.0158,
-                       "ret20d":  0.0891,
-                       "volRatio":  0.8,
-                       "inCandidates":  true
+                       "latestPrice":  75.7,
+                       "ret5d":  -0.0169,
+                       "ret20d":  0.0738,
+                       "volRatio":  0.45,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "4935",
@@ -21888,10 +21888,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  36.15,
-                       "ret5d":  -0.0014,
-                       "ret20d":  -0.0586,
-                       "volRatio":  0.67,
+                       "latestPrice":  35.35,
+                       "ret5d":  -0.0098,
+                       "ret20d":  -0.0866,
+                       "volRatio":  0.68,
                        "inCandidates":  false
                    },
                    {
@@ -21901,10 +21901,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  11.3,
-                       "ret5d":  -0.0583,
-                       "ret20d":  0,
-                       "volRatio":  0.75,
+                       "latestPrice":  11.7,
+                       "ret5d":  -0.0209,
+                       "ret20d":  -0.0085,
+                       "volRatio":  0.07,
                        "inCandidates":  false
                    },
                    {
@@ -21914,10 +21914,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  38.1,
-                       "ret5d":  0.0187,
-                       "ret20d":  0.016,
-                       "volRatio":  0.65,
+                       "latestPrice":  37.5,
+                       "ret5d":  -0.0079,
+                       "ret20d":  -0.0027,
+                       "volRatio":  0.58,
                        "inCandidates":  false
                    },
                    {
@@ -21927,10 +21927,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  46,
-                       "ret5d":  0.0314,
-                       "ret20d":  0.4488,
-                       "volRatio":  0.7,
+                       "latestPrice":  42.1,
+                       "ret5d":  -0.0655,
+                       "ret20d":  0.2643,
+                       "volRatio":  0.74,
                        "inCandidates":  true
                    },
                    {
@@ -21940,10 +21940,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  109,
-                       "ret5d":  0.3007,
-                       "ret20d":  0.7869,
-                       "volRatio":  1.78,
+                       "latestPrice":  102,
+                       "ret5d":  0.2071,
+                       "ret20d":  0.6915,
+                       "volRatio":  1.49,
                        "inCandidates":  true
                    },
                    {
@@ -21953,11 +21953,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  18.9,
-                       "ret5d":  0.0134,
-                       "ret20d":  0.1812,
-                       "volRatio":  1.01,
-                       "inCandidates":  true
+                       "latestPrice":  18.3,
+                       "ret5d":  -0.0469,
+                       "ret20d":  0.1262,
+                       "volRatio":  0.5,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "4930",
@@ -21966,10 +21966,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  20.15,
-                       "ret5d":  -0.0195,
-                       "ret20d":  -0.0671,
-                       "volRatio":  0.93,
+                       "latestPrice":  19.95,
+                       "ret5d":  -0.0268,
+                       "ret20d":  -0.089,
+                       "volRatio":  1.35,
                        "inCandidates":  false
                    },
                    {
@@ -21979,10 +21979,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  72.9,
-                       "ret5d":  0.0297,
-                       "ret20d":  -0.0725,
-                       "volRatio":  0.5,
+                       "latestPrice":  73.1,
+                       "ret5d":  -0.0604,
+                       "ret20d":  -0.0543,
+                       "volRatio":  0.81,
                        "inCandidates":  false
                    },
                    {
@@ -21992,10 +21992,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  59.1,
-                       "ret5d":  -0.0067,
-                       "ret20d":  -0.0837,
-                       "volRatio":  1.17,
+                       "latestPrice":  58.3,
+                       "ret5d":  -0.0251,
+                       "ret20d":  -0.1031,
+                       "volRatio":  0.65,
                        "inCandidates":  false
                    },
                    {
@@ -22005,10 +22005,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  177.5,
-                       "ret5d":  -0.0431,
-                       "ret20d":  0.0661,
-                       "volRatio":  0.47,
+                       "latestPrice":  167.5,
+                       "ret5d":  -0.141,
+                       "ret20d":  -0.0147,
+                       "volRatio":  0.5,
                        "inCandidates":  false
                    },
                    {
@@ -22018,10 +22018,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  16.75,
-                       "ret5d":  0.0772,
-                       "ret20d":  0.0372,
-                       "volRatio":  0.7,
+                       "latestPrice":  16.2,
+                       "ret5d":  -0.0526,
+                       "ret20d":  -0.0031,
+                       "volRatio":  0.81,
                        "inCandidates":  false
                    },
                    {
@@ -22031,10 +22031,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  49.3,
-                       "ret5d":  -0.005,
-                       "ret20d":  -0.0295,
-                       "volRatio":  0.19,
+                       "latestPrice":  48.65,
+                       "ret5d":  -0.0221,
+                       "ret20d":  -0.0461,
+                       "volRatio":  1.03,
                        "inCandidates":  false
                    },
                    {
@@ -22044,11 +22044,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  118.5,
-                       "ret5d":  -0.0247,
-                       "ret20d":  0.0349,
-                       "volRatio":  0.46,
-                       "inCandidates":  false
+                       "latestPrice":  120,
+                       "ret5d":  -0.0244,
+                       "ret20d":  0.0573,
+                       "volRatio":  0.92,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "4585",
@@ -22057,10 +22057,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  304,
-                       "ret5d":  -0.0209,
-                       "ret20d":  -0.1098,
-                       "volRatio":  0.59,
+                       "latestPrice":  298,
+                       "ret5d":  -0.0494,
+                       "ret20d":  -0.1157,
+                       "volRatio":  0.88,
                        "inCandidates":  false
                    },
                    {
@@ -22070,10 +22070,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  642,
-                       "ret5d":  0.0174,
-                       "ret20d":  -0.06,
-                       "volRatio":  0.57,
+                       "latestPrice":  626,
+                       "ret5d":  -0.0048,
+                       "ret20d":  -0.0914,
+                       "volRatio":  0.58,
                        "inCandidates":  false
                    },
                    {
@@ -22083,10 +22083,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  45.8,
-                       "ret5d":  0.0385,
-                       "ret20d":  -0.0634,
-                       "volRatio":  0.68,
+                       "latestPrice":  44.3,
+                       "ret5d":  -0.0453,
+                       "ret20d":  -0.0903,
+                       "volRatio":  0.61,
                        "inCandidates":  false
                    },
                    {
@@ -22096,10 +22096,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  145.5,
-                       "ret5d":  -0.1416,
-                       "ret20d":  0.1687,
-                       "volRatio":  0.79,
+                       "latestPrice":  149.5,
+                       "ret5d":  -0.0229,
+                       "ret20d":  0.196,
+                       "volRatio":  1.06,
                        "inCandidates":  true
                    },
                    {
@@ -22109,10 +22109,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  349.5,
-                       "ret5d":  0.1166,
-                       "ret20d":  0.1095,
-                       "volRatio":  3.03,
+                       "latestPrice":  326,
+                       "ret5d":  0.0109,
+                       "ret20d":  0.0235,
+                       "volRatio":  2.16,
                        "inCandidates":  false
                    },
                    {
@@ -22122,10 +22122,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  143.5,
-                       "ret5d":  -0.1142,
-                       "ret20d":  0.4208,
-                       "volRatio":  1.06,
+                       "latestPrice":  135.5,
+                       "ret5d":  -0.1478,
+                       "ret20d":  0.322,
+                       "volRatio":  0.62,
                        "inCandidates":  true
                    },
                    {
@@ -22135,10 +22135,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  63,
-                       "ret5d":  0.043,
-                       "ret20d":  0.1496,
-                       "volRatio":  0.48,
+                       "latestPrice":  64,
+                       "ret5d":  0.0631,
+                       "ret20d":  0.1449,
+                       "volRatio":  0.9,
                        "inCandidates":  false
                    },
                    {
@@ -22148,10 +22148,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  124.5,
-                       "ret5d":  -0.004,
-                       "ret20d":  -0.0158,
-                       "volRatio":  0.48,
+                       "latestPrice":  123,
+                       "ret5d":  -0.0238,
+                       "ret20d":  -0.0199,
+                       "volRatio":  0.56,
                        "inCandidates":  false
                    },
                    {
@@ -22161,10 +22161,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  54.5,
-                       "ret5d":  -0.0109,
-                       "ret20d":  -0.0522,
-                       "volRatio":  0.95,
+                       "latestPrice":  55.5,
+                       "ret5d":  0.0183,
+                       "ret20d":  -0.0212,
+                       "volRatio":  1.25,
                        "inCandidates":  false
                    },
                    {
@@ -22174,10 +22174,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  82.8,
-                       "ret5d":  0.0629,
-                       "ret20d":  0.207,
-                       "volRatio":  1.86,
+                       "latestPrice":  85.6,
+                       "ret5d":  0.0946,
+                       "ret20d":  0.2588,
+                       "volRatio":  2.27,
                        "inCandidates":  true
                    },
                    {
@@ -22187,10 +22187,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  13.95,
-                       "ret5d":  -0.0141,
-                       "ret20d":  -0.2029,
-                       "volRatio":  1,
+                       "latestPrice":  14,
+                       "ret5d":  -0.0036,
+                       "ret20d":  -0.1931,
+                       "volRatio":  0.27,
                        "inCandidates":  false
                    },
                    {
@@ -22200,10 +22200,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  18.95,
-                       "ret5d":  -0.0026,
-                       "ret20d":  -0.0976,
-                       "volRatio":  0.54,
+                       "latestPrice":  18.55,
+                       "ret5d":  -0.0185,
+                       "ret20d":  -0.1209,
+                       "volRatio":  0.62,
                        "inCandidates":  false
                    },
                    {
@@ -22213,10 +22213,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  45.65,
-                       "ret5d":  -0.048,
-                       "ret20d":  0.0088,
-                       "volRatio":  0.52,
+                       "latestPrice":  44.35,
+                       "ret5d":  -0.0731,
+                       "ret20d":  -0.0564,
+                       "volRatio":  1.2,
                        "inCandidates":  false
                    },
                    {
@@ -22226,10 +22226,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  129.5,
-                       "ret5d":  0.0039,
-                       "ret20d":  0.0658,
-                       "volRatio":  0.4,
+                       "latestPrice":  129,
+                       "ret5d":  0.0078,
+                       "ret20d":  0.0039,
+                       "volRatio":  0.23,
                        "inCandidates":  false
                    },
                    {
@@ -22239,10 +22239,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  24.4,
-                       "ret5d":  -0.0061,
-                       "ret20d":  -0.0259,
-                       "volRatio":  0.91,
+                       "latestPrice":  23.95,
+                       "ret5d":  -0.0244,
+                       "ret20d":  -0.0552,
+                       "volRatio":  1.15,
                        "inCandidates":  false
                    },
                    {
@@ -22252,10 +22252,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  135,
+                       "latestPrice":  135.5,
                        "ret5d":  0.0112,
-                       "ret20d":  -0.0785,
-                       "volRatio":  0.5,
+                       "ret20d":  -0.0655,
+                       "volRatio":  1.21,
                        "inCandidates":  false
                    },
                    {
@@ -22265,10 +22265,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  77.5,
-                       "ret5d":  -0.0077,
-                       "ret20d":  -0.0707,
-                       "volRatio":  0.62,
+                       "latestPrice":  77.6,
+                       "ret5d":  -0.0064,
+                       "ret20d":  -0.0467,
+                       "volRatio":  1.17,
                        "inCandidates":  false
                    },
                    {
@@ -22278,10 +22278,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  43.3,
-                       "ret5d":  0.0117,
-                       "ret20d":  -0.0378,
-                       "volRatio":  0.76,
+                       "latestPrice":  43,
+                       "ret5d":  0.0094,
+                       "ret20d":  -0.0632,
+                       "volRatio":  1.12,
                        "inCandidates":  false
                    },
                    {
@@ -22291,10 +22291,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  30.45,
-                       "ret5d":  -0.0318,
-                       "ret20d":  -0.1714,
-                       "volRatio":  1.11,
+                       "latestPrice":  31,
+                       "ret5d":  0.0299,
+                       "ret20d":  -0.153,
+                       "volRatio":  0.41,
                        "inCandidates":  false
                    },
                    {
@@ -22304,10 +22304,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  281,
-                       "ret5d":  0.0181,
-                       "ret20d":  0.0604,
-                       "volRatio":  2.13,
+                       "latestPrice":  277,
+                       "ret5d":  -0.0054,
+                       "ret20d":  0.0433,
+                       "volRatio":  1.48,
                        "inCandidates":  false
                    },
                    {
@@ -22317,10 +22317,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  19.15,
-                       "ret5d":  0.0551,
-                       "ret20d":  -0.0401,
-                       "volRatio":  0.32,
+                       "latestPrice":  18.2,
+                       "ret5d":  -0.0027,
+                       "ret20d":  -0.09,
+                       "volRatio":  1.11,
                        "inCandidates":  false
                    },
                    {
@@ -22330,10 +22330,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  123,
-                       "ret5d":  0.2615,
-                       "ret20d":  0.2759,
-                       "volRatio":  5.2,
+                       "latestPrice":  118,
+                       "ret5d":  0.1741,
+                       "ret20d":  0.2474,
+                       "volRatio":  6.43,
                        "inCandidates":  true
                    },
                    {
@@ -22343,10 +22343,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  41.3,
-                       "ret5d":  0.011,
-                       "ret20d":  -0.056,
-                       "volRatio":  1.08,
+                       "latestPrice":  41.15,
+                       "ret5d":  0.0211,
+                       "ret20d":  -0.0529,
+                       "volRatio":  0.6,
                        "inCandidates":  false
                    },
                    {
@@ -22356,10 +22356,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  68.7,
-                       "ret5d":  -0.0087,
-                       "ret20d":  0.2536,
-                       "volRatio":  1.18,
+                       "latestPrice":  66.4,
+                       "ret5d":  -0.0163,
+                       "ret20d":  0.2161,
+                       "volRatio":  0.52,
                        "inCandidates":  false
                    },
                    {
@@ -22369,10 +22369,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  3805,
-                       "ret5d":  -0.0651,
-                       "ret20d":  0.0326,
-                       "volRatio":  0.69,
+                       "latestPrice":  3645,
+                       "ret5d":  -0.0899,
+                       "ret20d":  -0.0254,
+                       "volRatio":  0.64,
                        "inCandidates":  false
                    },
                    {
@@ -22382,10 +22382,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  33.55,
-                       "ret5d":  -0.0219,
-                       "ret20d":  -0.1053,
-                       "volRatio":  0.85,
+                       "latestPrice":  32.8,
+                       "ret5d":  -0.052,
+                       "ret20d":  -0.0964,
+                       "volRatio":  1.27,
                        "inCandidates":  false
                    },
                    {
@@ -22395,10 +22395,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  27.4,
-                       "ret5d":  0.0379,
-                       "ret20d":  -0.0897,
-                       "volRatio":  0.75,
+                       "latestPrice":  27,
+                       "ret5d":  -0.0018,
+                       "ret20d":  -0.0738,
+                       "volRatio":  0.55,
                        "inCandidates":  false
                    },
                    {
@@ -22408,10 +22408,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  19.9,
-                       "ret5d":  -0.1743,
-                       "ret20d":  -0.3197,
-                       "volRatio":  1.57,
+                       "latestPrice":  19.7,
+                       "ret5d":  -0.0922,
+                       "ret20d":  -0.3411,
+                       "volRatio":  0.81,
                        "inCandidates":  false
                    },
                    {
@@ -22421,10 +22421,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  13.55,
-                       "ret5d":  -0.0424,
-                       "ret20d":  -0.0687,
-                       "volRatio":  1.05,
+                       "latestPrice":  13.7,
+                       "ret5d":  -0.0036,
+                       "ret20d":  -0.0616,
+                       "volRatio":  0.72,
                        "inCandidates":  false
                    },
                    {
@@ -22434,10 +22434,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  29.3,
-                       "ret5d":  -0.0266,
-                       "ret20d":  -0.1357,
-                       "volRatio":  0.93,
+                       "latestPrice":  28.7,
+                       "ret5d":  -0.0337,
+                       "ret20d":  -0.1355,
+                       "volRatio":  0.47,
                        "inCandidates":  false
                    },
                    {
@@ -22447,10 +22447,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  191,
-                       "ret5d":  -0.0052,
-                       "ret20d":  -0.1641,
-                       "volRatio":  2.23,
+                       "latestPrice":  198.5,
+                       "ret5d":  0.0587,
+                       "ret20d":  -0.1099,
+                       "volRatio":  3.65,
                        "inCandidates":  false
                    },
                    {
@@ -22460,10 +22460,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  553,
-                       "ret5d":  0.0414,
-                       "ret20d":  0.3488,
-                       "volRatio":  1.18,
+                       "latestPrice":  523,
+                       "ret5d":  -0.0095,
+                       "ret20d":  0.3207,
+                       "volRatio":  0.73,
                        "inCandidates":  true
                    },
                    {
@@ -22473,10 +22473,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  42.6,
-                       "ret5d":  0.0131,
-                       "ret20d":  -0.1306,
-                       "volRatio":  1.49,
+                       "latestPrice":  41.6,
+                       "ret5d":  0.0048,
+                       "ret20d":  -0.1351,
+                       "volRatio":  0.7,
                        "inCandidates":  false
                    },
                    {
@@ -22486,10 +22486,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  88.3,
-                       "ret5d":  0.0781,
-                       "ret20d":  0.0499,
-                       "volRatio":  1.21,
+                       "latestPrice":  87.5,
+                       "ret5d":  0.0829,
+                       "ret20d":  0.0392,
+                       "volRatio":  0.92,
                        "inCandidates":  false
                    },
                    {
@@ -22499,10 +22499,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  64,
-                       "ret5d":  -0.0031,
-                       "ret20d":  -0.0303,
-                       "volRatio":  0.95,
+                       "latestPrice":  62.5,
+                       "ret5d":  -0.0157,
+                       "ret20d":  -0.0385,
+                       "volRatio":  0.83,
                        "inCandidates":  false
                    },
                    {
@@ -22512,10 +22512,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  56.5,
-                       "ret5d":  -0.0035,
-                       "ret20d":  -0.0738,
-                       "volRatio":  0.84,
+                       "latestPrice":  56.1,
+                       "ret5d":  -0.0141,
+                       "ret20d":  -0.0833,
+                       "volRatio":  1.11,
                        "inCandidates":  false
                    },
                    {
@@ -22525,10 +22525,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  24.95,
-                       "ret5d":  -0.004,
-                       "ret20d":  0.0374,
-                       "volRatio":  0.49,
+                       "latestPrice":  24.25,
+                       "ret5d":  -0.0222,
+                       "ret20d":  0.0083,
+                       "volRatio":  0.53,
                        "inCandidates":  false
                    },
                    {
@@ -22538,10 +22538,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  63.7,
-                       "ret5d":  0.0176,
-                       "ret20d":  0.0494,
-                       "volRatio":  1.66,
+                       "latestPrice":  63.2,
+                       "ret5d":  -0.0277,
+                       "ret20d":  0.0481,
+                       "volRatio":  2.23,
                        "inCandidates":  true
                    },
                    {
@@ -22551,10 +22551,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  111,
-                       "ret5d":  0.0091,
-                       "ret20d":  0.023,
-                       "volRatio":  0.36,
+                       "latestPrice":  110,
+                       "ret5d":  0.0046,
+                       "ret20d":  0.0092,
+                       "volRatio":  0.79,
                        "inCandidates":  false
                    },
                    {
@@ -22564,10 +22564,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  116,
-                       "ret5d":  0.0545,
-                       "ret20d":  0.022,
-                       "volRatio":  0.99,
+                       "latestPrice":  115,
+                       "ret5d":  0.0268,
+                       "ret20d":  0.0132,
+                       "volRatio":  0.83,
                        "inCandidates":  false
                    },
                    {
@@ -22577,10 +22577,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  82.3,
-                       "ret5d":  -0.0214,
-                       "ret20d":  -0.0732,
-                       "volRatio":  0.78,
+                       "latestPrice":  90.5,
+                       "ret5d":  0.0487,
+                       "ret20d":  0.0367,
+                       "volRatio":  3.44,
                        "inCandidates":  false
                    },
                    {
@@ -22590,10 +22590,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  31.95,
-                       "ret5d":  0.0127,
-                       "ret20d":  0.0031,
-                       "volRatio":  1.16,
+                       "latestPrice":  32.9,
+                       "ret5d":  0.0545,
+                       "ret20d":  0.0186,
+                       "volRatio":  4.22,
                        "inCandidates":  false
                    },
                    {
@@ -22603,10 +22603,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  83.8,
-                       "ret5d":  0.1688,
-                       "ret20d":  0.3897,
-                       "volRatio":  2.95,
+                       "latestPrice":  85.5,
+                       "ret5d":  0.2008,
+                       "ret20d":  0.4492,
+                       "volRatio":  2.21,
                        "inCandidates":  true
                    },
                    {
@@ -22616,10 +22616,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  59.1,
-                       "ret5d":  0.0368,
-                       "ret20d":  0.0368,
-                       "volRatio":  0.88,
+                       "latestPrice":  56.3,
+                       "ret5d":  -0.0071,
+                       "ret20d":  -0.0243,
+                       "volRatio":  0.76,
                        "inCandidates":  false
                    },
                    {
@@ -22629,10 +22629,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  39.6,
-                       "ret5d":  -0.0112,
-                       "ret20d":  0.056,
-                       "volRatio":  0.39,
+                       "latestPrice":  39.55,
+                       "ret5d":  -0.0162,
+                       "ret20d":  0.0353,
+                       "volRatio":  0.68,
                        "inCandidates":  false
                    },
                    {
@@ -22642,10 +22642,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  73.1,
-                       "ret5d":  -0.0419,
-                       "ret20d":  -0.1598,
-                       "volRatio":  1.5,
+                       "latestPrice":  71.7,
+                       "ret5d":  -0.0736,
+                       "ret20d":  -0.1565,
+                       "volRatio":  1.24,
                        "inCandidates":  false
                    },
                    {
@@ -22655,10 +22655,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  79.6,
-                       "ret5d":  0.0127,
-                       "ret20d":  -0.084,
-                       "volRatio":  0.3,
+                       "latestPrice":  80,
+                       "ret5d":  -0.016,
+                       "ret20d":  -0.0805,
+                       "volRatio":  0.14,
                        "inCandidates":  false
                    },
                    {
@@ -22668,10 +22668,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  1100,
-                       "ret5d":  0.0945,
-                       "ret20d":  -0.0265,
-                       "volRatio":  1.58,
+                       "latestPrice":  1055,
+                       "ret5d":  0.0498,
+                       "ret20d":  -0.0705,
+                       "volRatio":  2.08,
                        "inCandidates":  true
                    },
                    {
@@ -22681,10 +22681,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  67.9,
-                       "ret5d":  0.1996,
-                       "ret20d":  0.1607,
-                       "volRatio":  2.45,
+                       "latestPrice":  63.9,
+                       "ret5d":  0.0867,
+                       "ret20d":  0.0849,
+                       "volRatio":  0.8,
                        "inCandidates":  true
                    },
                    {
@@ -22694,10 +22694,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  348,
-                       "ret5d":  0.0072,
-                       "ret20d":  0.1581,
-                       "volRatio":  1.13,
+                       "latestPrice":  319,
+                       "ret5d":  -0.0576,
+                       "ret20d":  0.0741,
+                       "volRatio":  0.65,
                        "inCandidates":  true
                    },
                    {
@@ -22707,10 +22707,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  210,
-                       "ret5d":  0.1024,
-                       "ret20d":  0.2069,
-                       "volRatio":  0.76,
+                       "latestPrice":  212.5,
+                       "ret5d":  0.0417,
+                       "ret20d":  0.2283,
+                       "volRatio":  1.22,
                        "inCandidates":  false
                    },
                    {
@@ -22720,10 +22720,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  365,
-                       "ret5d":  0.146,
-                       "ret20d":  0.3569,
-                       "volRatio":  1.2,
+                       "latestPrice":  332,
+                       "ret5d":  0.0391,
+                       "ret20d":  0.1548,
+                       "volRatio":  0.99,
                        "inCandidates":  true
                    },
                    {
@@ -22733,9 +22733,9 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  450,
-                       "ret5d":  0.2876,
-                       "ret20d":  1.027,
+                       "latestPrice":  456,
+                       "ret5d":  0.2845,
+                       "ret20d":  1.087,
                        "volRatio":  0.19,
                        "inCandidates":  false
                    },
@@ -22746,10 +22746,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  37.8,
-                       "ret5d":  -0.0258,
-                       "ret20d":  -0.043,
-                       "volRatio":  1.42,
+                       "latestPrice":  37,
+                       "ret5d":  -0.0501,
+                       "ret20d":  -0.0762,
+                       "volRatio":  0.6,
                        "inCandidates":  false
                    },
                    {
@@ -22759,10 +22759,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  31.3,
-                       "ret5d":  0.1041,
-                       "ret20d":  0.0179,
-                       "volRatio":  0.54,
+                       "latestPrice":  30.35,
+                       "ret5d":  -0.0257,
+                       "ret20d":  0.0066,
+                       "volRatio":  0.29,
                        "inCandidates":  false
                    },
                    {
@@ -22772,10 +22772,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  2000,
-                       "ret5d":  0.1396,
-                       "ret20d":  0.2658,
-                       "volRatio":  0.66,
+                       "latestPrice":  1865,
+                       "ret5d":  0.0657,
+                       "ret20d":  0.2071,
+                       "volRatio":  0.52,
                        "inCandidates":  true
                    },
                    {
@@ -22785,10 +22785,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  79,
-                       "ret5d":  0.0286,
-                       "ret20d":  -0.0424,
-                       "volRatio":  0.63,
+                       "latestPrice":  78.8,
+                       "ret5d":  -0.0063,
+                       "ret20d":  -0.0414,
+                       "volRatio":  0.51,
                        "inCandidates":  false
                    },
                    {
@@ -22798,10 +22798,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  43.45,
-                       "ret5d":  -0.0103,
-                       "ret20d":  -0.0461,
-                       "volRatio":  0.32,
+                       "latestPrice":  42.95,
+                       "ret5d":  -0.0035,
+                       "ret20d":  -0.0571,
+                       "volRatio":  0.82,
                        "inCandidates":  false
                    },
                    {
@@ -22811,10 +22811,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  40.65,
-                       "ret5d":  0.0175,
-                       "ret20d":  -0.1007,
-                       "volRatio":  0.41,
+                       "latestPrice":  39.4,
+                       "ret5d":  -0.0597,
+                       "ret20d":  -0.1005,
+                       "volRatio":  0.55,
                        "inCandidates":  false
                    },
                    {
@@ -22824,10 +22824,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  167.5,
-                       "ret5d":  -0.0346,
-                       "ret20d":  -0.0946,
-                       "volRatio":  0.63,
+                       "latestPrice":  162.5,
+                       "ret5d":  -0.058,
+                       "ret20d":  -0.1168,
+                       "volRatio":  0.66,
                        "inCandidates":  false
                    },
                    {
@@ -22837,10 +22837,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  341.5,
-                       "ret5d":  0.1197,
-                       "ret20d":  1.3715,
-                       "volRatio":  0.24,
+                       "latestPrice":  307.5,
+                       "ret5d":  -0.0049,
+                       "ret20d":  1.1429,
+                       "volRatio":  0.28,
                        "inCandidates":  false
                    },
                    {
@@ -22850,10 +22850,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  42.1,
-                       "ret5d":  -0.0106,
-                       "ret20d":  -0.0198,
-                       "volRatio":  0.6,
+                       "latestPrice":  41.15,
+                       "ret5d":  -0.0584,
+                       "ret20d":  -0.0896,
+                       "volRatio":  0.48,
                        "inCandidates":  false
                    },
                    {
@@ -22863,10 +22863,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  39.4,
-                       "ret5d":  -0.039,
-                       "ret20d":  -0.0984,
-                       "volRatio":  0.59,
+                       "latestPrice":  40.5,
+                       "ret5d":  0.0025,
+                       "ret20d":  -0.069,
+                       "volRatio":  1.58,
                        "inCandidates":  false
                    },
                    {
@@ -22876,10 +22876,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  41.65,
-                       "ret5d":  0.0426,
-                       "ret20d":  -0.0257,
-                       "volRatio":  1.19,
+                       "latestPrice":  40.1,
+                       "ret5d":  -0.0361,
+                       "ret20d":  -0.0475,
+                       "volRatio":  0.94,
                        "inCandidates":  false
                    },
                    {
@@ -22889,10 +22889,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  611,
-                       "ret5d":  -0.0113,
-                       "ret20d":  0.0252,
-                       "volRatio":  0.61,
+                       "latestPrice":  613,
+                       "ret5d":  -0.0033,
+                       "ret20d":  0.0234,
+                       "volRatio":  0.44,
                        "inCandidates":  false
                    },
                    {
@@ -22902,11 +22902,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  121,
-                       "ret5d":  -0.051,
-                       "ret20d":  0.0568,
-                       "volRatio":  0.55,
-                       "inCandidates":  true
+                       "latestPrice":  114,
+                       "ret5d":  -0.0843,
+                       "ret20d":  0.0459,
+                       "volRatio":  0.36,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "6698",
@@ -22915,10 +22915,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  32.8,
-                       "ret5d":  0.0879,
-                       "ret20d":  0.0015,
-                       "volRatio":  0.96,
+                       "latestPrice":  31.4,
+                       "ret5d":  0.0415,
+                       "ret20d":  -0.0427,
+                       "volRatio":  0.51,
                        "inCandidates":  false
                    },
                    {
@@ -22928,10 +22928,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  95,
-                       "ret5d":  0.0193,
-                       "ret20d":  -0.0547,
-                       "volRatio":  0.72,
+                       "latestPrice":  92,
+                       "ret5d":  -0.0397,
+                       "ret20d":  -0.0846,
+                       "volRatio":  0.49,
                        "inCandidates":  false
                    },
                    {
@@ -22941,10 +22941,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  52.9,
-                       "ret5d":  -0.0019,
-                       "ret20d":  -0.1899,
-                       "volRatio":  0.24,
+                       "latestPrice":  53,
+                       "ret5d":  -0.0112,
+                       "ret20d":  -0.1859,
+                       "volRatio":  0.43,
                        "inCandidates":  false
                    },
                    {
@@ -22954,10 +22954,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  44.3,
-                       "ret5d":  0.0034,
-                       "ret20d":  0.0068,
-                       "volRatio":  0.26,
+                       "latestPrice":  44.15,
+                       "ret5d":  -0.0034,
+                       "ret20d":  0.0149,
+                       "volRatio":  0.27,
                        "inCandidates":  false
                    },
                    {
@@ -22967,10 +22967,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  75.5,
-                       "ret5d":  0.1742,
-                       "ret20d":  0.1742,
-                       "volRatio":  1.88,
+                       "latestPrice":  69.1,
+                       "ret5d":  0.0598,
+                       "ret20d":  0.0951,
+                       "volRatio":  0.86,
                        "inCandidates":  true
                    },
                    {
@@ -22980,10 +22980,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  130.5,
-                       "ret5d":  -0.0369,
-                       "ret20d":  -0.0679,
-                       "volRatio":  0.35,
+                       "latestPrice":  128,
+                       "ret5d":  -0.0588,
+                       "ret20d":  -0.1172,
+                       "volRatio":  0.95,
                        "inCandidates":  false
                    },
                    {
@@ -22993,10 +22993,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  24.8,
-                       "ret5d":  0.0713,
-                       "ret20d":  -0.0746,
-                       "volRatio":  1.54,
+                       "latestPrice":  24,
+                       "ret5d":  0.0213,
+                       "ret20d":  -0.1028,
+                       "volRatio":  1.04,
                        "inCandidates":  false
                    },
                    {
@@ -23006,10 +23006,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  77.1,
-                       "ret5d":  -0.0153,
-                       "ret20d":  -0.0241,
-                       "volRatio":  1.05,
+                       "latestPrice":  74.6,
+                       "ret5d":  -0.0473,
+                       "ret20d":  -0.0545,
+                       "volRatio":  0.61,
                        "inCandidates":  false
                    },
                    {
@@ -23019,10 +23019,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  44.55,
-                       "ret5d":  -0.01,
-                       "ret20d":  0.0839,
-                       "volRatio":  0.57,
+                       "latestPrice":  43.7,
+                       "ret5d":  -0.0202,
+                       "ret20d":  0.0633,
+                       "volRatio":  0.14,
                        "inCandidates":  false
                    },
                    {
@@ -23032,10 +23032,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  502,
-                       "ret5d":  -0.0582,
-                       "ret20d":  0.123,
-                       "volRatio":  0.39,
+                       "latestPrice":  485,
+                       "ret5d":  -0.0655,
+                       "ret20d":  0.0648,
+                       "volRatio":  0.35,
                        "inCandidates":  false
                    },
                    {
@@ -23045,11 +23045,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  143.5,
-                       "ret5d":  0.0436,
-                       "ret20d":  0.211,
-                       "volRatio":  0.98,
-                       "inCandidates":  true
+                       "latestPrice":  136,
+                       "ret5d":  -0.0286,
+                       "ret20d":  0.124,
+                       "volRatio":  0.41,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "6209",
@@ -23058,11 +23058,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  59.4,
-                       "ret5d":  0.1534,
-                       "ret20d":  0.0137,
-                       "volRatio":  1.22,
-                       "inCandidates":  true
+                       "latestPrice":  54.3,
+                       "ret5d":  0.0363,
+                       "ret20d":  -0.0686,
+                       "volRatio":  0.92,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "6215",
@@ -23071,10 +23071,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  103.5,
-                       "ret5d":  -0.0717,
-                       "ret20d":  -0.0717,
-                       "volRatio":  0.92,
+                       "latestPrice":  101.5,
+                       "ret5d":  -0.1018,
+                       "ret20d":  -0.0978,
+                       "volRatio":  0.61,
                        "inCandidates":  false
                    },
                    {
@@ -23084,10 +23084,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  114,
-                       "ret5d":  0.027,
-                       "ret20d":  0.0179,
-                       "volRatio":  1.96,
+                       "latestPrice":  109.5,
+                       "ret5d":  -0.031,
+                       "ret20d":  -0.0179,
+                       "volRatio":  1.06,
                        "inCandidates":  false
                    },
                    {
@@ -23097,10 +23097,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  56.2,
-                       "ret5d":  0.0427,
-                       "ret20d":  0.0466,
-                       "volRatio":  0.42,
+                       "latestPrice":  51.3,
+                       "ret5d":  -0.0535,
+                       "ret20d":  -0.092,
+                       "volRatio":  0.47,
                        "inCandidates":  false
                    },
                    {
@@ -23110,10 +23110,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  51.2,
-                       "ret5d":  -0.0019,
-                       "ret20d":  -0.0519,
-                       "volRatio":  0.69,
+                       "latestPrice":  50.7,
+                       "ret5d":  -0.0078,
+                       "ret20d":  -0.0611,
+                       "volRatio":  1.11,
                        "inCandidates":  false
                    },
                    {
@@ -23123,11 +23123,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  101,
-                       "ret5d":  -0.0242,
-                       "ret20d":  0.0907,
-                       "volRatio":  0.86,
-                       "inCandidates":  true
+                       "latestPrice":  100,
+                       "ret5d":  -0.0338,
+                       "ret20d":  0.073,
+                       "volRatio":  0.49,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "6205",
@@ -23136,10 +23136,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  59.1,
-                       "ret5d":  0.0368,
-                       "ret20d":  0.2049,
-                       "volRatio":  2.21,
+                       "latestPrice":  58,
+                       "ret5d":  0.0642,
+                       "ret20d":  0.1934,
+                       "volRatio":  1.14,
                        "inCandidates":  true
                    },
                    {
@@ -23149,10 +23149,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  47.95,
-                       "ret5d":  -0.0214,
-                       "ret20d":  -0.1831,
-                       "volRatio":  0.96,
+                       "latestPrice":  47,
+                       "ret5d":  -0.0553,
+                       "ret20d":  -0.1897,
+                       "volRatio":  0.63,
                        "inCandidates":  false
                    },
                    {
@@ -23162,10 +23162,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  176,
-                       "ret5d":  0.0292,
-                       "ret20d":  0.4667,
-                       "volRatio":  0.39,
+                       "latestPrice":  165,
+                       "ret5d":  -0.0435,
+                       "ret20d":  0.3808,
+                       "volRatio":  0.68,
                        "inCandidates":  false
                    },
                    {
@@ -23175,10 +23175,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  31.55,
-                       "ret5d":  -0.0187,
-                       "ret20d":  -0.0582,
-                       "volRatio":  0.93,
+                       "latestPrice":  30.6,
+                       "ret5d":  -0.0316,
+                       "ret20d":  -0.0866,
+                       "volRatio":  0.43,
                        "inCandidates":  false
                    },
                    {
@@ -23188,10 +23188,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  201.5,
-                       "ret5d":  0.0025,
-                       "ret20d":  -0.1604,
-                       "volRatio":  0.94,
+                       "latestPrice":  192,
+                       "ret5d":  -0.0588,
+                       "ret20d":  -0.2099,
+                       "volRatio":  0.83,
                        "inCandidates":  false
                    },
                    {
@@ -23201,10 +23201,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  40.05,
-                       "ret5d":  -0.0184,
-                       "ret20d":  -0.0123,
-                       "volRatio":  1.52,
+                       "latestPrice":  39.5,
+                       "ret5d":  -0.0223,
+                       "ret20d":  -0.0436,
+                       "volRatio":  1,
                        "inCandidates":  false
                    },
                    {
@@ -23214,10 +23214,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  25.9,
-                       "ret5d":  0.0157,
-                       "ret20d":  -0.0425,
-                       "volRatio":  1.04,
+                       "latestPrice":  25.4,
+                       "ret5d":  -0.0097,
+                       "ret20d":  -0.0627,
+                       "volRatio":  0.79,
                        "inCandidates":  false
                    },
                    {
@@ -23227,10 +23227,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  14.85,
-                       "ret5d":  0.4776,
-                       "ret20d":  0.6818,
-                       "volRatio":  4.9,
+                       "latestPrice":  13.45,
+                       "ret5d":  0.2172,
+                       "ret20d":  0.5301,
+                       "volRatio":  1.1,
                        "inCandidates":  true
                    },
                    {
@@ -23240,10 +23240,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  22.6,
-                       "ret5d":  -0.0321,
-                       "ret20d":  0.2183,
-                       "volRatio":  0.63,
+                       "latestPrice":  22.9,
+                       "ret5d":  -0.0458,
+                       "ret20d":  0.3353,
+                       "volRatio":  0.52,
                        "inCandidates":  false
                    },
                    {
@@ -23253,10 +23253,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  61,
-                       "ret5d":  0.0201,
-                       "ret20d":  0.0218,
-                       "volRatio":  0.77,
+                       "latestPrice":  59.5,
+                       "ret5d":  -0.01,
+                       "ret20d":  -0.0419,
+                       "volRatio":  0.96,
                        "inCandidates":  false
                    },
                    {
@@ -23266,10 +23266,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  48.2,
-                       "ret5d":  -0.0062,
-                       "ret20d":  0.1209,
-                       "volRatio":  0.93,
+                       "latestPrice":  47.3,
+                       "ret5d":  -0.0032,
+                       "ret20d":  0.0774,
+                       "volRatio":  0.84,
                        "inCandidates":  false
                    },
                    {
@@ -23279,10 +23279,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  93.7,
-                       "ret5d":  -0.034,
-                       "ret20d":  -0.2534,
-                       "volRatio":  1.48,
+                       "latestPrice":  93,
+                       "ret5d":  -0.0383,
+                       "ret20d":  -0.2648,
+                       "volRatio":  0.66,
                        "inCandidates":  false
                    },
                    {
@@ -23292,10 +23292,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  23.3,
-                       "ret5d":  0.0402,
-                       "ret20d":  0.1621,
-                       "volRatio":  8.25,
+                       "latestPrice":  23.65,
+                       "ret5d":  0.0328,
+                       "ret20d":  0.1766,
+                       "volRatio":  1.51,
                        "inCandidates":  true
                    },
                    {
@@ -23305,9 +23305,9 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  17.05,
-                       "ret5d":  0.0119,
-                       "ret20d":  0.0825,
+                       "latestPrice":  16.8,
+                       "ret5d":  0.012,
+                       "ret20d":  0.0701,
                        "volRatio":  1.15,
                        "inCandidates":  true
                    },
@@ -23318,10 +23318,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  19.05,
-                       "ret5d":  -0.0026,
-                       "ret20d":  0.2828,
-                       "volRatio":  1.14,
+                       "latestPrice":  18.65,
+                       "ret5d":  -0.008,
+                       "ret20d":  0.227,
+                       "volRatio":  0.68,
                        "inCandidates":  true
                    },
                    {
@@ -23331,10 +23331,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  13.05,
-                       "ret5d":  0.0398,
-                       "ret20d":  0.0785,
-                       "volRatio":  1.99,
+                       "latestPrice":  12.35,
+                       "ret5d":  -0.05,
+                       "ret20d":  0.0249,
+                       "volRatio":  0.67,
                        "inCandidates":  false
                    },
                    {
@@ -23344,11 +23344,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  48.5,
-                       "ret5d":  0.0973,
-                       "ret20d":  0.0718,
-                       "volRatio":  1.01,
-                       "inCandidates":  true
+                       "latestPrice":  44.6,
+                       "ret5d":  -0.0034,
+                       "ret20d":  -0.0176,
+                       "volRatio":  0.44,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "6192",
@@ -23357,10 +23357,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  118.5,
-                       "ret5d":  -0.0166,
-                       "ret20d":  -0.0327,
-                       "volRatio":  0.28,
+                       "latestPrice":  116.5,
+                       "ret5d":  -0.021,
+                       "ret20d":  -0.0451,
+                       "volRatio":  0.41,
                        "inCandidates":  false
                    },
                    {
@@ -23370,9 +23370,9 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  96.2,
-                       "ret5d":  -0.0332,
-                       "ret20d":  -0.0838,
+                       "latestPrice":  92.8,
+                       "ret5d":  -0.0664,
+                       "ret20d":  -0.1077,
                        "volRatio":  0.49,
                        "inCandidates":  false
                    },
@@ -23383,10 +23383,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  195.5,
-                       "ret5d":  0.114,
-                       "ret20d":  0.3436,
-                       "volRatio":  1.31,
+                       "latestPrice":  180,
+                       "ret5d":  0.0256,
+                       "ret20d":  0.2544,
+                       "volRatio":  1.18,
                        "inCandidates":  true
                    },
                    {
@@ -23396,10 +23396,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  288,
-                       "ret5d":  0.0435,
-                       "ret20d":  0.0868,
-                       "volRatio":  1.26,
+                       "latestPrice":  273.5,
+                       "ret5d":  -0.0232,
+                       "ret20d":  0.0399,
+                       "volRatio":  1.62,
                        "inCandidates":  true
                    },
                    {
@@ -23409,10 +23409,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  92.5,
-                       "ret5d":  -0.0107,
-                       "ret20d":  -0.0273,
-                       "volRatio":  0.43,
+                       "latestPrice":  92.2,
+                       "ret5d":  -0.0032,
+                       "ret20d":  -0.0315,
+                       "volRatio":  0.79,
                        "inCandidates":  false
                    },
                    {
@@ -23422,11 +23422,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  48.35,
-                       "ret5d":  0.0534,
-                       "ret20d":  0.0104,
-                       "volRatio":  3.37,
-                       "inCandidates":  true
+                       "latestPrice":  47.35,
+                       "ret5d":  0.0183,
+                       "ret20d":  -0.0217,
+                       "volRatio":  0.77,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "6189",
@@ -23435,11 +23435,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  46.9,
-                       "ret5d":  0.0492,
-                       "ret20d":  0.0043,
-                       "volRatio":  0.59,
-                       "inCandidates":  true
+                       "latestPrice":  46.4,
+                       "ret5d":  0.0065,
+                       "ret20d":  0.0011,
+                       "volRatio":  0.49,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "6184",
@@ -23449,9 +23449,9 @@
                        "sector":  "",
                        "pool":  "Stock",
                        "latestPrice":  47.75,
-                       "ret5d":  -0.0031,
-                       "ret20d":  -0.0031,
-                       "volRatio":  1.43,
+                       "ret5d":  0.001,
+                       "ret20d":  -0.001,
+                       "volRatio":  1.34,
                        "inCandidates":  false
                    },
                    {
@@ -23461,10 +23461,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  132.5,
-                       "ret5d":  0.0115,
-                       "ret20d":  0.0474,
-                       "volRatio":  0.47,
+                       "latestPrice":  125.5,
+                       "ret5d":  -0.0346,
+                       "ret20d":  -0.0157,
+                       "volRatio":  0.42,
                        "inCandidates":  false
                    },
                    {
@@ -23474,10 +23474,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  160,
-                       "ret5d":  -0.0031,
-                       "ret20d":  0.0159,
-                       "volRatio":  0.51,
+                       "latestPrice":  156,
+                       "ret5d":  -0.025,
+                       "ret20d":  -0.0219,
+                       "volRatio":  0.43,
                        "inCandidates":  false
                    },
                    {
@@ -23487,10 +23487,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  640,
-                       "ret5d":  -0.0259,
-                       "ret20d":  -0.1209,
-                       "volRatio":  0.64,
+                       "latestPrice":  614,
+                       "ret5d":  -0.0539,
+                       "ret20d":  -0.1531,
+                       "volRatio":  0.83,
                        "inCandidates":  false
                    },
                    {
@@ -23500,10 +23500,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  63.6,
-                       "ret5d":  0.0095,
-                       "ret20d":  0.4554,
-                       "volRatio":  1.37,
+                       "latestPrice":  59.8,
+                       "ret5d":  0,
+                       "ret20d":  0.3907,
+                       "volRatio":  0.65,
                        "inCandidates":  true
                    },
                    {
@@ -23513,10 +23513,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  274.5,
-                       "ret5d":  0.2738,
-                       "ret20d":  0.5465,
-                       "volRatio":  0.41,
+                       "latestPrice":  280.5,
+                       "ret5d":  0.1835,
+                       "ret20d":  0.6898,
+                       "volRatio":  0.48,
                        "inCandidates":  false
                    },
                    {
@@ -23526,10 +23526,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  173,
-                       "ret5d":  0.1689,
-                       "ret20d":  0.165,
-                       "volRatio":  5.18,
+                       "latestPrice":  170,
+                       "ret5d":  0.1565,
+                       "ret20d":  0.1565,
+                       "volRatio":  6.05,
                        "inCandidates":  true
                    },
                    {
@@ -23539,10 +23539,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  21.9,
-                       "ret5d":  -0.072,
-                       "ret20d":  -0.1609,
-                       "volRatio":  0.82,
+                       "latestPrice":  21.5,
+                       "ret5d":  -0.0652,
+                       "ret20d":  -0.1917,
+                       "volRatio":  0.5,
                        "inCandidates":  false
                    },
                    {
@@ -23552,10 +23552,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  47.5,
-                       "ret5d":  -0.0613,
-                       "ret20d":  0.2599,
-                       "volRatio":  0.35,
+                       "latestPrice":  44.75,
+                       "ret5d":  -0.1294,
+                       "ret20d":  0.2062,
+                       "volRatio":  0.29,
                        "inCandidates":  false
                    },
                    {
@@ -23565,11 +23565,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  2045,
-                       "ret5d":  0.2101,
-                       "ret20d":  0.0302,
-                       "volRatio":  0.43,
-                       "inCandidates":  false
+                       "latestPrice":  1850,
+                       "ret5d":  0.0663,
+                       "ret20d":  -0.0513,
+                       "volRatio":  1.6,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "6505",
@@ -23578,10 +23578,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  56.2,
-                       "ret5d":  -0.0294,
-                       "ret20d":  0.1469,
-                       "volRatio":  0.6,
+                       "latestPrice":  54.7,
+                       "ret5d":  -0.0569,
+                       "ret20d":  0.0995,
+                       "volRatio":  0.97,
                        "inCandidates":  true
                    },
                    {
@@ -23591,10 +23591,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  39.25,
-                       "ret5d":  0.0103,
-                       "ret20d":  -0.0786,
-                       "volRatio":  0.44,
+                       "latestPrice":  39.85,
+                       "ret5d":  0.0218,
+                       "ret20d":  -0.0478,
+                       "volRatio":  1.43,
                        "inCandidates":  false
                    },
                    {
@@ -23604,10 +23604,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  83.7,
-                       "ret5d":  -0.0118,
-                       "ret20d":  0.0528,
-                       "volRatio":  0.54,
+                       "latestPrice":  81.1,
+                       "ret5d":  -0.0345,
+                       "ret20d":  0.0188,
+                       "volRatio":  0.58,
                        "inCandidates":  false
                    },
                    {
@@ -23617,10 +23617,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  7930,
-                       "ret5d":  0.2617,
-                       "ret20d":  0.62,
-                       "volRatio":  0.82,
+                       "latestPrice":  7885,
+                       "ret5d":  0.28,
+                       "ret20d":  0.5754,
+                       "volRatio":  1.19,
                        "inCandidates":  false
                    },
                    {
@@ -23630,10 +23630,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  483.5,
-                       "ret5d":  0.0591,
-                       "ret20d":  -0.1096,
-                       "volRatio":  0.52,
+                       "latestPrice":  453.5,
+                       "ret5d":  -0.0493,
+                       "ret20d":  -0.0745,
+                       "volRatio":  0.9,
                        "inCandidates":  false
                    },
                    {
@@ -23643,10 +23643,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  76.9,
-                       "ret5d":  0.0212,
-                       "ret20d":  -0.0141,
-                       "volRatio":  1,
+                       "latestPrice":  75.8,
+                       "ret5d":  0.0013,
+                       "ret20d":  -0.0282,
+                       "volRatio":  1.99,
                        "inCandidates":  false
                    },
                    {
@@ -23656,10 +23656,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  281,
-                       "ret5d":  0.0108,
-                       "ret20d":  -0.0344,
-                       "volRatio":  2.02,
+                       "latestPrice":  280,
+                       "ret5d":  0.0036,
+                       "ret20d":  -0.0158,
+                       "volRatio":  1.13,
                        "inCandidates":  false
                    },
                    {
@@ -23669,10 +23669,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  37.2,
-                       "ret5d":  -0.0582,
-                       "ret20d":  0.1188,
-                       "volRatio":  0.29,
+                       "latestPrice":  35.6,
+                       "ret5d":  -0.0729,
+                       "ret20d":  0.0707,
+                       "volRatio":  0.28,
                        "inCandidates":  false
                    },
                    {
@@ -23682,10 +23682,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  60.7,
-                       "ret5d":  0.0066,
-                       "ret20d":  0.0033,
-                       "volRatio":  0.87,
+                       "latestPrice":  60.4,
+                       "ret5d":  0.005,
+                       "ret20d":  -0.0017,
+                       "volRatio":  1.85,
                        "inCandidates":  false
                    },
                    {
@@ -23695,11 +23695,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  99.1,
-                       "ret5d":  -0.009,
-                       "ret20d":  0.0175,
-                       "volRatio":  0.88,
-                       "inCandidates":  false
+                       "latestPrice":  97.6,
+                       "ret5d":  -0.024,
+                       "ret20d":  0.0021,
+                       "volRatio":  0.8,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "6283",
@@ -23708,10 +23708,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  20.5,
-                       "ret5d":  -0.0144,
-                       "ret20d":  -0.0682,
-                       "volRatio":  1.19,
+                       "latestPrice":  19.95,
+                       "ret5d":  -0.059,
+                       "ret20d":  -0.087,
+                       "volRatio":  1.7,
                        "inCandidates":  false
                    },
                    {
@@ -23721,11 +23721,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  49.15,
-                       "ret5d":  0.0662,
-                       "ret20d":  0.0391,
-                       "volRatio":  1.02,
-                       "inCandidates":  true
+                       "latestPrice":  46.05,
+                       "ret5d":  0.0066,
+                       "ret20d":  -0.0406,
+                       "volRatio":  0.69,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "6271",
@@ -23734,10 +23734,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  154.5,
-                       "ret5d":  0.03,
-                       "ret20d":  -0.0159,
-                       "volRatio":  0.46,
+                       "latestPrice":  146,
+                       "ret5d":  -0.0426,
+                       "ret20d":  -0.0458,
+                       "volRatio":  0.35,
                        "inCandidates":  false
                    },
                    {
@@ -23747,10 +23747,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  60.3,
-                       "ret5d":  0.0944,
-                       "ret20d":  -0.0179,
-                       "volRatio":  1.63,
+                       "latestPrice":  62.5,
+                       "ret5d":  0.1201,
+                       "ret20d":  0.0263,
+                       "volRatio":  2.47,
                        "inCandidates":  true
                    },
                    {
@@ -23760,10 +23760,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  59.5,
-                       "ret5d":  -0.0116,
-                       "ret20d":  0,
-                       "volRatio":  0.36,
+                       "latestPrice":  58.8,
+                       "ret5d":  -0.0167,
+                       "ret20d":  -0.02,
+                       "volRatio":  0.66,
                        "inCandidates":  false
                    },
                    {
@@ -23773,10 +23773,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  33.8,
-                       "ret5d":  -0.0611,
-                       "ret20d":  -0.1518,
-                       "volRatio":  1.05,
+                       "latestPrice":  32.7,
+                       "ret5d":  -0.1102,
+                       "ret20d":  -0.155,
+                       "volRatio":  1.03,
                        "inCandidates":  false
                    },
                    {
@@ -23786,10 +23786,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  286,
-                       "ret5d":  0.0214,
-                       "ret20d":  0.0732,
-                       "volRatio":  1.49,
+                       "latestPrice":  278.5,
+                       "ret5d":  0.061,
+                       "ret20d":  -0.0054,
+                       "volRatio":  0.68,
                        "inCandidates":  true
                    },
                    {
@@ -23799,10 +23799,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  270,
-                       "ret5d":  -0.0217,
-                       "ret20d":  -0.0288,
-                       "volRatio":  0.82,
+                       "latestPrice":  264,
+                       "ret5d":  -0.0383,
+                       "ret20d":  -0.0571,
+                       "volRatio":  0.71,
                        "inCandidates":  false
                    },
                    {
@@ -23812,11 +23812,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  169,
-                       "ret5d":  0.1901,
-                       "ret20d":  0.1986,
-                       "volRatio":  5.81,
-                       "inCandidates":  true
+                       "latestPrice":  152.5,
+                       "ret5d":  -0.0224,
+                       "ret20d":  -0.0129,
+                       "volRatio":  0.42,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "6416",
@@ -23825,10 +23825,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  82.5,
-                       "ret5d":  0.0073,
-                       "ret20d":  0.0148,
-                       "volRatio":  0.47,
+                       "latestPrice":  80,
+                       "ret5d":  -0.0136,
+                       "ret20d":  -0.0099,
+                       "volRatio":  0.73,
                        "inCandidates":  false
                    },
                    {
@@ -23837,11 +23837,11 @@
                        "ticker":  "6405.TW",
                        "market":  "TWSE",
                        "sector":  "",
-                       "pool":  "Stock",
-                       "latestPrice":  30.25,
-                       "ret5d":  -0.0194,
-                       "ret20d":  -0.0066,
-                       "volRatio":  0.43,
+                       "pool":  "Other",
+                       "latestPrice":  29.5,
+                       "ret5d":  -0.0344,
+                       "ret20d":  -0.0468,
+                       "volRatio":  0.41,
                        "inCandidates":  false
                    },
                    {
@@ -23851,11 +23851,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  173.5,
-                       "ret5d":  0.0358,
-                       "ret20d":  0.0058,
-                       "volRatio":  1.22,
-                       "inCandidates":  true
+                       "latestPrice":  166,
+                       "ret5d":  -0.0514,
+                       "ret20d":  -0.0349,
+                       "volRatio":  0.5,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "6412",
@@ -23864,10 +23864,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  78.2,
-                       "ret5d":  -0.0274,
-                       "ret20d":  -0.1416,
-                       "volRatio":  0.36,
+                       "latestPrice":  76,
+                       "ret5d":  -0.05,
+                       "ret20d":  -0.1537,
+                       "volRatio":  0.41,
                        "inCandidates":  false
                    },
                    {
@@ -23877,10 +23877,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  752,
-                       "ret5d":  -0.0183,
-                       "ret20d":  -0.156,
-                       "volRatio":  1.21,
+                       "latestPrice":  757,
+                       "ret5d":  -0.0282,
+                       "ret20d":  -0.1617,
+                       "volRatio":  0.84,
                        "inCandidates":  false
                    },
                    {
@@ -23891,9 +23891,9 @@
                        "sector":  "",
                        "pool":  "Stock",
                        "latestPrice":  30.5,
-                       "ret5d":  0.0554,
-                       "ret20d":  0.1131,
-                       "volRatio":  0.74,
+                       "ret5d":  0.041,
+                       "ret20d":  0.1111,
+                       "volRatio":  1.31,
                        "inCandidates":  true
                    },
                    {
@@ -23903,10 +23903,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  117.5,
-                       "ret5d":  -0.0208,
-                       "ret20d":  0.0307,
-                       "volRatio":  0.71,
+                       "latestPrice":  115,
+                       "ret5d":  -0.0213,
+                       "ret20d":  0.0088,
+                       "volRatio":  0.86,
                        "inCandidates":  false
                    },
                    {
@@ -23916,10 +23916,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  32.35,
-                       "ret5d":  0.0694,
-                       "ret20d":  0.1194,
-                       "volRatio":  0.55,
+                       "latestPrice":  31.35,
+                       "ret5d":  0.0195,
+                       "ret20d":  0.0627,
+                       "volRatio":  0.68,
                        "inCandidates":  true
                    },
                    {
@@ -23929,10 +23929,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  25.75,
-                       "ret5d":  -0.0153,
-                       "ret20d":  -0.0533,
-                       "volRatio":  0.66,
+                       "latestPrice":  25.55,
+                       "ret5d":  -0.0211,
+                       "ret20d":  -0.0607,
+                       "volRatio":  0.61,
                        "inCandidates":  false
                    },
                    {
@@ -23942,11 +23942,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  20.15,
-                       "ret5d":  0.01,
-                       "ret20d":  0.044,
-                       "volRatio":  0.46,
-                       "inCandidates":  false
+                       "latestPrice":  19.9,
+                       "ret5d":  -0.0124,
+                       "ret20d":  0.0231,
+                       "volRatio":  1.08,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "2836",
@@ -23955,11 +23955,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  12.15,
-                       "ret5d":  0,
-                       "ret20d":  -0.0122,
-                       "volRatio":  0.81,
-                       "inCandidates":  false
+                       "latestPrice":  12.05,
+                       "ret5d":  -0.0041,
+                       "ret20d":  -0.0282,
+                       "volRatio":  0.9,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "2849",
@@ -23968,10 +23968,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  12.9,
-                       "ret5d":  -0.0039,
-                       "ret20d":  -0.0337,
-                       "volRatio":  0.43,
+                       "latestPrice":  12.75,
+                       "ret5d":  -0.0154,
+                       "ret20d":  -0.052,
+                       "volRatio":  1.39,
                        "inCandidates":  false
                    },
                    {
@@ -23981,10 +23981,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  12.3,
-                       "ret5d":  -0.004,
-                       "ret20d":  -0.016,
-                       "volRatio":  0.75,
+                       "latestPrice":  12.25,
+                       "ret5d":  -0.0121,
+                       "ret20d":  -0.0278,
+                       "volRatio":  0.86,
                        "inCandidates":  false
                    },
                    {
@@ -23994,10 +23994,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  31.8,
-                       "ret5d":  -0.0378,
-                       "ret20d":  -0.0592,
-                       "volRatio":  1.25,
+                       "latestPrice":  31.15,
+                       "ret5d":  -0.0326,
+                       "ret20d":  -0.0878,
+                       "volRatio":  0.85,
                        "inCandidates":  true
                    },
                    {
@@ -24007,11 +24007,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  20.1,
-                       "ret5d":  0,
-                       "ret20d":  0.0635,
-                       "volRatio":  0.69,
-                       "inCandidates":  true
+                       "latestPrice":  19.8,
+                       "ret5d":  -0.0341,
+                       "ret20d":  0.0286,
+                       "volRatio":  0.49,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "2886",
@@ -24020,10 +24020,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  38.75,
-                       "ret5d":  0,
-                       "ret20d":  -0.0264,
-                       "volRatio":  1.38,
+                       "latestPrice":  38.35,
+                       "ret5d":  -0.0167,
+                       "ret20d":  -0.0424,
+                       "volRatio":  0.98,
                        "inCandidates":  false
                    },
                    {
@@ -24034,9 +24034,9 @@
                        "sector":  "",
                        "pool":  "Stock",
                        "latestPrice":  44.2,
-                       "ret5d":  0.0208,
-                       "ret20d":  -0.0034,
-                       "volRatio":  1.01,
+                       "ret5d":  -0.009,
+                       "ret20d":  -0.0123,
+                       "volRatio":  0.86,
                        "inCandidates":  true
                    },
                    {
@@ -24046,11 +24046,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  33.55,
-                       "ret5d":  -0.0089,
-                       "ret20d":  -0.0176,
-                       "volRatio":  0.99,
-                       "inCandidates":  false
+                       "latestPrice":  32.7,
+                       "ret5d":  -0.0239,
+                       "ret20d":  -0.0549,
+                       "volRatio":  0.89,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "2867",
@@ -24059,11 +24059,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  7.54,
-                       "ret5d":  -0.0456,
-                       "ret20d":  -0.0551,
-                       "volRatio":  0.51,
-                       "inCandidates":  false
+                       "latestPrice":  7.47,
+                       "ret5d":  -0.0336,
+                       "ret20d":  -0.0686,
+                       "volRatio":  1.03,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "2882",
@@ -24072,10 +24072,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  72,
-                       "ret5d":  0.0042,
-                       "ret20d":  -0.0757,
-                       "volRatio":  0.85,
+                       "latestPrice":  71.7,
+                       "ret5d":  -0.0097,
+                       "ret20d":  -0.0901,
+                       "volRatio":  1.01,
                        "inCandidates":  false
                    },
                    {
@@ -24085,10 +24085,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  88.6,
-                       "ret5d":  0.0057,
-                       "ret20d":  -0.0624,
-                       "volRatio":  1.43,
+                       "latestPrice":  86.8,
+                       "ret5d":  -0.0225,
+                       "ret20d":  -0.0882,
+                       "volRatio":  1.01,
                        "inCandidates":  false
                    },
                    {
@@ -24098,10 +24098,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  169,
-                       "ret5d":  -0.0259,
-                       "ret20d":  -0.0343,
-                       "volRatio":  0.2,
+                       "latestPrice":  164,
+                       "ret5d":  -0.0493,
+                       "ret20d":  -0.0655,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -24111,10 +24111,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  226,
-                       "ret5d":  -0.0088,
-                       "ret20d":  0.0487,
-                       "volRatio":  0.31,
+                       "latestPrice":  223,
+                       "ret5d":  -0.0111,
+                       "ret20d":  0.0348,
+                       "volRatio":  0.51,
                        "inCandidates":  false
                    },
                    {
@@ -24124,10 +24124,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  39.55,
-                       "ret5d":  -0.0113,
-                       "ret20d":  -0.0235,
-                       "volRatio":  0.52,
+                       "latestPrice":  38.9,
+                       "ret5d":  -0.0299,
+                       "ret20d":  -0.0558,
+                       "volRatio":  1.14,
                        "inCandidates":  false
                    },
                    {
@@ -24137,10 +24137,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  34.05,
-                       "ret5d":  0.0044,
-                       "ret20d":  0.0044,
-                       "volRatio":  0.39,
+                       "latestPrice":  33.6,
+                       "ret5d":  -0.0147,
+                       "ret20d":  -0.0074,
+                       "volRatio":  0.7,
                        "inCandidates":  false
                    },
                    {
@@ -24150,10 +24150,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  15.35,
-                       "ret5d":  -0.0315,
-                       "ret20d":  -0.1076,
-                       "volRatio":  1.38,
+                       "latestPrice":  14.65,
+                       "ret5d":  -0.0609,
+                       "ret20d":  -0.1629,
+                       "volRatio":  2.97,
                        "inCandidates":  false
                    },
                    {
@@ -24163,10 +24163,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  185,
-                       "ret5d":  0.0027,
-                       "ret20d":  -0.0263,
-                       "volRatio":  0.48,
+                       "latestPrice":  182.5,
+                       "ret5d":  -0.0162,
+                       "ret20d":  -0.0395,
+                       "volRatio":  0.84,
                        "inCandidates":  false
                    },
                    {
@@ -24176,10 +24176,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  70.5,
-                       "ret5d":  -0.0395,
-                       "ret20d":  -0.0724,
-                       "volRatio":  0.93,
+                       "latestPrice":  69.5,
+                       "ret5d":  -0.044,
+                       "ret20d":  -0.0646,
+                       "volRatio":  0.51,
                        "inCandidates":  false
                    },
                    {
@@ -24189,10 +24189,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  23.3,
-                       "ret5d":  0.0065,
-                       "ret20d":  -0.0827,
-                       "volRatio":  0.82,
+                       "latestPrice":  22.7,
+                       "ret5d":  -0.013,
+                       "ret20d":  -0.1081,
+                       "volRatio":  0.73,
                        "inCandidates":  false
                    },
                    {
@@ -24202,10 +24202,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  16.75,
-                       "ret5d":  -0.0176,
-                       "ret20d":  -0.0147,
-                       "volRatio":  0.49,
+                       "latestPrice":  16.6,
+                       "ret5d":  -0.0148,
+                       "ret20d":  -0.0377,
+                       "volRatio":  0.95,
                        "inCandidates":  false
                    },
                    {
@@ -24215,10 +24215,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  30.95,
-                       "ret5d":  0.0334,
-                       "ret20d":  0.0747,
-                       "volRatio":  0.24,
+                       "latestPrice":  30.5,
+                       "ret5d":  0.0099,
+                       "ret20d":  0.0572,
+                       "volRatio":  1.18,
                        "inCandidates":  false
                    },
                    {
@@ -24228,10 +24228,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  15,
-                       "ret5d":  0,
-                       "ret20d":  -0.0446,
-                       "volRatio":  1,
+                       "latestPrice":  14.85,
+                       "ret5d":  -0.01,
+                       "ret20d":  -0.0601,
+                       "volRatio":  0.98,
                        "inCandidates":  false
                    },
                    {
@@ -24241,10 +24241,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  47.45,
-                       "ret5d":  -0.0094,
-                       "ret20d":  -0.0237,
-                       "volRatio":  0.66,
+                       "latestPrice":  46.75,
+                       "ret5d":  -0.023,
+                       "ret20d":  -0.044,
+                       "volRatio":  0.94,
                        "inCandidates":  false
                    },
                    {
@@ -24254,10 +24254,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  73,
-                       "ret5d":  -0.0135,
-                       "ret20d":  0.0027,
-                       "volRatio":  0.38,
+                       "latestPrice":  72.2,
+                       "ret5d":  -0.0243,
+                       "ret20d":  -0.011,
+                       "volRatio":  0.3,
                        "inCandidates":  false
                    },
                    {
@@ -24267,10 +24267,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  181.5,
-                       "ret5d":  -0.0216,
-                       "ret20d":  -0.0055,
-                       "volRatio":  0.94,
+                       "latestPrice":  179.5,
+                       "ret5d":  -0.0375,
+                       "ret20d":  -0.0245,
+                       "volRatio":  0.78,
                        "inCandidates":  false
                    },
                    {
@@ -24280,10 +24280,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  20.5,
-                       "ret5d":  -0.0144,
-                       "ret20d":  0,
-                       "volRatio":  0.66,
+                       "latestPrice":  20.25,
+                       "ret5d":  -0.017,
+                       "ret20d":  -0.0098,
+                       "volRatio":  0.7,
                        "inCandidates":  false
                    },
                    {
@@ -24293,10 +24293,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  20.5,
-                       "ret5d":  -0.0049,
-                       "ret20d":  -0.0073,
-                       "volRatio":  0.78,
+                       "latestPrice":  20.3,
+                       "ret5d":  -0.0146,
+                       "ret20d":  -0.0217,
+                       "volRatio":  1.2,
                        "inCandidates":  true
                    },
                    {
@@ -24306,10 +24306,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  24.65,
-                       "ret5d":  -0.004,
-                       "ret20d":  0.0292,
-                       "volRatio":  1.3,
+                       "latestPrice":  23.9,
+                       "ret5d":  -0.0363,
+                       "ret20d":  -0.0042,
+                       "volRatio":  1.34,
                        "inCandidates":  true
                    },
                    {
@@ -24319,10 +24319,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  50.7,
-                       "ret5d":  0.008,
-                       "ret20d":  0.0596,
-                       "volRatio":  2.01,
+                       "latestPrice":  48.85,
+                       "ret5d":  -0.0171,
+                       "ret20d":  -0.0051,
+                       "volRatio":  0.96,
                        "inCandidates":  false
                    },
                    {
@@ -24332,10 +24332,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  20.15,
-                       "ret5d":  -0.0123,
-                       "ret20d":  -0.0671,
-                       "volRatio":  0.81,
+                       "latestPrice":  19.4,
+                       "ret5d":  -0.0537,
+                       "ret20d":  -0.0998,
+                       "volRatio":  0.7,
                        "inCandidates":  false
                    },
                    {
@@ -24345,10 +24345,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  128.5,
-                       "ret5d":  -0.0551,
-                       "ret20d":  0.1682,
-                       "volRatio":  1.02,
+                       "latestPrice":  129,
+                       "ret5d":  -0.048,
+                       "ret20d":  0.1674,
+                       "volRatio":  0.79,
                        "inCandidates":  true
                    },
                    {
@@ -24358,10 +24358,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  103.5,
-                       "ret5d":  -0.0282,
-                       "ret20d":  -0.0921,
-                       "volRatio":  0.44,
+                       "latestPrice":  101,
+                       "ret5d":  -0.0605,
+                       "ret20d":  -0.1022,
+                       "volRatio":  0.74,
                        "inCandidates":  false
                    },
                    {
@@ -24371,10 +24371,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  6.5,
-                       "ret5d":  -0.0714,
-                       "ret20d":  -0.1547,
-                       "volRatio":  0.41,
+                       "latestPrice":  6.32,
+                       "ret5d":  -0.0553,
+                       "ret20d":  -0.1684,
+                       "volRatio":  0.84,
                        "inCandidates":  false
                    },
                    {
@@ -24384,10 +24384,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  18.4,
-                       "ret5d":  0.0055,
-                       "ret20d":  -0.1175,
-                       "volRatio":  0.38,
+                       "latestPrice":  17.5,
+                       "ret5d":  -0.0141,
+                       "ret20d":  -0.2291,
+                       "volRatio":  0.61,
                        "inCandidates":  false
                    },
                    {
@@ -24397,10 +24397,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  41.05,
-                       "ret5d":  0.0301,
-                       "ret20d":  -0.0156,
-                       "volRatio":  0.59,
+                       "latestPrice":  40.95,
+                       "ret5d":  0.0061,
+                       "ret20d":  -0.0227,
+                       "volRatio":  0.44,
                        "inCandidates":  false
                    },
                    {
@@ -24410,10 +24410,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  26.45,
-                       "ret5d":  0.0312,
-                       "ret20d":  0.109,
-                       "volRatio":  0.46,
+                       "latestPrice":  26.2,
+                       "ret5d":  -0.0278,
+                       "ret20d":  0.1032,
+                       "volRatio":  0.22,
                        "inCandidates":  false
                    },
                    {
@@ -24423,10 +24423,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  117.5,
-                       "ret5d":  -0.0084,
-                       "ret20d":  -0.0208,
-                       "volRatio":  0.93,
+                       "latestPrice":  115.5,
+                       "ret5d":  -0.017,
+                       "ret20d":  -0.0335,
+                       "volRatio":  0.75,
                        "inCandidates":  false
                    },
                    {
@@ -24436,10 +24436,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  99.9,
-                       "ret5d":  -0.006,
-                       "ret20d":  -0.0707,
-                       "volRatio":  0.68,
+                       "latestPrice":  98.5,
+                       "ret5d":  0.0051,
+                       "ret20d":  -0.0837,
+                       "volRatio":  0.81,
                        "inCandidates":  false
                    },
                    {
@@ -24449,10 +24449,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  62.5,
-                       "ret5d":  0.0452,
-                       "ret20d":  0.0965,
-                       "volRatio":  0.98,
+                       "latestPrice":  61.1,
+                       "ret5d":  -0.0208,
+                       "ret20d":  0.1009,
+                       "volRatio":  0.69,
                        "inCandidates":  true
                    },
                    {
@@ -24462,10 +24462,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  51.1,
-                       "ret5d":  0.002,
-                       "ret20d":  -0.0466,
-                       "volRatio":  1.37,
+                       "latestPrice":  50.4,
+                       "ret5d":  -0.0137,
+                       "ret20d":  -0.0701,
+                       "volRatio":  0.66,
                        "inCandidates":  false
                    },
                    {
@@ -24475,10 +24475,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  2355,
-                       "ret5d":  0.0043,
-                       "ret20d":  0.0129,
-                       "volRatio":  0.89,
+                       "latestPrice":  2235,
+                       "ret5d":  -0.0304,
+                       "ret20d":  -0.024,
+                       "volRatio":  1.3,
                        "inCandidates":  false
                    },
                    {
@@ -24488,11 +24488,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  195.5,
-                       "ret5d":  0.2143,
-                       "ret20d":  0.2613,
-                       "volRatio":  0.51,
-                       "inCandidates":  true
+                       "latestPrice":  180,
+                       "ret5d":  0.0169,
+                       "ret20d":  0.1688,
+                       "volRatio":  0.33,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "3011",
@@ -24501,10 +24501,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  13.15,
-                       "ret5d":  0.0691,
-                       "ret20d":  0.0154,
-                       "volRatio":  1.74,
+                       "latestPrice":  12.7,
+                       "ret5d":  0.041,
+                       "ret20d":  -0.0193,
+                       "volRatio":  1.11,
                        "inCandidates":  false
                    },
                    {
@@ -24514,11 +24514,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  130,
-                       "ret5d":  -0.0038,
-                       "ret20d":  0.0526,
-                       "volRatio":  0.83,
-                       "inCandidates":  true
+                       "latestPrice":  125,
+                       "ret5d":  -0.0672,
+                       "ret20d":  0.0246,
+                       "volRatio":  0.49,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "2901",
@@ -24527,10 +24527,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  23.4,
-                       "ret5d":  -0.0085,
-                       "ret20d":  -0.037,
-                       "volRatio":  1.04,
+                       "latestPrice":  23.95,
+                       "ret5d":  0.0235,
+                       "ret20d":  -0.0224,
+                       "volRatio":  2.68,
                        "inCandidates":  false
                    },
                    {
@@ -24540,11 +24540,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  9.86,
-                       "ret5d":  -0.007,
-                       "ret20d":  0.0489,
-                       "volRatio":  0.46,
-                       "inCandidates":  false
+                       "latestPrice":  9.84,
+                       "ret5d":  -0.0101,
+                       "ret20d":  0.0144,
+                       "volRatio":  0.86,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "2904",
@@ -24554,9 +24554,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  16.65,
-                       "ret5d":  -0.0206,
-                       "ret20d":  -0.0206,
-                       "volRatio":  0.63,
+                       "ret5d":  -0.0148,
+                       "ret20d":  -0.0235,
+                       "volRatio":  0.87,
                        "inCandidates":  false
                    },
                    {
@@ -24566,10 +24566,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  23.25,
-                       "ret5d":  0,
-                       "ret20d":  -0.0106,
-                       "volRatio":  0.56,
+                       "latestPrice":  23,
+                       "ret5d":  -0.0086,
+                       "ret20d":  0.0022,
+                       "volRatio":  0.64,
                        "inCandidates":  true
                    },
                    {
@@ -24579,10 +24579,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  32.15,
-                       "ret5d":  0.0126,
-                       "ret20d":  0.0593,
-                       "volRatio":  2.42,
+                       "latestPrice":  31.2,
+                       "ret5d":  -0.0095,
+                       "ret20d":  0.0032,
+                       "volRatio":  1.02,
                        "inCandidates":  true
                    },
                    {
@@ -24592,11 +24592,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  16.55,
-                       "ret5d":  0.0153,
-                       "ret20d":  -0.0293,
-                       "volRatio":  0.79,
-                       "inCandidates":  false
+                       "latestPrice":  16.7,
+                       "ret5d":  0.006,
+                       "ret20d":  -0.0291,
+                       "volRatio":  1.71,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "2892",
@@ -24605,10 +24605,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  28.75,
-                       "ret5d":  -0.0052,
-                       "ret20d":  -0.0171,
-                       "volRatio":  1.01,
+                       "latestPrice":  28.1,
+                       "ret5d":  -0.026,
+                       "ret20d":  -0.0458,
+                       "volRatio":  0.91,
                        "inCandidates":  false
                    },
                    {
@@ -24618,10 +24618,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  52.1,
-                       "ret5d":  0.0156,
-                       "ret20d":  0.0077,
-                       "volRatio":  0.76,
+                       "latestPrice":  51.5,
+                       "ret5d":  -0.0077,
+                       "ret20d":  -0.0134,
+                       "volRatio":  1.23,
                        "inCandidates":  true
                    },
                    {
@@ -24631,10 +24631,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  217,
-                       "ret5d":  -0.0069,
-                       "ret20d":  -0.0247,
-                       "volRatio":  5.36,
+                       "latestPrice":  210,
+                       "ret5d":  -0.0455,
+                       "ret20d":  -0.0583,
+                       "volRatio":  1.5,
                        "inCandidates":  true
                    },
                    {
@@ -24644,10 +24644,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  5.1,
-                       "ret5d":  -0.0304,
-                       "ret20d":  -0.0097,
-                       "volRatio":  0.73,
+                       "latestPrice":  5.08,
+                       "ret5d":  -0.0415,
+                       "ret20d":  -0.0117,
+                       "volRatio":  0.41,
                        "inCandidates":  false
                    },
                    {
@@ -24657,10 +24657,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  48.55,
-                       "ret5d":  -0.0609,
-                       "ret20d":  -0.0681,
-                       "volRatio":  1.32,
+                       "latestPrice":  46.8,
+                       "ret5d":  -0.0593,
+                       "ret20d":  -0.1034,
+                       "volRatio":  1.34,
                        "inCandidates":  false
                    },
                    {
@@ -24670,10 +24670,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  12.45,
-                       "ret5d":  0.0163,
-                       "ret20d":  -0.0386,
-                       "volRatio":  1.42,
+                       "latestPrice":  12.2,
+                       "ret5d":  -0.0081,
+                       "ret20d":  -0.0579,
+                       "volRatio":  1.12,
                        "inCandidates":  false
                    },
                    {
@@ -24684,9 +24684,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  13.2,
-                       "ret5d":  0.0435,
-                       "ret20d":  0.0645,
-                       "volRatio":  0.66,
+                       "ret5d":  0.0476,
+                       "ret20d":  0.056,
+                       "volRatio":  1.34,
                        "inCandidates":  false
                    },
                    {
@@ -24696,10 +24696,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  14.15,
-                       "ret5d":  -0.0958,
-                       "ret20d":  -0.0871,
-                       "volRatio":  0.72,
+                       "latestPrice":  13.9,
+                       "ret5d":  -0.064,
+                       "ret20d":  -0.109,
+                       "volRatio":  1.25,
                        "inCandidates":  false
                    },
                    {
@@ -24710,9 +24710,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  21.2,
-                       "ret5d":  0.0291,
-                       "ret20d":  0.0047,
-                       "volRatio":  0.27,
+                       "ret5d":  0.0316,
+                       "ret20d":  -0.0117,
+                       "volRatio":  0.54,
                        "inCandidates":  false
                    },
                    {
@@ -24722,10 +24722,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  20,
-                       "ret5d":  0,
-                       "ret20d":  -0.0338,
-                       "volRatio":  0.7,
+                       "latestPrice":  19.9,
+                       "ret5d":  -0.005,
+                       "ret20d":  -0.0456,
+                       "volRatio":  1.56,
                        "inCandidates":  false
                    },
                    {
@@ -24736,9 +24736,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  12.4,
-                       "ret5d":  -0.008,
-                       "ret20d":  -0.035,
-                       "volRatio":  0.95,
+                       "ret5d":  -0.004,
+                       "ret20d":  -0.0388,
+                       "volRatio":  1.99,
                        "inCandidates":  false
                    },
                    {
@@ -24748,10 +24748,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  27.15,
-                       "ret5d":  0.015,
-                       "ret20d":  0,
-                       "volRatio":  0.45,
+                       "latestPrice":  27,
+                       "ret5d":  0,
+                       "ret20d":  -0.0253,
+                       "volRatio":  0.52,
                        "inCandidates":  false
                    },
                    {
@@ -24761,10 +24761,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  29.8,
-                       "ret5d":  0.0276,
-                       "ret20d":  -0.0116,
-                       "volRatio":  0.55,
+                       "latestPrice":  29.05,
+                       "ret5d":  -0.0153,
+                       "ret20d":  -0.0153,
+                       "volRatio":  0.63,
                        "inCandidates":  false
                    },
                    {
@@ -24774,10 +24774,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  19.9,
-                       "ret5d":  -0.0149,
-                       "ret20d":  -0.005,
-                       "volRatio":  1.1,
+                       "latestPrice":  19.7,
+                       "ret5d":  -0.0248,
+                       "ret20d":  -0.0051,
+                       "volRatio":  1.43,
                        "inCandidates":  false
                    },
                    {
@@ -24787,10 +24787,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  24.9,
-                       "ret5d":  -0.0178,
-                       "ret20d":  -0.008,
-                       "volRatio":  0.82,
+                       "latestPrice":  25.1,
+                       "ret5d":  -0.004,
+                       "ret20d":  -0.004,
+                       "volRatio":  0.69,
                        "inCandidates":  false
                    },
                    {
@@ -24800,10 +24800,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  14.05,
-                       "ret5d":  0.0218,
-                       "ret20d":  -0.041,
-                       "volRatio":  0.33,
+                       "latestPrice":  14.6,
+                       "ret5d":  0.0815,
+                       "ret20d":  0.0034,
+                       "volRatio":  3.02,
                        "inCandidates":  false
                    },
                    {
@@ -24813,10 +24813,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  14.25,
-                       "ret5d":  -0.1094,
-                       "ret20d":  -0.0468,
-                       "volRatio":  0.44,
+                       "latestPrice":  13.85,
+                       "ret5d":  -0.0828,
+                       "ret20d":  -0.1234,
+                       "volRatio":  0.34,
                        "inCandidates":  false
                    },
                    {
@@ -24826,10 +24826,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  39.2,
-                       "ret5d":  -0.0138,
-                       "ret20d":  -0.0416,
-                       "volRatio":  1.92,
+                       "latestPrice":  37.9,
+                       "ret5d":  -0.0307,
+                       "ret20d":  -0.0845,
+                       "volRatio":  1.37,
                        "inCandidates":  false
                    },
                    {
@@ -24839,10 +24839,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  33.05,
-                       "ret5d":  0.0061,
-                       "ret20d":  0.028,
-                       "volRatio":  4.6,
+                       "latestPrice":  31.75,
+                       "ret5d":  -0.0422,
+                       "ret20d":  -0.0031,
+                       "volRatio":  1.21,
                        "inCandidates":  true
                    },
                    {
@@ -24852,10 +24852,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  47.2,
-                       "ret5d":  0.0183,
-                       "ret20d":  -0.0011,
-                       "volRatio":  1.72,
+                       "latestPrice":  46.2,
+                       "ret5d":  -0.0294,
+                       "ret20d":  -0.0139,
+                       "volRatio":  0.57,
                        "inCandidates":  false
                    },
                    {
@@ -24865,10 +24865,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  48.15,
-                       "ret5d":  0.0073,
-                       "ret20d":  -0.0072,
-                       "volRatio":  0.68,
+                       "latestPrice":  47.7,
+                       "ret5d":  -0.0215,
+                       "ret20d":  -0.0175,
+                       "volRatio":  1.06,
                        "inCandidates":  false
                    },
                    {
@@ -24878,10 +24878,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  65.4,
-                       "ret5d":  -0.1102,
-                       "ret20d":  0.0828,
-                       "volRatio":  1.07,
+                       "latestPrice":  65,
+                       "ret5d":  -0.1168,
+                       "ret20d":  0.0621,
+                       "volRatio":  0.59,
                        "inCandidates":  true
                    },
                    {
@@ -24891,10 +24891,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  36.5,
-                       "ret5d":  -0.0014,
-                       "ret20d":  -0.047,
-                       "volRatio":  1.45,
+                       "latestPrice":  35.65,
+                       "ret5d":  -0.0312,
+                       "ret20d":  -0.0824,
+                       "volRatio":  0.96,
                        "inCandidates":  false
                    },
                    {
@@ -24904,10 +24904,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  22.55,
-                       "ret5d":  0.0067,
-                       "ret20d":  -0.011,
-                       "volRatio":  0.98,
+                       "latestPrice":  22.2,
+                       "ret5d":  -0.0133,
+                       "ret20d":  -0.0284,
+                       "volRatio":  0.68,
                        "inCandidates":  false
                    },
                    {
@@ -24917,10 +24917,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  73.6,
-                       "ret5d":  0.0041,
-                       "ret20d":  0.041,
-                       "volRatio":  0.95,
+                       "latestPrice":  73.5,
+                       "ret5d":  0.0096,
+                       "ret20d":  0.0352,
+                       "volRatio":  0.99,
                        "inCandidates":  false
                    },
                    {
@@ -24930,10 +24930,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  10.2,
-                       "ret5d":  0.0049,
-                       "ret20d":  -0.0239,
-                       "volRatio":  0.8,
+                       "latestPrice":  10.05,
+                       "ret5d":  -0.005,
+                       "ret20d":  -0.0429,
+                       "volRatio":  1.76,
                        "inCandidates":  false
                    },
                    {
@@ -24943,10 +24943,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  10.4,
-                       "ret5d":  0.0297,
-                       "ret20d":  -0.0048,
-                       "volRatio":  1.94,
+                       "latestPrice":  10.15,
+                       "ret5d":  0.005,
+                       "ret20d":  -0.0379,
+                       "volRatio":  1.04,
                        "inCandidates":  false
                    },
                    {
@@ -24956,10 +24956,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  39.3,
-                       "ret5d":  0.1873,
-                       "ret20d":  0.3078,
-                       "volRatio":  5.58,
+                       "latestPrice":  36.6,
+                       "ret5d":  0.1473,
+                       "ret20d":  0.1582,
+                       "volRatio":  1.32,
                        "inCandidates":  true
                    },
                    {
@@ -24969,10 +24969,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  116,
-                       "ret5d":  0.1154,
-                       "ret20d":  0.0892,
-                       "volRatio":  1.5,
+                       "latestPrice":  109.5,
+                       "ret5d":  0.0234,
+                       "ret20d":  0.033,
+                       "volRatio":  0.74,
                        "inCandidates":  true
                    },
                    {
@@ -24982,10 +24982,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  43.3,
-                       "ret5d":  0.0359,
-                       "ret20d":  -0.0525,
-                       "volRatio":  1.39,
+                       "latestPrice":  43.8,
+                       "ret5d":  0.0379,
+                       "ret20d":  -0.0288,
+                       "volRatio":  2.14,
                        "inCandidates":  false
                    },
                    {
@@ -24995,10 +24995,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  68.6,
-                       "ret5d":  -0.0029,
-                       "ret20d":  -0.0115,
-                       "volRatio":  0.77,
+                       "latestPrice":  68.7,
+                       "ret5d":  -0.0072,
+                       "ret20d":  -0.0087,
+                       "volRatio":  0.6,
                        "inCandidates":  false
                    },
                    {
@@ -25008,10 +25008,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  38.65,
-                       "ret5d":  -0.0653,
-                       "ret20d":  0.5337,
-                       "volRatio":  5.29,
+                       "latestPrice":  34.8,
+                       "ret5d":  -0.1695,
+                       "ret20d":  0.2841,
+                       "volRatio":  1.13,
                        "inCandidates":  true
                    },
                    {
@@ -25021,10 +25021,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  48.15,
-                       "ret5d":  0.0116,
-                       "ret20d":  0.0288,
-                       "volRatio":  0.58,
+                       "latestPrice":  47.35,
+                       "ret5d":  -0.0053,
+                       "ret20d":  0.0011,
+                       "volRatio":  0.8,
                        "inCandidates":  false
                    },
                    {
@@ -25034,11 +25034,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  131.5,
-                       "ret5d":  0.0154,
-                       "ret20d":  0.0648,
-                       "volRatio":  0.88,
-                       "inCandidates":  true
+                       "latestPrice":  123.5,
+                       "ret5d":  -0.0536,
+                       "ret20d":  0,
+                       "volRatio":  0.49,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "2491",
@@ -25047,10 +25047,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  16.9,
-                       "ret5d":  0.0464,
-                       "ret20d":  0.0211,
-                       "volRatio":  2.93,
+                       "latestPrice":  16.05,
+                       "ret5d":  -0.0243,
+                       "ret20d":  -0.0123,
+                       "volRatio":  0.83,
                        "inCandidates":  false
                    },
                    {
@@ -25060,10 +25060,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  14.6,
-                       "ret5d":  0.0542,
-                       "ret20d":  0.0034,
-                       "volRatio":  1.16,
+                       "latestPrice":  14.2,
+                       "ret5d":  0.0253,
+                       "ret20d":  -0.0207,
+                       "volRatio":  0.79,
                        "inCandidates":  false
                    },
                    {
@@ -25073,10 +25073,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  9.05,
-                       "ret5d":  0.0146,
-                       "ret20d":  0.0056,
-                       "volRatio":  1.85,
+                       "latestPrice":  8.99,
+                       "ret5d":  0.0216,
+                       "ret20d":  -0.0033,
+                       "volRatio":  0.76,
                        "inCandidates":  false
                    },
                    {
@@ -25086,10 +25086,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  13.65,
-                       "ret5d":  -0.0036,
-                       "ret20d":  -0.0683,
-                       "volRatio":  0.68,
+                       "latestPrice":  13.45,
+                       "ret5d":  -0.0289,
+                       "ret20d":  -0.0881,
+                       "volRatio":  2.18,
                        "inCandidates":  false
                    },
                    {
@@ -25099,10 +25099,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  8.16,
-                       "ret5d":  0.0025,
-                       "ret20d":  -0.0109,
-                       "volRatio":  0.85,
+                       "latestPrice":  8.06,
+                       "ret5d":  -0.0171,
+                       "ret20d":  -0.0218,
+                       "volRatio":  1.05,
                        "inCandidates":  false
                    },
                    {
@@ -25112,10 +25112,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  23.85,
-                       "ret5d":  0.0438,
-                       "ret20d":  0.0647,
-                       "volRatio":  2.61,
+                       "latestPrice":  23.3,
+                       "ret5d":  0.0197,
+                       "ret20d":  0.0333,
+                       "volRatio":  1.11,
                        "inCandidates":  true
                    },
                    {
@@ -25125,10 +25125,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  41.7,
-                       "ret5d":  -0.0071,
-                       "ret20d":  -0.0671,
-                       "volRatio":  1.07,
+                       "latestPrice":  40.9,
+                       "ret5d":  -0.0422,
+                       "ret20d":  -0.0757,
+                       "volRatio":  0.93,
                        "inCandidates":  false
                    },
                    {
@@ -25138,10 +25138,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  19.5,
-                       "ret5d":  0.0183,
-                       "ret20d":  0.0263,
-                       "volRatio":  1.59,
+                       "latestPrice":  18.95,
+                       "ret5d":  -0.0307,
+                       "ret20d":  0.0053,
+                       "volRatio":  1.13,
                        "inCandidates":  false
                    },
                    {
@@ -25151,10 +25151,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  38.2,
-                       "ret5d":  0.0133,
-                       "ret20d":  0.0626,
-                       "volRatio":  1.04,
+                       "latestPrice":  38.1,
+                       "ret5d":  0.0201,
+                       "ret20d":  0.0481,
+                       "volRatio":  0.91,
                        "inCandidates":  true
                    },
                    {
@@ -25164,10 +25164,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  36.65,
-                       "ret5d":  0.0027,
-                       "ret20d":  -0.0121,
-                       "volRatio":  1.14,
+                       "latestPrice":  35.9,
+                       "ret5d":  -0.011,
+                       "ret20d":  -0.0465,
+                       "volRatio":  1.31,
                        "inCandidates":  false
                    },
                    {
@@ -25177,10 +25177,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  26.35,
-                       "ret5d":  0.0174,
-                       "ret20d":  -0.0366,
-                       "volRatio":  1.08,
+                       "latestPrice":  25.9,
+                       "ret5d":  -0.0096,
+                       "ret20d":  -0.046,
+                       "volRatio":  0.81,
                        "inCandidates":  false
                    },
                    {
@@ -25190,10 +25190,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  49.05,
-                       "ret5d":  -0.0101,
-                       "ret20d":  0.0093,
-                       "volRatio":  0.67,
+                       "latestPrice":  49.15,
+                       "ret5d":  -0.017,
+                       "ret20d":  -0.0248,
+                       "volRatio":  1.44,
                        "inCandidates":  false
                    },
                    {
@@ -25203,10 +25203,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  69.1,
-                       "ret5d":  0.0014,
-                       "ret20d":  0.078,
-                       "volRatio":  0.6,
+                       "latestPrice":  68.3,
+                       "ret5d":  -0.038,
+                       "ret20d":  0.0655,
+                       "volRatio":  0.59,
                        "inCandidates":  false
                    },
                    {
@@ -25216,10 +25216,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  49.7,
-                       "ret5d":  -0.0217,
-                       "ret20d":  -0.0479,
-                       "volRatio":  0.51,
+                       "latestPrice":  49.1,
+                       "ret5d":  -0.0277,
+                       "ret20d":  -0.0974,
+                       "volRatio":  0.79,
                        "inCandidates":  false
                    },
                    {
@@ -25229,10 +25229,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  18.05,
-                       "ret5d":  0.0285,
-                       "ret20d":  0.3223,
-                       "volRatio":  1.21,
+                       "latestPrice":  19.5,
+                       "ret5d":  0.0924,
+                       "ret20d":  0.4234,
+                       "volRatio":  1.46,
                        "inCandidates":  false
                    },
                    {
@@ -25242,10 +25242,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  79,
-                       "ret5d":  0.0038,
-                       "ret20d":  0.0604,
-                       "volRatio":  1.4,
+                       "latestPrice":  74.8,
+                       "ret5d":  -0.052,
+                       "ret20d":  -0.0027,
+                       "volRatio":  0.51,
                        "inCandidates":  true
                    },
                    {
@@ -25255,11 +25255,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  34.8,
-                       "ret5d":  0.0373,
-                       "ret20d":  -0.1077,
-                       "volRatio":  0.86,
-                       "inCandidates":  false
+                       "latestPrice":  34.85,
+                       "ret5d":  0.0014,
+                       "ret20d":  -0.103,
+                       "volRatio":  1.11,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "2617",
@@ -25268,10 +25268,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  31.25,
-                       "ret5d":  -0.0126,
-                       "ret20d":  0.0399,
-                       "volRatio":  0.56,
+                       "latestPrice":  30.55,
+                       "ret5d":  -0.0468,
+                       "ret20d":  0.015,
+                       "volRatio":  0.51,
                        "inCandidates":  true
                    },
                    {
@@ -25282,9 +25282,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  11.2,
-                       "ret5d":  -0.0132,
-                       "ret20d":  -0.0549,
-                       "volRatio":  1.86,
+                       "ret5d":  -0.0044,
+                       "ret20d":  -0.0628,
+                       "volRatio":  1.76,
                        "inCandidates":  false
                    },
                    {
@@ -25294,10 +25294,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  10.75,
-                       "ret5d":  0,
-                       "ret20d":  -0.0227,
-                       "volRatio":  0.72,
+                       "latestPrice":  10.65,
+                       "ret5d":  -0.0047,
+                       "ret20d":  -0.0362,
+                       "volRatio":  0.87,
                        "inCandidates":  false
                    },
                    {
@@ -25307,10 +25307,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  16.35,
-                       "ret5d":  -0.0091,
-                       "ret20d":  0.0124,
-                       "volRatio":  0.71,
+                       "latestPrice":  16.1,
+                       "ret5d":  -0.033,
+                       "ret20d":  -0.0062,
+                       "volRatio":  0.84,
                        "inCandidates":  false
                    },
                    {
@@ -25320,10 +25320,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  42.5,
-                       "ret5d":  -0.0023,
-                       "ret20d":  -0.0047,
-                       "volRatio":  0.41,
+                       "latestPrice":  41.75,
+                       "ret5d":  -0.0142,
+                       "ret20d":  -0.0211,
+                       "volRatio":  1.5,
                        "inCandidates":  false
                    },
                    {
@@ -25333,10 +25333,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  23.6,
-                       "ret5d":  -0.0126,
-                       "ret20d":  -0.0328,
-                       "volRatio":  0.74,
+                       "latestPrice":  23.75,
+                       "ret5d":  0.0021,
+                       "ret20d":  -0.0286,
+                       "volRatio":  2.06,
                        "inCandidates":  false
                    },
                    {
@@ -25346,11 +25346,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  70.3,
-                       "ret5d":  0.0508,
-                       "ret20d":  0.0072,
-                       "volRatio":  1.72,
-                       "inCandidates":  true
+                       "latestPrice":  68.1,
+                       "ret5d":  -0.0395,
+                       "ret20d":  -0.0299,
+                       "volRatio":  0.44,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "2646",
@@ -25359,10 +25359,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  21.4,
-                       "ret5d":  -0.0047,
-                       "ret20d":  -0.0696,
-                       "volRatio":  0.66,
+                       "latestPrice":  21.15,
+                       "ret5d":  -0.0231,
+                       "ret20d":  -0.0784,
+                       "volRatio":  0.76,
                        "inCandidates":  false
                    },
                    {
@@ -25372,10 +25372,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  153,
-                       "ret5d":  -0.0467,
-                       "ret20d":  -0.0437,
-                       "volRatio":  0.54,
+                       "latestPrice":  146.5,
+                       "ret5d":  -0.0957,
+                       "ret20d":  -0.1094,
+                       "volRatio":  0.71,
                        "inCandidates":  false
                    },
                    {
@@ -25385,10 +25385,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  214,
-                       "ret5d":  0.0313,
-                       "ret20d":  0.1505,
-                       "volRatio":  0.92,
+                       "latestPrice":  204,
+                       "ret5d":  -0.0664,
+                       "ret20d":  0.0968,
+                       "volRatio":  0.72,
                        "inCandidates":  true
                    },
                    {
@@ -25398,10 +25398,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  6.14,
-                       "ret5d":  -0.0129,
-                       "ret20d":  0.1328,
-                       "volRatio":  0.4,
+                       "latestPrice":  6.02,
+                       "ret5d":  -0.0179,
+                       "ret20d":  0.121,
+                       "volRatio":  0.5,
                        "inCandidates":  false
                    },
                    {
@@ -25411,10 +25411,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  59,
-                       "ret5d":  0.0068,
-                       "ret20d":  -0.0499,
-                       "volRatio":  0.69,
+                       "latestPrice":  58.6,
+                       "ret5d":  -0.0233,
+                       "ret20d":  -0.0639,
+                       "volRatio":  0.33,
                        "inCandidates":  false
                    },
                    {
@@ -25424,10 +25424,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  39.8,
-                       "ret5d":  0.1453,
-                       "ret20d":  0.3607,
-                       "volRatio":  1.43,
+                       "latestPrice":  39.85,
+                       "ret5d":  0.0432,
+                       "ret20d":  0.3671,
+                       "volRatio":  0.72,
                        "inCandidates":  true
                    },
                    {
@@ -25437,11 +25437,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  10.95,
-                       "ret5d":  -0.0135,
-                       "ret20d":  0.0234,
-                       "volRatio":  0.72,
-                       "inCandidates":  false
+                       "latestPrice":  10.7,
+                       "ret5d":  -0.0404,
+                       "ret20d":  -0.0093,
+                       "volRatio":  1.31,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "2546",
@@ -25450,10 +25450,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  83.8,
-                       "ret5d":  0.0048,
-                       "ret20d":  -0.0176,
-                       "volRatio":  0.64,
+                       "latestPrice":  82.6,
+                       "ret5d":  -0.0143,
+                       "ret20d":  -0.0395,
+                       "volRatio":  1.35,
                        "inCandidates":  false
                    },
                    {
@@ -25463,10 +25463,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  156.5,
-                       "ret5d":  -0.0821,
-                       "ret20d":  -0.0767,
-                       "volRatio":  4.02,
+                       "latestPrice":  152.5,
+                       "ret5d":  -0.0586,
+                       "ret20d":  -0.1056,
+                       "volRatio":  1.01,
                        "inCandidates":  false
                    },
                    {
@@ -25476,10 +25476,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  120.5,
-                       "ret5d":  0.0343,
-                       "ret20d":  0.1209,
-                       "volRatio":  2.58,
+                       "latestPrice":  117.5,
+                       "ret5d":  -0.0042,
+                       "ret20d":  0.0829,
+                       "volRatio":  1.68,
                        "inCandidates":  true
                    },
                    {
@@ -25489,10 +25489,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  56.5,
-                       "ret5d":  -0.014,
-                       "ret20d":  -0.0707,
-                       "volRatio":  0.56,
+                       "latestPrice":  55.2,
+                       "ret5d":  -0.0532,
+                       "ret20d":  -0.0891,
+                       "volRatio":  0.24,
                        "inCandidates":  false
                    },
                    {
@@ -25502,10 +25502,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  14.75,
-                       "ret5d":  -0.0067,
-                       "ret20d":  0.0172,
-                       "volRatio":  0.39,
+                       "latestPrice":  14.5,
+                       "ret5d":  -0.0301,
+                       "ret20d":  0.0069,
+                       "volRatio":  0.56,
                        "inCandidates":  false
                    },
                    {
@@ -25515,10 +25515,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  20.25,
-                       "ret5d":  -0.0357,
-                       "ret20d":  -0.0122,
-                       "volRatio":  0.78,
+                       "latestPrice":  20.05,
+                       "ret5d":  -0.0361,
+                       "ret20d":  -0.022,
+                       "volRatio":  1.21,
                        "inCandidates":  false
                    },
                    {
@@ -25528,10 +25528,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  23.95,
-                       "ret5d":  -0.0681,
-                       "ret20d":  -0.0062,
-                       "volRatio":  0.3,
+                       "latestPrice":  23.3,
+                       "ret5d":  -0.1021,
+                       "ret20d":  -0.0372,
+                       "volRatio":  0.19,
                        "inCandidates":  false
                    },
                    {
@@ -25541,10 +25541,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  30.8,
-                       "ret5d":  -0.0112,
-                       "ret20d":  -0.0595,
-                       "volRatio":  0.93,
+                       "latestPrice":  30.4,
+                       "ret5d":  -0.0225,
+                       "ret20d":  -0.0689,
+                       "volRatio":  0.51,
                        "inCandidates":  false
                    },
                    {
@@ -25554,10 +25554,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  52.3,
-                       "ret5d":  -0.0261,
-                       "ret20d":  -0.0677,
-                       "volRatio":  0.87,
+                       "latestPrice":  51.5,
+                       "ret5d":  -0.0498,
+                       "ret20d":  -0.0771,
+                       "volRatio":  0.83,
                        "inCandidates":  false
                    },
                    {
@@ -25567,9 +25567,9 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  18.85,
-                       "ret5d":  0.0189,
-                       "ret20d":  -0.1786,
+                       "latestPrice":  18.55,
+                       "ret5d":  -0.008,
+                       "ret20d":  -0.1828,
                        "volRatio":  0.49,
                        "inCandidates":  false
                    },
@@ -25580,11 +25580,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  56.1,
-                       "ret5d":  -0.0524,
-                       "ret20d":  0.0625,
-                       "volRatio":  0.76,
-                       "inCandidates":  true
+                       "latestPrice":  52.8,
+                       "ret5d":  -0.1096,
+                       "ret20d":  -0.0094,
+                       "volRatio":  0.38,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "3530",
@@ -25593,10 +25593,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  61.5,
-                       "ret5d":  0.0406,
-                       "ret20d":  -0.0113,
-                       "volRatio":  1.13,
+                       "latestPrice":  57.7,
+                       "ret5d":  -0.0351,
+                       "ret20d":  -0.0827,
+                       "volRatio":  1.09,
                        "inCandidates":  false
                    },
                    {
@@ -25606,10 +25606,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  62.4,
-                       "ret5d":  0.0048,
-                       "ret20d":  -0.1161,
-                       "volRatio":  0.5,
+                       "latestPrice":  62,
+                       "ret5d":  -0.008,
+                       "ret20d":  -0.1401,
+                       "volRatio":  0.58,
                        "inCandidates":  false
                    },
                    {
@@ -25619,10 +25619,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  2065,
-                       "ret5d":  0.18,
-                       "ret20d":  0.2708,
-                       "volRatio":  1.21,
+                       "latestPrice":  1985,
+                       "ret5d":  0.178,
+                       "ret20d":  0.2067,
+                       "volRatio":  1.05,
                        "inCandidates":  true
                    },
                    {
@@ -25632,10 +25632,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  143.5,
-                       "ret5d":  0.1389,
-                       "ret20d":  -0.0497,
-                       "volRatio":  1.29,
+                       "latestPrice":  135,
+                       "ret5d":  0.015,
+                       "ret20d":  -0.0878,
+                       "volRatio":  0.76,
                        "inCandidates":  true
                    },
                    {
@@ -25645,11 +25645,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  58.3,
-                       "ret5d":  0.0034,
-                       "ret20d":  0.0717,
-                       "volRatio":  0.41,
-                       "inCandidates":  false
+                       "latestPrice":  55.7,
+                       "ret5d":  -0.0639,
+                       "ret20d":  0.0353,
+                       "volRatio":  0.54,
+                       "inCandidates":  true
                    },
                    {
                        "code":  "3501",
@@ -25658,10 +25658,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  48.55,
-                       "ret5d":  -0.0102,
-                       "ret20d":  -0.0499,
-                       "volRatio":  0.76,
+                       "latestPrice":  47.7,
+                       "ret5d":  -0.0225,
+                       "ret20d":  -0.0554,
+                       "volRatio":  1.11,
                        "inCandidates":  false
                    },
                    {
@@ -25671,10 +25671,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  22.9,
-                       "ret5d":  0.1365,
-                       "ret20d":  0.0751,
-                       "volRatio":  2.21,
+                       "latestPrice":  22.2,
+                       "ret5d":  0.099,
+                       "ret20d":  0.0673,
+                       "volRatio":  1.1,
                        "inCandidates":  false
                    },
                    {
@@ -25684,10 +25684,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  216.5,
-                       "ret5d":  0.0285,
-                       "ret20d":  -0.0181,
-                       "volRatio":  0.92,
+                       "latestPrice":  216,
+                       "ret5d":  0.0261,
+                       "ret20d":  -0.0248,
+                       "volRatio":  0.82,
                        "inCandidates":  false
                    },
                    {
@@ -25697,10 +25697,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  724,
-                       "ret5d":  0.0372,
-                       "ret20d":  0.4928,
-                       "volRatio":  0.96,
+                       "latestPrice":  702,
+                       "ret5d":  0.0014,
+                       "ret20d":  0.4474,
+                       "volRatio":  0.72,
                        "inCandidates":  true
                    },
                    {
@@ -25709,11 +25709,11 @@
                        "ticker":  "3557.TW",
                        "market":  "TWSE",
                        "sector":  "",
-                       "pool":  "Stock",
-                       "latestPrice":  30.6,
-                       "ret5d":  0.0049,
-                       "ret20d":  -0.113,
-                       "volRatio":  0.31,
+                       "pool":  "Other",
+                       "latestPrice":  29.9,
+                       "ret5d":  -0.0148,
+                       "ret20d":  -0.1295,
+                       "volRatio":  0.71,
                        "inCandidates":  false
                    },
                    {
@@ -25723,10 +25723,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  430,
-                       "ret5d":  0.1198,
-                       "ret20d":  0.348,
-                       "volRatio":  2.21,
+                       "latestPrice":  436,
+                       "ret5d":  0.0752,
+                       "ret20d":  0.3604,
+                       "volRatio":  2.47,
                        "inCandidates":  true
                    },
                    {
@@ -25736,10 +25736,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  23.1,
-                       "ret5d":  -0.0375,
-                       "ret20d":  0.5986,
-                       "volRatio":  1.35,
+                       "latestPrice":  21.5,
+                       "ret5d":  -0.165,
+                       "ret20d":  0.4191,
+                       "volRatio":  0.78,
                        "inCandidates":  true
                    },
                    {
@@ -25749,11 +25749,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  50.9,
-                       "ret5d":  -0.0117,
-                       "ret20d":  0.1879,
-                       "volRatio":  1.13,
-                       "inCandidates":  true
+                       "latestPrice":  49.45,
+                       "ret5d":  -0.005,
+                       "ret20d":  0.1125,
+                       "volRatio":  0.48,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "3535",
@@ -25762,10 +25762,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  124,
-                       "ret5d":  -0.0159,
-                       "ret20d":  0.2098,
-                       "volRatio":  0.8,
+                       "latestPrice":  115,
+                       "ret5d":  -0.0763,
+                       "ret20d":  0.1111,
+                       "volRatio":  0.6,
                        "inCandidates":  true
                    },
                    {
@@ -25775,11 +25775,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  18.95,
-                       "ret5d":  0.0327,
-                       "ret20d":  -0.0688,
-                       "volRatio":  0.86,
-                       "inCandidates":  true
+                       "latestPrice":  18.35,
+                       "ret5d":  -0.0893,
+                       "ret20d":  -0.0638,
+                       "volRatio":  0.34,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "3545",
@@ -25788,10 +25788,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  43.5,
-                       "ret5d":  0.0069,
-                       "ret20d":  -0.1618,
-                       "volRatio":  0.68,
+                       "latestPrice":  42.35,
+                       "ret5d":  -0.0375,
+                       "ret20d":  -0.1712,
+                       "volRatio":  0.51,
                        "inCandidates":  false
                    },
                    {
@@ -25801,11 +25801,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  301,
-                       "ret5d":  -0.0131,
-                       "ret20d":  0.0326,
-                       "volRatio":  0.62,
-                       "inCandidates":  true
+                       "latestPrice":  297,
+                       "ret5d":  -0.0357,
+                       "ret20d":  0.0277,
+                       "volRatio":  0.44,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "3406",
@@ -25814,10 +25814,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  445,
-                       "ret5d":  0.0361,
-                       "ret20d":  0.0349,
-                       "volRatio":  0.85,
+                       "latestPrice":  442,
+                       "ret5d":  0.008,
+                       "ret20d":  0.0291,
+                       "volRatio":  0.92,
                        "inCandidates":  false
                    },
                    {
@@ -25828,9 +25828,9 @@
                        "sector":  "",
                        "pool":  "Other",
                        "latestPrice":  16.2,
-                       "ret5d":  0.0909,
-                       "ret20d":  0.102,
-                       "volRatio":  0.85,
+                       "ret5d":  0.102,
+                       "ret20d":  0.0588,
+                       "volRatio":  0.42,
                        "inCandidates":  false
                    },
                    {
@@ -25840,10 +25840,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  150.5,
-                       "ret5d":  0.0169,
-                       "ret20d":  0.0488,
-                       "volRatio":  0.56,
+                       "latestPrice":  151,
+                       "ret5d":  0.0033,
+                       "ret20d":  0.0596,
+                       "volRatio":  1.12,
                        "inCandidates":  false
                    },
                    {
@@ -25853,10 +25853,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  50.6,
-                       "ret5d":  0.0564,
-                       "ret20d":  0.0709,
-                       "volRatio":  1.02,
+                       "latestPrice":  49.8,
+                       "ret5d":  0.0112,
+                       "ret20d":  0.071,
+                       "volRatio":  0.78,
                        "inCandidates":  false
                    },
                    {
@@ -25866,10 +25866,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  19.9,
-                       "ret5d":  0.0102,
-                       "ret20d":  -0.0456,
-                       "volRatio":  0.53,
+                       "latestPrice":  18.9,
+                       "ret5d":  -0.0357,
+                       "ret20d":  -0.0892,
+                       "volRatio":  1.88,
                        "inCandidates":  false
                    },
                    {
@@ -25879,11 +25879,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  36.15,
-                       "ret5d":  0,
-                       "ret20d":  0.199,
-                       "volRatio":  0.56,
-                       "inCandidates":  true
+                       "latestPrice":  34.2,
+                       "ret5d":  -0.027,
+                       "ret20d":  0.1343,
+                       "volRatio":  0.38,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "3376",
@@ -25892,10 +25892,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  223.5,
-                       "ret5d":  0.1345,
-                       "ret20d":  0.155,
-                       "volRatio":  1.63,
+                       "latestPrice":  204,
+                       "ret5d":  -0.0577,
+                       "ret20d":  0.0597,
+                       "volRatio":  1.06,
                        "inCandidates":  true
                    },
                    {
@@ -25918,10 +25918,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  285.5,
-                       "ret5d":  0.016,
-                       "ret20d":  0.1512,
-                       "volRatio":  1.47,
+                       "latestPrice":  261.5,
+                       "ret5d":  -0.0967,
+                       "ret20d":  0.0761,
+                       "volRatio":  0.63,
                        "inCandidates":  true
                    },
                    {
@@ -25931,10 +25931,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  8.43,
-                       "ret5d":  -0.0047,
-                       "ret20d":  -0.0528,
-                       "volRatio":  0.71,
+                       "latestPrice":  8.3,
+                       "ret5d":  -0.0224,
+                       "ret20d":  -0.0674,
+                       "volRatio":  0.53,
                        "inCandidates":  false
                    },
                    {
@@ -25944,11 +25944,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  26.25,
-                       "ret5d":  -0.1162,
-                       "ret20d":  0.247,
-                       "volRatio":  0.59,
-                       "inCandidates":  true
+                       "latestPrice":  25,
+                       "ret5d":  -0.0842,
+                       "ret20d":  0.139,
+                       "volRatio":  0.32,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "3437",
@@ -25957,10 +25957,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  24,
-                       "ret5d":  0.2371,
-                       "ret20d":  0.5385,
-                       "volRatio":  1.14,
+                       "latestPrice":  22.15,
+                       "ret5d":  0.0399,
+                       "ret20d":  0.4337,
+                       "volRatio":  0.73,
                        "inCandidates":  true
                    },
                    {
@@ -25970,10 +25970,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  16.2,
-                       "ret5d":  -0.0211,
-                       "ret20d":  -0.1383,
-                       "volRatio":  0.84,
+                       "latestPrice":  16.45,
+                       "ret5d":  -0.015,
+                       "ret20d":  -0.0546,
+                       "volRatio":  0.96,
                        "inCandidates":  false
                    },
                    {
@@ -25983,10 +25983,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  40.8,
-                       "ret5d":  -0.0423,
-                       "ret20d":  0.0037,
-                       "volRatio":  0.58,
+                       "latestPrice":  39.2,
+                       "ret5d":  -0.0667,
+                       "ret20d":  -0.0285,
+                       "volRatio":  0.7,
                        "inCandidates":  false
                    },
                    {
@@ -25996,10 +25996,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  2645,
-                       "ret5d":  0.1575,
-                       "ret20d":  0.0559,
-                       "volRatio":  1.44,
+                       "latestPrice":  2590,
+                       "ret5d":  0.146,
+                       "ret20d":  0.0465,
+                       "volRatio":  0.68,
                        "inCandidates":  true
                    },
                    {
@@ -26009,10 +26009,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  50.9,
-                       "ret5d":  0.0262,
-                       "ret20d":  -0.0414,
-                       "volRatio":  0.78,
+                       "latestPrice":  49.7,
+                       "ret5d":  -0.0139,
+                       "ret20d":  -0.0442,
+                       "volRatio":  0.97,
                        "inCandidates":  false
                    },
                    {
@@ -26022,11 +26022,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  33.25,
-                       "ret5d":  0.0231,
-                       "ret20d":  0.0015,
-                       "volRatio":  1.02,
-                       "inCandidates":  true
+                       "latestPrice":  32.25,
+                       "ret5d":  -0.0286,
+                       "ret20d":  -0.0138,
+                       "volRatio":  0.62,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "3703",
@@ -26035,10 +26035,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  22.65,
-                       "ret5d":  0.0157,
-                       "ret20d":  -0.0216,
-                       "volRatio":  0.78,
+                       "latestPrice":  22.7,
+                       "ret5d":  0.0225,
+                       "ret20d":  -0.0087,
+                       "volRatio":  0.7,
                        "inCandidates":  false
                    },
                    {
@@ -26048,10 +26048,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  81,
-                       "ret5d":  -0.0206,
-                       "ret20d":  0.0266,
-                       "volRatio":  0.59,
+                       "latestPrice":  79.3,
+                       "ret5d":  -0.0514,
+                       "ret20d":  0.0115,
+                       "volRatio":  0.44,
                        "inCandidates":  false
                    },
                    {
@@ -26061,10 +26061,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  52.4,
-                       "ret5d":  -0.0095,
-                       "ret20d":  -0.0507,
-                       "volRatio":  1.74,
+                       "latestPrice":  52,
+                       "ret5d":  -0.028,
+                       "ret20d":  -0.0597,
+                       "volRatio":  0.74,
                        "inCandidates":  false
                    },
                    {
@@ -26074,10 +26074,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  56.6,
-                       "ret5d":  0.0071,
-                       "ret20d":  -0.0292,
-                       "volRatio":  0.48,
+                       "latestPrice":  55.4,
+                       "ret5d":  0,
+                       "ret20d":  -0.0843,
+                       "volRatio":  0.67,
                        "inCandidates":  false
                    },
                    {
@@ -26087,10 +26087,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  19.15,
-                       "ret5d":  0.0351,
-                       "ret20d":  0.0026,
-                       "volRatio":  1.21,
+                       "latestPrice":  18.5,
+                       "ret5d":  -0.0054,
+                       "ret20d":  -0.0212,
+                       "volRatio":  0.37,
                        "inCandidates":  false
                    },
                    {
@@ -26100,10 +26100,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  91.4,
-                       "ret5d":  0.2268,
-                       "ret20d":  0.4171,
-                       "volRatio":  1.75,
+                       "latestPrice":  90.7,
+                       "ret5d":  0.1074,
+                       "ret20d":  0.4062,
+                       "volRatio":  1.16,
                        "inCandidates":  true
                    },
                    {
@@ -26113,11 +26113,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  65.8,
-                       "ret5d":  0.0494,
-                       "ret20d":  0.3226,
-                       "volRatio":  1.21,
-                       "inCandidates":  true
+                       "latestPrice":  59.4,
+                       "ret5d":  -0.0833,
+                       "ret20d":  0.2585,
+                       "volRatio":  0.35,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "3716",
@@ -26126,10 +26126,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  33.25,
-                       "ret5d":  -0.0045,
-                       "ret20d":  -0.0163,
-                       "volRatio":  0.92,
+                       "latestPrice":  33.05,
+                       "ret5d":  -0.0164,
+                       "ret20d":  -0.0251,
+                       "volRatio":  1.11,
                        "inCandidates":  false
                    },
                    {
@@ -26139,10 +26139,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  178.5,
-                       "ret5d":  0.0753,
-                       "ret20d":  0.2526,
-                       "volRatio":  1.7,
+                       "latestPrice":  170.5,
+                       "ret5d":  0.0557,
+                       "ret20d":  0.2092,
+                       "volRatio":  0.67,
                        "inCandidates":  true
                    },
                    {
@@ -26152,10 +26152,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  76.3,
-                       "ret5d":  0.0079,
-                       "ret20d":  -0.0168,
-                       "volRatio":  0.91,
+                       "latestPrice":  75.6,
+                       "ret5d":  -0.0026,
+                       "ret20d":  -0.027,
+                       "volRatio":  0.8,
                        "inCandidates":  false
                    },
                    {
@@ -26165,10 +26165,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  20.05,
-                       "ret5d":  0.0553,
-                       "ret20d":  0.1392,
-                       "volRatio":  3.29,
+                       "latestPrice":  21.05,
+                       "ret5d":  0.0964,
+                       "ret20d":  0.2168,
+                       "volRatio":  4.3,
                        "inCandidates":  false
                    },
                    {
@@ -26178,10 +26178,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  344,
-                       "ret5d":  0.0073,
-                       "ret20d":  0,
-                       "volRatio":  0.91,
+                       "latestPrice":  329.5,
+                       "ret5d":  -0.0237,
+                       "ret20d":  -0.0705,
+                       "volRatio":  0.64,
                        "inCandidates":  true
                    },
                    {
@@ -26191,10 +26191,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  122,
-                       "ret5d":  -0.0615,
-                       "ret20d":  0.1619,
-                       "volRatio":  0.78,
+                       "latestPrice":  118,
+                       "ret5d":  -0.0598,
+                       "ret20d":  0.1456,
+                       "volRatio":  0.61,
                        "inCandidates":  true
                    },
                    {
@@ -26204,10 +26204,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  48.1,
-                       "ret5d":  0.1251,
-                       "ret20d":  0.3287,
-                       "volRatio":  1.6,
+                       "latestPrice":  46.8,
+                       "ret5d":  -0.0043,
+                       "ret20d":  0.3109,
+                       "volRatio":  0.72,
                        "inCandidates":  true
                    },
                    {
@@ -26217,10 +26217,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  23.55,
-                       "ret5d":  0.0561,
-                       "ret20d":  -0.0747,
-                       "volRatio":  0.6,
+                       "latestPrice":  23.05,
+                       "ret5d":  -0.0335,
+                       "ret20d":  -0.0687,
+                       "volRatio":  0.64,
                        "inCandidates":  false
                    },
                    {
@@ -26230,10 +26230,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  14.55,
-                       "ret5d":  0,
-                       "ret20d":  0.0468,
-                       "volRatio":  0.71,
+                       "latestPrice":  14.15,
+                       "ret5d":  -0.0105,
+                       "ret20d":  0.0366,
+                       "volRatio":  1.85,
                        "inCandidates":  false
                    },
                    {
@@ -26243,10 +26243,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  60.8,
-                       "ret5d":  0.0201,
-                       "ret20d":  -0.044,
-                       "volRatio":  0.73,
+                       "latestPrice":  58.5,
+                       "ret5d":  -0.0299,
+                       "ret20d":  -0.0888,
+                       "volRatio":  0.83,
                        "inCandidates":  false
                    },
                    {
@@ -26256,10 +26256,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  59.5,
-                       "ret5d":  -0.0083,
-                       "ret20d":  0.0188,
-                       "volRatio":  0.51,
+                       "latestPrice":  58,
+                       "ret5d":  -0.0397,
+                       "ret20d":  -0.0017,
+                       "volRatio":  0.71,
                        "inCandidates":  false
                    },
                    {
@@ -26269,10 +26269,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  175,
-                       "ret5d":  -0.0169,
-                       "ret20d":  -0.0838,
-                       "volRatio":  0.76,
+                       "latestPrice":  171,
+                       "ret5d":  -0.0339,
+                       "ret20d":  -0.1094,
+                       "volRatio":  0.66,
                        "inCandidates":  false
                    },
                    {
@@ -26282,10 +26282,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  214,
-                       "ret5d":  -0.0228,
-                       "ret20d":  -0.0614,
-                       "volRatio":  0.65,
+                       "latestPrice":  208.5,
+                       "ret5d":  -0.0436,
+                       "ret20d":  -0.0671,
+                       "volRatio":  0.86,
                        "inCandidates":  false
                    },
                    {
@@ -26295,10 +26295,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  21.3,
-                       "ret5d":  0.0597,
-                       "ret20d":  0.1152,
-                       "volRatio":  6.74,
+                       "latestPrice":  20,
+                       "ret5d":  -0.0099,
+                       "ret20d":  0.0417,
+                       "volRatio":  1.07,
                        "inCandidates":  true
                    },
                    {
@@ -26308,10 +26308,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  192,
-                       "ret5d":  -0.0857,
-                       "ret20d":  0.0608,
-                       "volRatio":  0.54,
+                       "latestPrice":  185.5,
+                       "ret5d":  -0.1103,
+                       "ret20d":  0.0082,
+                       "volRatio":  0.55,
                        "inCandidates":  true
                    },
                    {
@@ -26321,10 +26321,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  12.55,
-                       "ret5d":  -0.0346,
-                       "ret20d":  0.0591,
-                       "volRatio":  0.55,
+                       "latestPrice":  12.8,
+                       "ret5d":  -0.0154,
+                       "ret20d":  0.0756,
+                       "volRatio":  1.18,
                        "inCandidates":  false
                    },
                    {
@@ -26334,9 +26334,9 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  34.45,
-                       "ret5d":  0.0015,
-                       "ret20d":  0.033,
+                       "latestPrice":  34.2,
+                       "ret5d":  0.0148,
+                       "ret20d":  0.0443,
                        "volRatio":  0.64,
                        "inCandidates":  false
                    },
@@ -26347,10 +26347,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  1825,
-                       "ret5d":  0.1478,
-                       "ret20d":  0.3225,
-                       "volRatio":  1.83,
+                       "latestPrice":  1770,
+                       "ret5d":  0.076,
+                       "ret20d":  0.2967,
+                       "volRatio":  0.63,
                        "inCandidates":  true
                    },
                    {
@@ -26360,10 +26360,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  121,
-                       "ret5d":  0.0386,
-                       "ret20d":  0.0568,
-                       "volRatio":  0.53,
+                       "latestPrice":  118.5,
+                       "ret5d":  0,
+                       "ret20d":  0.0395,
+                       "volRatio":  0.56,
                        "inCandidates":  false
                    },
                    {
@@ -26373,10 +26373,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  46,
-                       "ret5d":  0.181,
-                       "ret20d":  0.2073,
-                       "volRatio":  4.21,
+                       "latestPrice":  45.45,
+                       "ret5d":  0.179,
+                       "ret20d":  0.1699,
+                       "volRatio":  1.85,
                        "inCandidates":  true
                    },
                    {
@@ -26386,10 +26386,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  27.4,
-                       "ret5d":  0.0018,
-                       "ret20d":  -0.0197,
-                       "volRatio":  0.68,
+                       "latestPrice":  26.65,
+                       "ret5d":  -0.0274,
+                       "ret20d":  -0.073,
+                       "volRatio":  0.9,
                        "inCandidates":  false
                    },
                    {
@@ -26399,10 +26399,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  78.4,
-                       "ret5d":  -0.0309,
-                       "ret20d":  0.3852,
-                       "volRatio":  0.84,
+                       "latestPrice":  77.3,
+                       "ret5d":  -0.0709,
+                       "ret20d":  0.3903,
+                       "volRatio":  0.55,
                        "inCandidates":  true
                    },
                    {
@@ -26412,11 +26412,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  3375,
-                       "ret5d":  0.058,
-                       "ret20d":  0.0227,
-                       "volRatio":  2.32,
-                       "inCandidates":  true
+                       "latestPrice":  3190,
+                       "ret5d":  0.0208,
+                       "ret20d":  -0.0562,
+                       "volRatio":  0.9,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "3653",
@@ -26426,9 +26426,9 @@
                        "sector":  "",
                        "pool":  "Stock",
                        "latestPrice":  3850,
-                       "ret5d":  0.1864,
-                       "ret20d":  0.1493,
-                       "volRatio":  0.6,
+                       "ret5d":  0.1357,
+                       "ret20d":  0.2012,
+                       "volRatio":  0.7,
                        "inCandidates":  true
                    },
                    {
@@ -26438,10 +26438,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  64,
-                       "ret5d":  0.0922,
-                       "ret20d":  0.2403,
-                       "volRatio":  1.96,
+                       "latestPrice":  61,
+                       "ret5d":  0.0664,
+                       "ret20d":  0.1686,
+                       "volRatio":  0.88,
                        "inCandidates":  true
                    },
                    {
@@ -26451,10 +26451,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  48.9,
-                       "ret5d":  0.0072,
-                       "ret20d":  0.1547,
-                       "volRatio":  0.47,
+                       "latestPrice":  49.4,
+                       "ret5d":  0.026,
+                       "ret20d":  0.1706,
+                       "volRatio":  1.08,
                        "inCandidates":  false
                    },
                    {
@@ -26464,10 +26464,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  21.65,
-                       "ret5d":  -0.0628,
-                       "ret20d":  -0.0787,
-                       "volRatio":  0.69,
+                       "latestPrice":  21.1,
+                       "ret5d":  -0.0806,
+                       "ret20d":  -0.0725,
+                       "volRatio":  0.75,
                        "inCandidates":  false
                    },
                    {
@@ -26477,10 +26477,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  93,
-                       "ret5d":  -0.0053,
-                       "ret20d":  0.0544,
-                       "volRatio":  0.95,
+                       "latestPrice":  91.1,
+                       "ret5d":  -0.0151,
+                       "ret20d":  0.0341,
+                       "volRatio":  0.57,
                        "inCandidates":  true
                    },
                    {
@@ -26490,10 +26490,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  23.45,
-                       "ret5d":  -0.0042,
-                       "ret20d":  -0.0694,
-                       "volRatio":  4.33,
+                       "latestPrice":  23.8,
+                       "ret5d":  0.0171,
+                       "ret20d":  -0.0305,
+                       "volRatio":  1.46,
                        "inCandidates":  false
                    },
                    {
@@ -26503,10 +26503,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  157.5,
-                       "ret5d":  0.0396,
-                       "ret20d":  -0.068,
-                       "volRatio":  0.76,
+                       "latestPrice":  151,
+                       "ret5d":  -0.0289,
+                       "ret20d":  -0.0679,
+                       "volRatio":  0.55,
                        "inCandidates":  false
                    },
                    {
@@ -26516,10 +26516,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  385,
-                       "ret5d":  -0.0077,
-                       "ret20d":  0.0212,
-                       "volRatio":  4.4,
+                       "latestPrice":  372,
+                       "ret5d":  -0.0172,
+                       "ret20d":  -0.008,
+                       "volRatio":  1.05,
                        "inCandidates":  true
                    },
                    {
@@ -26529,10 +26529,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  554,
-                       "ret5d":  0.0906,
-                       "ret20d":  0.4913,
-                       "volRatio":  0.25,
+                       "latestPrice":  499,
+                       "ret5d":  -0.0911,
+                       "ret20d":  0.3523,
+                       "volRatio":  0.26,
                        "inCandidates":  false
                    },
                    {
@@ -26542,10 +26542,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  254,
-                       "ret5d":  0.0786,
-                       "ret20d":  0.5074,
-                       "volRatio":  1.24,
+                       "latestPrice":  241,
+                       "ret5d":  0.0255,
+                       "ret20d":  0.3771,
+                       "volRatio":  0.88,
                        "inCandidates":  true
                    },
                    {
@@ -26555,10 +26555,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  40.2,
-                       "ret5d":  0.0607,
-                       "ret20d":  0.0455,
-                       "volRatio":  2.03,
+                       "latestPrice":  38.6,
+                       "ret5d":  -0.0115,
+                       "ret20d":  0.0118,
+                       "volRatio":  0.67,
                        "inCandidates":  true
                    },
                    {
@@ -26568,10 +26568,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  16.65,
-                       "ret5d":  0.0472,
-                       "ret20d":  -0.0431,
-                       "volRatio":  0.56,
+                       "latestPrice":  16,
+                       "ret5d":  -0.0093,
+                       "ret20d":  -0.0805,
+                       "volRatio":  0.79,
                        "inCandidates":  false
                    },
                    {
@@ -26581,10 +26581,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  14.5,
-                       "ret5d":  0.124,
-                       "ret20d":  0.1197,
-                       "volRatio":  2.73,
+                       "latestPrice":  13.95,
+                       "ret5d":  0.0898,
+                       "ret20d":  0.0772,
+                       "volRatio":  6.7,
                        "inCandidates":  false
                    },
                    {
@@ -26594,10 +26594,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  18,
-                       "ret5d":  0.4458,
-                       "ret20d":  0.9956,
-                       "volRatio":  1.88,
+                       "latestPrice":  16.2,
+                       "ret5d":  0.3065,
+                       "ret20d":  0.7514,
+                       "volRatio":  0.8,
                        "inCandidates":  true
                    },
                    {
@@ -26607,10 +26607,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  363,
-                       "ret5d":  -0.0447,
-                       "ret20d":  -0.032,
-                       "volRatio":  1.89,
+                       "latestPrice":  355,
+                       "ret5d":  -0.0193,
+                       "ret20d":  -0.0851,
+                       "volRatio":  0.85,
                        "inCandidates":  true
                    },
                    {
@@ -26620,10 +26620,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  21.1,
-                       "ret5d":  -0.0117,
-                       "ret20d":  -0.0299,
-                       "volRatio":  0.74,
+                       "latestPrice":  20.4,
+                       "ret5d":  -0.0332,
+                       "ret20d":  -0.049,
+                       "volRatio":  1.42,
                        "inCandidates":  false
                    },
                    {
@@ -26633,10 +26633,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  48.35,
-                       "ret5d":  0.019,
-                       "ret20d":  -0.0252,
-                       "volRatio":  0.35,
+                       "latestPrice":  47.15,
+                       "ret5d":  -0.0136,
+                       "ret20d":  -0.0318,
+                       "volRatio":  0.61,
                        "inCandidates":  false
                    },
                    {
@@ -26647,9 +26647,9 @@
                        "sector":  "",
                        "pool":  "Stock",
                        "latestPrice":  109,
-                       "ret5d":  0.0235,
-                       "ret20d":  0.0332,
-                       "volRatio":  0.61,
+                       "ret5d":  0.0093,
+                       "ret20d":  0.0235,
+                       "volRatio":  0.86,
                        "inCandidates":  true
                    },
                    {
@@ -26659,10 +26659,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  270,
-                       "ret5d":  0.0953,
-                       "ret20d":  0.1465,
-                       "volRatio":  2.32,
+                       "latestPrice":  274,
+                       "ret5d":  0.1417,
+                       "ret20d":  0.176,
+                       "volRatio":  3.26,
                        "inCandidates":  true
                    },
                    {
@@ -26672,10 +26672,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  68.5,
-                       "ret5d":  0.123,
-                       "ret20d":  0.1322,
-                       "volRatio":  6.82,
+                       "latestPrice":  64,
+                       "ret5d":  0.0458,
+                       "ret20d":  0.0544,
+                       "volRatio":  1.3,
                        "inCandidates":  true
                    },
                    {
@@ -26685,10 +26685,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  61.9,
-                       "ret5d":  0.0016,
-                       "ret20d":  0.1073,
-                       "volRatio":  1.45,
+                       "latestPrice":  60.5,
+                       "ret5d":  0,
+                       "ret20d":  0.1183,
+                       "volRatio":  0.68,
                        "inCandidates":  true
                    },
                    {
@@ -26698,10 +26698,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  10.7,
-                       "ret5d":  0.0542,
-                       "ret20d":  0.0388,
-                       "volRatio":  0.83,
+                       "latestPrice":  10.25,
+                       "ret5d":  0.0049,
+                       "ret20d":  -0.0049,
+                       "volRatio":  1.02,
                        "inCandidates":  false
                    },
                    {
@@ -26711,10 +26711,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  12.25,
-                       "ret5d":  -0.0316,
-                       "ret20d":  0.0041,
-                       "volRatio":  0.3,
+                       "latestPrice":  12.1,
+                       "ret5d":  -0.0728,
+                       "ret20d":  -0.0798,
+                       "volRatio":  0.15,
                        "inCandidates":  false
                    },
                    {
@@ -26724,10 +26724,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  2050,
-                       "ret5d":  0.0992,
-                       "ret20d":  0.2654,
-                       "volRatio":  1.16,
+                       "latestPrice":  1995,
+                       "ret5d":  0.0902,
+                       "ret20d":  0.243,
+                       "volRatio":  0.82,
                        "inCandidates":  true
                    },
                    {
@@ -26737,10 +26737,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  16.45,
-                       "ret5d":  0.0123,
-                       "ret20d":  -0.0324,
-                       "volRatio":  0.64,
+                       "latestPrice":  16.05,
+                       "ret5d":  -0.0123,
+                       "ret20d":  -0.0641,
+                       "volRatio":  0.88,
                        "inCandidates":  false
                    },
                    {
@@ -26750,10 +26750,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  130.5,
-                       "ret5d":  0,
-                       "ret20d":  -0.1358,
-                       "volRatio":  0.4,
+                       "latestPrice":  125.5,
+                       "ret5d":  -0.0634,
+                       "ret20d":  -0.152,
+                       "volRatio":  0.5,
                        "inCandidates":  false
                    },
                    {
@@ -26763,10 +26763,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  22.6,
-                       "ret5d":  0.0585,
-                       "ret20d":  0.1357,
-                       "volRatio":  1.93,
+                       "latestPrice":  21.55,
+                       "ret5d":  0.0094,
+                       "ret20d":  0.0775,
+                       "volRatio":  0.64,
                        "inCandidates":  false
                    },
                    {
@@ -26776,11 +26776,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  255.5,
-                       "ret5d":  -0.0793,
-                       "ret20d":  0.3886,
-                       "volRatio":  0.67,
-                       "inCandidates":  true
+                       "latestPrice":  241.5,
+                       "ret5d":  -0.034,
+                       "ret20d":  0.3054,
+                       "volRatio":  0.45,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "3033",
@@ -26789,10 +26789,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  35.75,
-                       "ret5d":  0.176,
-                       "ret20d":  0.1588,
-                       "volRatio":  5.95,
+                       "latestPrice":  33.3,
+                       "ret5d":  0.0455,
+                       "ret20d":  0.0555,
+                       "volRatio":  1.07,
                        "inCandidates":  true
                    },
                    {
@@ -26802,10 +26802,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  65.2,
-                       "ret5d":  -0.0412,
-                       "ret20d":  -0.1068,
-                       "volRatio":  0.71,
+                       "latestPrice":  64.5,
+                       "ret5d":  0.0078,
+                       "ret20d":  -0.1248,
+                       "volRatio":  0.94,
                        "inCandidates":  false
                    },
                    {
@@ -26815,10 +26815,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  20.25,
-                       "ret5d":  -0.0515,
-                       "ret20d":  -0.1215,
-                       "volRatio":  1.23,
+                       "latestPrice":  19.95,
+                       "ret5d":  -0.0634,
+                       "ret20d":  -0.1364,
+                       "volRatio":  1.09,
                        "inCandidates":  false
                    },
                    {
@@ -26828,10 +26828,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  119,
-                       "ret5d":  0.1019,
-                       "ret20d":  0.128,
-                       "volRatio":  1.65,
+                       "latestPrice":  120,
+                       "ret5d":  0.1111,
+                       "ret20d":  0.1483,
+                       "volRatio":  1.16,
                        "inCandidates":  true
                    },
                    {
@@ -26841,10 +26841,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  107,
-                       "ret5d":  -0.0696,
-                       "ret20d":  -0.0404,
-                       "volRatio":  0.95,
+                       "latestPrice":  103,
+                       "ret5d":  -0.1043,
+                       "ret20d":  -0.0965,
+                       "volRatio":  0.48,
                        "inCandidates":  false
                    },
                    {
@@ -26854,11 +26854,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  54.2,
-                       "ret5d":  0.0711,
-                       "ret20d":  0.1732,
-                       "volRatio":  0.72,
-                       "inCandidates":  true
+                       "latestPrice":  53.8,
+                       "ret5d":  0.0447,
+                       "ret20d":  0.122,
+                       "volRatio":  0.47,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "3051",
@@ -26867,10 +26867,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  21.35,
-                       "ret5d":  0.0023,
-                       "ret20d":  -0.0426,
-                       "volRatio":  1.44,
+                       "latestPrice":  20.2,
+                       "ret5d":  -0.0626,
+                       "ret20d":  -0.088,
+                       "volRatio":  1.18,
                        "inCandidates":  false
                    },
                    {
@@ -26880,10 +26880,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  42.8,
-                       "ret5d":  0.074,
-                       "ret20d":  0.1475,
-                       "volRatio":  1.7,
+                       "latestPrice":  42.55,
+                       "ret5d":  0.0155,
+                       "ret20d":  0.1377,
+                       "volRatio":  0.87,
                        "inCandidates":  true
                    },
                    {
@@ -26893,10 +26893,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  380,
-                       "ret5d":  0.1969,
-                       "ret20d":  0.499,
-                       "volRatio":  0.24,
+                       "latestPrice":  346,
+                       "ret5d":  0.0267,
+                       "ret20d":  0.3032,
+                       "volRatio":  0.18,
                        "inCandidates":  false
                    },
                    {
@@ -26906,11 +26906,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  130,
-                       "ret5d":  -0.0299,
-                       "ret20d":  0.0039,
-                       "volRatio":  1.61,
-                       "inCandidates":  true
+                       "latestPrice":  125.5,
+                       "ret5d":  -0.0704,
+                       "ret20d":  -0.0456,
+                       "volRatio":  0.79,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "3229",
@@ -26919,10 +26919,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  19.5,
-                       "ret5d":  0.0345,
-                       "ret20d":  -0.0845,
-                       "volRatio":  1.73,
+                       "latestPrice":  21.45,
+                       "ret5d":  0.141,
+                       "ret20d":  0.0288,
+                       "volRatio":  2.9,
                        "inCandidates":  false
                    },
                    {
@@ -26932,10 +26932,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  18.25,
-                       "ret5d":  0.0055,
-                       "ret20d":  0.0311,
-                       "volRatio":  0.69,
+                       "latestPrice":  18,
+                       "ret5d":  -0.0055,
+                       "ret20d":  0.0141,
+                       "volRatio":  0.91,
                        "inCandidates":  false
                    },
                    {
@@ -26945,10 +26945,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  15.95,
-                       "ret5d":  0.0031,
-                       "ret20d":  -0.086,
-                       "volRatio":  1.07,
+                       "latestPrice":  16,
+                       "ret5d":  0.0063,
+                       "ret20d":  -0.0698,
+                       "volRatio":  0.54,
                        "inCandidates":  false
                    },
                    {
@@ -26958,10 +26958,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  41.05,
-                       "ret5d":  0.0061,
-                       "ret20d":  0.0392,
-                       "volRatio":  0.64,
+                       "latestPrice":  41.3,
+                       "ret5d":  0.0073,
+                       "ret20d":  0.0338,
+                       "volRatio":  0.67,
                        "inCandidates":  false
                    },
                    {
@@ -26971,10 +26971,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  345,
-                       "ret5d":  -0.1165,
-                       "ret20d":  0.2523,
-                       "volRatio":  0.18,
+                       "latestPrice":  325,
+                       "ret5d":  -0.1144,
+                       "ret20d":  0.1971,
+                       "volRatio":  0.24,
                        "inCandidates":  false
                    },
                    {
@@ -26984,10 +26984,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  32.7,
-                       "ret5d":  0.0348,
-                       "ret20d":  0.0617,
-                       "volRatio":  0.54,
+                       "latestPrice":  32.4,
+                       "ret5d":  0.0141,
+                       "ret20d":  0.0588,
+                       "volRatio":  0.8,
                        "inCandidates":  false
                    },
                    {
@@ -26997,10 +26997,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  22.05,
-                       "ret5d":  -0.0178,
-                       "ret20d":  -0.0677,
-                       "volRatio":  0.39,
+                       "latestPrice":  21.25,
+                       "ret5d":  -0.0297,
+                       "ret20d":  -0.0047,
+                       "volRatio":  0.27,
                        "inCandidates":  false
                    },
                    {
@@ -27010,10 +27010,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  16.95,
-                       "ret5d":  0.0935,
-                       "ret20d":  -0.0478,
-                       "volRatio":  0.6,
+                       "latestPrice":  17.8,
+                       "ret5d":  0.1634,
+                       "ret20d":  0.0056,
+                       "volRatio":  4.55,
                        "inCandidates":  false
                    },
                    {
@@ -27023,10 +27023,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  37.2,
-                       "ret5d":  0.1205,
-                       "ret20d":  -0.0159,
-                       "volRatio":  1.1,
+                       "latestPrice":  36.15,
+                       "ret5d":  0.0775,
+                       "ret20d":  -0.0373,
+                       "volRatio":  0.57,
                        "inCandidates":  false
                    },
                    {
@@ -27036,10 +27036,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  13.4,
-                       "ret5d":  0.0229,
-                       "ret20d":  0,
-                       "volRatio":  0.31,
+                       "latestPrice":  13.25,
+                       "ret5d":  0.0192,
+                       "ret20d":  -0.0569,
+                       "volRatio":  0.85,
                        "inCandidates":  false
                    },
                    {
@@ -27049,10 +27049,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  55.7,
-                       "ret5d":  -0.0036,
-                       "ret20d":  -0.0809,
-                       "volRatio":  0.82,
+                       "latestPrice":  53.9,
+                       "ret5d":  -0.0409,
+                       "ret20d":  -0.1017,
+                       "volRatio":  0.76,
                        "inCandidates":  false
                    },
                    {
@@ -27062,10 +27062,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  104,
-                       "ret5d":  0.0196,
-                       "ret20d":  -0.0673,
-                       "volRatio":  0.65,
+                       "latestPrice":  100,
+                       "ret5d":  -0.0244,
+                       "ret20d":  -0.0826,
+                       "volRatio":  0.51,
                        "inCandidates":  false
                    },
                    {
@@ -27075,10 +27075,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  21.6,
-                       "ret5d":  -0.0114,
-                       "ret20d":  -0.1037,
-                       "volRatio":  0.66,
+                       "latestPrice":  21.35,
+                       "ret5d":  -0.0161,
+                       "ret20d":  -0.1029,
+                       "volRatio":  0.81,
                        "inCandidates":  false
                    },
                    {
@@ -27088,10 +27088,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  10.2,
-                       "ret5d":  0.1099,
-                       "ret20d":  0.0592,
-                       "volRatio":  1.34,
+                       "latestPrice":  9.77,
+                       "ret5d":  0.0713,
+                       "ret20d":  0.0021,
+                       "volRatio":  0.85,
                        "inCandidates":  false
                    },
                    {
@@ -27101,10 +27101,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  19,
-                       "ret5d":  0.2625,
-                       "ret20d":  0.1728,
-                       "volRatio":  7.46,
+                       "latestPrice":  17.1,
+                       "ret5d":  0.1554,
+                       "ret20d":  0.0688,
+                       "volRatio":  1.73,
                        "inCandidates":  false
                    },
                    {
@@ -27114,10 +27114,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  34.8,
-                       "ret5d":  0.2586,
-                       "ret20d":  0.1619,
-                       "volRatio":  4.08,
+                       "latestPrice":  33.2,
+                       "ret5d":  0.1815,
+                       "ret20d":  0.0957,
+                       "volRatio":  1.21,
                        "inCandidates":  true
                    },
                    {
@@ -27127,10 +27127,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  37.95,
-                       "ret5d":  0.0134,
-                       "ret20d":  0.0026,
-                       "volRatio":  0.65,
+                       "latestPrice":  37.25,
+                       "ret5d":  -0.0312,
+                       "ret20d":  -0.0299,
+                       "volRatio":  0.69,
                        "inCandidates":  false
                    },
                    {
@@ -27140,10 +27140,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  79.2,
-                       "ret5d":  0.097,
-                       "ret20d":  1.5466,
-                       "volRatio":  0.38,
+                       "latestPrice":  71.3,
+                       "ret5d":  -0.102,
+                       "ret20d":  1.3112,
+                       "volRatio":  0.52,
                        "inCandidates":  false
                    },
                    {
@@ -27153,10 +27153,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  11.05,
-                       "ret5d":  -0.0045,
-                       "ret20d":  -0.0391,
-                       "volRatio":  1.63,
+                       "latestPrice":  11,
+                       "ret5d":  -0.009,
+                       "ret20d":  -0.0517,
+                       "volRatio":  1.04,
                        "inCandidates":  false
                    },
                    {
@@ -27166,10 +27166,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  15.1,
-                       "ret5d":  0.01,
-                       "ret20d":  -0.1195,
-                       "volRatio":  1.57,
+                       "latestPrice":  14.4,
+                       "ret5d":  -0.0303,
+                       "ret20d":  -0.1603,
+                       "volRatio":  0.9,
                        "inCandidates":  false
                    },
                    {
@@ -27179,10 +27179,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  59.9,
-                       "ret5d":  0.0381,
-                       "ret20d":  -0.0965,
-                       "volRatio":  0.56,
+                       "latestPrice":  58.1,
+                       "ret5d":  -0.0119,
+                       "ret20d":  -0.1006,
+                       "volRatio":  0.45,
                        "inCandidates":  false
                    },
                    {
@@ -27192,10 +27192,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  157,
-                       "ret5d":  0.4273,
-                       "ret20d":  0.3894,
-                       "volRatio":  0.7,
+                       "latestPrice":  146.5,
+                       "ret5d":  0.3318,
+                       "ret20d":  0.2795,
+                       "volRatio":  2.24,
                        "inCandidates":  true
                    },
                    {
@@ -27205,10 +27205,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  223,
-                       "ret5d":  0,
-                       "ret20d":  -0.0022,
-                       "volRatio":  0.67,
+                       "latestPrice":  222,
+                       "ret5d":  -0.0111,
+                       "ret20d":  -0.0045,
+                       "volRatio":  0.85,
                        "inCandidates":  false
                    },
                    {
@@ -27218,10 +27218,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  45.75,
-                       "ret5d":  -0.0161,
-                       "ret20d":  -0.0923,
-                       "volRatio":  0.91,
+                       "latestPrice":  45.05,
+                       "ret5d":  -0.0415,
+                       "ret20d":  -0.0843,
+                       "volRatio":  0.67,
                        "inCandidates":  false
                    },
                    {
@@ -27231,11 +27231,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  177,
-                       "ret5d":  -0.038,
-                       "ret20d":  0.0826,
-                       "volRatio":  0.61,
-                       "inCandidates":  true
+                       "latestPrice":  171,
+                       "ret5d":  -0.0856,
+                       "ret20d":  0.0997,
+                       "volRatio":  0.38,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "3090",
@@ -27244,11 +27244,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  95.3,
-                       "ret5d":  0.0314,
-                       "ret20d":  0.0393,
-                       "volRatio":  1.23,
-                       "inCandidates":  true
+                       "latestPrice":  93,
+                       "ret5d":  -0.0127,
+                       "ret20d":  0.0011,
+                       "volRatio":  0.39,
+                       "inCandidates":  false
                    },
                    {
                        "code":  "3062",
@@ -27257,10 +27257,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "LowPrice",
-                       "latestPrice":  23.75,
-                       "ret5d":  0.0171,
-                       "ret20d":  -0.0021,
-                       "volRatio":  0.51,
+                       "latestPrice":  23.15,
+                       "ret5d":  -0.0314,
+                       "ret20d":  -0.0868,
+                       "volRatio":  0.5,
                        "inCandidates":  false
                    },
                    {
@@ -27270,10 +27270,10 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Other",
-                       "latestPrice":  23.75,
-                       "ret5d":  0.0237,
-                       "ret20d":  -0.0462,
-                       "volRatio":  0.99,
+                       "latestPrice":  23.05,
+                       "ret5d":  -0.0233,
+                       "ret20d":  -0.0611,
+                       "volRatio":  0.53,
                        "inCandidates":  false
                    },
                    {
@@ -27283,11 +27283,11 @@
                        "market":  "TWSE",
                        "sector":  "",
                        "pool":  "Stock",
-                       "latestPrice":  32.3,
-                       "ret5d":  0.0062,
-                       "ret20d":  0.3833,
-                       "volRatio":  0.63,
-                       "inCandidates":  true
+                       "latestPrice":  30.1,
+                       "ret5d":  -0.1473,
+                       "ret20d":  0.3002,
+                       "volRatio":  0.49,
+                       "inCandidates":  false
                    }
                ]
 };
