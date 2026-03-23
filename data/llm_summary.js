@@ -1,5 +1,5 @@
 ﻿window.STOCK_AI_LLM = {
-    "generatedAt":  "2026-03-23 23:30:23 +08:00",
+    "generatedAt":  "2026-03-24 00:40:20 +08:00",
     "provider":  "rule_fallback",
     "marketSummary":  {
                           "text":  "市場中性，適合以 RR 與回測品質做細部篩選。 整體風險偏好介於中間。 近期短線回測偏弱。 今日強力買入候選偏多。",
