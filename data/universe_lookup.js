@@ -1,5 +1,5 @@
 ﻿window.STOCK_AI_UNIVERSE = {
-    "generatedAt":  "2026-03-23 21:14:55 +08:00",
+    "generatedAt":  "2026-03-23 23:29:35 +08:00",
     "totalCount":  2099,
     "stocks":  [
                    {
@@ -6006,7 +6006,7 @@
                        "ret5d":  -0.0655,
                        "ret20d":  -0.1441,
                        "volRatio":  1.66,
-                       "inCandidates":  true
+                       "inCandidates":  false
                    },
                    {
                        "code":  "9944",
@@ -6032,7 +6032,7 @@
                        "ret5d":  -0.065,
                        "ret20d":  -0.0456,
                        "volRatio":  1.08,
-                       "inCandidates":  false
+                       "inCandidates":  true
                    },
                    {
                        "code":  "9938",
@@ -19435,7 +19435,7 @@
                        "ret5d":  -0.045,
                        "ret20d":  -0.0969,
                        "volRatio":  1.06,
-                       "inCandidates":  false
+                       "inCandidates":  true
                    },
                    {
                        "code":  "1477",
@@ -19890,7 +19890,7 @@
                        "ret5d":  -0.0275,
                        "ret20d":  -0.1196,
                        "volRatio":  1.21,
-                       "inCandidates":  true
+                       "inCandidates":  false
                    },
                    {
                        "code":  "009811",

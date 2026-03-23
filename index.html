@@ -866,6 +866,7 @@ h1 {
             <div id="refreshStatus" class="action-status">待機中</div>
         </div>
         <div class="summary-grid" id="summaryGrid"></div>
+        <div class="tiny-note" id="marketAiSummary"></div>
     </section>
 
     <section class="section">
@@ -928,55 +929,33 @@ h1 {
 
 <script>
 window.STOCK_AI_DATA = {
-    "generatedAt":  "2026-03-23 21:13:34 +08:00",
-    "marketMode":  "COLD",
-    "marketHeat":  -0.023,
+    "generatedAt":  "2026-03-23 23:28:13 +08:00",
+    "marketMode":  "NEUTRAL",
+    "marketHeat":  -0.0026,
     "summary":  {
                     "totalCount":  10,
-                    "strongBuyCount":  1,
-                    "watchCount":  9,
+                    "strongBuyCount":  8,
+                    "watchCount":  2,
                     "conservativeCount":  0
                 },
     "topPicks":  [
                      {
-                         "code":  "2323",
-                         "name":  "中環",
-                         "pool":  "LowPrice",
-                         "signalKey":  "strong_buy",
-                         "signalPriority":  0,
-                         "latestPrice":  11.95,
-                         "supportPrice":  11.71,
-                         "targetPrice":  13.01,
-                         "potentialPct":  8.87,
-                         "rr":  4.44,
-                         "positionPct":  4,
-                         "marketHeat":  -0.023,
-                         "marketMode":  "COLD",
-                         "ticker":  "2323.TW",
-                         "priceAtPick":  11.95,
-                         "distanceToSupportPct":  2.01,
-                         "low20d":  10.15,
-                         "low60d":  9.86,
-                         "low250d":  6.67,
-                         "low2y":  6.67
-                     },
-                     {
                          "code":  "1304",
                          "name":  "台聚",
                          "pool":  "LowPrice",
-                         "signalKey":  "watch",
-                         "signalPriority":  1,
+                         "signalKey":  "strong_buy",
+                         "signalPriority":  0,
                          "latestPrice":  16.55,
-                         "supportPrice":  16.22,
-                         "targetPrice":  16.72,
-                         "potentialPct":  1.03,
-                         "rr":  0.5,
-                         "positionPct":  0,
-                         "marketHeat":  -0.023,
-                         "marketMode":  "COLD",
+                         "supportPrice":  16.05,
+                         "targetPrice":  18.12,
+                         "potentialPct":  9.49,
+                         "rr":  3.17,
+                         "positionPct":  15,
+                         "marketHeat":  -0.0026,
+                         "marketMode":  "NEUTRAL",
                          "ticker":  "1304.TW",
                          "priceAtPick":  16.55,
-                         "distanceToSupportPct":  1.99,
+                         "distanceToSupportPct":  3.02,
                          "low20d":  11.65,
                          "low60d":  10.4,
                          "low250d":  8.85,
@@ -986,65 +965,65 @@ window.STOCK_AI_DATA = {
                          "code":  "6438",
                          "name":  "迅得",
                          "pool":  "Stock",
-                         "signalKey":  "watch",
-                         "signalPriority":  1,
+                         "signalKey":  "strong_buy",
+                         "signalPriority":  0,
                          "latestPrice":  170,
-                         "supportPrice":  166.6,
-                         "targetPrice":  178.89,
-                         "potentialPct":  5.23,
-                         "rr":  2.61,
-                         "positionPct":  0,
-                         "marketHeat":  -0.023,
-                         "marketMode":  "COLD",
+                         "supportPrice":  164.9,
+                         "targetPrice":  194.45,
+                         "potentialPct":  14.38,
+                         "rr":  4.79,
+                         "positionPct":  15,
+                         "marketHeat":  -0.0026,
+                         "marketMode":  "NEUTRAL",
                          "ticker":  "6438.TW",
                          "priceAtPick":  170,
-                         "distanceToSupportPct":  2,
+                         "distanceToSupportPct":  3,
                          "low20d":  136.5,
                          "low60d":  134,
                          "low250d":  116.5,
                          "low2y":  97.5
+                     },
+                     {
+                         "code":  "2369",
+                         "name":  "菱生",
+                         "pool":  "Stock",
+                         "signalKey":  "strong_buy",
+                         "signalPriority":  0,
+                         "latestPrice":  34.05,
+                         "supportPrice":  33.03,
+                         "targetPrice":  38.31,
+                         "potentialPct":  12.51,
+                         "rr":  4.17,
+                         "positionPct":  15,
+                         "marketHeat":  -0.0026,
+                         "marketMode":  "NEUTRAL",
+                         "ticker":  "2369.TW",
+                         "priceAtPick":  34.05,
+                         "distanceToSupportPct":  3,
+                         "low20d":  24.5,
+                         "low60d":  22.2,
+                         "low250d":  11.35,
+                         "low2y":  11.35
                      }
                  ],
     "stocks":  [
                    {
-                       "code":  "2323",
-                       "name":  "中環",
-                       "pool":  "LowPrice",
-                       "signalKey":  "strong_buy",
-                       "signalPriority":  0,
-                       "latestPrice":  11.95,
-                       "supportPrice":  11.71,
-                       "targetPrice":  13.01,
-                       "potentialPct":  8.87,
-                       "rr":  4.44,
-                       "positionPct":  4,
-                       "marketHeat":  -0.023,
-                       "marketMode":  "COLD",
-                       "ticker":  "2323.TW",
-                       "priceAtPick":  11.95,
-                       "distanceToSupportPct":  2.01,
-                       "low20d":  10.15,
-                       "low60d":  9.86,
-                       "low250d":  6.67,
-                       "low2y":  6.67
-                   },
-                   {
                        "code":  "1304",
                        "name":  "台聚",
                        "pool":  "LowPrice",
-                       "signalKey":  "watch",
-                       "signalPriority":  1,
+                       "signalKey":  "strong_buy",
+                       "signalPriority":  0,
                        "latestPrice":  16.55,
-                       "supportPrice":  16.22,
-                       "targetPrice":  16.72,
-                       "potentialPct":  1.03,
-                       "rr":  0.5,
-                       "positionPct":  0,
-                       "marketHeat":  -0.023,
-                       "marketMode":  "COLD",
+                       "supportPrice":  16.05,
+                       "targetPrice":  18.12,
+                       "potentialPct":  9.49,
+                       "rr":  3.17,
+                       "positionPct":  15,
+                       "marketHeat":  -0.0026,
+                       "marketMode":  "NEUTRAL",
                        "ticker":  "1304.TW",
                        "priceAtPick":  16.55,
-                       "distanceToSupportPct":  1.99,
+                       "distanceToSupportPct":  3.02,
                        "low20d":  11.65,
                        "low60d":  10.4,
                        "low250d":  8.85,
@@ -1054,107 +1033,85 @@ window.STOCK_AI_DATA = {
                        "code":  "6438",
                        "name":  "迅得",
                        "pool":  "Stock",
-                       "signalKey":  "watch",
-                       "signalPriority":  1,
+                       "signalKey":  "strong_buy",
+                       "signalPriority":  0,
                        "latestPrice":  170,
-                       "supportPrice":  166.6,
-                       "targetPrice":  178.89,
-                       "potentialPct":  5.23,
-                       "rr":  2.61,
-                       "positionPct":  0,
-                       "marketHeat":  -0.023,
-                       "marketMode":  "COLD",
+                       "supportPrice":  164.9,
+                       "targetPrice":  194.45,
+                       "potentialPct":  14.38,
+                       "rr":  4.79,
+                       "positionPct":  15,
+                       "marketHeat":  -0.0026,
+                       "marketMode":  "NEUTRAL",
                        "ticker":  "6438.TW",
                        "priceAtPick":  170,
-                       "distanceToSupportPct":  2,
+                       "distanceToSupportPct":  3,
                        "low20d":  136.5,
                        "low60d":  134,
                        "low250d":  116.5,
                        "low2y":  97.5
                    },
                    {
-                       "code":  "4991",
-                       "name":  "環宇-KY",
-                       "pool":  "Stock",
-                       "signalKey":  "watch",
-                       "signalPriority":  1,
-                       "latestPrice":  385,
-                       "supportPrice":  418.46,
-                       "targetPrice":  431.27,
-                       "potentialPct":  12.02,
-                       "rr":  0.5,
-                       "positionPct":  0,
-                       "marketHeat":  -0.023,
-                       "marketMode":  "COLD",
-                       "ticker":  "4991.TWO",
-                       "priceAtPick":  427,
-                       "distanceToSupportPct":  -8.69,
-                       "low20d":  273,
-                       "low60d":  273,
-                       "low250d":  273,
-                       "low2y":  273
-                   },
-                   {
                        "code":  "2369",
                        "name":  "菱生",
                        "pool":  "Stock",
-                       "signalKey":  "watch",
-                       "signalPriority":  1,
+                       "signalKey":  "strong_buy",
+                       "signalPriority":  0,
                        "latestPrice":  34.05,
-                       "supportPrice":  33.37,
-                       "targetPrice":  35.25,
-                       "potentialPct":  3.52,
-                       "rr":  1.76,
-                       "positionPct":  0,
-                       "marketHeat":  -0.023,
-                       "marketMode":  "COLD",
+                       "supportPrice":  33.03,
+                       "targetPrice":  38.31,
+                       "potentialPct":  12.51,
+                       "rr":  4.17,
+                       "positionPct":  15,
+                       "marketHeat":  -0.0026,
+                       "marketMode":  "NEUTRAL",
                        "ticker":  "2369.TW",
                        "priceAtPick":  34.05,
-                       "distanceToSupportPct":  2,
+                       "distanceToSupportPct":  3,
                        "low20d":  24.5,
                        "low60d":  22.2,
                        "low250d":  11.35,
                        "low2y":  11.35
                    },
                    {
-                       "code":  "8155",
-                       "name":  "博智",
-                       "pool":  "Stock",
-                       "signalKey":  "watch",
-                       "signalPriority":  1,
-                       "latestPrice":  265,
-                       "supportPrice":  269.5,
-                       "targetPrice":  277.75,
-                       "potentialPct":  4.81,
-                       "rr":  0.5,
-                       "positionPct":  0,
-                       "marketHeat":  -0.023,
-                       "marketMode":  "COLD",
-                       "ticker":  "8155.TWO",
-                       "priceAtPick":  275,
-                       "distanceToSupportPct":  -1.7,
-                       "low20d":  173,
-                       "low60d":  173,
-                       "low250d":  173,
-                       "low2y":  173
+                       "code":  "2323",
+                       "name":  "中環",
+                       "pool":  "LowPrice",
+                       "signalKey":  "strong_buy",
+                       "signalPriority":  0,
+                       "latestPrice":  11.95,
+                       "supportPrice":  11.59,
+                       "targetPrice":  14.14,
+                       "potentialPct":  18.33,
+                       "rr":  6.12,
+                       "positionPct":  15,
+                       "marketHeat":  -0.0026,
+                       "marketMode":  "NEUTRAL",
+                       "ticker":  "2323.TW",
+                       "priceAtPick":  11.95,
+                       "distanceToSupportPct":  3.01,
+                       "low20d":  10.15,
+                       "low60d":  9.86,
+                       "low250d":  6.67,
+                       "low2y":  6.67
                    },
                    {
                        "code":  "6672",
                        "name":  "騰輝電子-KY",
                        "pool":  "Stock",
-                       "signalKey":  "watch",
-                       "signalPriority":  1,
+                       "signalKey":  "strong_buy",
+                       "signalPriority":  0,
                        "latestPrice":  118,
-                       "supportPrice":  115.64,
-                       "targetPrice":  121.33,
-                       "potentialPct":  2.82,
-                       "rr":  1.41,
-                       "positionPct":  0,
-                       "marketHeat":  -0.023,
-                       "marketMode":  "COLD",
+                       "supportPrice":  114.46,
+                       "targetPrice":  131.88,
+                       "potentialPct":  11.76,
+                       "rr":  3.92,
+                       "positionPct":  15,
+                       "marketHeat":  -0.0026,
+                       "marketMode":  "NEUTRAL",
                        "ticker":  "6672.TW",
                        "priceAtPick":  118,
-                       "distanceToSupportPct":  2,
+                       "distanceToSupportPct":  3,
                        "low20d":  89.6,
                        "low60d":  84.7,
                        "low250d":  55.4,
@@ -1164,19 +1121,19 @@ window.STOCK_AI_DATA = {
                        "code":  "2388",
                        "name":  "威盛",
                        "pool":  "Stock",
-                       "signalKey":  "watch",
-                       "signalPriority":  1,
+                       "signalKey":  "strong_buy",
+                       "signalPriority":  0,
                        "latestPrice":  56.1,
-                       "supportPrice":  54.98,
-                       "targetPrice":  59.22,
-                       "potentialPct":  5.56,
-                       "rr":  2.78,
-                       "positionPct":  0,
-                       "marketHeat":  -0.023,
-                       "marketMode":  "COLD",
+                       "supportPrice":  54.42,
+                       "targetPrice":  64.37,
+                       "potentialPct":  14.74,
+                       "rr":  4.91,
+                       "positionPct":  15,
+                       "marketHeat":  -0.0026,
+                       "marketMode":  "NEUTRAL",
                        "ticker":  "2388.TW",
                        "priceAtPick":  56.1,
-                       "distanceToSupportPct":  2,
+                       "distanceToSupportPct":  2.99,
                        "low20d":  42.8,
                        "low60d":  42.8,
                        "low250d":  42.8,
@@ -1186,19 +1143,19 @@ window.STOCK_AI_DATA = {
                        "code":  "3023",
                        "name":  "信邦",
                        "pool":  "Stock",
-                       "signalKey":  "watch",
-                       "signalPriority":  1,
+                       "signalKey":  "strong_buy",
+                       "signalPriority":  0,
                        "latestPrice":  274,
-                       "supportPrice":  268.52,
-                       "targetPrice":  276.74,
-                       "potentialPct":  1,
-                       "rr":  0.5,
-                       "positionPct":  0,
-                       "marketHeat":  -0.023,
-                       "marketMode":  "COLD",
+                       "supportPrice":  265.78,
+                       "targetPrice":  296.63,
+                       "potentialPct":  8.26,
+                       "rr":  2.75,
+                       "positionPct":  15,
+                       "marketHeat":  -0.0026,
+                       "marketMode":  "NEUTRAL",
                        "ticker":  "3023.TW",
                        "priceAtPick":  274,
-                       "distanceToSupportPct":  2,
+                       "distanceToSupportPct":  3,
                        "low20d":  211.5,
                        "low60d":  185,
                        "low250d":  185,
@@ -1208,30 +1165,74 @@ window.STOCK_AI_DATA = {
                        "code":  "1308",
                        "name":  "亞聚",
                        "pool":  "LowPrice",
-                       "signalKey":  "watch",
-                       "signalPriority":  1,
+                       "signalKey":  "strong_buy",
+                       "signalPriority":  0,
                        "latestPrice":  18.15,
-                       "supportPrice":  17.79,
-                       "targetPrice":  18.35,
-                       "potentialPct":  1.1,
-                       "rr":  0.55,
-                       "positionPct":  0,
-                       "marketHeat":  -0.023,
-                       "marketMode":  "COLD",
+                       "supportPrice":  17.61,
+                       "targetPrice":  19.95,
+                       "potentialPct":  9.92,
+                       "rr":  3.3,
+                       "positionPct":  15,
+                       "marketHeat":  -0.0026,
+                       "marketMode":  "NEUTRAL",
                        "ticker":  "1308.TW",
                        "priceAtPick":  18.15,
-                       "distanceToSupportPct":  1.98,
+                       "distanceToSupportPct":  2.98,
                        "low20d":  13.4,
                        "low60d":  12.65,
                        "low250d":  10.85,
                        "low2y":  10.85
+                   },
+                   {
+                       "code":  "4991",
+                       "name":  "環宇-KY",
+                       "pool":  "Stock",
+                       "signalKey":  "watch",
+                       "signalPriority":  1,
+                       "latestPrice":  385,
+                       "supportPrice":  414.19,
+                       "targetPrice":  455.82,
+                       "potentialPct":  18.39,
+                       "rr":  2.25,
+                       "positionPct":  8,
+                       "marketHeat":  -0.0026,
+                       "marketMode":  "NEUTRAL",
+                       "ticker":  "4991.TWO",
+                       "priceAtPick":  427,
+                       "distanceToSupportPct":  -7.58,
+                       "low20d":  273,
+                       "low60d":  273,
+                       "low250d":  273,
+                       "low2y":  273
+                   },
+                   {
+                       "code":  "8155",
+                       "name":  "博智",
+                       "pool":  "Stock",
+                       "signalKey":  "watch",
+                       "signalPriority":  1,
+                       "latestPrice":  265,
+                       "supportPrice":  266.75,
+                       "targetPrice":  292.39,
+                       "potentialPct":  10.34,
+                       "rr":  2.11,
+                       "positionPct":  8,
+                       "marketHeat":  -0.0026,
+                       "marketMode":  "NEUTRAL",
+                       "ticker":  "8155.TWO",
+                       "priceAtPick":  275,
+                       "distanceToSupportPct":  -0.66,
+                       "low20d":  173,
+                       "low60d":  173,
+                       "low250d":  173,
+                       "low2y":  173
                    }
                ]
 };
 
 
 window.STOCK_AI_BACKTEST = {
-    "generatedAt":  "2026-03-23 21:15:42 +08:00",
+    "generatedAt":  "2026-03-23 23:30:23 +08:00",
     "recommendationCsv":  "D:\\twstock_full_system\\V18\\history\\history_ai_recommendations.csv",
     "priceHistoryCsv":  "D:\\twstock_full_system\\V18\\data\\tw_price_history.csv",
     "summary":  {
@@ -1243,33 +1244,33 @@ window.STOCK_AI_BACKTEST = {
                     "avgRetLatest":  -2.56,
                     "winRate5d":  14.15,
                     "winRate20d":  14.15,
-                    "targetHitRate20d":  43.65,
-                    "supportBreakRate20d":  70.1
+                    "targetHitRate20d":  41.13,
+                    "supportBreakRate20d":  69.14
                 },
     "summaryBySignal":  [
                             {
                                 "key":  "strong_buy",
                                 "label":  "強力買入",
-                                "count":  231,
-                                "avgRet5d":  -3.48,
-                                "avgRet20d":  -3.48,
-                                "winRate20d":  11.69
+                                "count":  294,
+                                "avgRet5d":  -2.87,
+                                "avgRet20d":  -2.87,
+                                "winRate20d":  10.88
                             },
                             {
                                 "key":  "conservative",
                                 "label":  "保守",
-                                "count":  1656,
-                                "avgRet5d":  -2.4,
-                                "avgRet20d":  -2.4,
-                                "winRate20d":  21.5
+                                "count":  1728,
+                                "avgRet5d":  -2.37,
+                                "avgRet20d":  -2.37,
+                                "winRate20d":  20.72
                             },
                             {
                                 "key":  "watch",
                                 "label":  "觀察",
-                                "count":  1879,
-                                "avgRet5d":  -2.6,
-                                "avgRet20d":  -2.6,
-                                "winRate20d":  7.98
+                                "count":  1744,
+                                "avgRet5d":  -2.71,
+                                "avgRet20d":  -2.71,
+                                "winRate20d":  8.2
                             }
                         ],
     "summaryByPool":  [
@@ -1306,14 +1307,14 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  88.89,
                               "winRate20d":  88.89,
                               "targetHitRate20d":  77.78,
-                              "supportBreakRate20d":  33.33
+                              "supportBreakRate20d":  22.22
                           },
                           {
                               "code":  "1309",
                               "name":  "台達化",
                               "ticker":  "1309.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  9,
                               "lastPickDate":  "2026-03-23",
@@ -1322,7 +1323,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  16.84,
                               "winRate5d":  88.89,
                               "winRate20d":  88.89,
-                              "targetHitRate20d":  88.89,
+                              "targetHitRate20d":  100,
                               "supportBreakRate20d":  22.22
                           },
                           {
@@ -1380,8 +1381,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3209",
                               "name":  "全科",
                               "ticker":  "3209.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  9,
                               "lastPickDate":  "2026-03-23",
@@ -1391,14 +1392,14 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  22.22,
                               "winRate20d":  22.22,
                               "targetHitRate20d":  88.89,
-                              "supportBreakRate20d":  66.67
+                              "supportBreakRate20d":  55.56
                           },
                           {
                               "code":  "3437",
                               "name":  "榮創",
                               "ticker":  "3437.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  9,
                               "lastPickDate":  "2026-03-23",
@@ -1408,7 +1409,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  22.22,
                               "winRate20d":  22.22,
                               "targetHitRate20d":  77.78,
-                              "supportBreakRate20d":  66.67
+                              "supportBreakRate20d":  55.56
                           },
                           {
                               "code":  "3481",
@@ -1431,8 +1432,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "4949",
                               "name":  "有成精密",
                               "ticker":  "4949.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  9,
                               "lastPickDate":  "2026-03-23",
@@ -1482,8 +1483,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "8261",
                               "name":  "富鼎",
                               "ticker":  "8261.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  9,
                               "lastPickDate":  "2026-03-23",
@@ -1544,7 +1545,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  75,
                               "winRate20d":  75,
                               "targetHitRate20d":  0,
-                              "supportBreakRate20d":  12.5
+                              "supportBreakRate20d":  0
                           },
                           {
                               "code":  "1216",
@@ -1577,8 +1578,8 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -0.38,
                               "winRate5d":  37.5,
                               "winRate20d":  37.5,
-                              "targetHitRate20d":  37.5,
-                              "supportBreakRate20d":  37.5
+                              "targetHitRate20d":  25,
+                              "supportBreakRate20d":  25
                           },
                           {
                               "code":  "1301",
@@ -1618,8 +1619,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "1304",
                               "name":  "台聚",
                               "ticker":  "1304.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -1652,8 +1653,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "1308",
                               "name":  "亞聚",
                               "ticker":  "1308.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -1771,8 +1772,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "1326",
                               "name":  "台化",
                               "ticker":  "1326.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -1866,7 +1867,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -5.32,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  50,
+                              "targetHitRate20d":  25,
                               "supportBreakRate20d":  75
                           },
                           {
@@ -1934,7 +1935,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.6,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  85.71,
+                              "targetHitRate20d":  71.43,
                               "supportBreakRate20d":  85.71
                           },
                           {
@@ -2009,8 +2010,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "1560",
                               "name":  "中砂",
                               "ticker":  "1560.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -2019,7 +2020,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -4.9,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  37.5,
+                              "targetHitRate20d":  25,
                               "supportBreakRate20d":  87.5
                           },
                           {
@@ -2128,8 +2129,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "1710",
                               "name":  "東聯",
                               "ticker":  "1710.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -2138,8 +2139,8 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  7.68,
                               "winRate5d":  87.5,
                               "winRate20d":  87.5,
-                              "targetHitRate20d":  87.5,
-                              "supportBreakRate20d":  50
+                              "targetHitRate20d":  75,
+                              "supportBreakRate20d":  37.5
                           },
                           {
                               "code":  "1711",
@@ -2172,7 +2173,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -1.81,
                               "winRate5d":  12.5,
                               "winRate20d":  12.5,
-                              "targetHitRate20d":  50,
+                              "targetHitRate20d":  37.5,
                               "supportBreakRate20d":  37.5
                           },
                           {
@@ -2206,15 +2207,15 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  1.06,
                               "winRate5d":  37.5,
                               "winRate20d":  37.5,
-                              "targetHitRate20d":  75,
+                              "targetHitRate20d":  62.5,
                               "supportBreakRate20d":  0
                           },
                           {
                               "code":  "1721",
                               "name":  "三晃",
                               "ticker":  "1721.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -2240,7 +2241,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -3.11,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  12.5,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  75
                           },
                           {
@@ -2281,8 +2282,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "1785",
                               "name":  "光洋科",
                               "ticker":  "1785.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -2366,8 +2367,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "1815",
                               "name":  "富喬",
                               "ticker":  "1815.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  3,
                               "lastPickDate":  "2026-03-23",
@@ -2376,15 +2377,15 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -0.99,
                               "winRate5d":  66.67,
                               "winRate20d":  66.67,
-                              "targetHitRate20d":  100,
+                              "targetHitRate20d":  66.67,
                               "supportBreakRate20d":  100
                           },
                           {
                               "code":  "1905",
                               "name":  "華紙",
                               "ticker":  "1905.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -2427,7 +2428,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -0.96,
                               "winRate5d":  12.5,
                               "winRate20d":  12.5,
-                              "targetHitRate20d":  62.5,
+                              "targetHitRate20d":  50,
                               "supportBreakRate20d":  25
                           },
                           {
@@ -2468,8 +2469,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2014",
                               "name":  "中鴻",
                               "ticker":  "2014.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -2478,7 +2479,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.19,
                               "winRate5d":  42.86,
                               "winRate20d":  42.86,
-                              "targetHitRate20d":  85.71,
+                              "targetHitRate20d":  71.43,
                               "supportBreakRate20d":  42.86
                           },
                           {
@@ -2512,7 +2513,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -1.83,
                               "winRate5d":  12.5,
                               "winRate20d":  12.5,
-                              "targetHitRate20d":  37.5,
+                              "targetHitRate20d":  25,
                               "supportBreakRate20d":  37.5
                           },
                           {
@@ -2536,8 +2537,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2101",
                               "name":  "南港",
                               "ticker":  "2101.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -2546,7 +2547,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  1.1,
                               "winRate5d":  42.86,
                               "winRate20d":  42.86,
-                              "targetHitRate20d":  42.86,
+                              "targetHitRate20d":  28.57,
                               "supportBreakRate20d":  57.14
                           },
                           {
@@ -2740,8 +2741,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2313",
                               "name":  "華通",
                               "ticker":  "2313.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -2859,8 +2860,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2329",
                               "name":  "華泰",
                               "ticker":  "2329.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -2869,7 +2870,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -3.83,
                               "winRate5d":  12.5,
                               "winRate20d":  12.5,
-                              "targetHitRate20d":  50,
+                              "targetHitRate20d":  37.5,
                               "supportBreakRate20d":  50
                           },
                           {
@@ -2944,8 +2945,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2338",
                               "name":  "光罩",
                               "ticker":  "2338.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -2954,7 +2955,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -9.77,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  28.57,
+                              "targetHitRate20d":  14.29,
                               "supportBreakRate20d":  85.71
                           },
                           {
@@ -2972,7 +2973,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  0,
                               "winRate20d":  0,
                               "targetHitRate20d":  62.5,
-                              "supportBreakRate20d":  62.5
+                              "supportBreakRate20d":  50
                           },
                           {
                               "code":  "2342",
@@ -3012,8 +3013,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2345",
                               "name":  "智邦",
                               "ticker":  "2345.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -3029,8 +3030,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2347",
                               "name":  "聯強",
                               "ticker":  "2347.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -3073,7 +3074,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  2.28,
                               "winRate5d":  75,
                               "winRate20d":  75,
-                              "targetHitRate20d":  87.5,
+                              "targetHitRate20d":  75,
                               "supportBreakRate20d":  75
                           },
                           {
@@ -3107,7 +3108,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.77,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  37.5,
+                              "targetHitRate20d":  25,
                               "supportBreakRate20d":  62.5
                           },
                           {
@@ -3131,8 +3132,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2355",
                               "name":  "敬鵬",
                               "ticker":  "2355.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -3199,8 +3200,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2360",
                               "name":  "致茂",
                               "ticker":  "2360.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -3250,8 +3251,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2367",
                               "name":  "燿華",
                               "ticker":  "2367.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  6,
                               "lastPickDate":  "2026-03-23",
@@ -3267,8 +3268,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2368",
                               "name":  "金像電",
                               "ticker":  "2368.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -3278,14 +3279,14 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  37.5,
                               "winRate20d":  37.5,
                               "targetHitRate20d":  75,
-                              "supportBreakRate20d":  87.5
+                              "supportBreakRate20d":  75
                           },
                           {
                               "code":  "2369",
                               "name":  "菱生",
                               "ticker":  "2369.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -3362,7 +3363,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -5.02,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  12.5,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  62.5
                           },
                           {
@@ -3420,8 +3421,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2383",
                               "name":  "台光電",
                               "ticker":  "2383.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -3464,15 +3465,15 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -1.54,
                               "winRate5d":  25,
                               "winRate20d":  25,
-                              "targetHitRate20d":  62.5,
+                              "targetHitRate20d":  50,
                               "supportBreakRate20d":  37.5
                           },
                           {
                               "code":  "2388",
                               "name":  "威盛",
                               "ticker":  "2388.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -3481,7 +3482,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  6.07,
                               "winRate5d":  87.5,
                               "winRate20d":  87.5,
-                              "targetHitRate20d":  87.5,
+                              "targetHitRate20d":  75,
                               "supportBreakRate20d":  62.5
                           },
                           {
@@ -3505,8 +3506,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2393",
                               "name":  "億光",
                               "ticker":  "2393.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -3590,8 +3591,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2406",
                               "name":  "國碩",
                               "ticker":  "2406.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -3669,7 +3670,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  14.29,
                               "winRate20d":  14.29,
                               "targetHitRate20d":  42.86,
-                              "supportBreakRate20d":  85.71
+                              "supportBreakRate20d":  71.43
                           },
                           {
                               "code":  "2419",
@@ -3685,7 +3686,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -4.09,
                               "winRate5d":  14.29,
                               "winRate20d":  14.29,
-                              "targetHitRate20d":  42.86,
+                              "targetHitRate20d":  28.57,
                               "supportBreakRate20d":  71.43
                           },
                           {
@@ -3743,8 +3744,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2436",
                               "name":  "偉詮電",
                               "ticker":  "2436.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -3777,8 +3778,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2441",
                               "name":  "超豐",
                               "ticker":  "2441.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -3787,8 +3788,8 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -1.35,
                               "winRate5d":  28.57,
                               "winRate20d":  28.57,
-                              "targetHitRate20d":  42.86,
-                              "supportBreakRate20d":  85.71
+                              "targetHitRate20d":  28.57,
+                              "supportBreakRate20d":  71.43
                           },
                           {
                               "code":  "2442",
@@ -3873,7 +3874,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  0,
                               "winRate20d":  0,
                               "targetHitRate20d":  100,
-                              "supportBreakRate20d":  100
+                              "supportBreakRate20d":  85.71
                           },
                           {
                               "code":  "2457",
@@ -3913,8 +3914,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2464",
                               "name":  "盟立",
                               "ticker":  "2464.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -3924,14 +3925,14 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  0,
                               "winRate20d":  0,
                               "targetHitRate20d":  85.71,
-                              "supportBreakRate20d":  85.71
+                              "supportBreakRate20d":  71.43
                           },
                           {
                               "code":  "2467",
                               "name":  "志聖",
                               "ticker":  "2467.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  6,
                               "lastPickDate":  "2026-03-23",
@@ -3941,7 +3942,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  0,
                               "winRate20d":  0,
                               "targetHitRate20d":  100,
-                              "supportBreakRate20d":  100
+                              "supportBreakRate20d":  83.33
                           },
                           {
                               "code":  "2472",
@@ -3958,7 +3959,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  37.5,
                               "winRate20d":  37.5,
                               "targetHitRate20d":  25,
-                              "supportBreakRate20d":  62.5
+                              "supportBreakRate20d":  50
                           },
                           {
                               "code":  "2474",
@@ -4008,7 +4009,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -7.3,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  50,
+                              "targetHitRate20d":  37.5,
                               "supportBreakRate20d":  87.5
                           },
                           {
@@ -4083,8 +4084,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2489",
                               "name":  "瑞軒",
                               "ticker":  "2489.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -4127,7 +4128,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -3.78,
                               "winRate5d":  14.29,
                               "winRate20d":  14.29,
-                              "targetHitRate20d":  28.57,
+                              "targetHitRate20d":  14.29,
                               "supportBreakRate20d":  71.43
                           },
                           {
@@ -4144,7 +4145,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  0.06,
                               "winRate5d":  37.5,
                               "winRate20d":  37.5,
-                              "targetHitRate20d":  50,
+                              "targetHitRate20d":  37.5,
                               "supportBreakRate20d":  87.5
                           },
                           {
@@ -4179,7 +4180,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  28.57,
                               "winRate20d":  28.57,
                               "targetHitRate20d":  0,
-                              "supportBreakRate20d":  71.43
+                              "supportBreakRate20d":  57.14
                           },
                           {
                               "code":  "2515",
@@ -4212,7 +4213,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.87,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  12.5,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  87.5
                           },
                           {
@@ -4263,7 +4264,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.76,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  37.5,
+                              "targetHitRate20d":  25,
                               "supportBreakRate20d":  62.5
                           },
                           {
@@ -4321,8 +4322,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2605",
                               "name":  "新興",
                               "ticker":  "2605.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -4722,7 +4723,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.79,
                               "winRate5d":  14.29,
                               "winRate20d":  14.29,
-                              "targetHitRate20d":  42.86,
+                              "targetHitRate20d":  57.14,
                               "supportBreakRate20d":  71.43
                           },
                           {
@@ -4756,7 +4757,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  12.5,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  87.5
                           },
                           {
@@ -4842,7 +4843,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  0,
                               "winRate20d":  0,
                               "targetHitRate20d":  25,
-                              "supportBreakRate20d":  62.5
+                              "supportBreakRate20d":  50
                           },
                           {
                               "code":  "2886",
@@ -4875,7 +4876,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.8,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  62.5,
+                              "targetHitRate20d":  50,
                               "supportBreakRate20d":  87.5
                           },
                           {
@@ -4893,7 +4894,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  85.71,
                               "winRate20d":  85.71,
                               "targetHitRate20d":  28.57,
-                              "supportBreakRate20d":  28.57
+                              "supportBreakRate20d":  14.29
                           },
                           {
                               "code":  "2890",
@@ -4909,7 +4910,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -1.95,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  37.5,
+                              "targetHitRate20d":  25,
                               "supportBreakRate20d":  75
                           },
                           {
@@ -4927,7 +4928,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  0,
                               "winRate20d":  0,
                               "targetHitRate20d":  25,
-                              "supportBreakRate20d":  62.5
+                              "supportBreakRate20d":  50
                           },
                           {
                               "code":  "2892",
@@ -4994,7 +4995,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -3.15,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  12.5,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  75
                           },
                           {
@@ -5097,14 +5098,14 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  0,
                               "winRate20d":  0,
                               "targetHitRate20d":  50,
-                              "supportBreakRate20d":  75
+                              "supportBreakRate20d":  62.5
                           },
                           {
                               "code":  "3017",
                               "name":  "奇鋐",
                               "ticker":  "3017.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -5114,7 +5115,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  37.5,
                               "winRate20d":  37.5,
                               "targetHitRate20d":  75,
-                              "supportBreakRate20d":  62.5
+                              "supportBreakRate20d":  50
                           },
                           {
                               "code":  "3019",
@@ -5137,8 +5138,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3023",
                               "name":  "信邦",
                               "ticker":  "3023.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -5147,8 +5148,8 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  6.43,
                               "winRate5d":  87.5,
                               "winRate20d":  87.5,
-                              "targetHitRate20d":  87.5,
-                              "supportBreakRate20d":  25
+                              "targetHitRate20d":  75,
+                              "supportBreakRate20d":  12.5
                           },
                           {
                               "code":  "3026",
@@ -5164,7 +5165,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  2.01,
                               "winRate5d":  71.43,
                               "winRate20d":  71.43,
-                              "targetHitRate20d":  57.14,
+                              "targetHitRate20d":  42.86,
                               "supportBreakRate20d":  85.71
                           },
                           {
@@ -5249,7 +5250,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.17,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  12.5,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  75
                           },
                           {
@@ -5273,8 +5274,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3036",
                               "name":  "文曄",
                               "ticker":  "3036.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -5284,7 +5285,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  12.5,
                               "winRate20d":  12.5,
                               "targetHitRate20d":  75,
-                              "supportBreakRate20d":  75
+                              "supportBreakRate20d":  62.5
                           },
                           {
                               "code":  "3037",
@@ -5334,7 +5335,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.42,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  25,
+                              "targetHitRate20d":  12.5,
                               "supportBreakRate20d":  100
                           },
                           {
@@ -5368,7 +5369,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -3.96,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  37.5,
+                              "targetHitRate20d":  25,
                               "supportBreakRate20d":  62.5
                           },
                           {
@@ -5409,8 +5410,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3060",
                               "name":  "銘異",
                               "ticker":  "3060.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -5419,7 +5420,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  1.3,
                               "winRate5d":  28.57,
                               "winRate20d":  28.57,
-                              "targetHitRate20d":  28.57,
+                              "targetHitRate20d":  14.29,
                               "supportBreakRate20d":  71.43
                           },
                           {
@@ -5545,8 +5546,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3135",
                               "name":  "凌航",
                               "ticker":  "3135.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -5555,8 +5556,8 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  6.49,
                               "winRate5d":  50,
                               "winRate20d":  50,
-                              "targetHitRate20d":  75,
-                              "supportBreakRate20d":  75
+                              "targetHitRate20d":  62.5,
+                              "supportBreakRate20d":  62.5
                           },
                           {
                               "code":  "3138",
@@ -5596,8 +5597,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3162",
                               "name":  "精確",
                               "ticker":  "3162.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  3,
                               "lastPickDate":  "2026-03-23",
@@ -5613,8 +5614,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3163",
                               "name":  "波若威",
                               "ticker":  "3163.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -5623,7 +5624,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -9.76,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  60,
+                              "targetHitRate20d":  80,
                               "supportBreakRate20d":  100
                           },
                           {
@@ -5681,8 +5682,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3211",
                               "name":  "順達",
                               "ticker":  "3211.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  3,
                               "lastPickDate":  "2026-03-23",
@@ -5742,7 +5743,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -1.73,
                               "winRate5d":  33.33,
                               "winRate20d":  33.33,
-                              "targetHitRate20d":  66.67,
+                              "targetHitRate20d":  33.33,
                               "supportBreakRate20d":  66.67
                           },
                           {
@@ -5766,8 +5767,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3234",
                               "name":  "光環",
                               "ticker":  "3234.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -5800,8 +5801,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3260",
                               "name":  "威剛",
                               "ticker":  "3260.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -5817,8 +5818,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3264",
                               "name":  "欣銓",
                               "ticker":  "3264.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  4,
                               "lastPickDate":  "2026-03-23",
@@ -5827,7 +5828,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -4.99,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  50,
+                              "targetHitRate20d":  75,
                               "supportBreakRate20d":  100
                           },
                           {
@@ -5851,8 +5852,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3289",
                               "name":  "宜特",
                               "ticker":  "3289.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  4,
                               "lastPickDate":  "2026-03-23",
@@ -5861,7 +5862,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  10.16,
                               "winRate5d":  100,
                               "winRate20d":  100,
-                              "targetHitRate20d":  100,
+                              "targetHitRate20d":  75,
                               "supportBreakRate20d":  100
                           },
                           {
@@ -5896,7 +5897,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  20,
                               "winRate20d":  20,
                               "targetHitRate20d":  40,
-                              "supportBreakRate20d":  40
+                              "supportBreakRate20d":  20
                           },
                           {
                               "code":  "3294",
@@ -5953,8 +5954,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3324",
                               "name":  "雙鴻",
                               "ticker":  "3324.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -6038,8 +6039,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3372",
                               "name":  "典範",
                               "ticker":  "3372.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  4,
                               "lastPickDate":  "2026-03-23",
@@ -6082,7 +6083,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -7.3,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  28.57,
+                              "targetHitRate20d":  14.29,
                               "supportBreakRate20d":  71.43
                           },
                           {
@@ -6150,7 +6151,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  2.96,
                               "winRate5d":  37.5,
                               "winRate20d":  37.5,
-                              "targetHitRate20d":  50,
+                              "targetHitRate20d":  37.5,
                               "supportBreakRate20d":  75
                           },
                           {
@@ -6167,7 +6168,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -6.82,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  62.5,
+                              "targetHitRate20d":  50,
                               "supportBreakRate20d":  87.5
                           },
                           {
@@ -6184,15 +6185,15 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.18,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  100,
+                              "targetHitRate20d":  80,
                               "supportBreakRate20d":  60
                           },
                           {
                               "code":  "3498",
                               "name":  "陽程",
                               "ticker":  "3498.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -6276,8 +6277,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3532",
                               "name":  "台勝科",
                               "ticker":  "3532.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -6293,8 +6294,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3533",
                               "name":  "嘉澤",
                               "ticker":  "3533.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -6304,7 +6305,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  37.5,
                               "winRate20d":  37.5,
                               "targetHitRate20d":  75,
-                              "supportBreakRate20d":  100
+                              "supportBreakRate20d":  87.5
                           },
                           {
                               "code":  "3535",
@@ -6321,7 +6322,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  0,
                               "winRate20d":  0,
                               "targetHitRate20d":  75,
-                              "supportBreakRate20d":  100
+                              "supportBreakRate20d":  87.5
                           },
                           {
                               "code":  "3543",
@@ -6378,8 +6379,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3563",
                               "name":  "牧德",
                               "ticker":  "3563.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -6395,8 +6396,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3576",
                               "name":  "聯合再生",
                               "ticker":  "3576.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -6439,7 +6440,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  3.46,
                               "winRate5d":  87.5,
                               "winRate20d":  87.5,
-                              "targetHitRate20d":  100,
+                              "targetHitRate20d":  87.5,
                               "supportBreakRate20d":  50
                           },
                           {
@@ -6548,8 +6549,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3645",
                               "name":  "達邁",
                               "ticker":  "3645.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -6565,8 +6566,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3653",
                               "name":  "健策",
                               "ticker":  "3653.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -6599,8 +6600,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3663",
                               "name":  "鑫科",
                               "ticker":  "3663.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -6633,8 +6634,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3673",
                               "name":  "TPK-KY",
                               "ticker":  "3673.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -6643,15 +6644,15 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  4.94,
                               "winRate5d":  50,
                               "winRate20d":  50,
-                              "targetHitRate20d":  37.5,
-                              "supportBreakRate20d":  75
+                              "targetHitRate20d":  25,
+                              "supportBreakRate20d":  62.5
                           },
                           {
                               "code":  "3675",
                               "name":  "德微",
                               "ticker":  "3675.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -6660,15 +6661,15 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -5.13,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  20,
+                              "targetHitRate20d":  40,
                               "supportBreakRate20d":  100
                           },
                           {
                               "code":  "3689",
                               "name":  "湧德",
                               "ticker":  "3689.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  4,
                               "lastPickDate":  "2026-03-23",
@@ -6752,8 +6753,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3702",
                               "name":  "大聯大",
                               "ticker":  "3702.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -6763,7 +6764,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  25,
                               "winRate20d":  25,
                               "targetHitRate20d":  62.5,
-                              "supportBreakRate20d":  75
+                              "supportBreakRate20d":  62.5
                           },
                           {
                               "code":  "3704",
@@ -6813,7 +6814,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -1.22,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  75,
+                              "targetHitRate20d":  50,
                               "supportBreakRate20d":  75
                           },
                           {
@@ -6830,7 +6831,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -3.57,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  37.5,
+                              "targetHitRate20d":  25,
                               "supportBreakRate20d":  75
                           },
                           {
@@ -6854,8 +6855,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3711",
                               "name":  "日月光投控",
                               "ticker":  "3711.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -6864,15 +6865,15 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -3.99,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  42.86,
+                              "targetHitRate20d":  57.14,
                               "supportBreakRate20d":  100
                           },
                           {
                               "code":  "3714",
                               "name":  "富采",
                               "ticker":  "3714.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -6888,8 +6889,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3715",
                               "name":  "定穎投控",
                               "ticker":  "3715.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -6973,8 +6974,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "4526",
                               "name":  "東台",
                               "ticker":  "4526.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -7024,8 +7025,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "4542",
                               "name":  "科嶠",
                               "ticker":  "4542.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -7075,8 +7076,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "4577",
                               "name":  "達航科技",
                               "ticker":  "4577.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  4,
                               "lastPickDate":  "2026-03-23",
@@ -7109,8 +7110,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "4739",
                               "name":  "康普",
                               "ticker":  "4739.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -7119,7 +7120,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  4.4,
                               "winRate5d":  87.5,
                               "winRate20d":  87.5,
-                              "targetHitRate20d":  75,
+                              "targetHitRate20d":  62.5,
                               "supportBreakRate20d":  75
                           },
                           {
@@ -7143,8 +7144,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "4749",
                               "name":  "新應材",
                               "ticker":  "4749.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -7279,8 +7280,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "4906",
                               "name":  "正文",
                               "ticker":  "4906.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -7289,15 +7290,15 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -4.9,
                               "winRate5d":  14.29,
                               "winRate20d":  14.29,
-                              "targetHitRate20d":  28.57,
+                              "targetHitRate20d":  14.29,
                               "supportBreakRate20d":  71.43
                           },
                           {
                               "code":  "4908",
                               "name":  "前鼎",
                               "ticker":  "4908.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -7306,7 +7307,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -0.54,
                               "winRate5d":  60,
                               "winRate20d":  60,
-                              "targetHitRate20d":  100,
+                              "targetHitRate20d":  80,
                               "supportBreakRate20d":  100
                           },
                           {
@@ -7357,7 +7358,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -0.46,
                               "winRate5d":  14.29,
                               "winRate20d":  14.29,
-                              "targetHitRate20d":  71.43,
+                              "targetHitRate20d":  57.14,
                               "supportBreakRate20d":  100
                           },
                           {
@@ -7483,8 +7484,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "4956",
                               "name":  "光鋐",
                               "ticker":  "4956.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -7500,8 +7501,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "4958",
                               "name":  "臻鼎-KY",
                               "ticker":  "4958.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -7544,7 +7545,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  3.6,
                               "winRate5d":  37.5,
                               "winRate20d":  37.5,
-                              "targetHitRate20d":  50,
+                              "targetHitRate20d":  37.5,
                               "supportBreakRate20d":  75
                           },
                           {
@@ -7585,8 +7586,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "4973",
                               "name":  "廣穎",
                               "ticker":  "4973.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -7629,7 +7630,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -5.98,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  100,
+                              "targetHitRate20d":  75,
                               "supportBreakRate20d":  100
                           },
                           {
@@ -7663,7 +7664,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  0.29,
                               "winRate5d":  50,
                               "winRate20d":  50,
-                              "targetHitRate20d":  100,
+                              "targetHitRate20d":  75,
                               "supportBreakRate20d":  100
                           },
                           {
@@ -7755,8 +7756,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "5284",
                               "name":  "jpp-KY",
                               "ticker":  "5284.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -7765,7 +7766,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  0.1,
                               "winRate5d":  50,
                               "winRate20d":  50,
-                              "targetHitRate20d":  62.5,
+                              "targetHitRate20d":  50,
                               "supportBreakRate20d":  37.5
                           },
                           {
@@ -7789,8 +7790,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "5291",
                               "name":  "邑昇",
                               "ticker":  "5291.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  4,
                               "lastPickDate":  "2026-03-23",
@@ -7799,7 +7800,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  15.21,
                               "winRate5d":  100,
                               "winRate20d":  100,
-                              "targetHitRate20d":  100,
+                              "targetHitRate20d":  75,
                               "supportBreakRate20d":  50
                           },
                           {
@@ -7891,8 +7892,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "5351",
                               "name":  "鈺創",
                               "ticker":  "5351.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -8010,8 +8011,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "5439",
                               "name":  "高技",
                               "ticker":  "5439.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  3,
                               "lastPickDate":  "2026-03-23",
@@ -8037,7 +8038,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -1.04,
                               "winRate5d":  20,
                               "winRate20d":  20,
-                              "targetHitRate20d":  80,
+                              "targetHitRate20d":  60,
                               "supportBreakRate20d":  60
                           },
                           {
@@ -8095,8 +8096,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "5475",
                               "name":  "德宏",
                               "ticker":  "5475.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -8105,7 +8106,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -3.09,
                               "winRate5d":  20,
                               "winRate20d":  20,
-                              "targetHitRate20d":  20,
+                              "targetHitRate20d":  40,
                               "supportBreakRate20d":  100
                           },
                           {
@@ -8163,8 +8164,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "5536",
                               "name":  "聖暉*",
                               "ticker":  "5536.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -8377,7 +8378,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -4.43,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  37.5,
+                              "targetHitRate20d":  25,
                               "supportBreakRate20d":  87.5
                           },
                           {
@@ -8394,15 +8395,15 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.31,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  40,
+                              "targetHitRate20d":  20,
                               "supportBreakRate20d":  80
                           },
                           {
                               "code":  "6120",
                               "name":  "達運",
                               "ticker":  "6120.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -8411,7 +8412,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -1.96,
                               "winRate5d":  12.5,
                               "winRate20d":  12.5,
-                              "targetHitRate20d":  62.5,
+                              "targetHitRate20d":  50,
                               "supportBreakRate20d":  50
                           },
                           {
@@ -8513,7 +8514,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  1.65,
                               "winRate5d":  85.71,
                               "winRate20d":  85.71,
-                              "targetHitRate20d":  28.57,
+                              "targetHitRate20d":  14.29,
                               "supportBreakRate20d":  57.14
                           },
                           {
@@ -8537,8 +8538,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6152",
                               "name":  "百一",
                               "ticker":  "6152.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -8588,8 +8589,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6163",
                               "name":  "華電網",
                               "ticker":  "6163.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -8598,7 +8599,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  8.9,
                               "winRate5d":  60,
                               "winRate20d":  60,
-                              "targetHitRate20d":  80,
+                              "targetHitRate20d":  60,
                               "supportBreakRate20d":  100
                           },
                           {
@@ -8734,7 +8735,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  4.23,
                               "winRate5d":  60,
                               "winRate20d":  60,
-                              "targetHitRate20d":  100,
+                              "targetHitRate20d":  80,
                               "supportBreakRate20d":  60
                           },
                           {
@@ -8758,8 +8759,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6196",
                               "name":  "帆宣",
                               "ticker":  "6196.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -8768,7 +8769,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -3.37,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  37.5,
+                              "targetHitRate20d":  25,
                               "supportBreakRate20d":  62.5
                           },
                           {
@@ -8894,8 +8895,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6217",
                               "name":  "中探針",
                               "ticker":  "6217.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  3,
                               "lastPickDate":  "2026-03-23",
@@ -8928,8 +8929,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6223",
                               "name":  "旺矽",
                               "ticker":  "6223.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -8938,7 +8939,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -0.02,
                               "winRate5d":  40,
                               "winRate20d":  40,
-                              "targetHitRate20d":  60,
+                              "targetHitRate20d":  80,
                               "supportBreakRate20d":  40
                           },
                           {
@@ -9013,8 +9014,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6269",
                               "name":  "台郡",
                               "ticker":  "6269.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -9023,7 +9024,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  6.09,
                               "winRate5d":  85.71,
                               "winRate20d":  85.71,
-                              "targetHitRate20d":  85.71,
+                              "targetHitRate20d":  71.43,
                               "supportBreakRate20d":  57.14
                           },
                           {
@@ -9057,7 +9058,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  1.81,
                               "winRate5d":  60,
                               "winRate20d":  60,
-                              "targetHitRate20d":  100,
+                              "targetHitRate20d":  80,
                               "supportBreakRate20d":  60
                           },
                           {
@@ -9132,8 +9133,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6291",
                               "name":  "沛亨",
                               "ticker":  "6291.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -9166,8 +9167,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6415",
                               "name":  "矽力*-KY",
                               "ticker":  "6415.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -9200,8 +9201,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6435",
                               "name":  "大中",
                               "ticker":  "6435.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -9217,8 +9218,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6438",
                               "name":  "迅得",
                               "ticker":  "6438.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -9227,7 +9228,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  3.91,
                               "winRate5d":  42.86,
                               "winRate20d":  42.86,
-                              "targetHitRate20d":  85.71,
+                              "targetHitRate20d":  71.43,
                               "supportBreakRate20d":  42.86
                           },
                           {
@@ -9455,8 +9456,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6531",
                               "name":  "愛普*",
                               "ticker":  "6531.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -9523,8 +9524,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6568",
                               "name":  "宏觀",
                               "ticker":  "6568.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -9540,8 +9541,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6584",
                               "name":  "南俊國際",
                               "ticker":  "6584.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -9567,7 +9568,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -1.24,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  62.5,
+                              "targetHitRate20d":  50,
                               "supportBreakRate20d":  37.5
                           },
                           {
@@ -9584,7 +9585,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -0.97,
                               "winRate5d":  40,
                               "winRate20d":  40,
-                              "targetHitRate20d":  100,
+                              "targetHitRate20d":  80,
                               "supportBreakRate20d":  60
                           },
                           {
@@ -9608,8 +9609,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6672",
                               "name":  "騰輝電子-KY",
                               "ticker":  "6672.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -9618,7 +9619,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  3.75,
                               "winRate5d":  42.86,
                               "winRate20d":  42.86,
-                              "targetHitRate20d":  85.71,
+                              "targetHitRate20d":  71.43,
                               "supportBreakRate20d":  57.14
                           },
                           {
@@ -9710,8 +9711,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6761",
                               "name":  "穩得",
                               "ticker":  "6761.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -9720,7 +9721,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -5.86,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  40,
+                              "targetHitRate20d":  60,
                               "supportBreakRate20d":  100
                           },
                           {
@@ -9761,8 +9762,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6788",
                               "name":  "華景電",
                               "ticker":  "6788.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -9795,8 +9796,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6805",
                               "name":  "富世達",
                               "ticker":  "6805.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -9846,8 +9847,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6831",
                               "name":  "邁科",
                               "ticker":  "6831.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -9914,8 +9915,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6903",
                               "name":  "巨漢",
                               "ticker":  "6903.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -9925,7 +9926,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  0,
                               "winRate20d":  0,
                               "targetHitRate20d":  80,
-                              "supportBreakRate20d":  100
+                              "supportBreakRate20d":  80
                           },
                           {
                               "code":  "6919",
@@ -10094,15 +10095,15 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.69,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  50,
+                              "targetHitRate20d":  37.5,
                               "supportBreakRate20d":  100
                           },
                           {
                               "code":  "8033",
                               "name":  "雷虎",
                               "ticker":  "8033.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -10111,15 +10112,15 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  1.26,
                               "winRate5d":  20,
                               "winRate20d":  20,
-                              "targetHitRate20d":  80,
+                              "targetHitRate20d":  60,
                               "supportBreakRate20d":  20
                           },
                           {
                               "code":  "8042",
                               "name":  "金山電",
                               "ticker":  "8042.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  3,
                               "lastPickDate":  "2026-03-23",
@@ -10135,8 +10136,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "8043",
                               "name":  "蜜望實",
                               "ticker":  "8043.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  3,
                               "lastPickDate":  "2026-03-23",
@@ -10152,8 +10153,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "8046",
                               "name":  "南電",
                               "ticker":  "8046.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -10162,7 +10163,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.88,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  57.14,
+                              "targetHitRate20d":  71.43,
                               "supportBreakRate20d":  85.71
                           },
                           {
@@ -10214,7 +10215,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  100,
                               "winRate20d":  100,
                               "targetHitRate20d":  100,
-                              "supportBreakRate20d":  60
+                              "supportBreakRate20d":  40
                           },
                           {
                               "code":  "8069",
@@ -10271,8 +10272,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "8086",
                               "name":  "宏捷科",
                               "ticker":  "8086.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -10366,15 +10367,15 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.14,
                               "winRate5d":  12.5,
                               "winRate20d":  12.5,
-                              "targetHitRate20d":  37.5,
+                              "targetHitRate20d":  25,
                               "supportBreakRate20d":  62.5
                           },
                           {
                               "code":  "8110",
                               "name":  "華東",
                               "ticker":  "8110.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -10383,7 +10384,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -4.46,
                               "winRate5d":  14.29,
                               "winRate20d":  14.29,
-                              "targetHitRate20d":  28.57,
+                              "targetHitRate20d":  14.29,
                               "supportBreakRate20d":  71.43
                           },
                           {
@@ -10407,8 +10408,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "8112",
                               "name":  "至上",
                               "ticker":  "8112.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -10468,7 +10469,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  8.59,
                               "winRate5d":  60,
                               "winRate20d":  60,
-                              "targetHitRate20d":  100,
+                              "targetHitRate20d":  80,
                               "supportBreakRate20d":  40
                           },
                           {
@@ -10662,8 +10663,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "8438",
                               "name":  "昶昕",
                               "ticker":  "8438.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  7,
                               "lastPickDate":  "2026-03-23",
@@ -10730,8 +10731,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "8936",
                               "name":  "國統",
                               "ticker":  "8936.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -10741,14 +10742,14 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  40,
                               "winRate20d":  40,
                               "targetHitRate20d":  0,
-                              "supportBreakRate20d":  40
+                              "supportBreakRate20d":  20
                           },
                           {
                               "code":  "8996",
                               "name":  "高力",
                               "ticker":  "8996.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -10842,7 +10843,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -0.9,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  66.67,
+                              "targetHitRate20d":  50,
                               "supportBreakRate20d":  0
                           },
                           {
@@ -10911,7 +10912,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  75,
                               "winRate20d":  75,
                               "targetHitRate20d":  50,
-                              "supportBreakRate20d":  25
+                              "supportBreakRate20d":  12.5
                           },
                           {
                               "code":  "9938",
@@ -10951,8 +10952,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "9941",
                               "name":  "裕融",
                               "ticker":  "9941.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -10962,7 +10963,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  37.5,
                               "winRate20d":  37.5,
                               "targetHitRate20d":  0,
-                              "supportBreakRate20d":  50
+                              "supportBreakRate20d":  37.5
                           },
                           {
                               "code":  "9945",
@@ -11002,8 +11003,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "9958",
                               "name":  "世紀鋼",
                               "ticker":  "9958.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  8,
                               "lastPickDate":  "2026-03-23",
@@ -11012,7 +11013,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -4.59,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  12.5,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  87.5
                           },
                           {
@@ -11029,7 +11030,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.96,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  33.33,
+                              "targetHitRate20d":  16.67,
                               "supportBreakRate20d":  83.33
                           },
                           {
@@ -11080,7 +11081,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.44,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  16.67,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  50
                           },
                           {
@@ -11138,8 +11139,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "006205",
                               "name":  "富邦上証",
                               "ticker":  "006205.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "ETF",
                               "totalPicks":  6,
                               "lastPickDate":  "2026-03-23",
@@ -11148,7 +11149,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.87,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  16.67,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  83.33
                           },
                           {
@@ -11182,7 +11183,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.24,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  33.33,
+                              "targetHitRate20d":  16.67,
                               "supportBreakRate20d":  50
                           },
                           {
@@ -11274,8 +11275,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "00662",
                               "name":  "富邦NASDAQ",
                               "ticker":  "00662.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "ETF",
                               "totalPicks":  3,
                               "lastPickDate":  "2026-03-23",
@@ -11454,7 +11455,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -4.15,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  66.67,
+                              "targetHitRate20d":  50,
                               "supportBreakRate20d":  83.33
                           },
                           {
@@ -11563,8 +11564,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "00851",
                               "name":  "台新全球AI",
                               "ticker":  "00851.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "ETF",
                               "totalPicks":  3,
                               "lastPickDate":  "2026-03-23",
@@ -11624,7 +11625,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.63,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  33.33,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  66.67
                           },
                           {
@@ -11743,7 +11744,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.95,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  0,
+                              "targetHitRate20d":  33.33,
                               "supportBreakRate20d":  66.67
                           },
                           {
@@ -11845,7 +11846,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.43,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  16.67,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  50
                           },
                           {
@@ -12032,7 +12033,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.01,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  33.33,
+                              "targetHitRate20d":  50,
                               "supportBreakRate20d":  50
                           },
                           {
@@ -12107,8 +12108,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "00918",
                               "name":  "大華優利高填息30",
                               "ticker":  "00918.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "ETF",
                               "totalPicks":  6,
                               "lastPickDate":  "2026-03-23",
@@ -12117,7 +12118,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.88,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  16.67,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  66.67
                           },
                           {
@@ -12168,7 +12169,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -3.31,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  16.67,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  83.33
                           },
                           {
@@ -12202,7 +12203,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.84,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  25,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  75
                           },
                           {
@@ -12362,8 +12363,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "00944",
                               "name":  "野村趨勢動能高息",
                               "ticker":  "00944.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "ETF",
                               "totalPicks":  6,
                               "lastPickDate":  "2026-03-23",
@@ -12389,15 +12390,15 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  25,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  25
                           },
                           {
                               "code":  "00947",
                               "name":  "台新臺灣IC設計",
                               "ticker":  "00947.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "ETF",
                               "totalPicks":  6,
                               "lastPickDate":  "2026-03-23",
@@ -12423,7 +12424,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -3.52,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  50,
+                              "targetHitRate20d":  33.33,
                               "supportBreakRate20d":  83.33
                           },
                           {
@@ -12464,8 +12465,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "00962",
                               "name":  "台新AI優息動能",
                               "ticker":  "00962.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "ETF",
                               "totalPicks":  4,
                               "lastPickDate":  "2026-03-23",
@@ -12474,7 +12475,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.31,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  25,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  25
                           },
                           {
@@ -12508,7 +12509,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -3.57,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  16.67,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  83.33
                           },
                           {
@@ -12729,7 +12730,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -0.61,
                               "winRate5d":  16.67,
                               "winRate20d":  16.67,
-                              "targetHitRate20d":  50,
+                              "targetHitRate20d":  33.33,
                               "supportBreakRate20d":  0
                           },
                           {
@@ -12899,7 +12900,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -0.4,
                               "winRate5d":  33.33,
                               "winRate20d":  33.33,
-                              "targetHitRate20d":  33.33,
+                              "targetHitRate20d":  16.67,
                               "supportBreakRate20d":  83.33
                           },
                           {
@@ -12940,8 +12941,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6284",
                               "name":  "佳邦",
                               "ticker":  "6284.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  3,
                               "lastPickDate":  "2026-03-23",
@@ -12951,14 +12952,14 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  0,
                               "winRate20d":  0,
                               "targetHitRate20d":  0,
-                              "supportBreakRate20d":  66.67
+                              "supportBreakRate20d":  33.33
                           },
                           {
                               "code":  "6485",
                               "name":  "點序",
                               "ticker":  "6485.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  3,
                               "lastPickDate":  "2026-03-23",
@@ -13008,8 +13009,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "7712",
                               "name":  "博盛半導體",
                               "ticker":  "7712.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  3,
                               "lastPickDate":  "2026-03-23",
@@ -13025,8 +13026,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "8215",
                               "name":  "明基材",
                               "ticker":  "8215.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  6,
                               "lastPickDate":  "2026-03-23",
@@ -13042,8 +13043,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "8240",
                               "name":  "華宏",
                               "ticker":  "8240.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  3,
                               "lastPickDate":  "2026-03-23",
@@ -13127,8 +13128,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "0057",
                               "name":  "富邦摩台",
                               "ticker":  "0057.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "ETF",
                               "totalPicks":  3,
                               "lastPickDate":  "2026-03-23",
@@ -13161,8 +13162,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "006207",
                               "name":  "復華滬深",
                               "ticker":  "006207.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "ETF",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -13171,7 +13172,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.6,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  20,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  60
                           },
                           {
@@ -13273,7 +13274,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.26,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  33.33,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  66.67
                           },
                           {
@@ -13290,7 +13291,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.69,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  20,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  80
                           },
                           {
@@ -13307,7 +13308,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.09,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  33.33,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  66.67
                           },
                           {
@@ -13426,7 +13427,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -1.85,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  20,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  40
                           },
                           {
@@ -13450,8 +13451,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3025",
                               "name":  "星通",
                               "ticker":  "3025.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -13460,15 +13461,15 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.63,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  20,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  80
                           },
                           {
                               "code":  "6689",
                               "name":  "伊雲谷",
                               "ticker":  "6689.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  5,
                               "lastPickDate":  "2026-03-23",
@@ -13477,7 +13478,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  1.92,
                               "winRate5d":  80,
                               "winRate20d":  80,
-                              "targetHitRate20d":  60,
+                              "targetHitRate20d":  40,
                               "supportBreakRate20d":  100
                           },
                           {
@@ -13512,7 +13513,7 @@ window.STOCK_AI_BACKTEST = {
                               "winRate5d":  80,
                               "winRate20d":  80,
                               "targetHitRate20d":  80,
-                              "supportBreakRate20d":  40
+                              "supportBreakRate20d":  20
                           },
                           {
                               "code":  "00702",
@@ -13579,7 +13580,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -2.42,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  25,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  75
                           },
                           {
@@ -13596,7 +13597,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -3.28,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  25,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  75
                           },
                           {
@@ -13637,8 +13638,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2017",
                               "name":  "官田鋼",
                               "ticker":  "2017.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  4,
                               "lastPickDate":  "2026-03-23",
@@ -13647,7 +13648,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -3.8,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  25,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  75
                           },
                           {
@@ -13705,8 +13706,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "3022",
                               "name":  "威強電",
                               "ticker":  "3022.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  4,
                               "lastPickDate":  "2026-03-23",
@@ -13715,7 +13716,7 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  -4.93,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  25,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  75
                           },
                           {
@@ -13756,8 +13757,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6226",
                               "name":  "光鼎",
                               "ticker":  "6226.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "totalPicks":  4,
                               "lastPickDate":  "2026-03-23",
@@ -13807,8 +13808,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "6499",
                               "name":  "益安",
                               "ticker":  "6499.TWO",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  2,
                               "lastPickDate":  "2026-03-23",
@@ -13909,8 +13910,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "1449",
                               "name":  "佳和",
                               "ticker":  "1449.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  1,
                               "lastPickDate":  "2026-03-23",
@@ -13919,15 +13920,15 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  0,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  100,
+                              "targetHitRate20d":  0,
                               "supportBreakRate20d":  0
                           },
                           {
                               "code":  "2405",
                               "name":  "輔信",
                               "ticker":  "2405.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "totalPicks":  1,
                               "lastPickDate":  "2026-03-23",
@@ -13953,8 +13954,8 @@ window.STOCK_AI_BACKTEST = {
                               "avgRetLatest":  0,
                               "winRate5d":  0,
                               "winRate20d":  0,
-                              "targetHitRate20d":  100,
-                              "supportBreakRate20d":  100
+                              "targetHitRate20d":  0,
+                              "supportBreakRate20d":  0
                           }
                       ],
     "recentRecords":  [
@@ -13973,8 +13974,8 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  33.03,
-                              "support":  32.05,
+                              "target":  33.85,
+                              "support":  31.72,
                               "maxHigh20d":  33,
                               "minLow20d":  32.15,
                               "targetHit20d":  false,
@@ -13996,8 +13997,8 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  13.01,
-                              "support":  11.71,
+                              "target":  14.14,
+                              "support":  11.59,
                               "maxHigh20d":  13,
                               "minLow20d":  11.8,
                               "targetHit20d":  false,
@@ -14019,8 +14020,8 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  103.02,
-                              "support":  99.96,
+                              "target":  106.86,
+                              "support":  98.94,
                               "maxHigh20d":  109.5,
                               "minLow20d":  102,
                               "targetHit20d":  true,
@@ -14032,8 +14033,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2338",
                               "name":  "光罩",
                               "ticker":  "2338.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "entryPrice":  46,
                               "close5d":  46,
@@ -14042,11 +14043,11 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  46.46,
-                              "support":  45.08,
+                              "target":  50.23,
+                              "support":  44.62,
                               "maxHigh20d":  48,
                               "minLow20d":  45.75,
-                              "targetHit20d":  true,
+                              "targetHit20d":  false,
                               "supportBreak20d":  false,
                               "daysAvailable":  1
                           },
@@ -14065,8 +14066,8 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  1828.1,
-                              "support":  1773.8,
+                              "target":  1859.63,
+                              "support":  1755.7,
                               "maxHigh20d":  1815,
                               "minLow20d":  1785,
                               "targetHit20d":  false,
@@ -14078,8 +14079,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2329",
                               "name":  "華泰",
                               "ticker":  "2329.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "entryPrice":  56.8,
                               "close5d":  56.8,
@@ -14088,11 +14089,11 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  57.37,
-                              "support":  55.66,
+                              "target":  61.81,
+                              "support":  55.1,
                               "maxHigh20d":  58.7,
                               "minLow20d":  56.2,
-                              "targetHit20d":  true,
+                              "targetHit20d":  false,
                               "supportBreak20d":  false,
                               "daysAvailable":  1
                           },
@@ -14111,8 +14112,8 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  20.15,
-                              "support":  19.55,
+                              "target":  20.3,
+                              "support":  19.35,
                               "maxHigh20d":  21.15,
                               "minLow20d":  19.9,
                               "targetHit20d":  true,
@@ -14124,8 +14125,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2101",
                               "name":  "南港",
                               "ticker":  "2101.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "entryPrice":  34.6,
                               "close5d":  34.6,
@@ -14134,11 +14135,11 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  34.95,
-                              "support":  33.91,
+                              "target":  37.92,
+                              "support":  33.56,
                               "maxHigh20d":  35.35,
                               "minLow20d":  34.35,
-                              "targetHit20d":  true,
+                              "targetHit20d":  false,
                               "supportBreak20d":  false,
                               "daysAvailable":  1
                           },
@@ -14157,8 +14158,8 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  41.06,
-                              "support":  39.84,
+                              "target":  42.89,
+                              "support":  39.43,
                               "maxHigh20d":  41,
                               "minLow20d":  40.2,
                               "targetHit20d":  false,
@@ -14170,8 +14171,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2313",
                               "name":  "華通",
                               "ticker":  "2313.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "entryPrice":  216,
                               "close5d":  216,
@@ -14180,8 +14181,8 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  218.16,
-                              "support":  211.68,
+                              "target":  200.81,
+                              "support":  209.52,
                               "maxHigh20d":  230.5,
                               "minLow20d":  212.5,
                               "targetHit20d":  true,
@@ -14203,8 +14204,8 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  1424.1,
-                              "support":  1381.8,
+                              "target":  1417.29,
+                              "support":  1367.7,
                               "maxHigh20d":  1425,
                               "minLow20d":  1385,
                               "targetHit20d":  true,
@@ -14226,8 +14227,8 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  228.26,
-                              "support":  221.48,
+                              "target":  233,
+                              "support":  219.22,
                               "maxHigh20d":  236,
                               "minLow20d":  226,
                               "targetHit20d":  true,
@@ -14249,12 +14250,12 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  28.68,
-                              "support":  27.83,
+                              "target":  29.14,
+                              "support":  27.55,
                               "maxHigh20d":  29.3,
                               "minLow20d":  27.7,
                               "targetHit20d":  true,
-                              "supportBreak20d":  true,
+                              "supportBreak20d":  false,
                               "daysAvailable":  1
                           },
                           {
@@ -14262,8 +14263,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2360",
                               "name":  "致茂",
                               "ticker":  "2360.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "entryPrice":  1520,
                               "close5d":  1520,
@@ -14272,8 +14273,8 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  1535.2,
-                              "support":  1489.6,
+                              "target":  1515.53,
+                              "support":  1474.4,
                               "maxHigh20d":  1540,
                               "minLow20d":  1470,
                               "targetHit20d":  true,
@@ -14295,8 +14296,8 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  568.63,
-                              "support":  551.74,
+                              "target":  569.53,
+                              "support":  546.11,
                               "maxHigh20d":  575,
                               "minLow20d":  560,
                               "targetHit20d":  true,
@@ -14308,8 +14309,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2355",
                               "name":  "敬鵬",
                               "ticker":  "2355.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "entryPrice":  43.15,
                               "close5d":  43.15,
@@ -14318,8 +14319,8 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  43.58,
-                              "support":  42.29,
+                              "target":  42.88,
+                              "support":  41.86,
                               "maxHigh20d":  44.75,
                               "minLow20d":  42.8,
                               "targetHit20d":  true,
@@ -14331,8 +14332,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2368",
                               "name":  "金像電",
                               "ticker":  "2368.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "entryPrice":  962,
                               "close5d":  962,
@@ -14341,12 +14342,12 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  971.62,
-                              "support":  942.76,
+                              "target":  901.31,
+                              "support":  933.14,
                               "maxHigh20d":  981,
                               "minLow20d":  936,
                               "targetHit20d":  true,
-                              "supportBreak20d":  true,
+                              "supportBreak20d":  false,
                               "daysAvailable":  1
                           },
                           {
@@ -14354,8 +14355,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2367",
                               "name":  "燿華",
                               "ticker":  "2367.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "entryPrice":  71.3,
                               "close5d":  71.3,
@@ -14364,8 +14365,8 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  72.01,
-                              "support":  69.87,
+                              "target":  67.47,
+                              "support":  69.16,
                               "maxHigh20d":  75.5,
                               "minLow20d":  68.9,
                               "targetHit20d":  true,
@@ -14387,8 +14388,8 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  49.59,
-                              "support":  48.12,
+                              "target":  50.09,
+                              "support":  47.63,
                               "maxHigh20d":  50.2,
                               "minLow20d":  48.4,
                               "targetHit20d":  true,
@@ -14400,8 +14401,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2347",
                               "name":  "聯強",
                               "ticker":  "2347.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "entryPrice":  77,
                               "close5d":  77,
@@ -14410,8 +14411,8 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  77.77,
-                              "support":  75.46,
+                              "target":  74.01,
+                              "support":  74.69,
                               "maxHigh20d":  77.9,
                               "minLow20d":  75.6,
                               "targetHit20d":  true,
@@ -14423,8 +14424,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "2345",
                               "name":  "智邦",
                               "ticker":  "2345.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "entryPrice":  1565,
                               "close5d":  1565,
@@ -14433,8 +14434,8 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  1580.65,
-                              "support":  1533.7,
+                              "target":  1536.38,
+                              "support":  1518.05,
                               "maxHigh20d":  1610,
                               "minLow20d":  1535,
                               "targetHit20d":  true,
@@ -14456,8 +14457,8 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  108.58,
-                              "support":  105.35,
+                              "target":  109.25,
+                              "support":  104.27,
                               "maxHigh20d":  109.5,
                               "minLow20d":  103.5,
                               "targetHit20d":  true,
@@ -14479,11 +14480,11 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  27.27,
-                              "support":  26.46,
+                              "target":  27.86,
+                              "support":  26.19,
                               "maxHigh20d":  27.3,
                               "minLow20d":  26.8,
-                              "targetHit20d":  true,
+                              "targetHit20d":  false,
                               "supportBreak20d":  false,
                               "daysAvailable":  1
                           },
@@ -14502,11 +14503,11 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  96.25,
-                              "support":  93.39,
+                              "target":  97.84,
+                              "support":  92.44,
                               "maxHigh20d":  96.8,
                               "minLow20d":  87.7,
-                              "targetHit20d":  true,
+                              "targetHit20d":  false,
                               "supportBreak20d":  true,
                               "daysAvailable":  1
                           },
@@ -14525,8 +14526,8 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  15.99,
-                              "support":  13.96,
+                              "target":  17.38,
+                              "support":  13.82,
                               "maxHigh20d":  15.8,
                               "minLow20d":  14.25,
                               "targetHit20d":  false,
@@ -14548,11 +14549,11 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  9.57,
-                              "support":  9.29,
+                              "target":  9.81,
+                              "support":  9.2,
                               "maxHigh20d":  9.75,
                               "minLow20d":  9.47,
-                              "targetHit20d":  true,
+                              "targetHit20d":  false,
                               "supportBreak20d":  false,
                               "daysAvailable":  1
                           },
@@ -14571,11 +14572,11 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  44.44,
-                              "support":  43.12,
+                              "target":  45.48,
+                              "support":  42.68,
                               "maxHigh20d":  45,
                               "minLow20d":  43.95,
-                              "targetHit20d":  true,
+                              "targetHit20d":  false,
                               "supportBreak20d":  false,
                               "daysAvailable":  1
                           },
@@ -14584,8 +14585,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "1710",
                               "name":  "東聯",
                               "ticker":  "1710.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "strong_buy",
+                              "signalLabel":  "強力買入",
                               "pool":  "MAIN",
                               "entryPrice":  15.7,
                               "close5d":  15.7,
@@ -14594,12 +14595,12 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  16.23,
-                              "support":  15.39,
+                              "target":  17.64,
+                              "support":  15.23,
                               "maxHigh20d":  16.85,
                               "minLow20d":  15.35,
-                              "targetHit20d":  true,
-                              "supportBreak20d":  true,
+                              "targetHit20d":  false,
+                              "supportBreak20d":  false,
                               "daysAvailable":  1
                           },
                           {
@@ -14607,8 +14608,8 @@ window.STOCK_AI_BACKTEST = {
                               "code":  "1721",
                               "name":  "三晃",
                               "ticker":  "1721.TW",
-                              "signalKey":  "watch",
-                              "signalLabel":  "觀察",
+                              "signalKey":  "conservative",
+                              "signalLabel":  "保守",
                               "pool":  "MAIN",
                               "entryPrice":  18.05,
                               "close5d":  18.05,
@@ -14617,8 +14618,8 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  18.23,
-                              "support":  17.69,
+                              "target":  17.35,
+                              "support":  17.51,
                               "maxHigh20d":  18.8,
                               "minLow20d":  18,
                               "targetHit20d":  true,
@@ -14640,11 +14641,11 @@ window.STOCK_AI_BACKTEST = {
                               "ret5d":  0,
                               "ret20d":  0,
                               "retLatest":  0,
-                              "target":  7.74,
-                              "support":  7.51,
+                              "target":  8.09,
+                              "support":  7.43,
                               "maxHigh20d":  7.95,
                               "minLow20d":  7.63,
-                              "targetHit20d":  true,
+                              "targetHit20d":  false,
                               "supportBreak20d":  false,
                               "daysAvailable":  1
                           }
@@ -14662,7 +14663,7 @@ window.STOCK_AI_INTRADAY = {
 
 
 window.STOCK_AI_UNIVERSE = {
-    "generatedAt":  "2026-03-23 21:14:55 +08:00",
+    "generatedAt":  "2026-03-23 23:29:35 +08:00",
     "totalCount":  2099,
     "stocks":  [
                    {
@@ -20669,7 +20670,7 @@ window.STOCK_AI_UNIVERSE = {
                        "ret5d":  -0.0655,
                        "ret20d":  -0.1441,
                        "volRatio":  1.66,
-                       "inCandidates":  true
+                       "inCandidates":  false
                    },
                    {
                        "code":  "9944",
@@ -20695,7 +20696,7 @@ window.STOCK_AI_UNIVERSE = {
                        "ret5d":  -0.065,
                        "ret20d":  -0.0456,
                        "volRatio":  1.08,
-                       "inCandidates":  false
+                       "inCandidates":  true
                    },
                    {
                        "code":  "9938",
@@ -34098,7 +34099,7 @@ window.STOCK_AI_UNIVERSE = {
                        "ret5d":  -0.045,
                        "ret20d":  -0.0969,
                        "volRatio":  1.06,
-                       "inCandidates":  false
+                       "inCandidates":  true
                    },
                    {
                        "code":  "1477",
@@ -34553,7 +34554,7 @@ window.STOCK_AI_UNIVERSE = {
                        "ret5d":  -0.0275,
                        "ret20d":  -0.1196,
                        "volRatio":  1.21,
-                       "inCandidates":  true
+                       "inCandidates":  false
                    },
                    {
                        "code":  "009811",
@@ -41956,12 +41957,65 @@ window.STOCK_AI_UNIVERSE = {
 };
 
 
+window.STOCK_AI_LLM = {
+    "generatedAt":  "2026-03-23 23:30:23 +08:00",
+    "provider":  "rule_fallback",
+    "marketSummary":  {
+                          "text":  "市場中性，適合以 RR 與回測品質做細部篩選。 整體風險偏好介於中間。 近期短線回測偏弱。 今日強力買入候選偏多。",
+                          "source":  "rule_fallback"
+                      },
+    "stockCommentary":  {
+                            "1304":  {
+                                         "text":  "訊號偏強，可列入優先觀察名單。 風報比不錯。 近期量能放大明顯。 短線條件偏強。 籌碼面相對有利。 建議部位約 15% 。 歷史回測偏穩健。",
+                                         "source":  "rule_fallback"
+                                     },
+                            "6438":  {
+                                         "text":  "訊號偏強，可列入優先觀察名單。 風報比不錯。 潛在空間較大。 近期量能放大明顯。 短線條件偏強。 籌碼面相對有利。 建議部位約 15% 。 歷史波動偏高。",
+                                         "source":  "rule_fallback"
+                                     },
+                            "2369":  {
+                                         "text":  "訊號偏強，可列入優先觀察名單。 風報比不錯。 潛在空間較大。 近期量能放大明顯。 短線條件偏強。 建議部位約 15% 。 歷史波動偏高。",
+                                         "source":  "rule_fallback"
+                                     },
+                            "2323":  {
+                                         "text":  "訊號偏強，可列入優先觀察名單。 風報比不錯。 潛在空間較大。 近期量能放大明顯。 短線條件偏強。 建議部位約 15% 。",
+                                         "source":  "rule_fallback"
+                                     },
+                            "6672":  {
+                                         "text":  "訊號偏強，可列入優先觀察名單。 風報比不錯。 潛在空間較大。 近期量能放大明顯。 短線條件偏強。 建議部位約 15% 。 歷史波動偏高。",
+                                         "source":  "rule_fallback"
+                                     },
+                            "2388":  {
+                                         "text":  "訊號偏強，可列入優先觀察名單。 風報比不錯。 潛在空間較大。 近期量能放大明顯。 籌碼面相對有利。 建議部位約 15% 。 歷史波動偏高。",
+                                         "source":  "rule_fallback"
+                                     },
+                            "3023":  {
+                                         "text":  "訊號偏強，可列入優先觀察名單。 近期量能放大明顯。 短線條件偏強。 籌碼面相對有利。 建議部位約 15% 。 歷史回測偏穩健。",
+                                         "source":  "rule_fallback"
+                                     },
+                            "1308":  {
+                                         "text":  "訊號偏強，可列入優先觀察名單。 風報比不錯。 近期量能放大明顯。 短線條件偏強。 建議部位約 15% 。 歷史波動偏高。",
+                                         "source":  "rule_fallback"
+                                     },
+                            "4991":  {
+                                         "text":  "條件尚可，較適合觀察等待更佳切入點。 潛在空間較大。 近期量能放大明顯。 短線條件偏強。 建議部位約 8% 。 歷史波動偏高。",
+                                         "source":  "rule_fallback"
+                                     },
+                            "8155":  {
+                                         "text":  "條件尚可，較適合觀察等待更佳切入點。 潛在空間較大。 近期量能放大明顯。 短線條件偏強。 建議部位約 8% 。 歷史波動偏高。",
+                                         "source":  "rule_fallback"
+                                     }
+                        }
+};
+
+
 </script>
 <script>
 const data = window.STOCK_AI_DATA || { generatedAt: "", marketMode: "", marketHeat: null, summary: {}, topPicks: [], stocks: [] };
 const backtest = window.STOCK_AI_BACKTEST || { generatedAt: "", summary: {}, summaryByCode: [], recentRecords: [] };
 const intraday = window.STOCK_AI_INTRADAY || { generatedAt: "", count: 0, byCode: {} };
 const universeLookup = window.STOCK_AI_UNIVERSE || { generatedAt: "", totalCount: 0, stocks: [] };
+const llmData = window.STOCK_AI_LLM || { generatedAt: "", provider: "", marketSummary: { text: "" }, stockCommentary: {} };
 
 const filters = [
     { key: "all", label: "全部" },
@@ -42266,6 +42320,7 @@ function renderLookup() {
                         <div class="meta-chip"><span>近2年低</span><strong>${formatNumber(stock.low2y)}</strong></div>
                     </div>
                     ${renderInlineBacktest(stock.code)}
+                    ${renderStockAiCommentary(stock.code)}
                     <div class="tiny-note">AI 分數 ${formatNumber(stock.aiScore)} | Pred5D ${formatNumber(stock.pred5dScore)} | 籌碼趨勢 ${formatNumber(stock.chipTrendScore)}${stock.inCandidates ? " | 今日候選" : ""}</div>
                 </div>
             </details>
@@ -42288,6 +42343,33 @@ function renderInlineBacktest(code) {
         <div class="tiny-note">${getStockBacktestAssessment(item)}</div>
     `;
 }
+function escapeHtml(value) {
+    return String(value ?? "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/\"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+}
+function renderMarketAiSummary() {
+    const el = document.getElementById("marketAiSummary");
+    if (!el) return;
+    const text = llmData?.marketSummary?.text || "";
+    if (!text) {
+        el.textContent = "";
+        el.style.display = "none";
+        return;
+    }
+    el.style.display = "block";
+    el.textContent = `AI 市場解讀：${text}`;
+}
+
+function renderStockAiCommentary(code) {
+    const text = llmData?.stockCommentary?.[String(code)]?.text || "";
+    if (!text) return "";
+    return `<div class="tiny-note">AI 評語：${escapeHtml(text)}</div>`;
+}
+
 function renderLookupAdvancedMetrics() {
     return "";
 }
@@ -42329,6 +42411,7 @@ function renderStocks() {
                         <div class="meta-chip"><span>近2年低</span><strong>${formatNumber(stock.low2y)}</strong></div>
                     </div>
                     ${renderInlineBacktest(stock.code)}
+                    ${renderStockAiCommentary(stock.code)}
                     <div class="tiny-note">AI 分數 ${formatNumber(stock.aiScore)} | Pred5D ${formatNumber(stock.pred5dScore)} | 籌碼趨勢 ${formatNumber(stock.chipTrendScore)}${stock.intradayUpdated ? " | 已套用盤中即時價" : ""}</div>
                 </div>
             </details>
@@ -42539,6 +42622,7 @@ document.getElementById("searchInput").addEventListener("input", event => {
     await initRefreshUi();
     applyIntradayOverlay();
     renderSummary();
+    renderMarketAiSummary();
     renderLookup();
     renderFilters();
     renderStocks();
@@ -42547,6 +42631,11 @@ document.getElementById("searchInput").addEventListener("input", event => {
 </script>
 </body>
 </html>
+
+
+
+
+
 
 
 
