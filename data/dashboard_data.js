@@ -1,5 +1,5 @@
 ﻿window.STOCK_AI_DATA = {
-    "generatedAt":  "2026-04-21 19:42:52 +08:00",
+    "generatedAt":  "2026-04-21 20:41:31 +08:00",
     "marketMode":  "NEUTRAL",
     "marketHeat":  0.0097,
     "summary":  {
