@@ -1,5 +1,6 @@
 ﻿{
-    "generatedAt":  "2026-04-21 20:46:45 +08:00",
+    "generatedAt":  "2026-06-21 17:31:18 +08:00",
+    "buildToken":  "20260621173022509",
     "siteTitle":  "AI Stock Hosted Site",
     "homepage":  "index.html",
     "v18Page":  "v18_dashboard.html",
@@ -37,12 +38,23 @@
                       "data/dashboard_data.js",
                       "data/backtest_data.js",
                       "data/full_chain_backtest.js",
+                      "data/full_chain_backtest_execution_v3.js",
+                      "data/recent_winner_coverage.js",
+                      "data/winner_precursor_report.js",
+                      "data/leader_trend_v22_validation.js",
+                      "data/leader_trend_v22_continuation_validation.js",
                       "data/intraday_overlay.js",
                       "data/intraday_dispatch_overlay.js",
                       "data/daily_data_quality_report.js",
+                      "data/monitor_summary.js",
+                      "data/monitor_feedback_summary.js",
+                      "data/monitor_policy_rules_summary.js",
+                      "data/policy_effectiveness_summary.js",
                       "data/dispatch_queue.js",
                       "data/explosion_candidate_scores.js",
                       "data/universe_lookup.js",
+                      "data/universe_lookup_summary.js",
+                      "data/universe_lookup_detail.js",
                       "data/llm_summary.js"
                   ]
 }
